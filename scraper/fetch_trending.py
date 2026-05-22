@@ -315,7 +315,8 @@ def generate_static_html():
     import html as _html
     
     SITE_DIR = OUTPUT_DIR.parent
-    INDEX_TEMPLATE = SITE_DIR / "index.html"
+    INDEX_TEMPLATE = SITE_DIR / "index.template.html"
+    INDEX_OUTPUT = SITE_DIR / "index.html"
     
     # Collect all posts
     all_posts = []
@@ -373,7 +374,7 @@ def generate_static_html():
     html = html.replace("{{top_stars}}", top_stars or "—")
     html = html.replace("{{post_cards}}", "\n    ".join(cards))
     
-    with open(INDEX_TEMPLATE, "w") as f:
+    with open(INDEX_OUTPUT, "w") as f:
         f.write(html)
     
     print(f"🌐 Generated index.html with {post_count} post cards")
