@@ -7,7 +7,7 @@
       "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "lang": "Python",
       "stars_today": "2,556 stars today",
-      "total_stars": "24,296",
+      "total_stars": "24,297",
       "forks": "2,731"
     },
     {
@@ -16,8 +16,8 @@
       "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "lang": "TypeScript",
       "stars_today": "3,688 stars today",
-      "total_stars": "16,059",
-      "forks": "882"
+      "total_stars": "16,060",
+      "forks": "883"
     },
     {
       "name": "ruvnet/RuView",
@@ -25,7 +25,7 @@
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "lang": "Rust",
       "stars_today": "992 stars today",
-      "total_stars": "63,745",
+      "total_stars": "63,747",
       "forks": "8,431"
     },
     {
@@ -44,7 +44,7 @@
       "lang": "TypeScript",
       "stars_today": "499 stars today",
       "total_stars": "40,866",
-      "forks": "2,590"
+      "forks": "2,591"
     },
     {
       "name": "dotnet/skills",
@@ -61,7 +61,7 @@
       "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "lang": "TypeScript",
       "stars_today": "1,391 stars today",
-      "total_stars": "18,027",
+      "total_stars": "18,029",
       "forks": "1,637"
     },
     {
@@ -88,7 +88,7 @@
       "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "lang": "Unknown",
       "stars_today": "964 stars today",
-      "total_stars": "223,038",
+      "total_stars": "223,039",
       "forks": "13,374"
     },
     {
@@ -97,7 +97,7 @@
       "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "lang": "Python",
       "stars_today": "337 stars today",
-      "total_stars": "22,480",
+      "total_stars": "22,481",
       "forks": "3,114"
     },
     {
@@ -115,7 +115,7 @@
       "desc": "A feature-rich command-line audio/video downloader",
       "lang": "Python",
       "stars_today": "335 stars today",
-      "total_stars": "164,129",
+      "total_stars": "164,130",
       "forks": "13,802"
     },
     {
@@ -128,6 +128,6 @@
       "forks": "3,233"
     }
   ],
-  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-05-22  |  🔍 共收录 14 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 4 | **Unknown**: 2 | **Rust**: 1 | **C#**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Official, Anthropic-managed directory of high quality Claude...  听起来像个周末项目，但它已经有 24,296 总星了。周末项目，认真的吗？\n\n⭐ 2,556 stars today | 📦 总星 24,296 | 🍴 2,731 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 2. colbymchenry/codegraph\n\n**colbymchenry/codegraph** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and O... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 3,688 stars today | 📦 总星 16,059 | 🍴 882 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 3. ruvnet/RuView\n\n**ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial...  听起来像个周末项目，但它已经有 63,745 总星了。周末项目，认真的吗？\n\n⭐ 992 stars today | 📦 总星 63,745 | 🍴 8,431 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 4. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — 用 Python 写就。今天获得了 988 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 988 stars today | 📦 总星 11,505 | 🍴 2,200 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 5. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — Chrome DevTools for coding agents...  听起来像个周末项目，但它已经有 40,866 总星了。周末项目，认真的吗？\n\n⭐ 499 stars today | 📦 总星 40,866 | 🍴 2,590 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 6. dotnet/skills\n\n**dotnet/skills** — Repository for skills to assist AI coding agents with .NET and C#... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 391 stars today | 📦 总星 2,448 | 🍴 193 | 💻 C#\n[🔗 查看项目](https://github.com/dotnet/skills)\n\n### 7. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** — Graphs that teach > graphs that impress. Turn any code into an interactive knowl...  1,391 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,391 stars today | 📦 总星 18,027 | 🍴 1,637 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 8. odoo/odoo\n\n**odoo/odoo** — Odoo. Open Source Apps To Grow Your Business....  听起来像个周末项目，但它已经有 51,013 总星了。周末项目，认真的吗？\n\n⭐ 48 stars today | 📦 总星 51,013 | 🍴 32,507 | 💻 Python\n[🔗 查看项目](https://github.com/odoo/odoo)\n\n### 9. byJoey/cfnew\n\n**byJoey/cfnew** — ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 85 stars today | 📦 总星 13,256 | 🍴 6,472 | 💻 Unknown\n[🔗 查看项目](https://github.com/byJoey/cfnew)\n\n### 10. trimstray/the-book-of-secret-knowledge\n\n**trimstray/the-book-of-secret-knowledge** — Unknown 写的，当然好（不是）。A collection of inspiring lists, manuals, cheatsheets, blogs...  964 stars today 人表示「先 star 为敬」。\n\n⭐ 964 stars today | 📦 总星 223,038 | 🍴 13,374 | 💻 Unknown\n[🔗 查看项目](https://github.com/trimstray/the-book-of-secret-knowledge)\n\n---\n\n## 🫡 荣誉提名\n\n- **Fincept-Corporation/FinceptTerminal** — FinceptTerminal is a modern finance application offering advanced market analyti...  ⭐ 337 stars today\n- **can1357/oh-my-pi** — ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness...  ⭐ 455 stars today\n- **yt-dlp/yt-dlp** — A feature-rich command-line audio/video downloader  ⭐ 335 stars today\n- **karpathy/nn-zero-to-hero** — Neural Networks: Zero to Hero  ⭐ 93 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
-  "generated_at": "2026-05-22T17:05:17.772015+00:00"
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-05-22：claude-plugins-official 让 2,556 stars today 个开发者点了收藏\n\n> 📅 2026-05-22  |  🔍 共收录 14 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 4 | **Unknown**: 2 | **Rust**: 1 | **C#**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Official, Anthropic-managed directory of high quality Claude Code Plug... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,556 stars today | 📦 总星 24,297 | 🍴 2,731 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 2. colbymchenry/codegraph\n\n**colbymchenry/codegraph** — TypeScript 写的，当然好（不是）。Pre-indexed code knowledge graph for Claude Code, Codex, Cur...  3,688 stars today 人表示「先 star 为敬」。\n\n⭐ 3,688 stars today | 📦 总星 16,060 | 🍴 883 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 3. ruvnet/RuView\n\n**ruvnet/RuView** — Rust 写的，当然好（不是）。π RuView turns commodity WiFi signals into real-time spatial...  992 stars today 人表示「先 star 为敬」。\n\n⭐ 992 stars today | 📦 总星 63,747 | 🍴 8,431 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 4. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others....  听起来像个周末项目，但它已经有 11,505 总星了。周末项目，认真的吗？\n\n⭐ 988 stars today | 📦 总星 11,505 | 🍴 2,200 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 5. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — Chrome DevTools for coding agents...  499 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 499 stars today | 📦 总星 40,866 | 🍴 2,591 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 6. dotnet/skills\n\n**dotnet/skills** — C# 写的，当然好（不是）。Repository for skills to assist AI coding agents with .NET a...  391 stars today 人表示「先 star 为敬」。\n\n⭐ 391 stars today | 📦 总星 2,448 | 🍴 193 | 💻 C#\n[🔗 查看项目](https://github.com/dotnet/skills)\n\n### 7. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** — TypeScript 写的，当然好（不是）。Graphs that teach > graphs that impress. Turn any code into ...  1,391 stars today 人表示「先 star 为敬」。\n\n⭐ 1,391 stars today | 📦 总星 18,029 | 🍴 1,637 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 8. odoo/odoo\n\n**odoo/odoo** — Odoo. Open Source Apps To Grow Your Business....  48 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 48 stars today | 📦 总星 51,013 | 🍴 32,507 | 💻 Python\n[🔗 查看项目](https://github.com/odoo/odoo)\n\n### 9. byJoey/cfnew\n\n**byJoey/cfnew** — ...  听起来像个周末项目，但它已经有 13,256 总星了。周末项目，认真的吗？\n\n⭐ 85 stars today | 📦 总星 13,256 | 🍴 6,472 | 💻 Unknown\n[🔗 查看项目](https://github.com/byJoey/cfnew)\n\n### 10. trimstray/the-book-of-secret-knowledge\n\n**trimstray/the-book-of-secret-knowledge** — A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,...  964 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 964 stars today | 📦 总星 223,039 | 🍴 13,374 | 💻 Unknown\n[🔗 查看项目](https://github.com/trimstray/the-book-of-secret-knowledge)\n\n---\n\n## 🫡 荣誉提名\n\n- **Fincept-Corporation/FinceptTerminal** — FinceptTerminal is a modern finance application offering advanced market analyti...  ⭐ 337 stars today\n- **can1357/oh-my-pi** — ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness...  ⭐ 455 stars today\n- **yt-dlp/yt-dlp** — A feature-rich command-line audio/video downloader  ⭐ 335 stars today\n- **karpathy/nn-zero-to-hero** — Neural Networks: Zero to Hero  ⭐ 93 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-22T17:06:42.870877+00:00"
 }
