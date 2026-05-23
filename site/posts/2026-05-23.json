@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-23",
+  "repos": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "2,549 stars today",
+      "total_stars": "25,217",
+      "forks": "2,781"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "lang": "TypeScript",
+      "stars_today": "3,684 stars today",
+      "total_stars": "16,917",
+      "forks": "936"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "978 stars today",
+      "total_stars": "64,134",
+      "forks": "8,471"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "988 stars today",
+      "total_stars": "12,155",
+      "forks": "2,300"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "501 stars today",
+      "total_stars": "41,045",
+      "forks": "2,610"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_today": "389 stars today",
+      "total_stars": "2,575",
+      "forks": "202"
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "lang": "TypeScript",
+      "stars_today": "1,393 stars today",
+      "total_stars": "18,970",
+      "forks": "1,718"
+    },
+    {
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "lang": "Python",
+      "stars_today": "79 stars today",
+      "total_stars": "51,186",
+      "forks": "32,517"
+    },
+    {
+      "name": "byJoey/cfnew",
+      "url": "https://github.com/byJoey/cfnew",
+      "desc": "",
+      "lang": "Unknown",
+      "stars_today": "87 stars today",
+      "total_stars": "13,338",
+      "forks": "6,487"
+    },
+    {
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "lang": "Unknown",
+      "stars_today": "969 stars today",
+      "total_stars": "223,290",
+      "forks": "13,389"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "lang": "Python",
+      "stars_today": "367 stars today",
+      "total_stars": "22,712",
+      "forks": "3,131"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "lang": "TypeScript",
+      "stars_today": "457 stars today",
+      "total_stars": "6,414",
+      "forks": "526"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "desc": "A feature-rich command-line audio/video downloader",
+      "lang": "Python",
+      "stars_today": "444 stars today",
+      "total_stars": "164,450",
+      "forks": "13,831"
+    },
+    {
+      "name": "karpathy/nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "desc": "Neural Networks: Zero to Hero",
+      "lang": "Jupyter Notebook",
+      "stars_today": "159 stars today",
+      "total_stars": "22,442",
+      "forks": "3,247"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-05-23\n\n> 📅 2026-05-23  |  🔍 共收录 14 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 4 | **Unknown**: 2 | **Rust**: 1 | **C#**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Official, Anthropic-managed directory of high quality Claude Code Plugins....  2,549 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,549 stars today | 📦 总星 25,217 | 🍴 2,781 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 2. colbymchenry/codegraph\n\n**colbymchenry/codegraph** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H...  3,684 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 3,684 stars today | 📦 总星 16,917 | 🍴 936 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 3. ruvnet/RuView\n\n**ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial...  听起来像个周末项目，但它已经有 64,134 总星了。周末项目，认真的吗？\n\n⭐ 978 stars today | 📦 总星 64,134 | 🍴 8,471 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 4. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others....  988 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 988 stars today | 📦 总星 12,155 | 🍴 2,300 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 5. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — Chrome DevTools for coding agents...  听起来像个周末项目，但它已经有 41,045 总星了。周末项目，认真的吗？\n\n⭐ 501 stars today | 📦 总星 41,045 | 🍴 2,610 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 6. dotnet/skills\n\n**dotnet/skills** — Repository for skills to assist AI coding agents with .NET and C#... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 389 stars today | 📦 总星 2,575 | 🍴 202 | 💻 C#\n[🔗 查看项目](https://github.com/dotnet/skills)\n\n### 7. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** — Graphs that teach > graphs that impress. Turn any code into an interac... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,393 stars today | 📦 总星 18,970 | 🍴 1,718 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 8. odoo/odoo\n\n**odoo/odoo** — Odoo. Open Source Apps To Grow Your Business....  听起来像个周末项目，但它已经有 51,186 总星了。周末项目，认真的吗？\n\n⭐ 79 stars today | 📦 总星 51,186 | 🍴 32,517 | 💻 Python\n[🔗 查看项目](https://github.com/odoo/odoo)\n\n### 9. byJoey/cfnew\n\n**byJoey/cfnew** — ...  听起来像个周末项目，但它已经有 13,338 总星了。周末项目，认真的吗？\n\n⭐ 87 stars today | 📦 总星 13,338 | 🍴 6,487 | 💻 Unknown\n[🔗 查看项目](https://github.com/byJoey/cfnew)\n\n### 10. trimstray/the-book-of-secret-knowledge\n\n**trimstray/the-book-of-secret-knowledge** — 如果你还没 star，那你可能错过了今天的船票。969 stars today 人已经上船了。\n\n⭐ 969 stars today | 📦 总星 223,290 | 🍴 13,389 | 💻 Unknown\n[🔗 查看项目](https://github.com/trimstray/the-book-of-secret-knowledge)\n\n---\n\n## 🫡 荣誉提名\n\n- **Fincept-Corporation/FinceptTerminal** — FinceptTerminal is a modern finance application offering advanced market analyti...  ⭐ 367 stars today\n- **can1357/oh-my-pi** — ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness...  ⭐ 457 stars today\n- **yt-dlp/yt-dlp** — A feature-rich command-line audio/video downloader  ⭐ 444 stars today\n- **karpathy/nn-zero-to-hero** — Neural Networks: Zero to Hero  ⭐ 159 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-23T04:26:40.789908+00:00"
+}
