@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-24",
+  "repos": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "lang": "TypeScript",
+      "stars_today": "2,299 stars today",
+      "total_stars": "22,182",
+      "forks": "1,970"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "2,193 stars today",
+      "total_stars": "26,654",
+      "forks": "2,867"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "lang": "TypeScript",
+      "stars_today": "2,456 stars today",
+      "total_stars": "19,998",
+      "forks": "1,115"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "1,521 stars today",
+      "total_stars": "14,005",
+      "forks": "2,611"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "lang": "Python",
+      "stars_today": "545 stars today",
+      "total_stars": "23,194",
+      "forks": "3,199"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "3,507 stars today",
+      "total_stars": "150,030",
+      "forks": "15,391"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_today": "266 stars today",
+      "total_stars": "2,778",
+      "forks": "209"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "435 stars today",
+      "total_stars": "41,387",
+      "forks": "2,624"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "281 stars today",
+      "total_stars": "7,568",
+      "forks": "1,017"
+    },
+    {
+      "name": "presenton/presenton",
+      "url": "https://github.com/presenton/presenton",
+      "desc": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+      "lang": "TypeScript",
+      "stars_today": "241 stars today",
+      "total_stars": "6,481",
+      "forks": "1,123"
+    },
+    {
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "lang": "TypeScript",
+      "stars_today": "410 stars today",
+      "total_stars": "32,028",
+      "forks": "3,866"
+    },
+    {
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "lang": "Unknown",
+      "stars_today": "628 stars today",
+      "total_stars": "223,935",
+      "forks": "13,429"
+    },
+    {
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "lang": "Python",
+      "stars_today": "386 stars today",
+      "total_stars": "51,533",
+      "forks": "32,532"
+    },
+    {
+      "name": "NVlabs/LongLive",
+      "url": "https://github.com/NVlabs/LongLive",
+      "desc": "LongLive 2.0: Infra - Long Video Gen",
+      "lang": "Python",
+      "stars_today": "94 stars today",
+      "total_stars": "1,864",
+      "forks": "170"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "desc": "A feature-rich command-line audio/video downloader",
+      "lang": "Python",
+      "stars_today": "759 stars today",
+      "total_stars": "165,050",
+      "forks": "13,863"
+    },
+    {
+      "name": "janestreet/magic-trace",
+      "url": "https://github.com/janestreet/magic-trace",
+      "desc": "magic-trace collects and displays high-resolution traces of what a process is doing",
+      "lang": "OCaml",
+      "stars_today": "68 stars today",
+      "total_stars": "5,910",
+      "forks": "182"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-05-24  |  🔍 共收录 16 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 5 | **Unknown**: 2 | **C#**: 1 | **OCaml**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** — 用 TypeScript 写就。今天获得了 2,299 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 2,299 stars today | 📦 总星 22,182 | 🍴 1,970 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 2. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Python 写的，当然好（不是）。Official, Anthropic-managed directory of high quality Claude...  2,193 stars today 人表示「先 star 为敬」。\n\n⭐ 2,193 stars today | 📦 总星 26,654 | 🍴 2,867 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 3. colbymchenry/codegraph\n\n**colbymchenry/codegraph** 今天拿了 2,456 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,456 stars today | 📦 总星 19,998 | 🍴 1,115 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 4. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Python 写的，当然好（不是）。Learn it. Build it. Ship it for others....  1,521 stars today 人表示「先 star 为敬」。\n\n⭐ 1,521 stars today | 📦 总星 14,005 | 🍴 2,611 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 5. Fincept-Corporation/FinceptTerminal\n\n**Fincept-Corporation/FinceptTerminal** — Python 写的，当然好（不是）。FinceptTerminal is a modern finance application offering adv...  545 stars today 人表示「先 star 为敬」。\n\n⭐ 545 stars today | 📦 总星 23,194 | 🍴 3,199 | 💻 Python\n[🔗 查看项目](https://github.com/Fincept-Corporation/FinceptTerminal)\n\n### 6. multica-ai/andrej-karpathy-skills\n\n**multica-ai/andrej-karpathy-skills** — Unknown 写的，当然好（不是）。A single CLAUDE.md file to improve Claude Code behavior, der...  3,507 stars today 人表示「先 star 为敬」。\n\n⭐ 3,507 stars today | 📦 总星 150,030 | 🍴 15,391 | 💻 Unknown\n[🔗 查看项目](https://github.com/multica-ai/andrej-karpathy-skills)\n\n### 7. dotnet/skills\n\n**dotnet/skills** — 用 C# 写就。今天获得了 266 stars today 颗星，证明 C# 还活着且活得挺好。\n\n⭐ 266 stars today | 📦 总星 2,778 | 🍴 209 | 💻 C#\n[🔗 查看项目](https://github.com/dotnet/skills)\n\n### 8. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — 如果你还没 star，那你可能错过了今天的船票。435 stars today 人已经上船了。\n\n⭐ 435 stars today | 📦 总星 41,387 | 🍴 2,624 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 9. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** 今天拿了 281 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 281 stars today | 📦 总星 7,568 | 🍴 1,017 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 10. presenton/presenton\n\n**presenton/presenton** — 用 TypeScript 写就。今天获得了 241 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 241 stars today | 📦 总星 6,481 | 🍴 1,123 | 💻 TypeScript\n[🔗 查看项目](https://github.com/presenton/presenton)\n\n---\n\n## 🫡 荣誉提名\n\n- **multica-ai/multica** — The open-source managed agents platform. Turn coding agents into real teammates ...  ⭐ 410 stars today\n- **trimstray/the-book-of-secret-knowledge** — A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,...  ⭐ 628 stars today\n- **odoo/odoo** — Odoo. Open Source Apps To Grow Your Business.  ⭐ 386 stars today\n- **NVlabs/LongLive** — LongLive 2.0: Infra - Long Video Gen  ⭐ 94 stars today\n- **yt-dlp/yt-dlp** — A feature-rich command-line audio/video downloader  ⭐ 759 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-24T04:48:48.951401+00:00"
+}
