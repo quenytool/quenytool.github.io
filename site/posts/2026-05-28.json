@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-28",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "lang": "Python",
+      "stars_today": "1,742 stars today",
+      "total_stars": "63,133",
+      "forks": "9,192"
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "lang": "TypeScript",
+      "stars_today": "4,465 stars today",
+      "total_stars": "40,664",
+      "forks": "3,249"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "lang": "Unknown",
+      "stars_today": "664 stars today",
+      "total_stars": "5,865",
+      "forks": "438"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "2,062 stars today",
+      "total_stars": "196,269",
+      "forks": "30,196"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "695 stars today",
+      "total_stars": "17,400",
+      "forks": "2,032"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "Shell",
+      "stars_today": "2,715 stars today",
+      "total_stars": "24,697",
+      "forks": "1,895"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "lang": "Python",
+      "stars_today": "211 stars today",
+      "total_stars": "22,100",
+      "forks": "2,357"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "401 stars today",
+      "total_stars": "26,961",
+      "forks": "4,667"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "886 stars today",
+      "total_stars": "11,123",
+      "forks": "1,262"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "lang": "TypeScript",
+      "stars_today": "519 stars today",
+      "total_stars": "47,424",
+      "forks": "6,733"
+    },
+    {
+      "name": "Chachamaru127/claude-code-harness",
+      "url": "https://github.com/Chachamaru127/claude-code-harness",
+      "desc": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "lang": "Shell",
+      "stars_today": "87 stars today",
+      "total_stars": "1,935",
+      "forks": "207"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "lang": "HTML",
+      "stars_today": "2,222 stars today",
+      "total_stars": "169,447",
+      "forks": "3,222"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,511 stars today",
+      "total_stars": "209,875",
+      "forks": "18,701"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "lang": "Unknown",
+      "stars_today": "1,163 stars today",
+      "total_stars": "47,126",
+      "forks": "4,950"
+    },
+    {
+      "name": "iii-hq/iii",
+      "url": "https://github.com/iii-hq/iii",
+      "desc": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "lang": "Rust",
+      "stars_today": "376 stars today",
+      "total_stars": "16,951",
+      "forks": "1,112"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "desc": "Curated list of the best free apps for PC and mobile",
+      "lang": "JavaScript",
+      "stars_today": "728 stars today",
+      "total_stars": "5,994",
+      "forks": "299"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_today": "72 stars today",
+      "total_stars": "40,298",
+      "forks": "4,048"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-05-28\n\n> 📅 2026-05-28  |  🔍 共收录 17 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 3 | **Shell**: 3 | **Unknown**: 2 | **JavaScript**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM....  1,742 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,742 stars today | 📦 总星 63,133 | 🍴 9,192 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 2. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** — Graphs that teach > graphs that impress. Turn any code into ...  听起来像个周末项目，但它已经有 40,664 总星了。周末项目，认真的吗？\n\n⭐ 4,465 stars today | 📦 总星 40,664 | 🍴 3,249 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 3. hardikpandya/stop-slop\n\n**hardikpandya/stop-slop** — A skill file for removing AI tells from prose...  664 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 664 stars today | 📦 总星 5,865 | 🍴 438 | 💻 Unknown\n[🔗 查看项目](https://github.com/hardikpandya/stop-slop)\n\n### 4. affaan-m/ECC\n\n**affaan-m/ECC** 今天拿了 2,062 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,062 stars today | 📦 总星 196,269 | 🍴 30,196 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 5. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — 如果你还没 star，那你可能错过了今天的船票。695 stars today 人已经上船了。\n\n⭐ 695 stars today | 📦 总星 17,400 | 🍴 2,032 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 6. Leonxlnx/taste-skill\n\n**Leonxlnx/taste-skill** 今天拿了 2,715 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,715 stars today | 📦 总星 24,697 | 🍴 1,895 | 💻 Shell\n[🔗 查看项目](https://github.com/Leonxlnx/taste-skill)\n\n### 7. p-e-w/heretic\n\n**p-e-w/heretic** 今天拿了 211 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 211 stars today | 📦 总星 22,100 | 🍴 2,357 | 💻 Python\n[🔗 查看项目](https://github.com/p-e-w/heretic)\n\n### 8. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** — Kronos: A Foundation Model for the Language of Financial Markets...  401 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 401 stars today | 📦 总星 26,961 | 🍴 4,667 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n### 9. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 如果你还没 star，那你可能错过了今天的船票。886 stars today 人已经上船了。\n\n⭐ 886 stars today | 📦 总星 11,123 | 🍴 1,262 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 10. twentyhq/twenty\n\n**twentyhq/twenty** — The open alternative to Salesforce, designed for AI....  听起来像个周末项目，但它已经有 47,424 总星了。周末项目，认真的吗？\n\n⭐ 519 stars today | 📦 总星 47,424 | 🍴 6,733 | 💻 TypeScript\n[🔗 查看项目](https://github.com/twentyhq/twenty)\n\n---\n\n## 🫡 荣誉提名\n\n- **Chachamaru127/claude-code-harness** — Claude Code Dedicated Development Harness - Achieving High-Quality Development T...  ⭐ 87 stars today\n- **DigitalPlatDev/FreeDomain** — DigitalPlat FreeDomain: Free Domain For Everyone  ⭐ 2,222 stars today\n- **obra/superpowers** — An agentic skills framework & software development methodology that works.  ⭐ 1,511 stars today\n- **byoungd/English-level-up-tips** — An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英...  ⭐ 1,163 stars today\n- **iii-hq/iii** — Effortlessly compose, extend, and observe every service in real-time for the fir...  ⭐ 376 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-28T04:52:33.069512+00:00"
+}
