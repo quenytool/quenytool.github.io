@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-29",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "lang": "Python",
+      "stars_today": "4,698 stars today",
+      "total_stars": "67,080",
+      "forks": "9,688"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,385 stars today",
+      "total_stars": "197,515",
+      "forks": "30,375"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "Shell",
+      "stars_today": "2,234 stars today",
+      "total_stars": "26,816",
+      "forks": "2,002"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "lang": "Unknown",
+      "stars_today": "761 stars today",
+      "total_stars": "6,530",
+      "forks": "473"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "lang": "TypeScript",
+      "stars_today": "493 stars today",
+      "total_stars": "47,965",
+      "forks": "6,802"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "lang": "HTML",
+      "stars_today": "1,761 stars today",
+      "total_stars": "170,928",
+      "forks": "3,301"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "lang": "Unknown",
+      "stars_today": "2,019 stars today",
+      "total_stars": "48,824",
+      "forks": "5,126"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "1,410 stars today",
+      "total_stars": "128,016",
+      "forks": "8,766"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,730 stars today",
+      "total_stars": "211,356",
+      "forks": "18,821"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "lang": "HTML",
+      "stars_today": "65 stars today",
+      "total_stars": "3,976",
+      "forks": "585"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "1,066 stars today",
+      "total_stars": "506,706",
+      "forks": "48,110"
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "lang": "TypeScript",
+      "stars_today": "3,776 stars today",
+      "total_stars": "43,200",
+      "forks": "3,455"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "lang": "Python",
+      "stars_today": "154 stars today",
+      "total_stars": "67,073",
+      "forks": "6,862"
+    },
+    {
+      "name": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "desc": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "lang": "Python",
+      "stars_today": "71 stars today",
+      "total_stars": "2,331",
+      "forks": "218"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "lang": "TypeScript",
+      "stars_today": "184 stars today",
+      "total_stars": "17,846",
+      "forks": "1,364"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "718 stars today",
+      "total_stars": "143,052",
+      "forks": "16,893"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：MoneyPrinterTurbo 爆火，Python 又双叒叕赢了\n\n> 📅 2026-05-29  |  🔍 共收录 16 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 3 | **Shell**: 2 | **Unknown**: 2 | **HTML**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 4,698 stars today | 📦 总星 67,080 | 🍴 9,688 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 2. affaan-m/ECC\n\n**affaan-m/ECC** — JavaScript 写的，当然好（不是）。The agent harness performance optimization system. Skills, i...  1,385 stars today 人表示「先 star 为敬」。\n\n⭐ 1,385 stars today | 📦 总星 197,515 | 🍴 30,375 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 3. Leonxlnx/taste-skill\n\n**Leonxlnx/taste-skill** — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen...  2,234 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,234 stars today | 📦 总星 26,816 | 🍴 2,002 | 💻 Shell\n[🔗 查看项目](https://github.com/Leonxlnx/taste-skill)\n\n### 4. hardikpandya/stop-slop\n\n**hardikpandya/stop-slop** — Unknown 写的，当然好（不是）。A skill file for removing AI tells from prose...  761 stars today 人表示「先 star 为敬」。\n\n⭐ 761 stars today | 📦 总星 6,530 | 🍴 473 | 💻 Unknown\n[🔗 查看项目](https://github.com/hardikpandya/stop-slop)\n\n### 5. twentyhq/twenty\n\n**twentyhq/twenty** 今天拿了 493 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 493 stars today | 📦 总星 47,965 | 🍴 6,802 | 💻 TypeScript\n[🔗 查看项目](https://github.com/twentyhq/twenty)\n\n### 6. DigitalPlatDev/FreeDomain\n\n**DigitalPlatDev/FreeDomain** 今天拿了 1,761 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,761 stars today | 📦 总星 170,928 | 🍴 3,301 | 💻 HTML\n[🔗 查看项目](https://github.com/DigitalPlatDev/FreeDomain)\n\n### 7. byoungd/English-level-up-tips\n\n**byoungd/English-level-up-tips** — Unknown 写的，当然好（不是）。An advanced guide to learn English which might benefit you a...  2,019 stars today 人表示「先 star 为敬」。\n\n⭐ 2,019 stars today | 📦 总星 48,824 | 🍴 5,126 | 💻 Unknown\n[🔗 查看项目](https://github.com/byoungd/English-level-up-tips)\n\n### 8. microsoft/markitdown\n\n**microsoft/markitdown** 今天拿了 1,410 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,410 stars today | 📦 总星 128,016 | 🍴 8,766 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 9. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodolo...  听起来像个周末项目，但它已经有 211,356 总星了。周末项目，认真的吗？\n\n⭐ 1,730 stars today | 📦 总星 211,356 | 🍴 18,821 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 10. revfactory/harness\n\n**revfactory/harness** 今天拿了 65 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 65 stars today | 📦 总星 3,976 | 🍴 585 | 💻 HTML\n[🔗 查看项目](https://github.com/revfactory/harness)\n\n---\n\n## 🫡 荣誉提名\n\n- **codecrafters-io/build-your-own-x** — Master programming by recreating your favorite technologies from scratch.  ⭐ 1,066 stars today\n- **Lum1104/Understand-Anything** — Graphs that teach > graphs that impress. Turn any code into an interactive knowl...  ⭐ 3,776 stars today\n- **unclecode/crawl4ai** — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join ...  ⭐ 154 stars today\n- **OpenMOSS/MOSS-TTS** — MOSS‑TTS Family is an open‑source speech and sound generation model family from ...  ⭐ 71 stars today\n- **EveryInc/compound-engineering-plugin** — Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more  ⭐ 184 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-29T04:54:47.346677+00:00"
+}
