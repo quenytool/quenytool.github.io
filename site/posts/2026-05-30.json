@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-30",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "lang": "Python",
+      "stars_today": "3,567 stars today",
+      "total_stars": "70,119",
+      "forks": "10,108"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "1,873 stars today",
+      "total_stars": "130,258",
+      "forks": "8,936"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "lang": "TypeScript",
+      "stars_today": "353 stars today",
+      "total_stars": "18,193",
+      "forks": "1,383"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "lang": "TypeScript",
+      "stars_today": "578 stars today",
+      "total_stars": "48,469",
+      "forks": "6,873"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "Python",
+      "stars_today": "395 stars today",
+      "total_stars": "127,964",
+      "forks": "20,921"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "Shell",
+      "stars_today": "2,062 stars today",
+      "total_stars": "28,344",
+      "forks": "2,094"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "134 stars today",
+      "total_stars": "1,321",
+      "forks": "113"
+    },
+    {
+      "name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "desc": "A fast, helpful, and open-source document parser",
+      "lang": "Rust",
+      "stars_today": "701 stars today",
+      "total_stars": "7,424",
+      "forks": "452"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "desc": "A platform for reproducible world model research and evaluation",
+      "lang": "Python",
+      "stars_today": "362 stars today",
+      "total_stars": "1,282",
+      "forks": "151"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "lang": "Unknown",
+      "stars_today": "1,566 stars today",
+      "total_stars": "49,723",
+      "forks": "5,209"
+    },
+    {
+      "name": "Biohub/esm",
+      "url": "https://github.com/Biohub/esm",
+      "desc": "",
+      "lang": "Jupyter Notebook",
+      "stars_today": "52 stars today",
+      "total_stars": "2,580",
+      "forks": "314"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "lang": "TypeScript",
+      "stars_today": "318 stars today",
+      "total_stars": "27,021",
+      "forks": "2,658"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "lang": "HTML",
+      "stars_today": "1,313 stars today",
+      "total_stars": "171,939",
+      "forks": "3,351"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,406 stars today",
+      "total_stars": "198,678",
+      "forks": "30,531"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "lang": "Unknown",
+      "stars_today": "617 stars today",
+      "total_stars": "7,075",
+      "forks": "496"
+    },
+    {
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "lang": "Jupyter Notebook",
+      "stars_today": "160 stars today",
+      "total_stars": "41,601",
+      "forks": "8,275"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "866 stars today",
+      "total_stars": "507,472",
+      "forks": "48,189"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-05-30\n\n> 📅 2026-05-30  |  🔍 共收录 17 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 4 | **Unknown**: 2 | **Jupyter Notebook**: 2 | **Shell**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using...  听起来像个周末项目，但它已经有 70,119 总星了。周末项目，认真的吗？\n\n⭐ 3,567 stars today | 📦 总星 70,119 | 🍴 10,108 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 2. microsoft/markitdown\n\n**microsoft/markitdown** — Python 写的，当然好（不是）。Python tool for converting files and office documents to Mar...  1,873 stars today 人表示「先 star 为敬」。\n\n⭐ 1,873 stars today | 📦 总星 130,258 | 🍴 8,936 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 3. EveryInc/compound-engineering-plugin\n\n**EveryInc/compound-engineering-plugin** — Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more...  353 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 353 stars today | 📦 总星 18,193 | 🍴 1,383 | 💻 TypeScript\n[🔗 查看项目](https://github.com/EveryInc/compound-engineering-plugin)\n\n### 4. twentyhq/twenty\n\n**twentyhq/twenty** — 如果你还没 star，那你可能错过了今天的船票。578 stars today 人已经上船了。\n\n⭐ 578 stars today | 📦 总星 48,469 | 🍴 6,873 | 💻 TypeScript\n[🔗 查看项目](https://github.com/twentyhq/twenty)\n\n### 5. anthropics/claude-code\n\n**anthropics/claude-code** — 如果你还没 star，那你可能错过了今天的船票。395 stars today 人已经上船了。\n\n⭐ 395 stars today | 📦 总星 127,964 | 🍴 20,921 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 6. Leonxlnx/taste-skill\n\n**Leonxlnx/taste-skill** — Shell 写的，当然好（不是）。Taste-Skill - gives your AI good taste. stops the AI from ge...  2,062 stars today 人表示「先 star 为敬」。\n\n⭐ 2,062 stars today | 📦 总星 28,344 | 🍴 2,094 | 💻 Shell\n[🔗 查看项目](https://github.com/Leonxlnx/taste-skill)\n\n### 7. cursor/plugins\n\n**cursor/plugins** — Cursor plugin specification and official plugins...  听起来像个周末项目，但它已经有 1,321 总星了。周末项目，认真的吗？\n\n⭐ 134 stars today | 📦 总星 1,321 | 🍴 113 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cursor/plugins)\n\n### 8. run-llama/liteparse\n\n**run-llama/liteparse** — 用 Rust 写就。今天获得了 701 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 701 stars today | 📦 总星 7,424 | 🍴 452 | 💻 Rust\n[🔗 查看项目](https://github.com/run-llama/liteparse)\n\n### 9. galilai-group/stable-worldmodel\n\n**galilai-group/stable-worldmodel** — 如果你还没 star，那你可能错过了今天的船票。362 stars today 人已经上船了。\n\n⭐ 362 stars today | 📦 总星 1,282 | 🍴 151 | 💻 Python\n[🔗 查看项目](https://github.com/galilai-group/stable-worldmodel)\n\n### 10. byoungd/English-level-up-tips\n\n**byoungd/English-level-up-tips** — 用 Unknown 写就。今天获得了 1,566 stars today 颗星，证明 Unknown 还活着且活得挺好。\n\n⭐ 1,566 stars today | 📦 总星 49,723 | 🍴 5,209 | 💻 Unknown\n[🔗 查看项目](https://github.com/byoungd/English-level-up-tips)\n\n---\n\n## 🫡 荣誉提名\n\n- **Biohub/esm** —   ⭐ 52 stars today\n- **Crosstalk-Solutions/project-nomad** — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr...  ⭐ 318 stars today\n- **DigitalPlatDev/FreeDomain** — DigitalPlat FreeDomain: Free Domain For Everyone  ⭐ 1,313 stars today\n- **affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, memory, se...  ⭐ 1,406 stars today\n- **hardikpandya/stop-slop** — A skill file for removing AI tells from prose  ⭐ 617 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-30T04:36:21.251925+00:00"
+}
