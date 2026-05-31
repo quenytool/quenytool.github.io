@@ -1,0 +1,178 @@
+{
+  "date": "2026-05-31",
+  "repos": [
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "2,470 stars today",
+      "total_stars": "132,824",
+      "forks": "9,089"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "lang": "Python",
+      "stars_today": "2,768 stars today",
+      "total_stars": "72,287",
+      "forks": "10,362"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "Python",
+      "stars_today": "592 stars today",
+      "total_stars": "128,472",
+      "forks": "20,953"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "205 stars today",
+      "total_stars": "1,487",
+      "forks": "119"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "lang": "HTML",
+      "stars_today": "55 stars today",
+      "total_stars": "4,320",
+      "forks": "629"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "lang": "TypeScript",
+      "stars_today": "349 stars today",
+      "total_stars": "18,454",
+      "forks": "1,393"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "908 stars today",
+      "total_stars": "199,464",
+      "forks": "30,623"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_today": "779 stars today",
+      "total_stars": "22,878",
+      "forks": "2,676"
+    },
+    {
+      "name": "galilai-group/stable-worldmodel",
+      "url": "https://github.com/galilai-group/stable-worldmodel",
+      "desc": "A platform for reproducible world model research and evaluation",
+      "lang": "Python",
+      "stars_today": "318 stars today",
+      "total_stars": "1,487",
+      "forks": "168"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "lang": "TypeScript",
+      "stars_today": "469 stars today",
+      "total_stars": "27,396",
+      "forks": "2,688"
+    },
+    {
+      "name": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "desc": "A fast, helpful, and open-source document parser",
+      "lang": "Rust",
+      "stars_today": "925 stars today",
+      "total_stars": "7,986",
+      "forks": "472"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "lang": "Dart",
+      "stars_today": "187 stars today",
+      "total_stars": "40,415",
+      "forks": "2,529"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "327 stars today",
+      "total_stars": "2,362",
+      "forks": "379"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "655 stars today",
+      "total_stars": "69,018",
+      "forks": "9,206"
+    },
+    {
+      "name": "DataTalksClub/data-engineering-zoomcamp",
+      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+      "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
+      "lang": "Jupyter Notebook",
+      "stars_today": "274 stars today",
+      "total_stars": "41,807",
+      "forks": "8,288"
+    },
+    {
+      "name": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "desc": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "lang": "Python",
+      "stars_today": "62 stars today",
+      "total_stars": "2,671",
+      "forks": "239"
+    },
+    {
+      "name": "dreammis/social-auto-upload",
+      "url": "https://github.com/dreammis/social-auto-upload",
+      "desc": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+      "lang": "Python",
+      "stars_today": "73 stars today",
+      "total_stars": "11,859",
+      "forks": "2,097"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "454 stars today",
+      "total_stars": "144,255",
+      "forks": "16,997"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "817 stars today",
+      "total_stars": "508,367",
+      "forks": "48,248"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-05-31：19 个项目今天值得你 star\n\n> 📅 2026-05-31  |  🔍 共收录 19 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **TypeScript**: 3 | **Rust**: 2 | **Jupyter Notebook**: 2 | **HTML**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. microsoft/markitdown\n\n**microsoft/markitdown** — 如果你还没 star，那你可能错过了今天的船票。2,470 stars today 人已经上船了。\n\n⭐ 2,470 stars today | 📦 总星 132,824 | 🍴 9,089 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 2. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM....  2,768 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,768 stars today | 📦 总星 72,287 | 🍴 10,362 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 3. anthropics/claude-code\n\n**anthropics/claude-code** — Claude Code is an agentic coding tool that lives in your terminal, understands y...  592 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 592 stars today | 📦 总星 128,472 | 🍴 20,953 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 4. cursor/plugins\n\n**cursor/plugins** — Cursor plugin specification and official plugins... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 205 stars today | 📦 总星 1,487 | 🍴 119 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cursor/plugins)\n\n### 5. revfactory/harness\n\n**revfactory/harness** — A meta-skill that designs domain-specific agent teams, defines specialized agent...  55 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 55 stars today | 📦 总星 4,320 | 🍴 629 | 💻 HTML\n[🔗 查看项目](https://github.com/revfactory/harness)\n\n### 6. EveryInc/compound-engineering-plugin\n\n**EveryInc/compound-engineering-plugin** — Official Compound Engineering plugin for Claude Code, Codex,...  听起来像个周末项目，但它已经有 18,454 总星了。周末项目，认真的吗？\n\n⭐ 349 stars today | 📦 总星 18,454 | 🍴 1,393 | 💻 TypeScript\n[🔗 查看项目](https://github.com/EveryInc/compound-engineering-plugin)\n\n### 7. affaan-m/ECC\n\n**affaan-m/ECC** — JavaScript 写的，当然好（不是）。The agent harness performance optimization system. Skills, i...  908 stars today 人表示「先 star 为敬」。\n\n⭐ 908 stars today | 📦 总星 199,464 | 🍴 30,623 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 8. OpenBMB/VoxCPM\n\n**OpenBMB/VoxCPM** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creati... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 779 stars today | 📦 总星 22,878 | 🍴 2,676 | 💻 Python\n[🔗 查看项目](https://github.com/OpenBMB/VoxCPM)\n\n### 9. galilai-group/stable-worldmodel\n\n**galilai-group/stable-worldmodel** — A platform for reproducible world model research and evaluat...  听起来像个周末项目，但它已经有 1,487 总星了。周末项目，认真的吗？\n\n⭐ 318 stars today | 📦 总星 1,487 | 🍴 168 | 💻 Python\n[🔗 查看项目](https://github.com/galilai-group/stable-worldmodel)\n\n### 10. Crosstalk-Solutions/project-nomad\n\n**Crosstalk-Solutions/project-nomad** — Project N.O.M.A.D, is a self-contained, offline survival com...  听起来像个周末项目，但它已经有 27,396 总星了。周末项目，认真的吗？\n\n⭐ 469 stars today | 📦 总星 27,396 | 🍴 2,688 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Crosstalk-Solutions/project-nomad)\n\n---\n\n## 🫡 荣誉提名\n\n- **run-llama/liteparse** — A fast, helpful, and open-source document parser  ⭐ 925 stars today\n- **chen08209/FlClash** — A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so...  ⭐ 187 stars today\n- **FareedKhan-dev/train-llm-from-scratch** — A straightforward method for training your LLM, from downloading data to generat...  ⭐ 327 stars today\n- **ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...  ⭐ 655 stars today\n- **DataTalksClub/data-engineering-zoomcamp** — Data Engineering Zoomcamp is a free 9-week course on building production-ready d...  ⭐ 274 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-31T05:06:17.806019+00:00"
+}
