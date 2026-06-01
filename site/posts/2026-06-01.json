@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-01",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "lang": "Python",
+      "stars_today": "1,937 stars today",
+      "total_stars": "75,091",
+      "forks": "10,680"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "2,798 stars today",
+      "total_stars": "135,627",
+      "forks": "9,261"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "lang": "Python",
+      "stars_today": "606 stars today",
+      "total_stars": "56,945",
+      "forks": "5,533"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "lang": "Python",
+      "stars_today": "357 stars today",
+      "total_stars": "10,189",
+      "forks": "1,386"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "lang": "TypeScript",
+      "stars_today": "251 stars today",
+      "total_stars": "18,791",
+      "forks": "1,414"
+    },
+    {
+      "name": "github/docs",
+      "url": "https://github.com/github/docs",
+      "desc": "The open-source repo for docs.github.com",
+      "lang": "TypeScript",
+      "stars_today": "27 stars today",
+      "total_stars": "19,781",
+      "forks": "67,293"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_today": "635 stars today",
+      "total_stars": "23,711",
+      "forks": "2,731"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "lang": "HTML",
+      "stars_today": "323 stars today",
+      "total_stars": "4,722",
+      "forks": "659"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "626 stars today",
+      "total_stars": "3,152",
+      "forks": "460"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "lang": "TypeScript",
+      "stars_today": "264 stars today",
+      "total_stars": "23,482",
+      "forks": "2,114"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "lang": "TypeScript",
+      "stars_today": "374 stars today",
+      "total_stars": "27,794",
+      "forks": "2,716"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "Python",
+      "stars_today": "489 stars today",
+      "total_stars": "129,062",
+      "forks": "21,011"
+    },
+    {
+      "name": "nicobailon/pi-subagents",
+      "url": "https://github.com/nicobailon/pi-subagents",
+      "desc": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+      "lang": "TypeScript",
+      "stars_today": "69 stars today",
+      "total_stars": "1,904",
+      "forks": "261"
+    },
+    {
+      "name": "emmabostian/developer-portfolios",
+      "url": "https://github.com/emmabostian/developer-portfolios",
+      "desc": "A list of developer portfolios for your inspiration",
+      "lang": "Python",
+      "stars_today": "73 stars today",
+      "total_stars": "23,494",
+      "forks": "4,619"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "1,158 stars today",
+      "total_stars": "509,567",
+      "forks": "48,336"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：MoneyPrinterTurbo 爆火，Python 又双叒叕赢了\n\n> 📅 2026-06-01  |  🔍 共收录 15 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 5 | **HTML**: 1 | **Jupyter Notebook**: 1 | **Markdown**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** 今天拿了 1,937 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,937 stars today | 📦 总星 75,091 | 🍴 10,680 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 2. microsoft/markitdown\n\n**microsoft/markitdown** — Python tool for converting files and office documents to Markdown.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,798 stars today | 📦 总星 135,627 | 🍴 9,261 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 3. D4Vinci/Scrapling\n\n**D4Vinci/Scrapling** — 🕷️ An adaptive Web Scraping framework that handles everything from a s... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 606 stars today | 📦 总星 56,945 | 🍴 5,533 | 💻 Python\n[🔗 查看项目](https://github.com/D4Vinci/Scrapling)\n\n### 4. nesquena/hermes-webui\n\n**nesquena/hermes-webui** — Hermes WebUI: The best way to use Hermes Agent from the web or from yo... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 357 stars today | 📦 总星 10,189 | 🍴 1,386 | 💻 Python\n[🔗 查看项目](https://github.com/nesquena/hermes-webui)\n\n### 5. EveryInc/compound-engineering-plugin\n\n**EveryInc/compound-engineering-plugin** — Official Compound Engineering plugin for Claude Code, Codex,...  听起来像个周末项目，但它已经有 18,791 总星了。周末项目，认真的吗？\n\n⭐ 251 stars today | 📦 总星 18,791 | 🍴 1,414 | 💻 TypeScript\n[🔗 查看项目](https://github.com/EveryInc/compound-engineering-plugin)\n\n### 6. github/docs\n\n**github/docs** — 如果你还没 star，那你可能错过了今天的船票。27 stars today 人已经上船了。\n\n⭐ 27 stars today | 📦 总星 19,781 | 🍴 67,293 | 💻 TypeScript\n[🔗 查看项目](https://github.com/github/docs)\n\n### 7. OpenBMB/VoxCPM\n\n**OpenBMB/VoxCPM** — Python 写的，当然好（不是）。VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...  635 stars today 人表示「先 star 为敬」。\n\n⭐ 635 stars today | 📦 总星 23,711 | 🍴 2,731 | 💻 Python\n[🔗 查看项目](https://github.com/OpenBMB/VoxCPM)\n\n### 8. revfactory/harness\n\n**revfactory/harness** 今天拿了 323 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 323 stars today | 📦 总星 4,722 | 🍴 659 | 💻 HTML\n[🔗 查看项目](https://github.com/revfactory/harness)\n\n### 9. FareedKhan-dev/train-llm-from-scratch\n\n**FareedKhan-dev/train-llm-from-scratch** — A straightforward method for training your LLM, from downloading data to generat...  626 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 626 stars today | 📦 总星 3,152 | 🍴 460 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/FareedKhan-dev/train-llm-from-scratch)\n\n### 10. supermemoryai/supermemory\n\n**supermemoryai/supermemory** — 用 TypeScript 写就。今天获得了 264 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 264 stars today | 📦 总星 23,482 | 🍴 2,114 | 💻 TypeScript\n[🔗 查看项目](https://github.com/supermemoryai/supermemory)\n\n---\n\n## 🫡 荣誉提名\n\n- **Crosstalk-Solutions/project-nomad** — Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr...  ⭐ 374 stars today\n- **anthropics/claude-code** — Claude Code is an agentic coding tool that lives in your terminal, understands y...  ⭐ 489 stars today\n- **nicobailon/pi-subagents** — Pi extension for async subagent delegation with truncation, artifacts, and sessi...  ⭐ 69 stars today\n- **emmabostian/developer-portfolios** — A list of developer portfolios for your inspiration  ⭐ 73 stars today\n- **codecrafters-io/build-your-own-x** — Master programming by recreating your favorite technologies from scratch.  ⭐ 1,158 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-01T05:27:04.982140+00:00"
+}
