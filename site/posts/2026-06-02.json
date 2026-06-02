@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-02",
+  "repos": [
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "3,034 stars today",
+      "total_stars": "139,092",
+      "forks": "9,468"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "lang": "Python",
+      "stars_today": "945 stars today",
+      "total_stars": "11,596",
+      "forks": "1,471"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "lang": "TypeScript",
+      "stars_today": "647 stars today",
+      "total_stars": "24,119",
+      "forks": "2,156"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "lang": "Python",
+      "stars_today": "3,375 stars today",
+      "total_stars": "77,124",
+      "forks": "10,945"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "lang": "Python",
+      "stars_today": "1,486 stars today",
+      "total_stars": "58,308",
+      "forks": "5,652"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "485 stars today",
+      "total_stars": "32,931",
+      "forks": "1,791"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "lang": "Python",
+      "stars_today": "249 stars today",
+      "total_stars": "23,101",
+      "forks": "2,469"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "lang": "TypeScript",
+      "stars_today": "417 stars today",
+      "total_stars": "19,173",
+      "forks": "1,431"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_today": "299 stars today",
+      "total_stars": "81,916",
+      "forks": "15,921"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "lang": "HTML",
+      "stars_today": "524 stars today",
+      "total_stars": "5,261",
+      "forks": "702"
+    },
+    {
+      "name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "lang": "C++",
+      "stars_today": "77 stars today",
+      "total_stars": "111,720",
+      "forks": "25,513"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "lang": "TypeScript",
+      "stars_today": "335 stars today",
+      "total_stars": "9,561",
+      "forks": "767"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_today": "888 stars today",
+      "total_stars": "24,438",
+      "forks": "2,815"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "861 stars today",
+      "total_stars": "3,830",
+      "forks": "524"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "93 stars today",
+      "total_stars": "17,966",
+      "forks": "5,193"
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "lang": "Rust",
+      "stars_today": "135 stars today",
+      "total_stars": "7,246",
+      "forks": "298"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "1,212 stars today",
+      "total_stars": "510,579",
+      "forks": "48,407"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-06-02：17 个项目今天值得你 star\n\n> 📅 2026-06-02  |  🔍 共收录 17 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 3 | **Jupyter Notebook**: 2 | **JavaScript**: 1 | **HTML**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. microsoft/markitdown\n\n**microsoft/markitdown** — Python tool for converting files and office documents to Mar...  听起来像个周末项目，但它已经有 139,092 总星了。周末项目，认真的吗？\n\n⭐ 3,034 stars today | 📦 总星 139,092 | 🍴 9,468 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 2. nesquena/hermes-webui\n\n**nesquena/hermes-webui** — 如果你还没 star，那你可能错过了今天的船票。945 stars today 人已经上船了。\n\n⭐ 945 stars today | 📦 总星 11,596 | 🍴 1,471 | 💻 Python\n[🔗 查看项目](https://github.com/nesquena/hermes-webui)\n\n### 3. supermemoryai/supermemory\n\n**supermemoryai/supermemory** 今天拿了 647 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 647 stars today | 📦 总星 24,119 | 🍴 2,156 | 💻 TypeScript\n[🔗 查看项目](https://github.com/supermemoryai/supermemory)\n\n### 4. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 用 Python 写就。今天获得了 3,375 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 3,375 stars today | 📦 总星 77,124 | 🍴 10,945 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 5. D4Vinci/Scrapling\n\n**D4Vinci/Scrapling** — 🕷️ An adaptive Web Scraping framework that handles everything from a s... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,486 stars today | 📦 总星 58,308 | 🍴 5,652 | 💻 Python\n[🔗 查看项目](https://github.com/D4Vinci/Scrapling)\n\n### 6. pbakaus/impeccable\n\n**pbakaus/impeccable** — 用 JavaScript 写就。今天获得了 485 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 485 stars today | 📦 总星 32,931 | 🍴 1,791 | 💻 JavaScript\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 7. p-e-w/heretic\n\n**p-e-w/heretic** — Python 写的，当然好（不是）。Fully automatic censorship removal for language models...  249 stars today 人表示「先 star 为敬」。\n\n⭐ 249 stars today | 📦 总星 23,101 | 🍴 2,469 | 💻 Python\n[🔗 查看项目](https://github.com/p-e-w/heretic)\n\n### 8. EveryInc/compound-engineering-plugin\n\n**EveryInc/compound-engineering-plugin** — 如果你还没 star，那你可能错过了今天的船票。417 stars today 人已经上船了。\n\n⭐ 417 stars today | 📦 总星 19,173 | 🍴 1,431 | 💻 TypeScript\n[🔗 查看项目](https://github.com/EveryInc/compound-engineering-plugin)\n\n### 9. TauricResearch/TradingAgents\n\n**TauricResearch/TradingAgents** — TradingAgents: Multi-Agents LLM Financial Trading Framework...  听起来像个周末项目，但它已经有 81,916 总星了。周末项目，认真的吗？\n\n⭐ 299 stars today | 📦 总星 81,916 | 🍴 15,921 | 💻 Python\n[🔗 查看项目](https://github.com/TauricResearch/TradingAgents)\n\n### 10. revfactory/harness\n\n**revfactory/harness** 今天拿了 524 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 524 stars today | 📦 总星 5,261 | 🍴 702 | 💻 HTML\n[🔗 查看项目](https://github.com/revfactory/harness)\n\n---\n\n## 🫡 荣誉提名\n\n- **godotengine/godot** — Godot Engine – Multi-platform 2D and 3D game engine  ⭐ 77 stars today\n- **can1357/oh-my-pi** — ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness...  ⭐ 335 stars today\n- **OpenBMB/VoxCPM** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D...  ⭐ 888 stars today\n- **FareedKhan-dev/train-llm-from-scratch** — A straightforward method for training your LLM, from downloading data to generat...  ⭐ 861 stars today\n- **stefan-jansen/machine-learning-for-trading** — Code for Machine Learning for Algorithmic Trading, 2nd edition.  ⭐ 93 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-02T05:13:34.659639+00:00"
+}
