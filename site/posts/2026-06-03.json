@@ -1,0 +1,106 @@
+{
+  "date": "2026-06-03",
+  "repos": [
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_today": "1,265 stars today",
+      "total_stars": "7,128",
+      "forks": "490"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "3,618 stars today",
+      "total_stars": "141,562",
+      "forks": "9,650"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,533 stars today",
+      "total_stars": "204,351",
+      "forks": "31,348"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "lang": "Python",
+      "stars_today": "1,182 stars today",
+      "total_stars": "59,383",
+      "forks": "5,732"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "lang": "Python",
+      "stars_today": "1,722 stars today",
+      "total_stars": "12,691",
+      "forks": "1,550"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "lang": "TypeScript",
+      "stars_today": "124 stars today",
+      "total_stars": "4,622",
+      "forks": "593"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_today": "783 stars today",
+      "total_stars": "25,275",
+      "forks": "2,888"
+    },
+    {
+      "name": "stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "574 stars today",
+      "total_stars": "18,603",
+      "forks": "5,233"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "30 stars today",
+      "total_stars": "6,463",
+      "forks": "1,493"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "lang": "TypeScript",
+      "stars_today": "680 stars today",
+      "total_stars": "24,767",
+      "forks": "2,187"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "lang": "Python",
+      "stars_today": "66 stars today",
+      "total_stars": "8,507",
+      "forks": "1,082"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-06-03：今天的代码，明天的 bug\n\n> 📅 2026-06-03  |  🔍 共收录 11 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 2 | **JavaScript**: 1 | **Jupyter Notebook**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. chopratejas/headroom\n\n**chopratejas/headroom** — 用 Python 写就。今天获得了 1,265 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 1,265 stars today | 📦 总星 7,128 | 🍴 490 | 💻 Python\n[🔗 查看项目](https://github.com/chopratejas/headroom)\n\n### 2. microsoft/markitdown\n\n**microsoft/markitdown** — Python tool for converting files and office documents to Mar...  听起来像个周末项目，但它已经有 141,562 总星了。周末项目，认真的吗？\n\n⭐ 3,618 stars today | 📦 总星 141,562 | 🍴 9,650 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 3. affaan-m/ECC\n\n**affaan-m/ECC** — 如果你还没 star，那你可能错过了今天的船票。1,533 stars today 人已经上船了。\n\n⭐ 1,533 stars today | 📦 总星 204,351 | 🍴 31,348 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 4. D4Vinci/Scrapling\n\n**D4Vinci/Scrapling** 今天拿了 1,182 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,182 stars today | 📦 总星 59,383 | 🍴 5,732 | 💻 Python\n[🔗 查看项目](https://github.com/D4Vinci/Scrapling)\n\n### 5. nesquena/hermes-webui\n\n**nesquena/hermes-webui** — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!...  1,722 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,722 stars today | 📦 总星 12,691 | 🍴 1,550 | 💻 Python\n[🔗 查看项目](https://github.com/nesquena/hermes-webui)\n\n### 6. reconurge/flowsint\n\n**reconurge/flowsint** — A modern platform for visual, flexible, and extensible graph-based investigation...  124 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 124 stars today | 📦 总星 4,622 | 🍴 593 | 💻 TypeScript\n[🔗 查看项目](https://github.com/reconurge/flowsint)\n\n### 7. OpenBMB/VoxCPM\n\n**OpenBMB/VoxCPM** — 用 Python 写就。今天获得了 783 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 783 stars today | 📦 总星 25,275 | 🍴 2,888 | 💻 Python\n[🔗 查看项目](https://github.com/OpenBMB/VoxCPM)\n\n### 8. stefan-jansen/machine-learning-for-trading\n\n**stefan-jansen/machine-learning-for-trading** — Code for Machine Learning for Algorithmic Trading, 2nd edition.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 574 stars today | 📦 总星 18,603 | 🍴 5,233 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/stefan-jansen/machine-learning-for-trading)\n\n### 9. jamwithai/production-agentic-rag-course\n\n**jamwithai/production-agentic-rag-course** — ...  30 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 30 stars today | 📦 总星 6,463 | 🍴 1,493 | 💻 Python\n[🔗 查看项目](https://github.com/jamwithai/production-agentic-rag-course)\n\n### 10. supermemoryai/supermemory\n\n**supermemoryai/supermemory** — 用 TypeScript 写就。今天获得了 680 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 680 stars today | 📦 总星 24,767 | 🍴 2,187 | 💻 TypeScript\n[🔗 查看项目](https://github.com/supermemoryai/supermemory)\n\n---\n\n## 🫡 荣誉提名\n\n- **Open-LLM-VTuber/Open-LLM-VTuber** — Talk to any LLM with hands-free voice interaction, voice interruption, and Live2...  ⭐ 66 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-03T05:28:56.545736+00:00"
+}
