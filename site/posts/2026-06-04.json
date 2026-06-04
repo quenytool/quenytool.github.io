@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-04",
+  "repos": [
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_today": "3,530 stars today",
+      "total_stars": "10,423",
+      "forks": "686"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "2,141 stars today",
+      "total_stars": "206,069",
+      "forks": "31,642"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "lang": "Go",
+      "stars_today": "24 stars today",
+      "total_stars": "35,474",
+      "forks": "420"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "1,735 stars today",
+      "total_stars": "179,537",
+      "forks": "30,753"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "1,984 stars today",
+      "total_stars": "143,176",
+      "forks": "9,784"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "lang": "Python",
+      "stars_today": "719 stars today",
+      "total_stars": "13,190",
+      "forks": "1,605"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "lang": "Python",
+      "stars_today": "1,067 stars today",
+      "total_stars": "60,483",
+      "forks": "5,830"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "lang": "Java",
+      "stars_today": "570 stars today",
+      "total_stars": "23,432",
+      "forks": "2,195"
+    },
+    {
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "lang": "Python",
+      "stars_today": "29 stars today",
+      "total_stars": "52,028",
+      "forks": "32,648"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "lang": "Python",
+      "stars_today": "693 stars today",
+      "total_stars": "9,097",
+      "forks": "1,116"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "lang": "Unknown",
+      "stars_today": "330 stars today",
+      "total_stars": "349,182",
+      "forks": "83,173"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "208 stars today",
+      "total_stars": "19,025",
+      "forks": "2,081"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "lang": "TypeScript",
+      "stars_today": "600 stars today",
+      "total_stars": "25,293",
+      "forks": "2,219"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "197 stars today",
+      "total_stars": "10,182",
+      "forks": "2,034"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：headroom 爆火，Python 又双叒叕赢了\n\n> 📅 2026-06-04  |  🔍 共收录 14 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **JavaScript**: 1 | **Go**: 1 | **Java**: 1 | **Unknown**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. chopratejas/headroom\n\n**chopratejas/headroom** — Python 写的，当然好（不是）。Compress tool outputs, logs, files, and RAG chunks before th...  3,530 stars today 人表示「先 star 为敬」。\n\n⭐ 3,530 stars today | 📦 总星 10,423 | 🍴 686 | 💻 Python\n[🔗 查看项目](https://github.com/chopratejas/headroom)\n\n### 2. affaan-m/ECC\n\n**affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, memory, se...  2,141 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,141 stars today | 📦 总星 206,069 | 🍴 31,642 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 3. aquasecurity/trivy\n\n**aquasecurity/trivy** — 如果你还没 star，那你可能错过了今天的船票。24 stars today 人已经上船了。\n\n⭐ 24 stars today | 📦 总星 35,474 | 🍴 420 | 💻 Go\n[🔗 查看项目](https://github.com/aquasecurity/trivy)\n\n### 4. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — The agent that grows with you...  1,735 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,735 stars today | 📦 总星 179,537 | 🍴 30,753 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 5. microsoft/markitdown\n\n**microsoft/markitdown** — 如果你还没 star，那你可能错过了今天的船票。1,984 stars today 人已经上船了。\n\n⭐ 1,984 stars today | 📦 总星 143,176 | 🍴 9,784 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 6. nesquena/hermes-webui\n\n**nesquena/hermes-webui** — Python 写的，当然好（不是）。Hermes WebUI: The best way to use Hermes Agent from the web ...  719 stars today 人表示「先 star 为敬」。\n\n⭐ 719 stars today | 📦 总星 13,190 | 🍴 1,605 | 💻 Python\n[🔗 查看项目](https://github.com/nesquena/hermes-webui)\n\n### 7. D4Vinci/Scrapling\n\n**D4Vinci/Scrapling** — 🕷️ An adaptive Web Scraping framework that handles everything from a single requ...  1,067 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,067 stars today | 📦 总星 60,483 | 🍴 5,830 | 💻 Python\n[🔗 查看项目](https://github.com/D4Vinci/Scrapling)\n\n### 8. opendataloader-project/opendataloader-pdf\n\n**opendataloader-project/opendataloader-pdf** — 如果你还没 star，那你可能错过了今天的船票。570 stars today 人已经上船了。\n\n⭐ 570 stars today | 📦 总星 23,432 | 🍴 2,195 | 💻 Java\n[🔗 查看项目](https://github.com/opendataloader-project/opendataloader-pdf)\n\n### 9. odoo/odoo\n\n**odoo/odoo** — Odoo. Open Source Apps To Grow Your Business....  听起来像个周末项目，但它已经有 52,028 总星了。周末项目，认真的吗？\n\n⭐ 29 stars today | 📦 总星 52,028 | 🍴 32,648 | 💻 Python\n[🔗 查看项目](https://github.com/odoo/odoo)\n\n### 10. Open-LLM-VTuber/Open-LLM-VTuber\n\n**Open-LLM-VTuber/Open-LLM-VTuber** 今天拿了 693 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 693 stars today | 📦 总星 9,097 | 🍴 1,116 | 💻 Python\n[🔗 查看项目](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)\n\n---\n\n## 🫡 荣誉提名\n\n- **jwasham/coding-interview-university** — A complete computer science study plan to become a software engineer.  ⭐ 330 stars today\n- **lyogavin/airllm** — AirLLM 70B inference with single 4GB GPU  ⭐ 208 stars today\n- **supermemoryai/supermemory** — Memory engine and app that is extremely fast, scalable. The Memory API for the A...  ⭐ 600 stars today\n- **HKUDS/Vibe-Trading** — \"Vibe-Trading: Your Personal Trading Agent\"  ⭐ 197 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-04T05:24:17.342214+00:00"
+}
