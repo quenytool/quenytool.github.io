@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-06",
+  "repos": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "1,845 stars today",
+      "total_stars": "183,441",
+      "forks": "31,463"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_today": "2,473 stars today",
+      "total_stars": "14,675",
+      "forks": "931"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "desc": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+      "lang": "TypeScript",
+      "stars_today": "366 stars today",
+      "total_stars": "32,772",
+      "forks": "4,201"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "lang": "TypeScript",
+      "stars_today": "1,152 stars today",
+      "total_stars": "26,107",
+      "forks": "3,001"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,361 stars today",
+      "total_stars": "208,475",
+      "forks": "31,978"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "148 stars today",
+      "total_stars": "21,684",
+      "forks": "1,874"
+    },
+    {
+      "name": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "desc": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "479 stars today",
+      "total_stars": "9,461",
+      "forks": "603"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "stars_today": "320 stars today",
+      "total_stars": "64,779",
+      "forks": "10,091"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "731 stars today",
+      "total_stars": "28,278",
+      "forks": "2,393"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "lang": "Python",
+      "stars_today": "747 stars today",
+      "total_stars": "80,605",
+      "forks": "10,635"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_today": "49 stars today",
+      "total_stars": "1,575",
+      "forks": "243"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+      "lang": "Python",
+      "stars_today": "227 stars today",
+      "total_stars": "53,946",
+      "forks": "7,083"
+    },
+    {
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "lang": "TypeScript",
+      "stars_today": "126 stars today",
+      "total_stars": "4,563",
+      "forks": "242"
+    },
+    {
+      "name": "openclaw/openclaw-windows-node",
+      "url": "https://github.com/openclaw/openclaw-windows-node",
+      "desc": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+      "lang": "C#",
+      "stars_today": "326 stars today",
+      "total_stars": "1,629",
+      "forks": "185"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "lang": "Go",
+      "stars_today": "207 stars today",
+      "total_stars": "35,878",
+      "forks": "443"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "lang": "Unknown",
+      "stars_today": "745 stars today",
+      "total_stars": "350,456",
+      "forks": "83,297"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "lang": "Java",
+      "stars_today": "309 stars today",
+      "total_stars": "9,282",
+      "forks": "1,224"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-06-06：hermes-agent 带着 1,845 stars today 颗星杀过来了\n\n> 📅 2026-06-06  |  🔍 共收录 17 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 3 | **JavaScript**: 2 | **Jupyter Notebook**: 1 | **C#**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — The agent that grows with you...  听起来像个周末项目，但它已经有 183,441 总星了。周末项目，认真的吗？\n\n⭐ 1,845 stars today | 📦 总星 183,441 | 🍴 31,463 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 2. chopratejas/headroom\n\n**chopratejas/headroom** — 如果你还没 star，那你可能错过了今天的船票。2,473 stars today 人已经上船了。\n\n⭐ 2,473 stars today | 📦 总星 14,675 | 🍴 931 | 💻 Python\n[🔗 查看项目](https://github.com/chopratejas/headroom)\n\n### 3. CopilotKit/CopilotKit\n\n**CopilotKit/CopilotKit** — The Frontend Stack for Agents & Generative UI. React + Angular. Makers... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 366 stars today | 📦 总星 32,772 | 🍴 4,201 | 💻 TypeScript\n[🔗 查看项目](https://github.com/CopilotKit/CopilotKit)\n\n### 4. lfnovo/open-notebook\n\n**lfnovo/open-notebook** 今天拿了 1,152 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,152 stars today | 📦 总星 26,107 | 🍴 3,001 | 💻 TypeScript\n[🔗 查看项目](https://github.com/lfnovo/open-notebook)\n\n### 5. affaan-m/ECC\n\n**affaan-m/ECC** — 如果你还没 star，那你可能错过了今天的船票。1,361 stars today 人已经上船了。\n\n⭐ 1,361 stars today | 📦 总星 208,475 | 🍴 31,978 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 6. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** 今天拿了 148 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 148 stars today | 📦 总星 21,684 | 🍴 1,874 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 7. NVIDIA/cosmos\n\n**NVIDIA/cosmos** — NVIDIA Cosmos is an open platform of world models, datasets,...  听起来像个周末项目，但它已经有 9,461 总星了。周末项目，认真的吗？\n\n⭐ 479 stars today | 📦 总星 9,461 | 🍴 603 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/NVIDIA/cosmos)\n\n### 8. 666ghj/MiroFish\n\n**666ghj/MiroFish** — A Simple and Universal Swarm Intelligence Engine, Predicting...  听起来像个周末项目，但它已经有 64,779 总星了。周末项目，认真的吗？\n\n⭐ 320 stars today | 📦 总星 64,779 | 🍴 10,091 | 💻 Python\n[🔗 查看项目](https://github.com/666ghj/MiroFish)\n\n### 9. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** — 用 Python 写就。今天获得了 731 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 731 stars today | 📦 总星 28,278 | 🍴 2,393 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 10. PaddlePaddle/PaddleOCR\n\n**PaddlePaddle/PaddleOCR** — Turn any PDF or image document into structured data for your AI. A powerful, lig...  747 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 747 stars today | 📦 总星 80,605 | 🍴 10,635 | 💻 Python\n[🔗 查看项目](https://github.com/PaddlePaddle/PaddleOCR)\n\n---\n\n## 🫡 荣誉提名\n\n- **openai/plugins** — OpenAI Plugins  ⭐ 49 stars today\n- **MemPalace/mempalace** — The best-benchmarked open-source AI memory system. And it's free.  ⭐ 227 stars today\n- **withastro/flue** — The sandbox agent framework.  ⭐ 126 stars today\n- **openclaw/openclaw-windows-node** — Windows companion suite for OpenClaw - System Tray app, Shared library, Node, an...  ⭐ 326 stars today\n- **aquasecurity/trivy** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes...  ⭐ 207 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-06T04:38:47.750290+00:00"
+}
