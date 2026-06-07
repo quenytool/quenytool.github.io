@@ -1,0 +1,169 @@
+{
+  "date": "2026-06-07",
+  "repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "439 stars today",
+      "total_stars": "29,027",
+      "forks": "2,458"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "lang": "TypeScript",
+      "stars_today": "631 stars today",
+      "total_stars": "33,322",
+      "forks": "4,251"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+      "lang": "Python",
+      "stars_today": "446 stars today",
+      "total_stars": "54,369",
+      "forks": "7,116"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "lang": "TypeScript",
+      "stars_today": "70 stars today",
+      "total_stars": "15,035",
+      "forks": "2,126"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_today": "213 stars today",
+      "total_stars": "1,814",
+      "forks": "259"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "683 stars today",
+      "total_stars": "22,522",
+      "forks": "1,923"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "desc": "web development for the rest of us",
+      "lang": "JavaScript",
+      "stars_today": "25 stars today",
+      "total_stars": "87,031",
+      "forks": "4,938"
+    },
+    {
+      "name": "nginx/nginx",
+      "url": "https://github.com/nginx/nginx",
+      "desc": "The official NGINX Open Source repository.",
+      "lang": "C",
+      "stars_today": "20 stars today",
+      "total_stars": "30,709",
+      "forks": "7,957"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "lang": "Go",
+      "stars_today": "159 stars today",
+      "total_stars": "36,026",
+      "forks": "455"
+    },
+    {
+      "name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "desc": "The Go programming language",
+      "lang": "Go",
+      "stars_today": "30 stars today",
+      "total_stars": "134,529",
+      "forks": "19,087"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "lang": "TypeScript",
+      "stars_today": "794 stars today",
+      "total_stars": "26,712",
+      "forks": "3,052"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "700 stars today",
+      "total_stars": "219,788",
+      "forks": "19,559"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "lang": "JavaScript",
+      "stars_today": "193 stars today",
+      "total_stars": "49,491",
+      "forks": "10,218"
+    },
+    {
+      "name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "lang": "Python",
+      "stars_today": "150 stars today",
+      "total_stars": "101,916",
+      "forks": "12,444"
+    },
+    {
+      "name": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "desc": "Next generation frontend tooling. It's fast!",
+      "lang": "TypeScript",
+      "stars_today": "25 stars today",
+      "total_stars": "81,213",
+      "forks": "8,278"
+    },
+    {
+      "name": "microsoft/mxc",
+      "url": "https://github.com/microsoft/mxc",
+      "desc": "Policy-driven, layered isolation and containment",
+      "lang": "Rust",
+      "stars_today": "64 stars today",
+      "total_stars": "617",
+      "forks": "25"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "lang": "Python",
+      "stars_today": "433 stars today",
+      "total_stars": "81,035",
+      "forks": "10,665"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "lang": "Python",
+      "stars_today": "216 stars today",
+      "total_stars": "48,519",
+      "forks": "5,394"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-06-07：last30days-skill 带着 439 stars today 颗星杀过来了\n\n> 📅 2026-06-07  |  🔍 共收录 18 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 4 | **JavaScript**: 3 | **Go**: 2 | **C**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** — AI agent skill that researches any topic across Reddit, X, Y...  听起来像个周末项目，但它已经有 29,027 总星了。周末项目，认真的吗？\n\n⭐ 439 stars today | 📦 总星 29,027 | 🍴 2,458 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 2. CopilotKit/CopilotKit\n\n**CopilotKit/CopilotKit** 今天拿了 631 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 631 stars today | 📦 总星 33,322 | 🍴 4,251 | 💻 TypeScript\n[🔗 查看项目](https://github.com/CopilotKit/CopilotKit)\n\n### 3. MemPalace/mempalace\n\n**MemPalace/mempalace** — 用 Python 写就。今天获得了 446 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 446 stars today | 📦 总星 54,369 | 🍴 7,116 | 💻 Python\n[🔗 查看项目](https://github.com/MemPalace/mempalace)\n\n### 4. danielmiessler/Personal_AI_Infrastructure\n\n**danielmiessler/Personal_AI_Infrastructure** 今天拿了 70 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 70 stars today | 📦 总星 15,035 | 🍴 2,126 | 💻 TypeScript\n[🔗 查看项目](https://github.com/danielmiessler/Personal_AI_Infrastructure)\n\n### 5. openai/plugins\n\n**openai/plugins** — OpenAI Plugins... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 213 stars today | 📦 总星 1,814 | 🍴 259 | 💻 JavaScript\n[🔗 查看项目](https://github.com/openai/plugins)\n\n### 6. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** — 如果你还没 star，那你可能错过了今天的船票。683 stars today 人已经上船了。\n\n⭐ 683 stars today | 📦 总星 22,522 | 🍴 1,923 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 7. sveltejs/svelte\n\n**sveltejs/svelte** — 用 JavaScript 写就。今天获得了 25 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 25 stars today | 📦 总星 87,031 | 🍴 4,938 | 💻 JavaScript\n[🔗 查看项目](https://github.com/sveltejs/svelte)\n\n### 8. nginx/nginx\n\n**nginx/nginx** — 用 C 写就。今天获得了 20 stars today 颗星，证明 C 还活着且活得挺好。\n\n⭐ 20 stars today | 📦 总星 30,709 | 🍴 7,957 | 💻 C\n[🔗 查看项目](https://github.com/nginx/nginx)\n\n### 9. aquasecurity/trivy\n\n**aquasecurity/trivy** — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 159 stars today | 📦 总星 36,026 | 🍴 455 | 💻 Go\n[🔗 查看项目](https://github.com/aquasecurity/trivy)\n\n### 10. golang/go\n\n**golang/go** 今天拿了 30 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 30 stars today | 📦 总星 134,529 | 🍴 19,087 | 💻 Go\n[🔗 查看项目](https://github.com/golang/go)\n\n---\n\n## 🫡 荣誉提名\n\n- **lfnovo/open-notebook** — An Open Source implementation of Notebook LM with more flexibility and features  ⭐ 794 stars today\n- **obra/superpowers** — An agentic skills framework & software development methodology that works.  ⭐ 700 stars today\n- **santifer/career-ops** — AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,...  ⭐ 193 stars today\n- **openai/whisper** — Robust Speech Recognition via Large-Scale Weak Supervision  ⭐ 150 stars today\n- **vitejs/vite** — Next generation frontend tooling. It's fast!  ⭐ 25 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-07T05:09:19.570266+00:00"
+}
