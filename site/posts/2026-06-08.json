@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-08",
+  "repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "1,111 stars today",
+      "total_stars": "31,767",
+      "forks": "2,647"
+    },
+    {
+      "name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "desc": "Open Source Computer Vision Library",
+      "lang": "C++",
+      "stars_today": "65 stars today",
+      "total_stars": "88,182",
+      "forks": "56,602"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "Shell",
+      "stars_today": "1,103 stars today",
+      "total_stars": "37,183",
+      "forks": "2,664"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "1,112 stars today",
+      "total_stars": "186,272",
+      "forks": "32,044"
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "lang": "TypeScript",
+      "stars_today": "554 stars today",
+      "total_stars": "27,469",
+      "forks": "3,114"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "desc": "Let's use AI to Earn!",
+      "lang": "TypeScript",
+      "stars_today": "183 stars today",
+      "total_stars": "18,971",
+      "forks": "2,928"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "lang": "Rust",
+      "stars_today": "322 stars today",
+      "total_stars": "47,634",
+      "forks": "5,022"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "lang": "TypeScript",
+      "stars_today": "309 stars today",
+      "total_stars": "29,820",
+      "forks": "2,956"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "lang": "C++",
+      "stars_today": "158 stars today",
+      "total_stars": "115,423",
+      "forks": "19,318"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "lang": "Python",
+      "stars_today": "1,554 stars today",
+      "total_stars": "7,473",
+      "forks": "723"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars_today": "350 stars today",
+      "total_stars": "72,635",
+      "forks": "16,269"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_today": "262 stars today",
+      "total_stars": "2,105",
+      "forks": "273"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "lang": "TypeScript",
+      "stars_today": "245 stars today",
+      "total_stars": "13,020",
+      "forks": "918"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "desc": "Useful tool to track location or mobile number",
+      "lang": "Python",
+      "stars_today": "28 stars today",
+      "total_stars": "13,806",
+      "forks": "1,841"
+    },
+    {
+      "name": "microsoft/pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "desc": "PostgreSQL in-database durable execution",
+      "lang": "Rust",
+      "stars_today": "316 stars today",
+      "total_stars": "1,518",
+      "forks": "35"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-06-08：15 个项目今天值得你 star\n\n> 📅 2026-06-08  |  🔍 共收录 15 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 4 | **C++**: 2 | **Rust**: 2 | **Shell**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** — 如果你还没 star，那你可能错过了今天的船票。1,111 stars today 人已经上船了。\n\n⭐ 1,111 stars today | 📦 总星 31,767 | 🍴 2,647 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 2. opencv/opencv\n\n**opencv/opencv** 今天拿了 65 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 65 stars today | 📦 总星 88,182 | 🍴 56,602 | 💻 C++\n[🔗 查看项目](https://github.com/opencv/opencv)\n\n### 3. Leonxlnx/taste-skill\n\n**Leonxlnx/taste-skill** — 用 Shell 写就。今天获得了 1,103 stars today 颗星，证明 Shell 还活着且活得挺好。\n\n⭐ 1,103 stars today | 📦 总星 37,183 | 🍴 2,664 | 💻 Shell\n[🔗 查看项目](https://github.com/Leonxlnx/taste-skill)\n\n### 4. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — Python 写的，当然好（不是）。The agent that grows with you...  1,112 stars today 人表示「先 star 为敬」。\n\n⭐ 1,112 stars today | 📦 总星 186,272 | 🍴 32,044 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 5. lfnovo/open-notebook\n\n**lfnovo/open-notebook** — 如果你还没 star，那你可能错过了今天的船票。554 stars today 人已经上船了。\n\n⭐ 554 stars today | 📦 总星 27,469 | 🍴 3,114 | 💻 TypeScript\n[🔗 查看项目](https://github.com/lfnovo/open-notebook)\n\n### 6. yikart/AiToEarn\n\n**yikart/AiToEarn** — 如果你还没 star，那你可能错过了今天的船票。183 stars today 人已经上船了。\n\n⭐ 183 stars today | 📦 总星 18,971 | 🍴 2,928 | 💻 TypeScript\n[🔗 查看项目](https://github.com/yikart/AiToEarn)\n\n### 7. aaif-goose/goose\n\n**aaif-goose/goose** — an open source, extensible AI agent that goes beyond code su...  听起来像个周末项目，但它已经有 47,634 总星了。周末项目，认真的吗？\n\n⭐ 322 stars today | 📦 总星 47,634 | 🍴 5,022 | 💻 Rust\n[🔗 查看项目](https://github.com/aaif-goose/goose)\n\n### 8. Crosstalk-Solutions/project-nomad\n\n**Crosstalk-Solutions/project-nomad** — TypeScript 写的，当然好（不是）。Project N.O.M.A.D, is a self-contained, offline survival com...  309 stars today 人表示「先 star 为敬」。\n\n⭐ 309 stars today | 📦 总星 29,820 | 🍴 2,956 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Crosstalk-Solutions/project-nomad)\n\n### 9. ggml-org/llama.cpp\n\n**ggml-org/llama.cpp** — LLM inference in C/C++...  158 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 158 stars today | 📦 总星 115,423 | 🍴 19,318 | 💻 C++\n[🔗 查看项目](https://github.com/ggml-org/llama.cpp)\n\n### 10. RyanCodrai/turbovec\n\n**RyanCodrai/turbovec** — A vector index built on TurboQuant, written in Rust with Python bindin... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,554 stars today | 📦 总星 7,473 | 🍴 723 | 💻 Python\n[🔗 查看项目](https://github.com/RyanCodrai/turbovec)\n\n---\n\n## 🫡 荣誉提名\n\n- **TapXWorld/ChinaTextbook** — 所有小初高、大学PDF教材。  ⭐ 350 stars today\n- **openai/plugins** — OpenAI Plugins  ⭐ 262 stars today\n- **refactoringhq/tolaria** — Desktop app to manage markdown knowledge bases  ⭐ 245 stars today\n- **HunxByts/GhostTrack** — Useful tool to track location or mobile number  ⭐ 28 stars today\n- **microsoft/pg_durable** — PostgreSQL in-database durable execution  ⭐ 316 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-08T05:15:46.115205+00:00"
+}
