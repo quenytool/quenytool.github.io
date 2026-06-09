@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-09",
+  "repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "3,558 stars today",
+      "total_stars": "35,077",
+      "forks": "2,868"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "lang": "Python",
+      "stars_today": "1,729 stars today",
+      "total_stars": "9,176",
+      "forks": "821"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "461 stars today",
+      "total_stars": "12,566",
+      "forks": "976"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "lang": "TypeScript",
+      "stars_today": "651 stars today",
+      "total_stars": "13,724",
+      "forks": "959"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "679 stars today",
+      "total_stars": "24,515",
+      "forks": "2,050"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "lang": "TypeScript",
+      "stars_today": "62 stars today",
+      "total_stars": "15,513",
+      "forks": "2,163"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "lang": "JavaScript",
+      "stars_today": "308 stars today",
+      "total_stars": "50,726",
+      "forks": "10,351"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "lang": "Unknown",
+      "stars_today": "164 stars today",
+      "total_stars": "12,867",
+      "forks": "1,505"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_today": "296 stars today",
+      "total_stars": "2,372",
+      "forks": "292"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "desc": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "lang": "Python",
+      "stars_today": "143 stars today",
+      "total_stars": "3,590",
+      "forks": "207"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+      "lang": "Python",
+      "stars_today": "170 stars today",
+      "total_stars": "55,028",
+      "forks": "7,161"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_today": "1,288 stars today",
+      "total_stars": "42,460",
+      "forks": "3,790"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "lang": "TypeScript",
+      "stars_today": "378 stars today",
+      "total_stars": "34,234",
+      "forks": "4,309"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars_today": "592 stars today",
+      "total_stars": "73,106",
+      "forks": "16,361"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars_today": "312 stars today",
+      "total_stars": "35,920",
+      "forks": "4,357"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "lang": "Rust",
+      "stars_today": "699 stars today",
+      "total_stars": "48,180",
+      "forks": "5,073"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-06-09：今天的代码，明天的 bug\n\n> 📅 2026-06-09  |  🔍 共收录 16 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **TypeScript**: 3 | **JavaScript**: 2 | **Unknown**: 1 | **Roff**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** 今天拿了 3,558 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,558 stars today | 📦 总星 35,077 | 🍴 2,868 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 2. RyanCodrai/turbovec\n\n**RyanCodrai/turbovec** — A vector index built on TurboQuant, written in Rust with Python bindin... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,729 stars today | 📦 总星 9,176 | 🍴 821 | 💻 Python\n[🔗 查看项目](https://github.com/RyanCodrai/turbovec)\n\n### 3. google/skills\n\n**google/skills** — Agent Skills for Google products and technologies...  461 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 461 stars today | 📦 总星 12,566 | 🍴 976 | 💻 Python\n[🔗 查看项目](https://github.com/google/skills)\n\n### 4. refactoringhq/tolaria\n\n**refactoringhq/tolaria** — Desktop app to manage markdown knowledge bases... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 651 stars today | 📦 总星 13,724 | 🍴 959 | 💻 TypeScript\n[🔗 查看项目](https://github.com/refactoringhq/tolaria)\n\n### 5. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...  679 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 679 stars today | 📦 总星 24,515 | 🍴 2,050 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 6. danielmiessler/Personal_AI_Infrastructure\n\n**danielmiessler/Personal_AI_Infrastructure** — 如果你还没 star，那你可能错过了今天的船票。62 stars today 人已经上船了。\n\n⭐ 62 stars today | 📦 总星 15,513 | 🍴 2,163 | 💻 TypeScript\n[🔗 查看项目](https://github.com/danielmiessler/Personal_AI_Infrastructure)\n\n### 7. santifer/career-ops\n\n**santifer/career-ops** — AI-powered job search system built on Claude Code. 14 skill ...  听起来像个周末项目，但它已经有 50,726 总星了。周末项目，认真的吗？\n\n⭐ 308 stars today | 📦 总星 50,726 | 🍴 10,351 | 💻 JavaScript\n[🔗 查看项目](https://github.com/santifer/career-ops)\n\n### 8. phuryn/pm-skills\n\n**phuryn/pm-skills** — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — fr... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 164 stars today | 📦 总星 12,867 | 🍴 1,505 | 💻 Unknown\n[🔗 查看项目](https://github.com/phuryn/pm-skills)\n\n### 9. openai/plugins\n\n**openai/plugins** — 用 JavaScript 写就。今天获得了 296 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 296 stars today | 📦 总星 2,372 | 🍴 292 | 💻 JavaScript\n[🔗 查看项目](https://github.com/openai/plugins)\n\n### 10. Andyyyy64/whichllm\n\n**Andyyyy64/whichllm** — 如果你还没 star，那你可能错过了今天的船票。143 stars today 人已经上船了。\n\n⭐ 143 stars today | 📦 总星 3,590 | 🍴 207 | 💻 Python\n[🔗 查看项目](https://github.com/Andyyyy64/whichllm)\n\n---\n\n## 🫡 荣誉提名\n\n- **MemPalace/mempalace** — The best-benchmarked open-source AI memory system. And it's free.  ⭐ 170 stars today\n- **roboflow/supervision** — We write your reusable computer vision tools. 💜  ⭐ 1,288 stars today\n- **CopilotKit/CopilotKit** — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an...  ⭐ 378 stars today\n- **TapXWorld/ChinaTextbook** — 所有小初高、大学PDF教材。  ⭐ 592 stars today\n- **luongnv89/claude-howto** — A visual, example-driven guide to Claude Code — from basic concepts to advanced ...  ⭐ 312 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-09T04:47:56.514053+00:00"
+}
