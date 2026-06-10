@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-10",
+  "repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "3,191 stars today",
+      "total_stars": "37,824",
+      "forks": "3,058"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "lang": "Python",
+      "stars_today": "1,801 stars today",
+      "total_stars": "10,368",
+      "forks": "888"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_today": "733 stars today",
+      "total_stars": "43,138",
+      "forks": "3,845"
+    },
+    {
+      "name": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "desc": "Open Source Computer Vision Library",
+      "lang": "C++",
+      "stars_today": "102 stars today",
+      "total_stars": "88,725",
+      "forks": "56,629"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "lang": "TypeScript",
+      "stars_today": "829 stars today",
+      "total_stars": "14,452",
+      "forks": "1,003"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "lang": "Rust",
+      "stars_today": "489 stars today",
+      "total_stars": "48,568",
+      "forks": "5,098"
+    },
+    {
+      "name": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "desc": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "lang": "Python",
+      "stars_today": "633 stars today",
+      "total_stars": "4,196",
+      "forks": "234"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars_today": "519 stars today",
+      "total_stars": "73,608",
+      "forks": "16,475"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "lang": "Unknown",
+      "stars_today": "79 stars today",
+      "total_stars": "139,251",
+      "forks": "34,564"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "desc": "Let's use AI to Earn!",
+      "lang": "TypeScript",
+      "stars_today": "402 stars today",
+      "total_stars": "20,105",
+      "forks": "3,041"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "lang": "Unknown",
+      "stars_today": "806 stars today",
+      "total_stars": "13,580",
+      "forks": "1,557"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "lang": "JavaScript",
+      "stars_today": "1,110 stars today",
+      "total_stars": "51,904",
+      "forks": "10,443"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_today": "284 stars today",
+      "total_stars": "2,653",
+      "forks": "310"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "desc": "open-source healthcare ai",
+      "lang": "Python",
+      "stars_today": "191 stars today",
+      "total_stars": "1,968",
+      "forks": "218"
+    },
+    {
+      "name": "francescopace/espectre",
+      "url": "https://github.com/francescopace/espectre",
+      "desc": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
+      "lang": "Python",
+      "stars_today": "134 stars today",
+      "total_stars": "8,282",
+      "forks": "633"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "Shell",
+      "stars_today": "443 stars today",
+      "total_stars": "49,956",
+      "forks": "5,577"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：last30days-skill 爆火，Python 又双叒叕赢了\n\n> 📅 2026-06-10  |  🔍 共收录 16 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 2 | **Unknown**: 2 | **JavaScript**: 2 | **C++**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** 今天拿了 3,191 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,191 stars today | 📦 总星 37,824 | 🍴 3,058 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 2. RyanCodrai/turbovec\n\n**RyanCodrai/turbovec** — A vector index built on TurboQuant, written in Rust with Python bindin... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,801 stars today | 📦 总星 10,368 | 🍴 888 | 💻 Python\n[🔗 查看项目](https://github.com/RyanCodrai/turbovec)\n\n### 3. roboflow/supervision\n\n**roboflow/supervision** — We write your reusable computer vision tools. 💜... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 733 stars today | 📦 总星 43,138 | 🍴 3,845 | 💻 Python\n[🔗 查看项目](https://github.com/roboflow/supervision)\n\n### 4. opencv/opencv\n\n**opencv/opencv** 今天拿了 102 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 102 stars today | 📦 总星 88,725 | 🍴 56,629 | 💻 C++\n[🔗 查看项目](https://github.com/opencv/opencv)\n\n### 5. refactoringhq/tolaria\n\n**refactoringhq/tolaria** — 如果你还没 star，那你可能错过了今天的船票。829 stars today 人已经上船了。\n\n⭐ 829 stars today | 📦 总星 14,452 | 🍴 1,003 | 💻 TypeScript\n[🔗 查看项目](https://github.com/refactoringhq/tolaria)\n\n### 6. aaif-goose/goose\n\n**aaif-goose/goose** 今天拿了 489 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 489 stars today | 📦 总星 48,568 | 🍴 5,098 | 💻 Rust\n[🔗 查看项目](https://github.com/aaif-goose/goose)\n\n### 7. Andyyyy64/whichllm\n\n**Andyyyy64/whichllm** — 用 Python 写就。今天获得了 633 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 633 stars today | 📦 总星 4,196 | 🍴 234 | 💻 Python\n[🔗 查看项目](https://github.com/Andyyyy64/whichllm)\n\n### 8. TapXWorld/ChinaTextbook\n\n**TapXWorld/ChinaTextbook** — 所有小初高、大学PDF教材。...  听起来像个周末项目，但它已经有 73,608 总星了。周末项目，认真的吗？\n\n⭐ 519 stars today | 📦 总星 73,608 | 🍴 16,475 | 💻 Roff\n[🔗 查看项目](https://github.com/TapXWorld/ChinaTextbook)\n\n### 9. x1xhlol/system-prompts-and-models-of-ai-tools\n\n**x1xhlol/system-prompts-and-models-of-ai-tools** — Unknown 写的，当然好（不是）。FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu...  79 stars today 人表示「先 star 为敬」。\n\n⭐ 79 stars today | 📦 总星 139,251 | 🍴 34,564 | 💻 Unknown\n[🔗 查看项目](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)\n\n### 10. yikart/AiToEarn\n\n**yikart/AiToEarn** 今天拿了 402 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 402 stars today | 📦 总星 20,105 | 🍴 3,041 | 💻 TypeScript\n[🔗 查看项目](https://github.com/yikart/AiToEarn)\n\n---\n\n## 🫡 荣誉提名\n\n- **phuryn/pm-skills** — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove...  ⭐ 806 stars today\n- **santifer/career-ops** — AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,...  ⭐ 1,110 stars today\n- **openai/plugins** — OpenAI Plugins  ⭐ 284 stars today\n- **maziyarpanahi/openmed** — open-source healthcare ai  ⭐ 191 stars today\n- **francescopace/espectre** — 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), wi...  ⭐ 134 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-10T05:02:35.899474+00:00"
+}
