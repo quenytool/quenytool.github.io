@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-11",
+  "repos": [
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "Shell",
+      "stars_today": "821 stars today",
+      "total_stars": "52,408",
+      "forks": "5,761"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "lang": "Unknown",
+      "stars_today": "804 stars today",
+      "total_stars": "15,291",
+      "forks": "1,643"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "lang": "TypeScript",
+      "stars_today": "612 stars today",
+      "total_stars": "15,046",
+      "forks": "1,038"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "2,535 stars today",
+      "total_stars": "39,254",
+      "forks": "3,164"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "lang": "Python",
+      "stars_today": "318 stars today",
+      "total_stars": "32,143",
+      "forks": "2,360"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "lang": "Unknown",
+      "stars_today": "393 stars today",
+      "total_stars": "139,604",
+      "forks": "34,598"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,104 stars today",
+      "total_stars": "223,833",
+      "forks": "19,903"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "lang": "Go",
+      "stars_today": "354 stars today",
+      "total_stars": "5,316",
+      "forks": "500"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "lang": "Python",
+      "stars_today": "1,389 stars today",
+      "total_stars": "85,296",
+      "forks": "12,176"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "desc": "open-source healthcare ai",
+      "lang": "Python",
+      "stars_today": "527 stars today",
+      "total_stars": "2,385",
+      "forks": "247"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars_today": "211 stars today",
+      "total_stars": "36,633",
+      "forks": "4,421"
+    },
+    {
+      "name": "activeloopai/hivemind",
+      "url": "https://github.com/activeloopai/hivemind",
+      "desc": "One brain for all your agents",
+      "lang": "TypeScript",
+      "stars_today": "64 stars today",
+      "total_stars": "921",
+      "forks": "52"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "420 stars today",
+      "total_stars": "72,972",
+      "forks": "9,738"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_today": "695 stars today",
+      "total_stars": "43,666",
+      "forks": "3,878"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "211 stars today",
+      "total_stars": "13,372",
+      "forks": "1,010"
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "lang": "Python",
+      "stars_today": "247 stars today",
+      "total_stars": "5,355",
+      "forks": "721"
+    },
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "lang": "Swift",
+      "stars_today": "1,611 stars today",
+      "total_stars": "30,167",
+      "forks": "840"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-06-11：今天的代码，明天的 bug\n\n> 📅 2026-06-11  |  🔍 共收录 17 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **Shell**: 2 | **Unknown**: 2 | **TypeScript**: 2 | **Go**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. addyosmani/agent-skills\n\n**addyosmani/agent-skills** 今天拿了 821 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 821 stars today | 📦 总星 52,408 | 🍴 5,761 | 💻 Shell\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 2. phuryn/pm-skills\n\n**phuryn/pm-skills** — 用 Unknown 写就。今天获得了 804 stars today 颗星，证明 Unknown 还活着且活得挺好。\n\n⭐ 804 stars today | 📦 总星 15,291 | 🍴 1,643 | 💻 Unknown\n[🔗 查看项目](https://github.com/phuryn/pm-skills)\n\n### 3. refactoringhq/tolaria\n\n**refactoringhq/tolaria** — Desktop app to manage markdown knowledge bases... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 612 stars today | 📦 总星 15,046 | 🍴 1,038 | 💻 TypeScript\n[🔗 查看项目](https://github.com/refactoringhq/tolaria)\n\n### 4. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** — AI agent skill that researches any topic across Reddit, X, Y...  听起来像个周末项目，但它已经有 39,254 总星了。周末项目，认真的吗？\n\n⭐ 2,535 stars today | 📦 总星 39,254 | 🍴 3,164 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 5. soxoj/maigret\n\n**soxoj/maigret** — 如果你还没 star，那你可能错过了今天的船票。318 stars today 人已经上船了。\n\n⭐ 318 stars today | 📦 总星 32,143 | 🍴 2,360 | 💻 Python\n[🔗 查看项目](https://github.com/soxoj/maigret)\n\n### 6. x1xhlol/system-prompts-and-models-of-ai-tools\n\n**x1xhlol/system-prompts-and-models-of-ai-tools** — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni...  393 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 393 stars today | 📦 总星 139,604 | 🍴 34,598 | 💻 Unknown\n[🔗 查看项目](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)\n\n### 7. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that works....  1,104 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,104 stars today | 📦 总星 223,833 | 🍴 19,903 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 8. masterking32/MasterDnsVPN\n\n**masterking32/MasterDnsVPN** — Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNS... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 354 stars today | 📦 总星 5,316 | 🍴 500 | 💻 Go\n[🔗 查看项目](https://github.com/masterking32/MasterDnsVPN)\n\n### 9. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 用 Python 写就。今天获得了 1,389 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 1,389 stars today | 📦 总星 85,296 | 🍴 12,176 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 10. maziyarpanahi/openmed\n\n**maziyarpanahi/openmed** — 如果你还没 star，那你可能错过了今天的船票。527 stars today 人已经上船了。\n\n⭐ 527 stars today | 📦 总星 2,385 | 🍴 247 | 💻 Python\n[🔗 查看项目](https://github.com/maziyarpanahi/openmed)\n\n---\n\n## 🫡 荣誉提名\n\n- **luongnv89/claude-howto** — A visual, example-driven guide to Claude Code — from basic concepts to advanced ...  ⭐ 211 stars today\n- **activeloopai/hivemind** — One brain for all your agents  ⭐ 64 stars today\n- **ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...  ⭐ 420 stars today\n- **roboflow/supervision** — We write your reusable computer vision tools. 💜  ⭐ 695 stars today\n- **google/skills** — Agent Skills for Google products and technologies  ⭐ 211 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-11T05:11:44.167642+00:00"
+}
