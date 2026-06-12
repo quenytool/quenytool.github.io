@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-12",
+  "repos": [
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "lang": "Swift",
+      "stars_today": "2,430 stars today",
+      "total_stars": "33,191",
+      "forks": "922"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "Shell",
+      "stars_today": "3,278 stars today",
+      "total_stars": "55,243",
+      "forks": "5,992"
+    },
+    {
+      "name": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "desc": "open-source healthcare ai",
+      "lang": "Python",
+      "stars_today": "426 stars today",
+      "total_stars": "2,867",
+      "forks": "281"
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "lang": "Unknown",
+      "stars_today": "1,978 stars today",
+      "total_stars": "16,410",
+      "forks": "1,700"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "lang": "Python",
+      "stars_today": "319 stars today",
+      "total_stars": "2,842",
+      "forks": "222"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "lang": "Python",
+      "stars_today": "661 stars today",
+      "total_stars": "32,730",
+      "forks": "2,397"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "lang": "Unknown",
+      "stars_today": "368 stars today",
+      "total_stars": "139,950",
+      "forks": "34,629"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "lang": "TypeScript",
+      "stars_today": "604 stars today",
+      "total_stars": "15,481",
+      "forks": "1,064"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,322 stars today",
+      "total_stars": "225,101",
+      "forks": "20,016"
+    },
+    {
+      "name": "restic/restic",
+      "url": "https://github.com/restic/restic",
+      "desc": "Fast, secure, efficient backup program",
+      "lang": "Go",
+      "stars_today": "61 stars today",
+      "total_stars": "34,230",
+      "forks": "1,786"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "1,599 stars today",
+      "total_stars": "111,768",
+      "forks": "18,273"
+    },
+    {
+      "name": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "lang": "Go",
+      "stars_today": "507 stars today",
+      "total_stars": "5,767",
+      "forks": "524"
+    },
+    {
+      "name": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "lang": "Ruby",
+      "stars_today": "67 stars today",
+      "total_stars": "30,438",
+      "forks": "7,510"
+    },
+    {
+      "name": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "desc": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
+      "lang": "Go",
+      "stars_today": "114 stars today",
+      "total_stars": "1,788",
+      "forks": "177"
+    },
+    {
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "desc": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "lang": "Unknown",
+      "stars_today": "89 stars today",
+      "total_stars": "8,035",
+      "forks": "2,421"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars_today": "88 stars today",
+      "total_stars": "73,990",
+      "forks": "16,549"
+    },
+    {
+      "name": "hexo-ai/sia",
+      "url": "https://github.com/hexo-ai/sia",
+      "desc": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "lang": "Python",
+      "stars_today": "199 stars today",
+      "total_stars": "1,408",
+      "forks": "165"
+    },
+    {
+      "name": "mattermost/mattermost",
+      "url": "https://github.com/mattermost/mattermost",
+      "desc": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "lang": "TypeScript",
+      "stars_today": "53 stars today",
+      "total_stars": "37,396",
+      "forks": "8,700"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "lang": "Kotlin",
+      "stars_today": "161 stars today",
+      "total_stars": "46,986",
+      "forks": "8,024"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-06-12：今天的代码，明天的 bug\n\n> 📅 2026-06-12  |  🔍 共收录 19 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **Shell**: 3 | **Unknown**: 3 | **Go**: 3 | **TypeScript**: 2\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. apple/container\n\n**apple/container** — A tool for creating and running Linux containers using lightweight virtual machi...  2,430 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,430 stars today | 📦 总星 33,191 | 🍴 922 | 💻 Swift\n[🔗 查看项目](https://github.com/apple/container)\n\n### 2. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — 用 Shell 写就。今天获得了 3,278 stars today 颗星，证明 Shell 还活着且活得挺好。\n\n⭐ 3,278 stars today | 📦 总星 55,243 | 🍴 5,992 | 💻 Shell\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 3. maziyarpanahi/openmed\n\n**maziyarpanahi/openmed** — open-source healthcare ai...  听起来像个周末项目，但它已经有 2,867 总星了。周末项目，认真的吗？\n\n⭐ 426 stars today | 📦 总星 2,867 | 🍴 281 | 💻 Python\n[🔗 查看项目](https://github.com/maziyarpanahi/openmed)\n\n### 4. phuryn/pm-skills\n\n**phuryn/pm-skills** 今天拿了 1,978 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,978 stars today | 📦 总星 16,410 | 🍴 1,700 | 💻 Unknown\n[🔗 查看项目](https://github.com/phuryn/pm-skills)\n\n### 5. NVIDIA/SkillSpector\n\n**NVIDIA/SkillSpector** — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns...  319 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 319 stars today | 📦 总星 2,842 | 🍴 222 | 💻 Python\n[🔗 查看项目](https://github.com/NVIDIA/SkillSpector)\n\n### 6. soxoj/maigret\n\n**soxoj/maigret** — 用 Python 写就。今天获得了 661 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 661 stars today | 📦 总星 32,730 | 🍴 2,397 | 💻 Python\n[🔗 查看项目](https://github.com/soxoj/maigret)\n\n### 7. x1xhlol/system-prompts-and-models-of-ai-tools\n\n**x1xhlol/system-prompts-and-models-of-ai-tools** — 如果你还没 star，那你可能错过了今天的船票。368 stars today 人已经上船了。\n\n⭐ 368 stars today | 📦 总星 139,950 | 🍴 34,629 | 💻 Unknown\n[🔗 查看项目](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)\n\n### 8. refactoringhq/tolaria\n\n**refactoringhq/tolaria** — Desktop app to manage markdown knowledge bases... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 604 stars today | 📦 总星 15,481 | 🍴 1,064 | 💻 TypeScript\n[🔗 查看项目](https://github.com/refactoringhq/tolaria)\n\n### 9. obra/superpowers\n\n**obra/superpowers** 今天拿了 1,322 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,322 stars today | 📦 总星 225,101 | 🍴 20,016 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 10. restic/restic\n\n**restic/restic** 今天拿了 61 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 61 stars today | 📦 总星 34,230 | 🍴 1,786 | 💻 Go\n[🔗 查看项目](https://github.com/restic/restic)\n\n---\n\n## 🫡 荣誉提名\n\n- **msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wizards to Reddit commun...  ⭐ 1,599 stars today\n- **masterking32/MasterDnsVPN** — Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli...  ⭐ 507 stars today\n- **chatwoot/chatwoot** — Open-source live-chat, email support, omni-channel desk. An alternative to Inter...  ⭐ 67 stars today\n- **kenn-io/agentsview** — Local-first session intelligence and analytics for coding agents, supporting Cla...  ⭐ 114 stars today\n- **alchaincyf/zhangxuefeng-skill** — 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。  ⭐ 89 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-12T05:17:32.642797+00:00"
+}
