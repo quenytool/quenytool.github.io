@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-19",
+  "repos": [
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "lang": "Python",
+      "stars_today": "844 stars today",
+      "total_stars": "23,411",
+      "forks": "2,230"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "lang": "Rust",
+      "stars_today": "369 stars today",
+      "total_stars": "10,057",
+      "forks": "464"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "stars_today": "417 stars today",
+      "total_stars": "449,619",
+      "forks": "45,136"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,429 stars today",
+      "total_stars": "232,582",
+      "forks": "20,659"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "desc": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "lang": "Unknown",
+      "stars_today": "202 stars today",
+      "total_stars": "4,225",
+      "forks": "434"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "2,322 stars today",
+      "total_stars": "7,249",
+      "forks": "574"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "lang": "C++",
+      "stars_today": "259 stars today",
+      "total_stars": "11,305",
+      "forks": "655"
+    },
+    {
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "lang": "TypeScript",
+      "stars_today": "162 stars today",
+      "total_stars": "5,559",
+      "forks": "308"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "lang": "TypeScript",
+      "stars_today": "1,345 stars today",
+      "total_stars": "22,310",
+      "forks": "2,712"
+    },
+    {
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "lang": "TypeScript",
+      "stars_today": "613 stars today",
+      "total_stars": "51,901",
+      "forks": "4,604"
+    },
+    {
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "lang": "TypeScript",
+      "stars_today": "18 stars today",
+      "total_stars": "38,739",
+      "forks": "2,293"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "lang": "Rust",
+      "stars_today": "244 stars today",
+      "total_stars": "7,961",
+      "forks": "342"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "lang": "C#",
+      "stars_today": "14 stars today",
+      "total_stars": "38,108",
+      "forks": "10,712"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "desc": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "lang": "Unknown",
+      "stars_today": "40 stars today",
+      "total_stars": "14,462",
+      "forks": "2,337"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "lang": "Python",
+      "stars_today": "51 stars today",
+      "total_stars": "7,525",
+      "forks": "1,210"
+    },
+    {
+      "name": "LibreTranslate/LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "desc": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "lang": "Python",
+      "stars_today": "51 stars today",
+      "total_stars": "15,022",
+      "forks": "1,534"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-06-19：16 个项目今天值得你 star\n\n> 📅 2026-06-19  |  🔍 共收录 16 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 5 | **Python**: 3 | **Rust**: 2 | **Unknown**: 2 | **Shell**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. google-research/timesfm\n\n**google-research/timesfm** — Python 写的，当然好（不是）。TimesFM (Time Series Foundation Model) is a pretrained time-...  844 stars today 人表示「先 star 为敬」。\n\n⭐ 844 stars today | 📦 总星 23,411 | 🍴 2,230 | 💻 Python\n[🔗 查看项目](https://github.com/google-research/timesfm)\n\n### 2. n0-computer/iroh\n\n**n0-computer/iroh** — 如果你还没 star，那你可能错过了今天的船票。369 stars today 人已经上船了。\n\n⭐ 369 stars today | 📦 总星 10,057 | 🍴 464 | 💻 Rust\n[🔗 查看项目](https://github.com/n0-computer/iroh)\n\n### 3. freeCodeCamp/freeCodeCamp\n\n**freeCodeCamp/freeCodeCamp** — 用 TypeScript 写就。今天获得了 417 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 417 stars today | 📦 总星 449,619 | 🍴 45,136 | 💻 TypeScript\n[🔗 查看项目](https://github.com/freeCodeCamp/freeCodeCamp)\n\n### 4. obra/superpowers\n\n**obra/superpowers** 今天拿了 1,429 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,429 stars today | 📦 总星 232,582 | 🍴 20,659 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 5. zai-org/GLM-5\n\n**zai-org/GLM-5** 今天拿了 202 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 202 stars today | 📦 总星 4,225 | 🍴 434 | 💻 Unknown\n[🔗 查看项目](https://github.com/zai-org/GLM-5)\n\n### 6. DeusData/codebase-memory-mcp\n\n**DeusData/codebase-memory-mcp** — High-performance code intelligence MCP server. Indexes codeb...  听起来像个周末项目，但它已经有 7,249 总星了。周末项目，认真的吗？\n\n⭐ 2,322 stars today | 📦 总星 7,249 | 🍴 574 | 💻 C\n[🔗 查看项目](https://github.com/DeusData/codebase-memory-mcp)\n\n### 7. alibaba/zvec\n\n**alibaba/zvec** — C++ 写的，当然好（不是）。A lightweight, lightning-fast, in-process vector database...  259 stars today 人表示「先 star 为敬」。\n\n⭐ 259 stars today | 📦 总星 11,305 | 🍴 655 | 💻 C++\n[🔗 查看项目](https://github.com/alibaba/zvec)\n\n### 8. withastro/flue\n\n**withastro/flue** 今天拿了 162 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 162 stars today | 📦 总星 5,559 | 🍴 308 | 💻 TypeScript\n[🔗 查看项目](https://github.com/withastro/flue)\n\n### 9. Kilo-Org/kilocode\n\n**Kilo-Org/kilocode** — 用 TypeScript 写就。今天获得了 1,345 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 1,345 stars today | 📦 总星 22,310 | 🍴 2,712 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Kilo-Org/kilocode)\n\n### 10. makeplane/plane\n\n**makeplane/plane** — TypeScript 写的，当然好（不是）。🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternativ...  613 stars today 人表示「先 star 为敬」。\n\n⭐ 613 stars today | 📦 总星 51,901 | 🍴 4,604 | 💻 TypeScript\n[🔗 查看项目](https://github.com/makeplane/plane)\n\n---\n\n## 🫡 荣誉提名\n\n- **Kong/insomnia** — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an...  ⭐ 18 stars today\n- **Universal-Debloater-Alliance/universal-android-debloater-next-generation** — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devic...  ⭐ 244 stars today\n- **dotnet/aspnetcore** — ASP.NET Core is a cross-platform .NET framework for building modern cloud-based ...  ⭐ 14 stars today\n- **owainlewis/awesome-artificial-intelligence** — A curated list of Artificial Intelligence (AI) courses, books, video lectures an...  ⭐ 40 stars today\n- **Lightricks/LTX-2** — Official Python inference and LoRA trainer package for the LTX-2 audio–video gen...  ⭐ 51 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-19T05:35:33.476864+00:00"
+}
