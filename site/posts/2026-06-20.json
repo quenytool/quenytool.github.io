@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-20",
+  "repos": [
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "1,058 stars today",
+      "total_stars": "8,428",
+      "forks": "643"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "lang": "Python",
+      "stars_today": "1,510 stars today",
+      "total_stars": "24,139",
+      "forks": "2,276"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "lang": "Swift",
+      "stars_today": "756 stars today",
+      "total_stars": "2,037",
+      "forks": "199"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_today": "156 stars today",
+      "total_stars": "57,372",
+      "forks": "9,147"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "lang": "HTML",
+      "stars_today": "107 stars today",
+      "total_stars": "27,688",
+      "forks": "5,740"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "desc": "A framework for building agent-native applications.",
+      "lang": "TypeScript",
+      "stars_today": "147 stars today",
+      "total_stars": "1,107",
+      "forks": "119"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_today": "4,005 stars today",
+      "total_stars": "39,194",
+      "forks": "2,687"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "156 stars today",
+      "total_stars": "6,392",
+      "forks": "1,090"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "desc": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "lang": "Unknown",
+      "stars_today": "480 stars today",
+      "total_stars": "4,635",
+      "forks": "468"
+    },
+    {
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "lang": "TypeScript",
+      "stars_today": "309 stars today",
+      "total_stars": "5,879",
+      "forks": "326"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "lang": "Rust",
+      "stars_today": "302 stars today",
+      "total_stars": "10,268",
+      "forks": "466"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,110 stars today",
+      "total_stars": "233,521",
+      "forks": "20,736"
+    },
+    {
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "lang": "Clojure",
+      "stars_today": "85 stars today",
+      "total_stars": "50,652",
+      "forks": "3,270"
+    },
+    {
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "lang": "TypeScript",
+      "stars_today": "292 stars today",
+      "total_stars": "39,028",
+      "forks": "2,306"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "lang": "Python",
+      "stars_today": "196 stars today",
+      "total_stars": "7,695",
+      "forks": "1,223"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-06-20：15 个项目今天值得你 star\n\n> 📅 2026-06-20  |  🔍 共收录 15 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 4 | **C**: 1 | **Swift**: 1 | **HTML**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. DeusData/codebase-memory-mcp\n\n**DeusData/codebase-memory-mcp** — High-performance code intelligence MCP server. Indexes codebases into ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,058 stars today | 📦 总星 8,428 | 🍴 643 | 💻 C\n[🔗 查看项目](https://github.com/DeusData/codebase-memory-mcp)\n\n### 2. google-research/timesfm\n\n**google-research/timesfm** — 如果你还没 star，那你可能错过了今天的船票。1,510 stars today 人已经上船了。\n\n⭐ 1,510 stars today | 📦 总星 24,139 | 🍴 2,276 | 💻 Python\n[🔗 查看项目](https://github.com/google-research/timesfm)\n\n### 3. palmier-io/palmier-pro\n\n**palmier-io/palmier-pro** — 如果你还没 star，那你可能错过了今天的船票。756 stars today 人已经上船了。\n\n⭐ 756 stars today | 📦 总星 2,037 | 🍴 199 | 💻 Swift\n[🔗 查看项目](https://github.com/palmier-io/palmier-pro)\n\n### 4. koala73/worldmonitor\n\n**koala73/worldmonitor** — 如果你还没 star，那你可能错过了今天的船票。156 stars today 人已经上船了。\n\n⭐ 156 stars today | 📦 总星 57,372 | 🍴 9,147 | 💻 TypeScript\n[🔗 查看项目](https://github.com/koala73/worldmonitor)\n\n### 5. aishwaryanr/awesome-generative-ai-guide\n\n**aishwaryanr/awesome-generative-ai-guide** — A one stop repository for generative AI research updates, in...  听起来像个周末项目，但它已经有 27,688 总星了。周末项目，认真的吗？\n\n⭐ 107 stars today | 📦 总星 27,688 | 🍴 5,740 | 💻 HTML\n[🔗 查看项目](https://github.com/aishwaryanr/awesome-generative-ai-guide)\n\n### 6. BuilderIO/agent-native\n\n**BuilderIO/agent-native** 今天拿了 147 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 147 stars today | 📦 总星 1,107 | 🍴 119 | 💻 TypeScript\n[🔗 查看项目](https://github.com/BuilderIO/agent-native)\n\n### 7. chopratejas/headroom\n\n**chopratejas/headroom** — Compress tool outputs, logs, files, and RAG chunks before th...  听起来像个周末项目，但它已经有 39,194 总星了。周末项目，认真的吗？\n\n⭐ 4,005 stars today | 📦 总星 39,194 | 🍴 2,687 | 💻 Python\n[🔗 查看项目](https://github.com/chopratejas/headroom)\n\n### 8. calesthio/OpenMontage\n\n**calesthio/OpenMontage** 今天拿了 156 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 156 stars today | 📦 总星 6,392 | 🍴 1,090 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 9. zai-org/GLM-5\n\n**zai-org/GLM-5** — 用 Unknown 写就。今天获得了 480 stars today 颗星，证明 Unknown 还活着且活得挺好。\n\n⭐ 480 stars today | 📦 总星 4,635 | 🍴 468 | 💻 Unknown\n[🔗 查看项目](https://github.com/zai-org/GLM-5)\n\n### 10. withastro/flue\n\n**withastro/flue** — 如果你还没 star，那你可能错过了今天的船票。309 stars today 人已经上船了。\n\n⭐ 309 stars today | 📦 总星 5,879 | 🍴 326 | 💻 TypeScript\n[🔗 查看项目](https://github.com/withastro/flue)\n\n---\n\n## 🫡 荣誉提名\n\n- **n0-computer/iroh** — IP addresses break, dial keys instead. Modular networking stack in Rust.  ⭐ 302 stars today\n- **obra/superpowers** — An agentic skills framework & software development methodology that works.  ⭐ 1,110 stars today\n- **penpot/penpot** — Penpot: The open-source design tool for design and code collaboration  ⭐ 85 stars today\n- **Kong/insomnia** — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an...  ⭐ 292 stars today\n- **Lightricks/LTX-2** — Official Python inference and LoRA trainer package for the LTX-2 audio–video gen...  ⭐ 196 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-20T04:53:47.094093+00:00"
+}
