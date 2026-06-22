@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-22",
+  "repos": [
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "lang": "Swift",
+      "stars_today": "1,834 stars today",
+      "total_stars": "5,779",
+      "forks": "426"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "987 stars today",
+      "total_stars": "9,461",
+      "forks": "1,351"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_today": "2,624 stars today",
+      "total_stars": "45,133",
+      "forks": "3,145"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "desc": "Turso is an in-process SQL database, compatible with SQLite.",
+      "lang": "Rust",
+      "stars_today": "548 stars today",
+      "total_stars": "20,940",
+      "forks": "1,070"
+    },
+    {
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "lang": "Clojure",
+      "stars_today": "1,135 stars today",
+      "total_stars": "52,431",
+      "forks": "3,354"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_today": "568 stars today",
+      "total_stars": "44,913",
+      "forks": "41,575"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_today": "163 stars today",
+      "total_stars": "58,274",
+      "forks": "9,216"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "lang": "Python",
+      "stars_today": "442 stars today",
+      "total_stars": "72,773",
+      "forks": "9,851"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "1,032 stars today",
+      "total_stars": "10,631",
+      "forks": "803"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "361 stars today",
+      "total_stars": "17,906",
+      "forks": "2,145"
+    },
+    {
+      "name": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "desc": "b站会员购购票辅助工具",
+      "lang": "Python",
+      "stars_today": "67 stars today",
+      "total_stars": "3,754",
+      "forks": "468"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "lang": "Python",
+      "stars_today": "294 stars today",
+      "total_stars": "18,862",
+      "forks": "3,112"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "lang": "Python",
+      "stars_today": "347 stars today",
+      "total_stars": "18,771",
+      "forks": "1,976"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "lang": "Unknown",
+      "stars_today": "125 stars today",
+      "total_stars": "54,133",
+      "forks": "5,563"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "282 stars today",
+      "total_stars": "44,637",
+      "forks": "7,360"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "1,443 stars today",
+      "total_stars": "140,235",
+      "forks": "12,159"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-06-22：palmier-pro 带着 1,834 stars today 颗星杀过来了\n\n> 📅 2026-06-22  |  🔍 共收录 16 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **Swift**: 1 | **Rust**: 1 | **Clojure**: 1 | **TypeScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. palmier-io/palmier-pro\n\n**palmier-io/palmier-pro** — 如果你还没 star，那你可能错过了今天的船票。1,834 stars today 人已经上船了。\n\n⭐ 1,834 stars today | 📦 总星 5,779 | 🍴 426 | 💻 Swift\n[🔗 查看项目](https://github.com/palmier-io/palmier-pro)\n\n### 2. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — World's first open-source, agentic video production system. 12 pipelin... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 987 stars today | 📦 总星 9,461 | 🍴 1,351 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 3. chopratejas/headroom\n\n**chopratejas/headroom** — 用 Python 写就。今天获得了 2,624 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 2,624 stars today | 📦 总星 45,133 | 🍴 3,145 | 💻 Python\n[🔗 查看项目](https://github.com/chopratejas/headroom)\n\n### 4. tursodatabase/turso\n\n**tursodatabase/turso** — 如果你还没 star，那你可能错过了今天的船票。548 stars today 人已经上船了。\n\n⭐ 548 stars today | 📦 总星 20,940 | 🍴 1,070 | 💻 Rust\n[🔗 查看项目](https://github.com/tursodatabase/turso)\n\n### 5. penpot/penpot\n\n**penpot/penpot** — Penpot: The open-source design tool for design and code collaboration...  1,135 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,135 stars today | 📦 总星 52,431 | 🍴 3,354 | 💻 Clojure\n[🔗 查看项目](https://github.com/penpot/penpot)\n\n### 6. ZhuLinsen/daily_stock_analysis\n\n**ZhuLinsen/daily_stock_analysis** — Python 写的，当然好（不是）。LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere...  568 stars today 人表示「先 star 为敬」。\n\n⭐ 568 stars today | 📦 总星 44,913 | 🍴 41,575 | 💻 Python\n[🔗 查看项目](https://github.com/ZhuLinsen/daily_stock_analysis)\n\n### 7. koala73/worldmonitor\n\n**koala73/worldmonitor** — 用 TypeScript 写就。今天获得了 163 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 163 stars today | 📦 总星 58,274 | 🍴 9,216 | 💻 TypeScript\n[🔗 查看项目](https://github.com/koala73/worldmonitor)\n\n### 8. bytedance/deer-flow\n\n**bytedance/deer-flow** — An open-source long-horizon SuperAgent harness that researches, codes,... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 442 stars today | 📦 总星 72,773 | 🍴 9,851 | 💻 Python\n[🔗 查看项目](https://github.com/bytedance/deer-flow)\n\n### 9. DeusData/codebase-memory-mcp\n\n**DeusData/codebase-memory-mcp** — High-performance code intelligence MCP server. Indexes codeb...  听起来像个周末项目，但它已经有 10,631 总星了。周末项目，认真的吗？\n\n⭐ 1,032 stars today | 📦 总星 10,631 | 🍴 803 | 💻 C\n[🔗 查看项目](https://github.com/DeusData/codebase-memory-mcp)\n\n### 10. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR...  361 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 361 stars today | 📦 总星 17,906 | 🍴 2,145 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n---\n\n## 🫡 荣誉提名\n\n- **mikumifa/biliTickerBuy** — b站会员购购票辅助工具  ⭐ 67 stars today\n- **smicallef/spiderfoot** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa...  ⭐ 294 stars today\n- **topoteretes/cognee** — Cognee is the open-source AI memory platform for agents. Give your AI agents per...  ⭐ 347 stars today\n- **byoungd/English-level-up-tips** — An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人...  ⭐ 125 stars today\n- **asgeirtj/system_prompts_leaks** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...  ⭐ 282 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-22T06:07:13.856122+00:00"
+}
