@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-23",
+  "repos": [
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "2,938 stars today",
+      "total_stars": "12,731",
+      "forks": "1,597"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "lang": "Swift",
+      "stars_today": "2,463 stars today",
+      "total_stars": "7,661",
+      "forks": "516"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "529 stars today",
+      "total_stars": "32,455",
+      "forks": "3,947"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "956 stars today",
+      "total_stars": "18,884",
+      "forks": "2,226"
+    },
+    {
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "lang": "Clojure",
+      "stars_today": "728 stars today",
+      "total_stars": "52,965",
+      "forks": "3,389"
+    },
+    {
+      "name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "lang": "TypeScript",
+      "stars_today": "547 stars today",
+      "total_stars": "83,155",
+      "forks": "7,248"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "573 stars today",
+      "total_stars": "113,327",
+      "forks": "16,813"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "lang": "TypeScript",
+      "stars_today": "395 stars today",
+      "total_stars": "30,183",
+      "forks": "2,831"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "desc": "Turso is an in-process SQL database, compatible with SQLite.",
+      "lang": "Rust",
+      "stars_today": "540 stars today",
+      "total_stars": "21,578",
+      "forks": "1,092"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "lang": "Python",
+      "stars_today": "738 stars today",
+      "total_stars": "73,401",
+      "forks": "9,918"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "1,185 stars today",
+      "total_stars": "11,841",
+      "forks": "871"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_today": "1,557 stars today",
+      "total_stars": "46,075",
+      "forks": "42,014"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "lang": "TypeScript",
+      "stars_today": "615 stars today",
+      "total_stars": "137,521",
+      "forks": "7,966"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "lang": "TypeScript",
+      "stars_today": "100 stars today",
+      "total_stars": "17,925",
+      "forks": "2,758"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "193 stars today",
+      "total_stars": "21,126",
+      "forks": "2,425"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "2,051 stars today",
+      "total_stars": "142,044",
+      "forks": "12,282"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-06-23：今天的代码，明天的 bug\n\n> 📅 2026-06-23  |  🔍 共收录 16 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Python**: 4 | **Swift**: 1 | **Clojure**: 1 | **Rust**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — World's first open-source, agentic video production system. 12 pipelin... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,938 stars today | 📦 总星 12,731 | 🍴 1,597 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 2. palmier-io/palmier-pro\n\n**palmier-io/palmier-pro** — macOS video editor built for AI...  2,463 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,463 stars today | 📦 总星 7,661 | 🍴 516 | 💻 Swift\n[🔗 查看项目](https://github.com/palmier-io/palmier-pro)\n\n### 3. jamiepine/voicebox\n\n**jamiepine/voicebox** — 用 TypeScript 写就。今天获得了 529 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 529 stars today | 📦 总星 32,455 | 🍴 3,947 | 💻 TypeScript\n[🔗 查看项目](https://github.com/jamiepine/voicebox)\n\n### 4. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 用 Python 写就。今天获得了 956 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 956 stars today | 📦 总星 18,884 | 🍴 2,226 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 5. penpot/penpot\n\n**penpot/penpot** — 用 Clojure 写就。今天获得了 728 stars today 颗星，证明 Clojure 还活着且活得挺好。\n\n⭐ 728 stars today | 📦 总星 52,965 | 🍴 3,389 | 💻 Clojure\n[🔗 查看项目](https://github.com/penpot/penpot)\n\n### 6. Stirling-Tools/Stirling-PDF\n\n**Stirling-Tools/Stirling-PDF** — #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere...  547 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 547 stars today | 📦 总星 83,155 | 🍴 7,248 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Stirling-Tools/Stirling-PDF)\n\n### 7. garrytan/gstack\n\n**garrytan/gstack** — 用 TypeScript 写就。今天获得了 573 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 573 stars today | 📦 总星 113,327 | 🍴 16,813 | 💻 TypeScript\n[🔗 查看项目](https://github.com/garrytan/gstack)\n\n### 8. heygen-com/hyperframes\n\n**heygen-com/hyperframes** — Write HTML. Render video. Built for agents....  听起来像个周末项目，但它已经有 30,183 总星了。周末项目，认真的吗？\n\n⭐ 395 stars today | 📦 总星 30,183 | 🍴 2,831 | 💻 TypeScript\n[🔗 查看项目](https://github.com/heygen-com/hyperframes)\n\n### 9. tursodatabase/turso\n\n**tursodatabase/turso** — Turso is an in-process SQL database, compatible with SQLite....  听起来像个周末项目，但它已经有 21,578 总星了。周末项目，认真的吗？\n\n⭐ 540 stars today | 📦 总星 21,578 | 🍴 1,092 | 💻 Rust\n[🔗 查看项目](https://github.com/tursodatabase/turso)\n\n### 10. bytedance/deer-flow\n\n**bytedance/deer-flow** — An open-source long-horizon SuperAgent harness that researches, codes,... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 738 stars today | 📦 总星 73,401 | 🍴 9,918 | 💻 Python\n[🔗 查看项目](https://github.com/bytedance/deer-flow)\n\n---\n\n## 🫡 荣誉提名\n\n- **DeusData/codebase-memory-mcp** — High-performance code intelligence MCP server. Indexes codebases into a persiste...  ⭐ 1,185 stars today\n- **ZhuLinsen/daily_stock_analysis** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock...  ⭐ 1,557 stars today\n- **firecrawl/firecrawl** — The API to search, scrape, and interact with the web at scale. 🔥  ⭐ 615 stars today\n- **JCodesMore/ai-website-cloner-template** — Clone any website with one command using AI coding agents  ⭐ 100 stars today\n- **lyogavin/airllm** — AirLLM 70B inference with single 4GB GPU  ⭐ 193 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-23T04:43:06.635282+00:00"
+}
