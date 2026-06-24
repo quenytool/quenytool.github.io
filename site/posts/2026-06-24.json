@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-24",
+  "repos": [
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "3,592 stars today",
+      "total_stars": "16,363",
+      "forks": "1,929"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_today": "1,119 stars today",
+      "total_stars": "47,401",
+      "forks": "42,521"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "1,041 stars today",
+      "total_stars": "19,925",
+      "forks": "2,321"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "1,011 stars today",
+      "total_stars": "114,286",
+      "forks": "16,907"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "lang": "Python",
+      "stars_today": "739 stars today",
+      "total_stars": "74,057",
+      "forks": "9,985"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_today": "294 stars today",
+      "total_stars": "59,221",
+      "forks": "9,294"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "lang": "Swift",
+      "stars_today": "1,630 stars today",
+      "total_stars": "8,538",
+      "forks": "560"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "77 stars today",
+      "total_stars": "30,904",
+      "forks": "3,364"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "lang": "HTML",
+      "stars_today": "344 stars today",
+      "total_stars": "59,638",
+      "forks": "5,996"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "lang": "HTML",
+      "stars_today": "128 stars today",
+      "total_stars": "7,484",
+      "forks": "1,046"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "1,045 stars today",
+      "total_stars": "33,329",
+      "forks": "4,022"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "lang": "TypeScript",
+      "stars_today": "826 stars today",
+      "total_stars": "18,684",
+      "forks": "2,813"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "lang": "Unknown",
+      "stars_today": "125 stars today",
+      "total_stars": "54,576",
+      "forks": "5,588"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "1,300 stars today",
+      "total_stars": "13,261",
+      "forks": "969"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "936 stars today",
+      "total_stars": "201,154",
+      "forks": "35,892"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "593 stars today",
+      "total_stars": "220,674",
+      "forks": "33,793"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：OpenMontage 爆火，Python 又双叒叕赢了\n\n> 📅 2026-06-24  |  🔍 共收录 16 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 4 | **HTML**: 2 | **Swift**: 1 | **Unknown**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — 如果你还没 star，那你可能错过了今天的船票。3,592 stars today 人已经上船了。\n\n⭐ 3,592 stars today | 📦 总星 16,363 | 🍴 1,929 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 2. ZhuLinsen/daily_stock_analysis\n\n**ZhuLinsen/daily_stock_analysis** — 用 Python 写就。今天获得了 1,119 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 1,119 stars today | 📦 总星 47,401 | 🍴 42,521 | 💻 Python\n[🔗 查看项目](https://github.com/ZhuLinsen/daily_stock_analysis)\n\n### 3. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — Python 写的，当然好（不是）。817 structured cybersecurity skills for AI agents · Mapped t...  1,041 stars today 人表示「先 star 为敬」。\n\n⭐ 1,041 stars today | 📦 总星 19,925 | 🍴 2,321 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 4. garrytan/gstack\n\n**garrytan/gstack** — Use Garry Tan's exact Claude Code setup: 23 opinionated tool...  听起来像个周末项目，但它已经有 114,286 总星了。周末项目，认真的吗？\n\n⭐ 1,011 stars today | 📦 总星 114,286 | 🍴 16,907 | 💻 TypeScript\n[🔗 查看项目](https://github.com/garrytan/gstack)\n\n### 5. bytedance/deer-flow\n\n**bytedance/deer-flow** — Python 写的，当然好（不是）。An open-source long-horizon SuperAgent harness that research...  739 stars today 人表示「先 star 为敬」。\n\n⭐ 739 stars today | 📦 总星 74,057 | 🍴 9,985 | 💻 Python\n[🔗 查看项目](https://github.com/bytedance/deer-flow)\n\n### 6. koala73/worldmonitor\n\n**koala73/worldmonitor** — 用 TypeScript 写就。今天获得了 294 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 294 stars today | 📦 总星 59,221 | 🍴 9,294 | 💻 TypeScript\n[🔗 查看项目](https://github.com/koala73/worldmonitor)\n\n### 7. palmier-io/palmier-pro\n\n**palmier-io/palmier-pro** — macOS video editor built for AI... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,630 stars today | 📦 总星 8,538 | 🍴 560 | 💻 Swift\n[🔗 查看项目](https://github.com/palmier-io/palmier-pro)\n\n### 8. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — 如果你还没 star，那你可能错过了今天的船票。77 stars today 人已经上船了。\n\n⭐ 77 stars today | 📦 总星 30,904 | 🍴 3,364 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 9. shanraisshan/claude-code-best-practice\n\n**shanraisshan/claude-code-best-practice** — 用 HTML 写就。今天获得了 344 stars today 颗星，证明 HTML 还活着且活得挺好。\n\n⭐ 344 stars today | 📦 总星 59,638 | 🍴 5,996 | 💻 HTML\n[🔗 查看项目](https://github.com/shanraisshan/claude-code-best-practice)\n\n### 10. revfactory/harness\n\n**revfactory/harness** — A meta-skill that designs domain-specific agent teams, defin...  听起来像个周末项目，但它已经有 7,484 总星了。周末项目，认真的吗？\n\n⭐ 128 stars today | 📦 总星 7,484 | 🍴 1,046 | 💻 HTML\n[🔗 查看项目](https://github.com/revfactory/harness)\n\n---\n\n## 🫡 荣誉提名\n\n- **jamiepine/voicebox** — The open-source AI voice studio. Clone, dictate, create.  ⭐ 1,045 stars today\n- **JCodesMore/ai-website-cloner-template** — Clone any website with one command using AI coding agents  ⭐ 826 stars today\n- **byoungd/English-level-up-tips** — An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人...  ⭐ 125 stars today\n- **DeusData/codebase-memory-mcp** — High-performance code intelligence MCP server. Indexes codebases into a persiste...  ⭐ 1,300 stars today\n- **NousResearch/hermes-agent** — The agent that grows with you  ⭐ 936 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-24T04:48:10.342856+00:00"
+}
