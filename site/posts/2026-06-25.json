@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-25",
+  "repos": [
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "3,719 stars today",
+      "total_stars": "20,058",
+      "forks": "2,266"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_today": "1,468 stars today",
+      "total_stars": "48,815",
+      "forks": "43,095"
+    },
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "lang": "Swift",
+      "stars_today": "1,838 stars today",
+      "total_stars": "42,466",
+      "forks": "1,249"
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "desc": "AI agent to evaluate and score resumes.",
+      "lang": "Python",
+      "stars_today": "203 stars today",
+      "total_stars": "2,361",
+      "forks": "612"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "lang": "TypeScript",
+      "stars_today": "692 stars today",
+      "total_stars": "19,526",
+      "forks": "2,902"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "lang": "HTML",
+      "stars_today": "277 stars today",
+      "total_stars": "7,817",
+      "forks": "1,063"
+    },
+    {
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "lang": "Dart",
+      "stars_today": "73 stars today",
+      "total_stars": "177,440",
+      "forks": "30,550"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "url": "https://github.com/andreknieriem/headunit-revived",
+      "desc": "Headunit App for displaying Android Auto",
+      "lang": "Kotlin",
+      "stars_today": "41 stars today",
+      "total_stars": "1,458",
+      "forks": "115"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "lang": "TypeScript",
+      "stars_today": "331 stars today",
+      "total_stars": "6,944",
+      "forks": "500"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "lang": "TypeScript",
+      "stars_today": "619 stars today",
+      "total_stars": "17,549",
+      "forks": "1,578"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "desc": "",
+      "lang": "Batchfile",
+      "stars_today": "61 stars today",
+      "total_stars": "30,042",
+      "forks": "2,344"
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "desc": "git push no-mistakes",
+      "lang": "Go",
+      "stars_today": "110 stars today",
+      "total_stars": "2,364",
+      "forks": "156"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "1,178 stars today",
+      "total_stars": "202,243",
+      "forks": "36,146"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-06-25：今天的代码，明天的 bug\n\n> 📅 2026-06-25  |  🔍 共收录 13 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 3 | **Swift**: 1 | **HTML**: 1 | **Dart**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — Python 写的，当然好（不是）。World's first open-source, agentic video production system. ...  3,719 stars today 人表示「先 star 为敬」。\n\n⭐ 3,719 stars today | 📦 总星 20,058 | 🍴 2,266 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 2. ZhuLinsen/daily_stock_analysis\n\n**ZhuLinsen/daily_stock_analysis** — Python 写的，当然好（不是）。LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere...  1,468 stars today 人表示「先 star 为敬」。\n\n⭐ 1,468 stars today | 📦 总星 48,815 | 🍴 43,095 | 💻 Python\n[🔗 查看项目](https://github.com/ZhuLinsen/daily_stock_analysis)\n\n### 3. apple/container\n\n**apple/container** — A tool for creating and running Linux containers using lightweight virtual machi...  1,838 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,838 stars today | 📦 总星 42,466 | 🍴 1,249 | 💻 Swift\n[🔗 查看项目](https://github.com/apple/container)\n\n### 4. interviewstreet/hiring-agent\n\n**interviewstreet/hiring-agent** — AI agent to evaluate and score resumes....  听起来像个周末项目，但它已经有 2,361 总星了。周末项目，认真的吗？\n\n⭐ 203 stars today | 📦 总星 2,361 | 🍴 612 | 💻 Python\n[🔗 查看项目](https://github.com/interviewstreet/hiring-agent)\n\n### 5. JCodesMore/ai-website-cloner-template\n\n**JCodesMore/ai-website-cloner-template** — Clone any website with one command using AI coding agents... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 692 stars today | 📦 总星 19,526 | 🍴 2,902 | 💻 TypeScript\n[🔗 查看项目](https://github.com/JCodesMore/ai-website-cloner-template)\n\n### 6. revfactory/harness\n\n**revfactory/harness** — 如果你还没 star，那你可能错过了今天的船票。277 stars today 人已经上船了。\n\n⭐ 277 stars today | 📦 总星 7,817 | 🍴 1,063 | 💻 HTML\n[🔗 查看项目](https://github.com/revfactory/harness)\n\n### 7. flutter/flutter\n\n**flutter/flutter** — Dart 写的，当然好（不是）。Flutter makes it easy and fast to build beautiful apps for m...  73 stars today 人表示「先 star 为敬」。\n\n⭐ 73 stars today | 📦 总星 177,440 | 🍴 30,550 | 💻 Dart\n[🔗 查看项目](https://github.com/flutter/flutter)\n\n### 8. andreknieriem/headunit-revived\n\n**andreknieriem/headunit-revived** — Headunit App for displaying Android Auto...  41 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 41 stars today | 📦 总星 1,458 | 🍴 115 | 💻 Kotlin\n[🔗 查看项目](https://github.com/andreknieriem/headunit-revived)\n\n### 9. stablyai/orca\n\n**stablyai/orca** — 如果你还没 star，那你可能错过了今天的船票。331 stars today 人已经上船了。\n\n⭐ 331 stars today | 📦 总星 6,944 | 🍴 500 | 💻 TypeScript\n[🔗 查看项目](https://github.com/stablyai/orca)\n\n### 10. google-labs-code/design.md\n\n**google-labs-code/design.md** — A format specification for describing a visual identity to c...  听起来像个周末项目，但它已经有 17,549 总星了。周末项目，认真的吗？\n\n⭐ 619 stars today | 📦 总星 17,549 | 🍴 1,578 | 💻 TypeScript\n[🔗 查看项目](https://github.com/google-labs-code/design.md)\n\n---\n\n## 🫡 荣誉提名\n\n- **Flowseal/zapret-discord-youtube** —   ⭐ 61 stars today\n- **kunchenguid/no-mistakes** — git push no-mistakes  ⭐ 110 stars today\n- **NousResearch/hermes-agent** — The agent that grows with you  ⭐ 1,178 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-25T04:47:36.003035+00:00"
+}
