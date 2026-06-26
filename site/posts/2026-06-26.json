@@ -1,0 +1,151 @@
+{
+  "date": "2026-06-26",
+  "repos": [
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "lang": "TypeScript",
+      "stars_today": "1,475 stars today",
+      "total_stars": "19,669",
+      "forks": "1,670"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "3,434 stars today",
+      "total_stars": "22,412",
+      "forks": "2,508"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "lang": "Python",
+      "stars_today": "309 stars today",
+      "total_stars": "2,225",
+      "forks": "333"
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "desc": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "lang": "TypeScript",
+      "stars_today": "241 stars today",
+      "total_stars": "6,878",
+      "forks": "618"
+    },
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "lang": "Swift",
+      "stars_today": "1,351 stars today",
+      "total_stars": "43,314",
+      "forks": "1,272"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "lang": "TypeScript",
+      "stars_today": "1,024 stars today",
+      "total_stars": "20,664",
+      "forks": "3,032"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "lang": "TypeScript",
+      "stars_today": "57 stars today",
+      "total_stars": "2,639",
+      "forks": "303"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "767 stars today",
+      "total_stars": "115,958",
+      "forks": "17,183"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "lang": "Python",
+      "stars_today": "47 stars today",
+      "total_stars": "1,180",
+      "forks": "115"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "571 stars today",
+      "total_stars": "21,374",
+      "forks": "2,463"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "lang": "TypeScript",
+      "stars_today": "163 stars today",
+      "total_stars": "19,952",
+      "forks": "1,712"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "lang": "Go",
+      "stars_today": "223 stars today",
+      "total_stars": "34,915",
+      "forks": "1,995"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "lang": "Python",
+      "stars_today": "644 stars today",
+      "total_stars": "69,754",
+      "forks": "5,896"
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "desc": "M3U Playlist for free TV channels",
+      "lang": "Python",
+      "stars_today": "139 stars today",
+      "total_stars": "18,280",
+      "forks": "2,683"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "lang": "HTML",
+      "stars_today": "287 stars today",
+      "total_stars": "60,751",
+      "forks": "6,079"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_today": "398 stars today",
+      "total_stars": "52,922",
+      "forks": "10,938"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-06-26\n\n> 📅 2026-06-26  |  🔍 共收录 16 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 6 | **Swift**: 1 | **Go**: 1 | **HTML**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. google-labs-code/design.md\n\n**google-labs-code/design.md** — A format specification for describing a visual identity to coding agen... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,475 stars today | 📦 总星 19,669 | 🍴 1,670 | 💻 TypeScript\n[🔗 查看项目](https://github.com/google-labs-code/design.md)\n\n### 2. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — World's first open-source, agentic video production system. 12 pipelines, 52 too...  3,434 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 3,434 stars today | 📦 总星 22,412 | 🍴 2,508 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 3. xbtlin/ai-berkshire\n\n**xbtlin/ai-berkshire** — 如果你还没 star，那你可能错过了今天的船票。309 stars today 人已经上船了。\n\n⭐ 309 stars today | 📦 总星 2,225 | 🍴 333 | 💻 Python\n[🔗 查看项目](https://github.com/xbtlin/ai-berkshire)\n\n### 4. mauriceboe/TREK\n\n**mauriceboe/TREK** — A self-hosted travel/trip planner with real-time collaboration, intera... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 241 stars today | 📦 总星 6,878 | 🍴 618 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mauriceboe/TREK)\n\n### 5. apple/container\n\n**apple/container** — A tool for creating and running Linux containers using lightweight virtual machi...  1,351 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,351 stars today | 📦 总星 43,314 | 🍴 1,272 | 💻 Swift\n[🔗 查看项目](https://github.com/apple/container)\n\n### 6. JCodesMore/ai-website-cloner-template\n\n**JCodesMore/ai-website-cloner-template** — Clone any website with one command using AI coding agents... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,024 stars today | 📦 总星 20,664 | 🍴 3,032 | 💻 TypeScript\n[🔗 查看项目](https://github.com/JCodesMore/ai-website-cloner-template)\n\n### 7. every-app/open-seo\n\n**every-app/open-seo** — Open source alternative to Semrush and Ahrefs...  57 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 57 stars today | 📦 总星 2,639 | 🍴 303 | 💻 TypeScript\n[🔗 查看项目](https://github.com/every-app/open-seo)\n\n### 8. garrytan/gstack\n\n**garrytan/gstack** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...  767 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 767 stars today | 📦 总星 115,958 | 🍴 17,183 | 💻 TypeScript\n[🔗 查看项目](https://github.com/garrytan/gstack)\n\n### 9. aws/agent-toolkit-for-aws\n\n**aws/agent-toolkit-for-aws** — Python 写的，当然好（不是）。Official, AWS-supported MCP servers, skills, and plugins to ...  47 stars today 人表示「先 star 为敬」。\n\n⭐ 47 stars today | 📦 总星 1,180 | 🍴 115 | 💻 Python\n[🔗 查看项目](https://github.com/aws/agent-toolkit-for-aws)\n\n### 10. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 817 structured cybersecurity skills for AI agents · Mapped t...  听起来像个周末项目，但它已经有 21,374 总星了。周末项目，认真的吗？\n\n⭐ 571 stars today | 📦 总星 21,374 | 🍴 2,463 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n---\n\n## 🫡 荣誉提名\n\n- **alibaba/page-agent** — JavaScript in-page GUI agent. Control web interfaces with natural language.  ⭐ 163 stars today\n- **IceWhaleTech/CasaOS** — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.  ⭐ 223 stars today\n- **opendatalab/MinerU** — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J...  ⭐ 644 stars today\n- **Free-TV/IPTV** — M3U Playlist for free TV channels  ⭐ 139 stars today\n- **shanraisshan/claude-code-best-practice** — from vibe coding to agentic engineering - practice makes claude perfect  ⭐ 287 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-26T04:52:00.261694+00:00"
+}
