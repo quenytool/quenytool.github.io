@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-27",
+  "repos": [
+    {
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "lang": "Haskell",
+      "stars_today": "432 stars today",
+      "total_stars": "12,766",
+      "forks": "722"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "lang": "TypeScript",
+      "stars_today": "2,407 stars today",
+      "total_stars": "21,484",
+      "forks": "1,737"
+    },
+    {
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "lang": "Python",
+      "stars_today": "80 stars today",
+      "total_stars": "61,834",
+      "forks": "11,051"
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "desc": "git push no-mistakes",
+      "lang": "Go",
+      "stars_today": "398 stars today",
+      "total_stars": "3,514",
+      "forks": "210"
+    },
+    {
+      "name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "lang": "TypeScript",
+      "stars_today": "32 stars today",
+      "total_stars": "74,960",
+      "forks": "14,130"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_today": "90 stars today",
+      "total_stars": "123,799",
+      "forks": "13,054"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "lang": "Python",
+      "stars_today": "960 stars today",
+      "total_stars": "70,532",
+      "forks": "5,942"
+    },
+    {
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "desc": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "lang": "Unknown",
+      "stars_today": "160 stars today",
+      "total_stars": "9,304",
+      "forks": "2,568"
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "desc": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "lang": "TypeScript",
+      "stars_today": "1,060 stars today",
+      "total_stars": "7,757",
+      "forks": "655"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "lang": "Python",
+      "stars_today": "1,274 stars today",
+      "total_stars": "3,223",
+      "forks": "480"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "1,754 stars today",
+      "total_stars": "23,849",
+      "forks": "2,653"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "lang": "Python",
+      "stars_today": "243 stars today",
+      "total_stars": "1,386",
+      "forks": "123"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_today": "673 stars today",
+      "total_stars": "53,430",
+      "forks": "10,985"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "950 stars today",
+      "total_stars": "116,701",
+      "forks": "17,319"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "lang": "Go",
+      "stars_today": "619 stars today",
+      "total_stars": "35,458",
+      "forks": "2,028"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "lang": "TypeScript",
+      "stars_today": "1,088 stars today",
+      "total_stars": "21,459",
+      "forks": "3,107"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "1,194 stars today",
+      "total_stars": "42,537",
+      "forks": "3,381"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-06-27：simplex-chat 带着 432 stars today 颗星杀过来了\n\n> 📅 2026-06-27  |  🔍 共收录 17 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 5 | **Go**: 2 | **Haskell**: 1 | **HTML**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. simplex-chat/simplex-chat\n\n**simplex-chat/simplex-chat** 今天拿了 432 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 432 stars today | 📦 总星 12,766 | 🍴 722 | 💻 Haskell\n[🔗 查看项目](https://github.com/simplex-chat/simplex-chat)\n\n### 2. google-labs-code/design.md\n\n**google-labs-code/design.md** — A format specification for describing a visual identity to c...  听起来像个周末项目，但它已经有 21,484 总星了。周末项目，认真的吗？\n\n⭐ 2,407 stars today | 📦 总星 21,484 | 🍴 1,737 | 💻 TypeScript\n[🔗 查看项目](https://github.com/google-labs-code/design.md)\n\n### 3. commaai/openpilot\n\n**commaai/openpilot** — Python 写的，当然好（不是）。openpilot is an operating system for robotics. Currently, it...  80 stars today 人表示「先 star 为敬」。\n\n⭐ 80 stars today | 📦 总星 61,834 | 🍴 11,051 | 💻 Python\n[🔗 查看项目](https://github.com/commaai/openpilot)\n\n### 4. kunchenguid/no-mistakes\n\n**kunchenguid/no-mistakes** — git push no-mistakes...  398 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 398 stars today | 📦 总星 3,514 | 🍴 210 | 💻 Go\n[🔗 查看项目](https://github.com/kunchenguid/no-mistakes)\n\n### 5. grafana/grafana\n\n**grafana/grafana** — The open and composable observability and data visualization platform. Visualize...  32 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 32 stars today | 📦 总星 74,960 | 🍴 14,130 | 💻 TypeScript\n[🔗 查看项目](https://github.com/grafana/grafana)\n\n### 6. ripienaar/free-for-dev\n\n**ripienaar/free-for-dev** — A list of SaaS, PaaS and IaaS offerings that have free tiers...  听起来像个周末项目，但它已经有 123,799 总星了。周末项目，认真的吗？\n\n⭐ 90 stars today | 📦 总星 123,799 | 🍴 13,054 | 💻 HTML\n[🔗 查看项目](https://github.com/ripienaar/free-for-dev)\n\n### 7. opendatalab/MinerU\n\n**opendatalab/MinerU** — Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J...  960 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 960 stars today | 📦 总星 70,532 | 🍴 5,942 | 💻 Python\n[🔗 查看项目](https://github.com/opendatalab/MinerU)\n\n### 8. alchaincyf/zhangxuefeng-skill\n\n**alchaincyf/zhangxuefeng-skill** — Unknown 写的，当然好（不是）。张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。...  160 stars today 人表示「先 star 为敬」。\n\n⭐ 160 stars today | 📦 总星 9,304 | 🍴 2,568 | 💻 Unknown\n[🔗 查看项目](https://github.com/alchaincyf/zhangxuefeng-skill)\n\n### 9. mauriceboe/TREK\n\n**mauriceboe/TREK** — A self-hosted travel/trip planner with real-time collaboration, intera... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,060 stars today | 📦 总星 7,757 | 🍴 655 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mauriceboe/TREK)\n\n### 10. xbtlin/ai-berkshire\n\n**xbtlin/ai-berkshire** — AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be...  1,274 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,274 stars today | 📦 总星 3,223 | 🍴 480 | 💻 Python\n[🔗 查看项目](https://github.com/xbtlin/ai-berkshire)\n\n---\n\n## 🫡 荣誉提名\n\n- **calesthio/OpenMontage** — World's first open-source, agentic video production system. 12 pipelines, 52 too...  ⭐ 1,754 stars today\n- **aws/agent-toolkit-for-aws** — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build...  ⭐ 243 stars today\n- **NanmiCoder/MediaCrawler** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬...  ⭐ 673 stars today\n- **garrytan/gstack** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...  ⭐ 950 stars today\n- **IceWhaleTech/CasaOS** — CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.  ⭐ 619 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-27T04:36:27.953585+00:00"
+}
