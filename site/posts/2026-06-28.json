@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-28",
+  "repos": [
+    {
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "lang": "Haskell",
+      "stars_today": "1,469 stars today",
+      "total_stars": "13,991",
+      "forks": "802"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "lang": "Python",
+      "stars_today": "685 stars today",
+      "total_stars": "4,399",
+      "forks": "612"
+    },
+    {
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "lang": "Python",
+      "stars_today": "322 stars today",
+      "total_stars": "62,112",
+      "forks": "11,068"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "lang": "Go",
+      "stars_today": "502 stars today",
+      "total_stars": "35,848",
+      "forks": "2,045"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_today": "459 stars today",
+      "total_stars": "124,235",
+      "forks": "13,086"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "lang": "TypeScript",
+      "stars_today": "1,541 stars today",
+      "total_stars": "22,450",
+      "forks": "1,792"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "lang": "C",
+      "stars_today": "57 stars today",
+      "total_stars": "135,747",
+      "forks": "8,168"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "desc": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "lang": "Python",
+      "stars_today": "589 stars today",
+      "total_stars": "33,234",
+      "forks": "2,821"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "Clone any website with one command using AI coding agents",
+      "lang": "TypeScript",
+      "stars_today": "750 stars today",
+      "total_stars": "22,243",
+      "forks": "3,185"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "674 stars today",
+      "total_stars": "117,358",
+      "forks": "17,435"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_today": "394 stars today",
+      "total_stars": "53,835",
+      "forks": "11,018"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "desc": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "lang": "JavaScript",
+      "stars_today": "255 stars today",
+      "total_stars": "21,459",
+      "forks": "3,649"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "lang": "Python",
+      "stars_today": "780 stars today",
+      "total_stars": "24,118",
+      "forks": "2,258"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "url": "https://github.com/dbt-labs/dbt-core",
+      "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "lang": "Rust",
+      "stars_today": "18 stars today",
+      "total_stars": "13,248",
+      "forks": "2,440"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars_today": "141 stars today",
+      "total_stars": "38,686",
+      "forks": "4,659"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_today": "392 stars today",
+      "total_stars": "179,858",
+      "forks": "22,108"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "desc": "Spec-driven development (SDD) for AI coding assistants.",
+      "lang": "TypeScript",
+      "stars_today": "177 stars today",
+      "total_stars": "57,212",
+      "forks": "3,990"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "92 stars today",
+      "total_stars": "13,793",
+      "forks": "2,594"
+    },
+    {
+      "name": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+      "lang": "Java",
+      "stars_today": "20 stars today",
+      "total_stars": "35,322",
+      "forks": "8,557"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "lang": "TypeScript",
+      "stars_today": "239 stars today",
+      "total_stars": "3,490",
+      "forks": "379"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-06-28：simplex-chat 让 1,469 stars today 个开发者点了收藏\n\n> 📅 2026-06-28  |  🔍 共收录 20 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 6 | **Haskell**: 1 | **Go**: 1 | **HTML**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. simplex-chat/simplex-chat\n\n**simplex-chat/simplex-chat** — SimpleX - the first messaging network operating without user identifie... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,469 stars today | 📦 总星 13,991 | 🍴 802 | 💻 Haskell\n[🔗 查看项目](https://github.com/simplex-chat/simplex-chat)\n\n### 2. xbtlin/ai-berkshire\n\n**xbtlin/ai-berkshire** — 如果你还没 star，那你可能错过了今天的船票。685 stars today 人已经上船了。\n\n⭐ 685 stars today | 📦 总星 4,399 | 🍴 612 | 💻 Python\n[🔗 查看项目](https://github.com/xbtlin/ai-berkshire)\n\n### 3. commaai/openpilot\n\n**commaai/openpilot** — 如果你还没 star，那你可能错过了今天的船票。322 stars today 人已经上船了。\n\n⭐ 322 stars today | 📦 总星 62,112 | 🍴 11,068 | 💻 Python\n[🔗 查看项目](https://github.com/commaai/openpilot)\n\n### 4. IceWhaleTech/CasaOS\n\n**IceWhaleTech/CasaOS** 今天拿了 502 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 502 stars today | 📦 总星 35,848 | 🍴 2,045 | 💻 Go\n[🔗 查看项目](https://github.com/IceWhaleTech/CasaOS)\n\n### 5. ripienaar/free-for-dev\n\n**ripienaar/free-for-dev** — 用 HTML 写就。今天获得了 459 stars today 颗星，证明 HTML 还活着且活得挺好。\n\n⭐ 459 stars today | 📦 总星 124,235 | 🍴 13,086 | 💻 HTML\n[🔗 查看项目](https://github.com/ripienaar/free-for-dev)\n\n### 6. google-labs-code/design.md\n\n**google-labs-code/design.md** 今天拿了 1,541 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,541 stars today | 📦 总星 22,450 | 🍴 1,792 | 💻 TypeScript\n[🔗 查看项目](https://github.com/google-labs-code/design.md)\n\n### 7. microsoft/PowerToys\n\n**microsoft/PowerToys** — C 写的，当然好（不是）。Microsoft PowerToys is a collection of utilities that superc...  57 stars today 人表示「先 star 为敬」。\n\n⭐ 57 stars today | 📦 总星 135,747 | 🍴 8,168 | 💻 C\n[🔗 查看项目](https://github.com/microsoft/PowerToys)\n\n### 8. hugohe3/ppt-master\n\n**hugohe3/ppt-master** — 如果你还没 star，那你可能错过了今天的船票。589 stars today 人已经上船了。\n\n⭐ 589 stars today | 📦 总星 33,234 | 🍴 2,821 | 💻 Python\n[🔗 查看项目](https://github.com/hugohe3/ppt-master)\n\n### 9. JCodesMore/ai-website-cloner-template\n\n**JCodesMore/ai-website-cloner-template** — 用 TypeScript 写就。今天获得了 750 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 750 stars today | 📦 总星 22,243 | 🍴 3,185 | 💻 TypeScript\n[🔗 查看项目](https://github.com/JCodesMore/ai-website-cloner-template)\n\n### 10. garrytan/gstack\n\n**garrytan/gstack** — Use Garry Tan's exact Claude Code setup: 23 opinionated tool...  听起来像个周末项目，但它已经有 117,358 总星了。周末项目，认真的吗？\n\n⭐ 674 stars today | 📦 总星 117,358 | 🍴 17,435 | 💻 TypeScript\n[🔗 查看项目](https://github.com/garrytan/gstack)\n\n---\n\n## 🫡 荣誉提名\n\n- **NanmiCoder/MediaCrawler** — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬...  ⭐ 394 stars today\n- **Anil-matcha/Open-Generative-AI** — Unrestricted Open-source alternative to AI video platforms — Free AI image & vid...  ⭐ 255 stars today\n- **topoteretes/cognee** — Cognee is the open-source AI memory platform for agents. Give your AI agents per...  ⭐ 780 stars today\n- **dbt-labs/dbt-core** — dbt enables data analysts and engineers to transform their data using the same p...  ⭐ 18 stars today\n- **luongnv89/claude-howto** — A visual, example-driven guide to Claude Code — from basic concepts to advanced ...  ⭐ 141 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-28T05:05:01.429397+00:00"
+}
