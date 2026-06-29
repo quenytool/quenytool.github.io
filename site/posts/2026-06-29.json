@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-29",
+  "repos": [
+    {
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "lang": "Haskell",
+      "stars_today": "1,180 stars today",
+      "total_stars": "15,366",
+      "forks": "882"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_today": "495 stars today",
+      "total_stars": "125,645",
+      "forks": "13,193"
+    },
+    {
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "lang": "Python",
+      "stars_today": "266 stars today",
+      "total_stars": "62,513",
+      "forks": "11,096"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "lang": "Python",
+      "stars_today": "1,445 stars today",
+      "total_stars": "5,688",
+      "forks": "764"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "lang": "Python",
+      "stars_today": "372 stars today",
+      "total_stars": "8,330",
+      "forks": "808"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "2,190 stars today",
+      "total_stars": "20,135",
+      "forks": "1,452"
+    },
+    {
+      "name": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "desc": "NumPy & SciPy for GPU",
+      "lang": "Python",
+      "stars_today": "174 stars today",
+      "total_stars": "11,584",
+      "forks": "1,072"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "lang": "Swift",
+      "stars_today": "365 stars today",
+      "total_stars": "3,864",
+      "forks": "243"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "lang": "Python",
+      "stars_today": "380 stars today",
+      "total_stars": "71,831",
+      "forks": "6,024"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "492 stars today",
+      "total_stars": "14,497",
+      "forks": "2,644"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "lang": "Unknown",
+      "stars_today": "250 stars today",
+      "total_stars": "84,662",
+      "forks": "9,364"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_today": "122 stars today",
+      "total_stars": "26,889",
+      "forks": "2,997"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_today": "196 stars today",
+      "total_stars": "11,274",
+      "forks": "1,532"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-06-29：13 个项目今天值得你 star\n\n> 📅 2026-06-29  |  🔍 共收录 13 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **Haskell**: 1 | **HTML**: 1 | **C**: 1 | **Swift**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. simplex-chat/simplex-chat\n\n**simplex-chat/simplex-chat** — 用 Haskell 写就。今天获得了 1,180 stars today 颗星，证明 Haskell 还活着且活得挺好。\n\n⭐ 1,180 stars today | 📦 总星 15,366 | 🍴 882 | 💻 Haskell\n[🔗 查看项目](https://github.com/simplex-chat/simplex-chat)\n\n### 2. ripienaar/free-for-dev\n\n**ripienaar/free-for-dev** — A list of SaaS, PaaS and IaaS offerings that have free tiers...  听起来像个周末项目，但它已经有 125,645 总星了。周末项目，认真的吗？\n\n⭐ 495 stars today | 📦 总星 125,645 | 🍴 13,193 | 💻 HTML\n[🔗 查看项目](https://github.com/ripienaar/free-for-dev)\n\n### 3. commaai/openpilot\n\n**commaai/openpilot** 今天拿了 266 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 266 stars today | 📦 总星 62,513 | 🍴 11,096 | 💻 Python\n[🔗 查看项目](https://github.com/commaai/openpilot)\n\n### 4. xbtlin/ai-berkshire\n\n**xbtlin/ai-berkshire** 今天拿了 1,445 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,445 stars today | 📦 总星 5,688 | 🍴 764 | 💻 Python\n[🔗 查看项目](https://github.com/xbtlin/ai-berkshire)\n\n### 5. Robbyant/lingbot-map\n\n**Robbyant/lingbot-map** — A feed-forward 3D foundation model for reconstructing scenes from streaming data...  372 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 372 stars today | 📦 总星 8,330 | 🍴 808 | 💻 Python\n[🔗 查看项目](https://github.com/Robbyant/lingbot-map)\n\n### 6. DeusData/codebase-memory-mcp\n\n**DeusData/codebase-memory-mcp** — 如果你还没 star，那你可能错过了今天的船票。2,190 stars today 人已经上船了。\n\n⭐ 2,190 stars today | 📦 总星 20,135 | 🍴 1,452 | 💻 C\n[🔗 查看项目](https://github.com/DeusData/codebase-memory-mcp)\n\n### 7. cupy/cupy\n\n**cupy/cupy** — Python 写的，当然好（不是）。NumPy & SciPy for GPU...  174 stars today 人表示「先 star 为敬」。\n\n⭐ 174 stars today | 📦 总星 11,584 | 🍴 1,072 | 💻 Python\n[🔗 查看项目](https://github.com/cupy/cupy)\n\n### 8. altic-dev/FluidVoice\n\n**altic-dev/FluidVoice** — 用 Swift 写就。今天获得了 365 stars today 颗星，证明 Swift 还活着且活得挺好。\n\n⭐ 365 stars today | 📦 总星 3,864 | 🍴 243 | 💻 Swift\n[🔗 查看项目](https://github.com/altic-dev/FluidVoice)\n\n### 9. opendatalab/MinerU\n\n**opendatalab/MinerU** — Transforms complex documents like PDFs and Office docs into LLM-ready ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 380 stars today | 📦 总星 71,831 | 🍴 6,024 | 💻 Python\n[🔗 查看项目](https://github.com/opendatalab/MinerU)\n\n### 10. HKUDS/Vibe-Trading\n\n**HKUDS/Vibe-Trading** — \"Vibe-Trading: Your Personal Trading Agent\"...  听起来像个周末项目，但它已经有 14,497 总星了。周末项目，认真的吗？\n\n⭐ 492 stars today | 📦 总星 14,497 | 🍴 2,644 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/Vibe-Trading)\n\n---\n\n## 🫡 荣誉提名\n\n- **ByteByteGoHq/system-design-101** — Explain complex systems using visuals and simple terms. Help you prepare for sys...  ⭐ 250 stars today\n- **usestrix/strix** — Open-source AI hackers to find and fix your app’s vulnerabilities.  ⭐ 122 stars today\n- **browser-use/video-use** — Edit videos with coding agents  ⭐ 196 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-29T05:14:50.717955+00:00"
+}
