@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-30",
+  "repos": [
+    {
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "lang": "Haskell",
+      "stars_today": "1,607 stars today",
+      "total_stars": "16,805",
+      "forks": "974"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "1,425 stars today",
+      "total_stars": "119,232",
+      "forks": "19,516"
+    },
+    {
+      "name": "cupy/cupy",
+      "url": "https://github.com/cupy/cupy",
+      "desc": "NumPy & SciPy for GPU",
+      "lang": "Python",
+      "stars_today": "352 stars today",
+      "total_stars": "11,885",
+      "forks": "1,083"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+      "lang": "Swift",
+      "stars_today": "830 stars today",
+      "total_stars": "4,491",
+      "forks": "283"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "lang": "Python",
+      "stars_today": "224 stars today",
+      "total_stars": "34,492",
+      "forks": "2,606"
+    },
+    {
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "lang": "Python",
+      "stars_today": "458 stars today",
+      "total_stars": "62,817",
+      "forks": "11,113"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_today": "1,935 stars today",
+      "total_stars": "126,850",
+      "forks": "13,272"
+    },
+    {
+      "name": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+      "lang": "TypeScript",
+      "stars_today": "158 stars today",
+      "total_stars": "12,777",
+      "forks": "873"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "lang": "Python",
+      "stars_today": "1,386 stars today",
+      "total_stars": "6,857",
+      "forks": "891"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_today": "967 stars today",
+      "total_stars": "12,056",
+      "forks": "1,575"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "desc": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "lang": "Python",
+      "stars_today": "129 stars today",
+      "total_stars": "1,237",
+      "forks": "181"
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "desc": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "lang": "Shell",
+      "stars_today": "331 stars today",
+      "total_stars": "2,027",
+      "forks": "207"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "839 stars today",
+      "total_stars": "15,235",
+      "forks": "2,697"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "desc": "Desktop app to manage markdown knowledge bases",
+      "lang": "TypeScript",
+      "stars_today": "280 stars today",
+      "total_stars": "17,613",
+      "forks": "1,207"
+    },
+    {
+      "name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "desc": "Disk encryption with strong security based on TrueCrypt",
+      "lang": "C",
+      "stars_today": "186 stars today",
+      "total_stars": "10,533",
+      "forks": "1,233"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-06-30  |  🔍 共收录 15 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **Shell**: 2 | **TypeScript**: 2 | **Haskell**: 1 | **Swift**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. simplex-chat/simplex-chat\n\n**simplex-chat/simplex-chat** — SimpleX - the first messaging network operating without user...  听起来像个周末项目，但它已经有 16,805 总星了。周末项目，认真的吗？\n\n⭐ 1,607 stars today | 📦 总星 16,805 | 🍴 974 | 💻 Haskell\n[🔗 查看项目](https://github.com/simplex-chat/simplex-chat)\n\n### 2. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — 用 Shell 写就。今天获得了 1,425 stars today 颗星，证明 Shell 还活着且活得挺好。\n\n⭐ 1,425 stars today | 📦 总星 119,232 | 🍴 19,516 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n### 3. cupy/cupy\n\n**cupy/cupy** — NumPy & SciPy for GPU... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 352 stars today | 📦 总星 11,885 | 🍴 1,083 | 💻 Python\n[🔗 查看项目](https://github.com/cupy/cupy)\n\n### 4. altic-dev/FluidVoice\n\n**altic-dev/FluidVoice** — FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 830 stars today | 📦 总星 4,491 | 🍴 283 | 💻 Swift\n[🔗 查看项目](https://github.com/altic-dev/FluidVoice)\n\n### 5. soxoj/maigret\n\n**soxoj/maigret** — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ s...  听起来像个周末项目，但它已经有 34,492 总星了。周末项目，认真的吗？\n\n⭐ 224 stars today | 📦 总星 34,492 | 🍴 2,606 | 💻 Python\n[🔗 查看项目](https://github.com/soxoj/maigret)\n\n### 6. commaai/openpilot\n\n**commaai/openpilot** — 如果你还没 star，那你可能错过了今天的船票。458 stars today 人已经上船了。\n\n⭐ 458 stars today | 📦 总星 62,817 | 🍴 11,113 | 💻 Python\n[🔗 查看项目](https://github.com/commaai/openpilot)\n\n### 7. ripienaar/free-for-dev\n\n**ripienaar/free-for-dev** — A list of SaaS, PaaS and IaaS offerings that have free tiers...  听起来像个周末项目，但它已经有 126,850 总星了。周末项目，认真的吗？\n\n⭐ 1,935 stars today | 📦 总星 126,850 | 🍴 13,272 | 💻 HTML\n[🔗 查看项目](https://github.com/ripienaar/free-for-dev)\n\n### 8. logto-io/logto\n\n**logto-io/logto** — 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built ...  158 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 158 stars today | 📦 总星 12,777 | 🍴 873 | 💻 TypeScript\n[🔗 查看项目](https://github.com/logto-io/logto)\n\n### 9. xbtlin/ai-berkshire\n\n**xbtlin/ai-berkshire** 今天拿了 1,386 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,386 stars today | 📦 总星 6,857 | 🍴 891 | 💻 Python\n[🔗 查看项目](https://github.com/xbtlin/ai-berkshire)\n\n### 10. browser-use/video-use\n\n**browser-use/video-use** — 如果你还没 star，那你可能错过了今天的船票。967 stars today 人已经上船了。\n\n⭐ 967 stars today | 📦 总星 12,056 | 🍴 1,575 | 💻 Python\n[🔗 查看项目](https://github.com/browser-use/video-use)\n\n---\n\n## 🫡 荣誉提名\n\n- **Unclecheng-li/VulnClaw** — 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 →...  ⭐ 129 stars today\n- **0xNyk/council-of-high-intelligence** — 18 AI personas deliberate your hardest decisions across multiple LLM providers. ...  ⭐ 331 stars today\n- **HKUDS/Vibe-Trading** — \"Vibe-Trading: Your Personal Trading Agent\"  ⭐ 839 stars today\n- **refactoringhq/tolaria** — Desktop app to manage markdown knowledge bases  ⭐ 280 stars today\n- **veracrypt/VeraCrypt** — Disk encryption with strong security based on TrueCrypt  ⭐ 186 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-30T04:47:09.917425+00:00"
+}
