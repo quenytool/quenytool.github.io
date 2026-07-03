@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-03",
+  "repos": [
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_today": "2,137 stars today",
+      "total_stars": "32,605",
+      "forks": "3,410"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "JavaScript",
+      "stars_today": "926 stars today",
+      "total_stars": "81,373",
+      "forks": "4,548"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "3,032 stars today",
+      "total_stars": "125,717",
+      "forks": "20,400"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "desc": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "lang": "HTML",
+      "stars_today": "938 stars today",
+      "total_stars": "9,384",
+      "forks": "1,046"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "lang": "JavaScript",
+      "stars_today": "372 stars today",
+      "total_stars": "58,002",
+      "forks": "11,407"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "897 stars today",
+      "total_stars": "244,647",
+      "forks": "21,696"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "104 stars today",
+      "total_stars": "45,158",
+      "forks": "2,936"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_today": "554 stars today",
+      "total_stars": "13,920",
+      "forks": "1,697"
+    },
+    {
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "desc": "Action for checking out a repo",
+      "lang": "TypeScript",
+      "stars_today": "26 stars today",
+      "total_stars": "8,187",
+      "forks": "2,528"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "486 stars today",
+      "total_stars": "225,289",
+      "forks": "34,468"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "939 stars today",
+      "total_stars": "17,446",
+      "forks": "2,895"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "desc": "Specification and documentation for Agent Skills",
+      "lang": "Python",
+      "stars_today": "86 stars today",
+      "total_stars": "21,687",
+      "forks": "1,377"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "lang": "JavaScript",
+      "stars_today": "352 stars today",
+      "total_stars": "22,746",
+      "forks": "1,380"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "lang": "Python",
+      "stars_today": "117 stars today",
+      "total_stars": "150,850",
+      "forks": "9,405"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "lang": "Python",
+      "stars_today": "65 stars today",
+      "total_stars": "101,272",
+      "forks": "28,229"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "desc": "Machine Learning Systems",
+      "lang": "Python",
+      "stars_today": "68 stars today",
+      "total_stars": "25,700",
+      "forks": "3,075"
+    },
+    {
+      "name": "ryanmcdermott/clean-code-javascript",
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "desc": "Clean Code concepts adapted for JavaScript",
+      "lang": "JavaScript",
+      "stars_today": "27 stars today",
+      "total_stars": "94,607",
+      "forks": "12,474"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：strix 爆火，Python 又双叒叕赢了\n\n> 📅 2026-07-03  |  🔍 共收录 17 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **JavaScript**: 5 | **Shell**: 2 | **TypeScript**: 2 | **HTML**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. usestrix/strix\n\n**usestrix/strix** — Open-source AI penetration testing tool to find and fix your app’s vul... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,137 stars today | 📦 总星 32,605 | 🍴 3,410 | 💻 Python\n[🔗 查看项目](https://github.com/usestrix/strix)\n\n### 2. JuliusBrussee/caveman\n\n**JuliusBrussee/caveman** — 用 JavaScript 写就。今天获得了 926 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 926 stars today | 📦 总星 81,373 | 🍴 4,548 | 💻 JavaScript\n[🔗 查看项目](https://github.com/JuliusBrussee/caveman)\n\n### 3. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wizards to Red... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 3,032 stars today | 📦 总星 125,717 | 🍴 20,400 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n### 4. hasaneyldrm/exercises-dataset\n\n**hasaneyldrm/exercises-dataset** — 用 HTML 写就。今天获得了 938 stars today 颗星，证明 HTML 还活着且活得挺好。\n\n⭐ 938 stars today | 📦 总星 9,384 | 🍴 1,046 | 💻 HTML\n[🔗 查看项目](https://github.com/hasaneyldrm/exercises-dataset)\n\n### 5. santifer/career-ops\n\n**santifer/career-ops** — JavaScript 写的，当然好（不是）。AI-powered job search system built on Claude Code. 14 skill ...  372 stars today 人表示「先 star 为敬」。\n\n⭐ 372 stars today | 📦 总星 58,002 | 🍴 11,407 | 💻 JavaScript\n[🔗 查看项目](https://github.com/santifer/career-ops)\n\n### 6. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that works....  897 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 897 stars today | 📦 总星 244,647 | 🍴 21,696 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 7. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** 今天拿了 104 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 104 stars today | 📦 总星 45,158 | 🍴 2,936 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 8. browser-use/video-use\n\n**browser-use/video-use** — 如果你还没 star，那你可能错过了今天的船票。554 stars today 人已经上船了。\n\n⭐ 554 stars today | 📦 总星 13,920 | 🍴 1,697 | 💻 Python\n[🔗 查看项目](https://github.com/browser-use/video-use)\n\n### 9. actions/checkout\n\n**actions/checkout** — Action for checking out a repo... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 26 stars today | 📦 总星 8,187 | 🍴 2,528 | 💻 TypeScript\n[🔗 查看项目](https://github.com/actions/checkout)\n\n### 10. affaan-m/ECC\n\n**affaan-m/ECC** 今天拿了 486 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 486 stars today | 📦 总星 225,289 | 🍴 34,468 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n---\n\n## 🫡 荣誉提名\n\n- **HKUDS/Vibe-Trading** — \"Vibe-Trading: Your Personal Trading Agent\"  ⭐ 939 stars today\n- **agentskills/agentskills** — Specification and documentation for Agent Skills  ⭐ 86 stars today\n- **openai/codex-plugin-cc** — Use Codex from Claude Code to review code or delegate tasks.  ⭐ 352 stars today\n- **langflow-ai/langflow** — Langflow is a powerful tool for building and deploying AI-powered agents and wor...  ⭐ 117 stars today\n- **pytorch/pytorch** — Tensors and Dynamic neural networks in Python with strong GPU acceleration  ⭐ 65 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-03T04:27:34.327870+00:00"
+}
