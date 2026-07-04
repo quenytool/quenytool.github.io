@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-04",
+  "repos": [
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_today": "2,803 stars today",
+      "total_stars": "34,832",
+      "forks": "3,564"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "lang": "JavaScript",
+      "stars_today": "634 stars today",
+      "total_stars": "23,333",
+      "forks": "1,418"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "JavaScript",
+      "stars_today": "2,863 stars today",
+      "total_stars": "83,072",
+      "forks": "4,633"
+    },
+    {
+      "name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "desc": "Free and Open Source, Distributed, RESTful Search Engine",
+      "lang": "Java",
+      "stars_today": "91 stars today",
+      "total_stars": "77,365",
+      "forks": "25,936"
+    },
+    {
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "desc": "Action for checking out a repo",
+      "lang": "TypeScript",
+      "stars_today": "129 stars today",
+      "total_stars": "8,277",
+      "forks": "2,535"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "405 stars today",
+      "total_stars": "45,529",
+      "forks": "2,961"
+    },
+    {
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "lang": "Python",
+      "stars_today": "65 stars today",
+      "total_stars": "69,236",
+      "forks": "24,112"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "885 stars today",
+      "total_stars": "4,778",
+      "forks": "281"
+    },
+    {
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "lang": "Python",
+      "stars_today": "239 stars today",
+      "total_stars": "9,861",
+      "forks": "477"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "desc": "Machine Learning Systems",
+      "lang": "Python",
+      "stars_today": "793 stars today",
+      "total_stars": "26,244",
+      "forks": "3,134"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "lang": "Python",
+      "stars_today": "293 stars today",
+      "total_stars": "101,458",
+      "forks": "28,252"
+    },
+    {
+      "name": "apache/maven",
+      "url": "https://github.com/apache/maven",
+      "desc": "Apache Maven core",
+      "lang": "Java",
+      "stars_today": "58 stars today",
+      "total_stars": "5,244",
+      "forks": "2,901"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "Python",
+      "stars_today": "221 stars today",
+      "total_stars": "135,898",
+      "forks": "21,861"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "lang": "Rust",
+      "stars_today": "478 stars today",
+      "total_stars": "10,885",
+      "forks": "642"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,209 stars today",
+      "total_stars": "245,627",
+      "forks": "21,777"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "desc": "Specification and documentation for Agent Skills",
+      "lang": "Python",
+      "stars_today": "406 stars today",
+      "total_stars": "22,045",
+      "forks": "1,396"
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_today": "169 stars today",
+      "total_stars": "105,531",
+      "forks": "12,973"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "lang": "Rust",
+      "stars_today": "60 stars today",
+      "total_stars": "7,202",
+      "forks": "592"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "1,208 stars today",
+      "total_stars": "126,592",
+      "forks": "20,544"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-07-04：19 个项目今天值得你 star\n\n> 📅 2026-07-04  |  🔍 共收录 19 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 4 | **JavaScript**: 2 | **Java**: 2 | **Rust**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. usestrix/strix\n\n**usestrix/strix** — 用 Python 写就。今天获得了 2,803 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 2,803 stars today | 📦 总星 34,832 | 🍴 3,564 | 💻 Python\n[🔗 查看项目](https://github.com/usestrix/strix)\n\n### 2. openai/codex-plugin-cc\n\n**openai/codex-plugin-cc** — Use Codex from Claude Code to review code or delegate tasks....  634 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 634 stars today | 📦 总星 23,333 | 🍴 1,418 | 💻 JavaScript\n[🔗 查看项目](https://github.com/openai/codex-plugin-cc)\n\n### 3. JuliusBrussee/caveman\n\n**JuliusBrussee/caveman** — JavaScript 写的，当然好（不是）。🪨 why use many token when few token do trick — Claude Code s...  2,863 stars today 人表示「先 star 为敬」。\n\n⭐ 2,863 stars today | 📦 总星 83,072 | 🍴 4,633 | 💻 JavaScript\n[🔗 查看项目](https://github.com/JuliusBrussee/caveman)\n\n### 4. elastic/elasticsearch\n\n**elastic/elasticsearch** — 用 Java 写就。今天获得了 91 stars today 颗星，证明 Java 还活着且活得挺好。\n\n⭐ 91 stars today | 📦 总星 77,365 | 🍴 25,936 | 💻 Java\n[🔗 查看项目](https://github.com/elastic/elasticsearch)\n\n### 5. actions/checkout\n\n**actions/checkout** — TypeScript 写的，当然好（不是）。Action for checking out a repo...  129 stars today 人表示「先 star 为敬」。\n\n⭐ 129 stars today | 📦 总星 8,277 | 🍴 2,535 | 💻 TypeScript\n[🔗 查看项目](https://github.com/actions/checkout)\n\n### 6. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — 用 TypeScript 写就。今天获得了 405 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 405 stars today | 📦 总星 45,529 | 🍴 2,961 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 7. ansible/ansible\n\n**ansible/ansible** — Ansible is a radically simple IT automation platform that makes your a... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 65 stars today | 📦 总星 69,236 | 🍴 24,112 | 💻 Python\n[🔗 查看项目](https://github.com/ansible/ansible)\n\n### 8. facebook/astryx\n\n**facebook/astryx** 今天拿了 885 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 885 stars today | 📦 总星 4,778 | 🍴 281 | 💻 TypeScript\n[🔗 查看项目](https://github.com/facebook/astryx)\n\n### 9. rommapp/romm\n\n**rommapp/romm** — A beautiful, powerful, self-hosted rom manager and player....  听起来像个周末项目，但它已经有 9,861 总星了。周末项目，认真的吗？\n\n⭐ 239 stars today | 📦 总星 9,861 | 🍴 477 | 💻 Python\n[🔗 查看项目](https://github.com/rommapp/romm)\n\n### 10. harvard-edge/cs249r_book\n\n**harvard-edge/cs249r_book** — 如果你还没 star，那你可能错过了今天的船票。793 stars today 人已经上船了。\n\n⭐ 793 stars today | 📦 总星 26,244 | 🍴 3,134 | 💻 Python\n[🔗 查看项目](https://github.com/harvard-edge/cs249r_book)\n\n---\n\n## 🫡 荣誉提名\n\n- **pytorch/pytorch** — Tensors and Dynamic neural networks in Python with strong GPU acceleration  ⭐ 293 stars today\n- **apache/maven** — Apache Maven core  ⭐ 58 stars today\n- **anthropics/claude-code** — Claude Code is an agentic coding tool that lives in your terminal, understands y...  ⭐ 221 stars today\n- **ogulcancelik/herdr** — agent multiplexer that lives in your terminal.  ⭐ 478 stars today\n- **obra/superpowers** — An agentic skills framework & software development methodology that works.  ⭐ 1,209 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-04T04:21:56.309984+00:00"
+}
