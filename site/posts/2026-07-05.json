@@ -1,0 +1,169 @@
+{
+  "date": "2026-07-05",
+  "repos": [
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "lang": "JavaScript",
+      "stars_today": "718 stars today",
+      "total_stars": "24,696",
+      "forks": "1,495"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "JavaScript",
+      "stars_today": "1,089 stars today",
+      "total_stars": "84,108",
+      "forks": "4,690"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "lang": "TypeScript",
+      "stars_today": "742 stars today",
+      "total_stars": "23,233",
+      "forks": "2,013"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_today": "1,904 stars today",
+      "total_stars": "36,237",
+      "forks": "3,670"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "304 stars today",
+      "total_stars": "45,825",
+      "forks": "2,984"
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "lang": "Rust",
+      "stars_today": "718 stars today",
+      "total_stars": "15,443",
+      "forks": "1,681"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "471 stars today",
+      "total_stars": "49,058",
+      "forks": "7,998"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "desc": "Machine Learning Systems",
+      "lang": "Python",
+      "stars_today": "443 stars today",
+      "total_stars": "26,619",
+      "forks": "3,169"
+    },
+    {
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "lang": "Python",
+      "stars_today": "398 stars today",
+      "total_stars": "10,261",
+      "forks": "494"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "lang": "Rust",
+      "stars_today": "707 stars today",
+      "total_stars": "11,537",
+      "forks": "677"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_today": "59 stars today",
+      "total_stars": "3,844",
+      "forks": "293"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "desc": "Specification and documentation for Agent Skills",
+      "lang": "Python",
+      "stars_today": "351 stars today",
+      "total_stars": "22,385",
+      "forks": "1,416"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars_today": "201 stars today",
+      "total_stars": "105,701",
+      "forks": "6,032"
+    },
+    {
+      "name": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "desc": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "lang": "TypeScript",
+      "stars_today": "175 stars today",
+      "total_stars": "1,014",
+      "forks": "65"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "973 stars today",
+      "total_stars": "156,712",
+      "forks": "13,483"
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "lang": "C#",
+      "stars_today": "69 stars today",
+      "total_stars": "11,660",
+      "forks": "1,267"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "desc": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "lang": "Python",
+      "stars_today": "136 stars today",
+      "total_stars": "20,205",
+      "forks": "2,764"
+    },
+    {
+      "name": "crynta/terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "desc": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "lang": "TypeScript",
+      "stars_today": "62 stars today",
+      "total_stars": "8,101",
+      "forks": "863"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-07-05：今天的代码，明天的 bug\n\n> 📅 2026-07-05  |  🔍 共收录 18 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 5 | **Python**: 5 | **JavaScript**: 3 | **Rust**: 2 | **C#**: 2\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. openai/codex-plugin-cc\n\n**openai/codex-plugin-cc** — JavaScript 写的，当然好（不是）。Use Codex from Claude Code to review code or delegate tasks....  718 stars today 人表示「先 star 为敬」。\n\n⭐ 718 stars today | 📦 总星 24,696 | 🍴 1,495 | 💻 JavaScript\n[🔗 查看项目](https://github.com/openai/codex-plugin-cc)\n\n### 2. JuliusBrussee/caveman\n\n**JuliusBrussee/caveman** 今天拿了 1,089 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,089 stars today | 📦 总星 84,108 | 🍴 4,690 | 💻 JavaScript\n[🔗 查看项目](https://github.com/JuliusBrussee/caveman)\n\n### 3. alibaba/page-agent\n\n**alibaba/page-agent** — JavaScript in-page GUI agent. Control web interfaces with na...  听起来像个周末项目，但它已经有 23,233 总星了。周末项目，认真的吗？\n\n⭐ 742 stars today | 📦 总星 23,233 | 🍴 2,013 | 💻 TypeScript\n[🔗 查看项目](https://github.com/alibaba/page-agent)\n\n### 4. usestrix/strix\n\n**usestrix/strix** 今天拿了 1,904 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,904 stars today | 📦 总星 36,237 | 🍴 3,670 | 💻 Python\n[🔗 查看项目](https://github.com/usestrix/strix)\n\n### 5. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — TypeScript 写的，当然好（不是）。Chrome DevTools for coding agents...  304 stars today 人表示「先 star 为敬」。\n\n⭐ 304 stars today | 📦 总星 45,825 | 🍴 2,984 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 6. Zackriya-Solutions/meetily\n\n**Zackriya-Solutions/meetily** — 用 Rust 写就。今天获得了 718 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 718 stars today | 📦 总星 15,443 | 🍴 1,681 | 💻 Rust\n[🔗 查看项目](https://github.com/Zackriya-Solutions/meetily)\n\n### 7. asgeirtj/system_prompts_leaks\n\n**asgeirtj/system_prompts_leaks** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Cl... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 471 stars today | 📦 总星 49,058 | 🍴 7,998 | 💻 JavaScript\n[🔗 查看项目](https://github.com/asgeirtj/system_prompts_leaks)\n\n### 8. harvard-edge/cs249r_book\n\n**harvard-edge/cs249r_book** — Machine Learning Systems...  听起来像个周末项目，但它已经有 26,619 总星了。周末项目，认真的吗？\n\n⭐ 443 stars today | 📦 总星 26,619 | 🍴 3,169 | 💻 Python\n[🔗 查看项目](https://github.com/harvard-edge/cs249r_book)\n\n### 9. rommapp/romm\n\n**rommapp/romm** 今天拿了 398 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 398 stars today | 📦 总星 10,261 | 🍴 494 | 💻 Python\n[🔗 查看项目](https://github.com/rommapp/romm)\n\n### 10. ogulcancelik/herdr\n\n**ogulcancelik/herdr** — agent multiplexer that lives in your terminal....  707 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 707 stars today | 📦 总星 11,537 | 🍴 677 | 💻 Rust\n[🔗 查看项目](https://github.com/ogulcancelik/herdr)\n\n---\n\n## 🫡 荣誉提名\n\n- **dotnet/skills** — Repository for skills to assist AI coding agents with .NET and C#  ⭐ 59 stars today\n- **agentskills/agentskills** — Specification and documentation for Agent Skills  ⭐ 351 stars today\n- **immich-app/immich** — High performance self-hosted photo and video management solution.  ⭐ 201 stars today\n- **chthollyphile/folia-major** — 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器  ⭐ 175 stars today\n- **mattpocock/skills** — Skills for Real Engineers. Straight from my .claude directory.  ⭐ 973 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-05T04:42:27.683002+00:00"
+}
