@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-06",
+  "repos": [
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "lang": "Rust",
+      "stars_today": "1,409 stars today",
+      "total_stars": "17,479",
+      "forks": "1,833"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "lang": "JavaScript",
+      "stars_today": "1,532 stars today",
+      "total_stars": "25,676",
+      "forks": "1,554"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "981 stars today",
+      "total_stars": "50,242",
+      "forks": "8,211"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "JavaScript",
+      "stars_today": "863 stars today",
+      "total_stars": "57,804",
+      "forks": "3,945"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "desc": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "lang": "Python",
+      "stars_today": "392 stars today",
+      "total_stars": "20,707",
+      "forks": "2,800"
+    },
+    {
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+      "lang": "Python",
+      "stars_today": "410 stars today",
+      "total_stars": "10,626",
+      "forks": "510"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "lang": "Rust",
+      "stars_today": "651 stars today",
+      "total_stars": "12,221",
+      "forks": "718"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "lang": "TypeScript",
+      "stars_today": "805 stars today",
+      "total_stars": "24,096",
+      "forks": "2,071"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "desc": "Machine Learning Systems",
+      "lang": "Python",
+      "stars_today": "329 stars today",
+      "total_stars": "26,932",
+      "forks": "3,205"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_today": "1,114 stars today",
+      "total_stars": "37,339",
+      "forks": "3,789"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "lang": "Python",
+      "stars_today": "148 stars today",
+      "total_stars": "48,495",
+      "forks": "4,247"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_today": "145 stars today",
+      "total_stars": "36,553",
+      "forks": "5,900"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "JavaScript",
+      "stars_today": "1,052 stars today",
+      "total_stars": "85,062",
+      "forks": "4,736"
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "lang": "C#",
+      "stars_today": "414 stars today",
+      "total_stars": "12,008",
+      "forks": "1,284"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "522 stars today",
+      "total_stars": "6,028",
+      "forks": "387"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars_today": "470 stars today",
+      "total_stars": "106,208",
+      "forks": "6,069"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "161 stars today",
+      "total_stars": "76,789",
+      "forks": "10,295"
+    },
+    {
+      "name": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "desc": "Gas Town - multi-agent workspace manager",
+      "lang": "Go",
+      "stars_today": "51 stars today",
+      "total_stars": "16,436",
+      "forks": "1,524"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_today": "246 stars today",
+      "total_stars": "4,082",
+      "forks": "305"
+    },
+    {
+      "name": "OthmanAdi/planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "desc": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+      "lang": "Python",
+      "stars_today": "66 stars today",
+      "total_stars": "24,808",
+      "forks": "2,111"
+    },
+    {
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "lang": "Swift",
+      "stars_today": "153 stars today",
+      "total_stars": "16,352",
+      "forks": "1,355"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "Python",
+      "stars_today": "156 stars today",
+      "total_stars": "136,372",
+      "forks": "21,914"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-07-06：meetily 让 1,409 stars today 个开发者点了收藏\n\n> 📅 2026-07-06  |  🔍 共收录 22 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **JavaScript**: 5 | **Rust**: 3 | **TypeScript**: 3 | **C#**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Zackriya-Solutions/meetily\n\n**Zackriya-Solutions/meetily** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr...  1,409 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,409 stars today | 📦 总星 17,479 | 🍴 1,833 | 💻 Rust\n[🔗 查看项目](https://github.com/Zackriya-Solutions/meetily)\n\n### 2. openai/codex-plugin-cc\n\n**openai/codex-plugin-cc** 今天拿了 1,532 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,532 stars today | 📦 总星 25,676 | 🍴 1,554 | 💻 JavaScript\n[🔗 查看项目](https://github.com/openai/codex-plugin-cc)\n\n### 3. asgeirtj/system_prompts_leaks\n\n**asgeirtj/system_prompts_leaks** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...  981 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 981 stars today | 📦 总星 50,242 | 🍴 8,211 | 💻 JavaScript\n[🔗 查看项目](https://github.com/asgeirtj/system_prompts_leaks)\n\n### 4. Leonxlnx/taste-skill\n\n**Leonxlnx/taste-skill** — JavaScript 写的，当然好（不是）。Taste-Skill - gives your AI good taste. stops the AI from ge...  863 stars today 人表示「先 star 为敬」。\n\n⭐ 863 stars today | 📦 总星 57,804 | 🍴 3,945 | 💻 JavaScript\n[🔗 查看项目](https://github.com/Leonxlnx/taste-skill)\n\n### 5. alirezarezvani/claude-skills\n\n**alirezarezvani/claude-skills** — Python 写的，当然好（不是）。337 Claude Code skills & agent skills & plugins (30+ Agents,...  392 stars today 人表示「先 star 为敬」。\n\n⭐ 392 stars today | 📦 总星 20,707 | 🍴 2,800 | 💻 Python\n[🔗 查看项目](https://github.com/alirezarezvani/claude-skills)\n\n### 6. rommapp/romm\n\n**rommapp/romm** — 如果你还没 star，那你可能错过了今天的船票。410 stars today 人已经上船了。\n\n⭐ 410 stars today | 📦 总星 10,626 | 🍴 510 | 💻 Python\n[🔗 查看项目](https://github.com/rommapp/romm)\n\n### 7. ogulcancelik/herdr\n\n**ogulcancelik/herdr** — agent multiplexer that lives in your terminal....  651 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 651 stars today | 📦 总星 12,221 | 🍴 718 | 💻 Rust\n[🔗 查看项目](https://github.com/ogulcancelik/herdr)\n\n### 8. alibaba/page-agent\n\n**alibaba/page-agent** — JavaScript in-page GUI agent. Control web interfaces with natural language....  805 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 805 stars today | 📦 总星 24,096 | 🍴 2,071 | 💻 TypeScript\n[🔗 查看项目](https://github.com/alibaba/page-agent)\n\n### 9. harvard-edge/cs249r_book\n\n**harvard-edge/cs249r_book** 今天拿了 329 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 329 stars today | 📦 总星 26,932 | 🍴 3,205 | 💻 Python\n[🔗 查看项目](https://github.com/harvard-edge/cs249r_book)\n\n### 10. usestrix/strix\n\n**usestrix/strix** — Python 写的，当然好（不是）。Open-source AI penetration testing tool to find and fix your...  1,114 stars today 人表示「先 star 为敬」。\n\n⭐ 1,114 stars today | 📦 总星 37,339 | 🍴 3,789 | 💻 Python\n[🔗 查看项目](https://github.com/usestrix/strix)\n\n---\n\n## 🫡 荣誉提名\n\n- **hesreallyhim/awesome-claude-code** — A hand-picked collection of the finest of resources for the most awesome of agen...  ⭐ 148 stars today\n- **coreyhaines31/marketingskills** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...  ⭐ 145 stars today\n- **JuliusBrussee/caveman** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...  ⭐ 1,052 stars today\n- **CoplayDev/unity-mcp** — Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give you...  ⭐ 414 stars today\n- **facebook/astryx** — An open source design system that's fully customizable and agent ready  ⭐ 522 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-06T04:54:35.878819+00:00"
+}
