@@ -1,0 +1,151 @@
+{
+  "date": "2026-07-07",
+  "repos": [
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "1,378 stars today",
+      "total_stars": "51,833",
+      "forks": "8,451"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "1,112 stars today",
+      "total_stars": "71,058",
+      "forks": "7,690"
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "lang": "Rust",
+      "stars_today": "2,494 stars today",
+      "total_stars": "19,622",
+      "forks": "1,986"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "470 stars today",
+      "total_stars": "77,675",
+      "forks": "10,431"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "JavaScript",
+      "stars_today": "1,458 stars today",
+      "total_stars": "59,233",
+      "forks": "4,031"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "desc": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "lang": "Python",
+      "stars_today": "610 stars today",
+      "total_stars": "21,253",
+      "forks": "2,849"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+      "lang": "JavaScript",
+      "stars_today": "906 stars today",
+      "total_stars": "26,371",
+      "forks": "1,582"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "458 stars today",
+      "total_stars": "49,891",
+      "forks": "4,158"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "lang": "Rust",
+      "stars_today": "779 stars today",
+      "total_stars": "12,983",
+      "forks": "753"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_today": "427 stars today",
+      "total_stars": "4,415",
+      "forks": "616"
+    },
+    {
+      "name": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "lang": "TypeScript",
+      "stars_today": "199 stars today",
+      "total_stars": "26,965",
+      "forks": "1,324"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "lang": "TypeScript",
+      "stars_today": "867 stars today",
+      "total_stars": "146,480",
+      "forks": "8,425"
+    },
+    {
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "lang": "Swift",
+      "stars_today": "598 stars today",
+      "total_stars": "16,792",
+      "forks": "1,378"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "lang": "C++",
+      "stars_today": "382 stars today",
+      "total_stars": "13,604",
+      "forks": "831"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "desc": "😎 Awesome lists about all kinds of interesting topics",
+      "lang": "Unknown",
+      "stars_today": "345 stars today",
+      "total_stars": "482,412",
+      "forks": "35,742"
+    },
+    {
+      "name": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "desc": "Gas Town - multi-agent workspace manager",
+      "lang": "Go",
+      "stars_today": "291 stars today",
+      "total_stars": "16,748",
+      "forks": "1,542"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：system_prompts_leaks 爆火，JavaScript 又双叒叕赢了\n\n> 📅 2026-07-07  |  🔍 共收录 16 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**JavaScript**: 4 | **Rust**: 3 | **Python**: 3 | **TypeScript**: 2 | **Swift**: 1\n\n> JavaScript 项目今天也上榜了。`npm install` 之后你的 node_modules 又多了 800 个依赖。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. asgeirtj/system_prompts_leaks\n\n**asgeirtj/system_prompts_leaks** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Cl... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,378 stars today | 📦 总星 51,833 | 🍴 8,451 | 💻 JavaScript\n[🔗 查看项目](https://github.com/asgeirtj/system_prompts_leaks)\n\n### 2. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — 用 JavaScript 写就。今天获得了 1,112 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 1,112 stars today | 📦 总星 71,058 | 🍴 7,690 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 3. Zackriya-Solutions/meetily\n\n**Zackriya-Solutions/meetily** — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr...  2,494 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,494 stars today | 📦 总星 19,622 | 🍴 1,986 | 💻 Rust\n[🔗 查看项目](https://github.com/Zackriya-Solutions/meetily)\n\n### 4. ruvnet/RuView\n\n**ruvnet/RuView** — 用 Rust 写就。今天获得了 470 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 470 stars today | 📦 总星 77,675 | 🍴 10,431 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 5. Leonxlnx/taste-skill\n\n**Leonxlnx/taste-skill** 今天拿了 1,458 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,458 stars today | 📦 总星 59,233 | 🍴 4,031 | 💻 JavaScript\n[🔗 查看项目](https://github.com/Leonxlnx/taste-skill)\n\n### 6. alirezarezvani/claude-skills\n\n**alirezarezvani/claude-skills** — 345 Claude Code skills & agent skills & plugins (30+ Agents,...  听起来像个周末项目，但它已经有 21,253 总星了。周末项目，认真的吗？\n\n⭐ 610 stars today | 📦 总星 21,253 | 🍴 2,849 | 💻 Python\n[🔗 查看项目](https://github.com/alirezarezvani/claude-skills)\n\n### 7. openai/codex-plugin-cc\n\n**openai/codex-plugin-cc** — 如果你还没 star，那你可能错过了今天的船票。906 stars today 人已经上船了。\n\n⭐ 906 stars today | 📦 总星 26,371 | 🍴 1,582 | 💻 JavaScript\n[🔗 查看项目](https://github.com/openai/codex-plugin-cc)\n\n### 8. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** — 如果你还没 star，那你可能错过了今天的船票。458 stars today 人已经上船了。\n\n⭐ 458 stars today | 📦 总星 49,891 | 🍴 4,158 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 9. ogulcancelik/herdr\n\n**ogulcancelik/herdr** — Rust 写的，当然好（不是）。agent multiplexer that lives in your terminal....  779 stars today 人表示「先 star 为敬」。\n\n⭐ 779 stars today | 📦 总星 12,983 | 🍴 753 | 💻 Rust\n[🔗 查看项目](https://github.com/ogulcancelik/herdr)\n\n### 10. bradautomates/claude-video\n\n**bradautomates/claude-video** — Give Claude the ability to watch any video. /watch downloads, extracts... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 427 stars today | 📦 总星 4,415 | 🍴 616 | 💻 Python\n[🔗 查看项目](https://github.com/bradautomates/claude-video)\n\n---\n\n## 🫡 荣誉提名\n\n- **karakeep-app/karakeep** — A self-hostable bookmark-everything app (links, notes and images) with AI-based ...  ⭐ 199 stars today\n- **firecrawl/firecrawl** — The API to search, scrape, and interact with the web at scale. 🔥  ⭐ 867 stars today\n- **steipete/CodexBar** — Show usage stats for OpenAI Codex and Claude Code, without having to login.  ⭐ 598 stars today\n- **alibaba/zvec** — A lightweight, lightning-fast, in-process vector database  ⭐ 382 stars today\n- **sindresorhus/awesome** — 😎 Awesome lists about all kinds of interesting topics  ⭐ 345 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-07T04:34:13.670639+00:00"
+}
