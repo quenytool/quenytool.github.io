@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-08",
+  "repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "lang": "TypeScript",
+      "stars_today": "2,514 stars today",
+      "total_stars": "11,557",
+      "forks": "3,787"
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "lang": "Rust",
+      "stars_today": "1,777 stars today",
+      "total_stars": "20,924",
+      "forks": "2,088"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "1,317 stars today",
+      "total_stars": "72,327",
+      "forks": "7,828"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "1,129 stars today",
+      "total_stars": "78,590",
+      "forks": "10,577"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "1,691 stars today",
+      "total_stars": "53,186",
+      "forks": "8,664"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "lang": "Rust",
+      "stars_today": "664 stars today",
+      "total_stars": "8,539",
+      "forks": "716"
+    },
+    {
+      "name": "AhmadIbrahiim/Website-downloader",
+      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
+      "desc": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+      "lang": "HTML",
+      "stars_today": "140 stars today",
+      "total_stars": "4,146",
+      "forks": "993"
+    },
+    {
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "lang": "Swift",
+      "stars_today": "376 stars today",
+      "total_stars": "17,075",
+      "forks": "1,390"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_today": "64 stars today",
+      "total_stars": "4,341",
+      "forks": "324"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "lang": "C#",
+      "stars_today": "893 stars today",
+      "total_stars": "10,289",
+      "forks": "693"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_today": "965 stars today",
+      "total_stars": "5,312",
+      "forks": "669"
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "desc": "A TTS that fits in your CPU (and pocket)",
+      "lang": "Python",
+      "stars_today": "531 stars today",
+      "total_stars": "6,284",
+      "forks": "650"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "lang": "Python",
+      "stars_today": "144 stars today",
+      "total_stars": "49,230",
+      "forks": "4,286"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：ai-job-search 爆火，TypeScript 又双叒叕赢了\n\n> 📅 2026-07-08  |  🔍 共收录 13 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Rust**: 3 | **Python**: 3 | **JavaScript**: 2 | **C#**: 2 | **TypeScript**: 1\n\n> Rust 项目又上榜了。我就问一句：你们到底写了多少遍「用 Rust 重写」？ 🦀\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. MadsLorentzen/ai-job-search\n\n**MadsLorentzen/ai-job-search** 今天拿了 2,514 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,514 stars today | 📦 总星 11,557 | 🍴 3,787 | 💻 TypeScript\n[🔗 查看项目](https://github.com/MadsLorentzen/ai-job-search)\n\n### 2. Zackriya-Solutions/meetily\n\n**Zackriya-Solutions/meetily** 今天拿了 1,777 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,777 stars today | 📦 总星 20,924 | 🍴 2,088 | 💻 Rust\n[🔗 查看项目](https://github.com/Zackriya-Solutions/meetily)\n\n### 3. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,317 stars today | 📦 总星 72,327 | 🍴 7,828 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 4. ruvnet/RuView\n\n**ruvnet/RuView** 今天拿了 1,129 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,129 stars today | 📦 总星 78,590 | 🍴 10,577 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 5. asgeirtj/system_prompts_leaks\n\n**asgeirtj/system_prompts_leaks** 今天拿了 1,691 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,691 stars today | 📦 总星 53,186 | 🍴 8,664 | 💻 JavaScript\n[🔗 查看项目](https://github.com/asgeirtj/system_prompts_leaks)\n\n### 6. TencentCloud/CubeSandbox\n\n**TencentCloud/CubeSandbox** — 用 Rust 写就。今天获得了 664 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 664 stars today | 📦 总星 8,539 | 🍴 716 | 💻 Rust\n[🔗 查看项目](https://github.com/TencentCloud/CubeSandbox)\n\n### 7. AhmadIbrahiim/Website-downloader\n\n**AhmadIbrahiim/Website-downloader** — 💡 Download the complete source code of any website (includin...  听起来像个周末项目，但它已经有 4,146 总星了。周末项目，认真的吗？\n\n⭐ 140 stars today | 📦 总星 4,146 | 🍴 993 | 💻 HTML\n[🔗 查看项目](https://github.com/AhmadIbrahiim/Website-downloader)\n\n### 8. steipete/CodexBar\n\n**steipete/CodexBar** — Show usage stats for OpenAI Codex and Claude Code, without h...  听起来像个周末项目，但它已经有 17,075 总星了。周末项目，认真的吗？\n\n⭐ 376 stars today | 📦 总星 17,075 | 🍴 1,390 | 💻 Swift\n[🔗 查看项目](https://github.com/steipete/CodexBar)\n\n### 9. dotnet/skills\n\n**dotnet/skills** — Repository for skills to assist AI coding agents with .NET and C#... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 64 stars today | 📦 总星 4,341 | 🍴 324 | 💻 C#\n[🔗 查看项目](https://github.com/dotnet/skills)\n\n### 10. iOfficeAI/OfficeCLI\n\n**iOfficeAI/OfficeCLI** — 如果你还没 star，那你可能错过了今天的船票。893 stars today 人已经上船了。\n\n⭐ 893 stars today | 📦 总星 10,289 | 🍴 693 | 💻 C#\n[🔗 查看项目](https://github.com/iOfficeAI/OfficeCLI)\n\n---\n\n## 🫡 荣誉提名\n\n- **bradautomates/claude-video** — Give Claude the ability to watch any video. /watch downloads, extracts frames, t...  ⭐ 965 stars today\n- **kyutai-labs/pocket-tts** — A TTS that fits in your CPU (and pocket)  ⭐ 531 stars today\n- **hesreallyhim/awesome-claude-code** — A hand-picked collection of the finest of resources for the most awesome of agen...  ⭐ 144 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-08T03:56:03.712532+00:00"
+}
