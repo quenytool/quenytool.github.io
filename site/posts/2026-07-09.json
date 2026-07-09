@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-09",
+  "repos": [
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "1,297 stars today",
+      "total_stars": "74,526",
+      "forks": "8,037"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "799 stars today",
+      "total_stars": "79,250",
+      "forks": "10,660"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "lang": "TypeScript",
+      "stars_today": "318 stars today",
+      "total_stars": "7,770",
+      "forks": "716"
+    },
+    {
+      "name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "lang": "TypeScript",
+      "stars_today": "46 stars today",
+      "total_stars": "46,628",
+      "forks": "2,285"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "352 stars today",
+      "total_stars": "50,887",
+      "forks": "4,248"
+    },
+    {
+      "name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "desc": "Declarative Continuous Deployment for Kubernetes",
+      "lang": "Go",
+      "stars_today": "29 stars today",
+      "total_stars": "23,461",
+      "forks": "7,427"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "lang": "C#",
+      "stars_today": "1,717 stars today",
+      "total_stars": "12,226",
+      "forks": "829"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "1,218 stars today",
+      "total_stars": "54,392",
+      "forks": "8,854"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,116 stars today",
+      "total_stars": "250,043",
+      "forks": "22,184"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "lang": "C++",
+      "stars_today": "395 stars today",
+      "total_stars": "14,481",
+      "forks": "894"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "desc": "A Patch for GIMP 3+ for Photoshop Users",
+      "lang": "CSS",
+      "stars_today": "1,125 stars today",
+      "total_stars": "15,116",
+      "forks": "600"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "lang": "TypeScript",
+      "stars_today": "28 stars today",
+      "total_stars": "6,413",
+      "forks": "750"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "desc": "Automatic quad remeshing tool",
+      "lang": "C++",
+      "stars_today": "296 stars today",
+      "total_stars": "2,064",
+      "forks": "153"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_today": "951 stars today",
+      "total_stars": "6,169",
+      "forks": "733"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "lang": "Rust",
+      "stars_today": "564 stars today",
+      "total_stars": "9,024",
+      "forks": "743"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：agent-skills 霸榜，开发者集体失眠\n\n> 📅 2026-07-09  |  🔍 共收录 15 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **JavaScript**: 2 | **Rust**: 2 | **Python**: 2 | **C++**: 2\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — JavaScript 写的，当然好（不是）。Production-grade engineering skills for AI coding agents....  1,297 stars today 人表示「先 star 为敬」。\n\n⭐ 1,297 stars today | 📦 总星 74,526 | 🍴 8,037 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 2. ruvnet/RuView\n\n**ruvnet/RuView** — 用 Rust 写就。今天获得了 799 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 799 stars today | 📦 总星 79,250 | 🍴 10,660 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 3. TencentCloud/TencentDB-Agent-Memory\n\n**TencentCloud/TencentDB-Agent-Memory** — 用 TypeScript 写就。今天获得了 318 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 318 stars today | 📦 总星 7,770 | 🍴 716 | 💻 TypeScript\n[🔗 查看项目](https://github.com/TencentCloud/TencentDB-Agent-Memory)\n\n### 4. prisma/prisma\n\n**prisma/prisma** — 如果你还没 star，那你可能错过了今天的船票。46 stars today 人已经上船了。\n\n⭐ 46 stars today | 📦 总星 46,628 | 🍴 2,285 | 💻 TypeScript\n[🔗 查看项目](https://github.com/prisma/prisma)\n\n### 5. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** 今天拿了 352 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 352 stars today | 📦 总星 50,887 | 🍴 4,248 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 6. argoproj/argo-cd\n\n**argoproj/argo-cd** — Declarative Continuous Deployment for Kubernetes...  29 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 29 stars today | 📦 总星 23,461 | 🍴 7,427 | 💻 Go\n[🔗 查看项目](https://github.com/argoproj/argo-cd)\n\n### 7. iOfficeAI/OfficeCLI\n\n**iOfficeAI/OfficeCLI** — 用 C# 写就。今天获得了 1,717 stars today 颗星，证明 C# 还活着且活得挺好。\n\n⭐ 1,717 stars today | 📦 总星 12,226 | 🍴 829 | 💻 C#\n[🔗 查看项目](https://github.com/iOfficeAI/OfficeCLI)\n\n### 8. asgeirtj/system_prompts_leaks\n\n**asgeirtj/system_prompts_leaks** — 用 JavaScript 写就。今天获得了 1,218 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 1,218 stars today | 📦 总星 54,392 | 🍴 8,854 | 💻 JavaScript\n[🔗 查看项目](https://github.com/asgeirtj/system_prompts_leaks)\n\n### 9. obra/superpowers\n\n**obra/superpowers** — 如果你还没 star，那你可能错过了今天的船票。1,116 stars today 人已经上船了。\n\n⭐ 1,116 stars today | 📦 总星 250,043 | 🍴 22,184 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 10. alibaba/zvec\n\n**alibaba/zvec** — A lightweight, lightning-fast, in-process vector database...  395 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 395 stars today | 📦 总星 14,481 | 🍴 894 | 💻 C++\n[🔗 查看项目](https://github.com/alibaba/zvec)\n\n---\n\n## 🫡 荣誉提名\n\n- **Diolinux/PhotoGIMP** — A Patch for GIMP 3+ for Photoshop Users  ⭐ 1,125 stars today\n- **wonderwhy-er/DesktopCommanderMCP** — This is MCP server for Claude that gives it terminal control, file system search...  ⭐ 28 stars today\n- **huxingyi/autoremesher** — Automatic quad remeshing tool  ⭐ 296 stars today\n- **bradautomates/claude-video** — Give Claude the ability to watch any video. /watch downloads, extracts frames, t...  ⭐ 951 stars today\n- **TencentCloud/CubeSandbox** — Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.  ⭐ 564 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-09T04:33:20.361677+00:00"
+}
