@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-10",
+  "repos": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "lang": "TypeScript",
+      "stars_today": "3,716 stars today",
+      "total_stars": "19,498",
+      "forks": "5,583"
+    },
+    {
+      "name": "SmartlyDressedGames/U3-SDK",
+      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "desc": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "lang": "C#",
+      "stars_today": "524 stars today",
+      "total_stars": "2,117",
+      "forks": "268"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "2,554 stars today",
+      "total_stars": "76,079",
+      "forks": "8,180"
+    },
+    {
+      "name": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "lang": "Unknown",
+      "stars_today": "1,391 stars today",
+      "total_stars": "99,966",
+      "forks": "11,590"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "lang": "C#",
+      "stars_today": "1,929 stars today",
+      "total_stars": "13,681",
+      "forks": "926"
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "lang": "TypeScript",
+      "stars_today": "185 stars today",
+      "total_stars": "6,606",
+      "forks": "781"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "194 stars today",
+      "total_stars": "47,243",
+      "forks": "5,559"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "lang": "Go",
+      "stars_today": "535 stars today",
+      "total_stars": "19,532",
+      "forks": "2,630"
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "lang": "Python",
+      "stars_today": "215 stars today",
+      "total_stars": "71,938",
+      "forks": "7,383"
+    },
+    {
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "desc": "An evolving how-to guide for securing a Linux server.",
+      "lang": "Unknown",
+      "stars_today": "243 stars today",
+      "total_stars": "29,168",
+      "forks": "1,942"
+    },
+    {
+      "name": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "desc": "Automatic quad remeshing tool",
+      "lang": "C++",
+      "stars_today": "403 stars today",
+      "total_stars": "2,409",
+      "forks": "174"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_today": "718 stars today",
+      "total_stars": "6,803",
+      "forks": "776"
+    },
+    {
+      "name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "lang": "TypeScript",
+      "stars_today": "376 stars today",
+      "total_stars": "46,947",
+      "forks": "2,332"
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "desc": "A TTS that fits in your CPU (and pocket)",
+      "lang": "Python",
+      "stars_today": "235 stars today",
+      "total_stars": "7,048",
+      "forks": "707"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "1,125 stars today",
+      "total_stars": "55,275",
+      "forks": "9,035"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：ai-job-search 爆火，TypeScript 又双叒叕赢了\n\n> 📅 2026-07-10  |  🔍 共收录 15 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Python**: 3 | **C#**: 2 | **JavaScript**: 2 | **Unknown**: 2\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. MadsLorentzen/ai-job-search\n\n**MadsLorentzen/ai-job-search** 今天拿了 3,716 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,716 stars today | 📦 总星 19,498 | 🍴 5,583 | 💻 TypeScript\n[🔗 查看项目](https://github.com/MadsLorentzen/ai-job-search)\n\n### 2. SmartlyDressedGames/U3-SDK\n\n**SmartlyDressedGames/U3-SDK** 今天拿了 524 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 524 stars today | 📦 总星 2,117 | 🍴 268 | 💻 C#\n[🔗 查看项目](https://github.com/SmartlyDressedGames/U3-SDK)\n\n### 3. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents....  2,554 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,554 stars today | 📦 总星 76,079 | 🍴 8,180 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 4. VoltAgent/awesome-design-md\n\n**VoltAgent/awesome-design-md** — 用 Unknown 写就。今天获得了 1,391 stars today 颗星，证明 Unknown 还活着且活得挺好。\n\n⭐ 1,391 stars today | 📦 总星 99,966 | 🍴 11,590 | 💻 Unknown\n[🔗 查看项目](https://github.com/VoltAgent/awesome-design-md)\n\n### 5. iOfficeAI/OfficeCLI\n\n**iOfficeAI/OfficeCLI** — 用 C# 写就。今天获得了 1,929 stars today 颗星，证明 C# 还活着且活得挺好。\n\n⭐ 1,929 stars today | 📦 总星 13,681 | 🍴 926 | 💻 C#\n[🔗 查看项目](https://github.com/iOfficeAI/OfficeCLI)\n\n### 6. wonderwhy-er/DesktopCommanderMCP\n\n**wonderwhy-er/DesktopCommanderMCP** — 如果你还没 star，那你可能错过了今天的船票。185 stars today 人已经上船了。\n\n⭐ 185 stars today | 📦 总星 6,606 | 🍴 781 | 💻 TypeScript\n[🔗 查看项目](https://github.com/wonderwhy-er/DesktopCommanderMCP)\n\n### 7. anthropics/claude-cookbooks\n\n**anthropics/claude-cookbooks** 今天拿了 194 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 194 stars today | 📦 总星 47,243 | 🍴 5,559 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/anthropics/claude-cookbooks)\n\n### 8. vxcontrol/pentagi\n\n**vxcontrol/pentagi** 今天拿了 535 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 535 stars today | 📦 总星 19,532 | 🍴 2,630 | 💻 Go\n[🔗 查看项目](https://github.com/vxcontrol/pentagi)\n\n### 9. unclecode/crawl4ai\n\n**unclecode/crawl4ai** — 用 Python 写就。今天获得了 215 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 215 stars today | 📦 总星 71,938 | 🍴 7,383 | 💻 Python\n[🔗 查看项目](https://github.com/unclecode/crawl4ai)\n\n### 10. imthenachoman/How-To-Secure-A-Linux-Server\n\n**imthenachoman/How-To-Secure-A-Linux-Server** — An evolving how-to guide for securing a Linux server....  听起来像个周末项目，但它已经有 29,168 总星了。周末项目，认真的吗？\n\n⭐ 243 stars today | 📦 总星 29,168 | 🍴 1,942 | 💻 Unknown\n[🔗 查看项目](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)\n\n---\n\n## 🫡 荣誉提名\n\n- **huxingyi/autoremesher** — Automatic quad remeshing tool  ⭐ 403 stars today\n- **bradautomates/claude-video** — Give Claude the ability to watch any video. /watch downloads, extracts frames, t...  ⭐ 718 stars today\n- **prisma/prisma** — Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL S...  ⭐ 376 stars today\n- **kyutai-labs/pocket-tts** — A TTS that fits in your CPU (and pocket)  ⭐ 235 stars today\n- **asgeirtj/system_prompts_leaks** — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,...  ⭐ 1,125 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-10T04:35:27.308425+00:00"
+}
