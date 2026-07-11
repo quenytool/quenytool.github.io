@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-11",
+  "repos": [
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "lang": "TypeScript",
+      "stars_today": "328 stars today",
+      "total_stars": "7,384",
+      "forks": "935"
+    },
+    {
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "lang": "Rust",
+      "stars_today": "209 stars today",
+      "total_stars": "94,299",
+      "forks": "4,939"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "desc": "Abseil Common Libraries (C++)",
+      "lang": "C++",
+      "stars_today": "89 stars today",
+      "total_stars": "17,539",
+      "forks": "3,195"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "1,116 stars today",
+      "total_stars": "76,904",
+      "forks": "8,260"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "desc": "A YAML parser and emitter in C++",
+      "lang": "C++",
+      "stars_today": "69 stars today",
+      "total_stars": "6,091",
+      "forks": "2,257"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "1,712 stars today",
+      "total_stars": "164,786",
+      "forks": "14,177"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,013 stars today",
+      "total_stars": "251,872",
+      "forks": "22,477"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "lang": "TypeScript",
+      "stars_today": "177 stars today",
+      "total_stars": "109,797",
+      "forks": "13,634"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "lang": "C++",
+      "stars_today": "76 stars today",
+      "total_stars": "20,624",
+      "forks": "3,409"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "desc": "Asio C++ Library",
+      "lang": "C++",
+      "stars_today": "92 stars today",
+      "total_stars": "6,080",
+      "forks": "1,500"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "lang": "TypeScript",
+      "stars_today": "123 stars today",
+      "total_stars": "8,283",
+      "forks": "762"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "lang": "Python",
+      "stars_today": "118 stars today",
+      "total_stars": "28,794",
+      "forks": "3,161"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "desc": "Mesh optimization library that makes meshes smaller and faster to render",
+      "lang": "C++",
+      "stars_today": "91 stars today",
+      "total_stars": "8,036",
+      "forks": "783"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "desc": "The easiest, most secure way to use WireGuard and 2FA.",
+      "lang": "Go",
+      "stars_today": "143 stars today",
+      "total_stars": "33,700",
+      "forks": "2,913"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_today": "117 stars today",
+      "total_stars": "6,788",
+      "forks": "931"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "lang": "C#",
+      "stars_today": "1,224 stars today",
+      "total_stars": "14,526",
+      "forks": "991"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "lang": "Go",
+      "stars_today": "172 stars today",
+      "total_stars": "49,195",
+      "forks": "10,674"
+    },
+    {
+      "name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "desc": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "lang": "C++",
+      "stars_today": "78 stars today",
+      "total_stars": "45,152",
+      "forks": "11,323"
+    },
+    {
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "desc": "The React Framework",
+      "lang": "JavaScript",
+      "stars_today": "191 stars today",
+      "total_stars": "140,748",
+      "forks": "31,527"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-07-11：19 个项目今天值得你 star\n\n> 📅 2026-07-11  |  🔍 共收录 19 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**C++**: 6 | **TypeScript**: 4 | **JavaScript**: 2 | **Shell**: 2 | **Go**: 2\n\n> C++ 项目今天上榜。Segfault 是每个 C++ 程序员的成人礼。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. wonderwhy-er/DesktopCommanderMCP\n\n**wonderwhy-er/DesktopCommanderMCP** — This is MCP server for Claude that gives it terminal control, file sys... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 328 stars today | 📦 总星 7,384 | 🍴 935 | 💻 TypeScript\n[🔗 查看项目](https://github.com/wonderwhy-er/DesktopCommanderMCP)\n\n### 2. oven-sh/bun\n\n**oven-sh/bun** — Incredibly fast JavaScript runtime, bundler, test runner, and package ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 209 stars today | 📦 总星 94,299 | 🍴 4,939 | 💻 Rust\n[🔗 查看项目](https://github.com/oven-sh/bun)\n\n### 3. abseil/abseil-cpp\n\n**abseil/abseil-cpp** — Abseil Common Libraries (C++)...  听起来像个周末项目，但它已经有 17,539 总星了。周末项目，认真的吗？\n\n⭐ 89 stars today | 📦 总星 17,539 | 🍴 3,195 | 💻 C++\n[🔗 查看项目](https://github.com/abseil/abseil-cpp)\n\n### 4. addyosmani/agent-skills\n\n**addyosmani/agent-skills** 今天拿了 1,116 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,116 stars today | 📦 总星 76,904 | 🍴 8,260 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 5. jbeder/yaml-cpp\n\n**jbeder/yaml-cpp** — A YAML parser and emitter in C++...  69 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 69 stars today | 📦 总星 6,091 | 🍴 2,257 | 💻 C++\n[🔗 查看项目](https://github.com/jbeder/yaml-cpp)\n\n### 6. mattpocock/skills\n\n**mattpocock/skills** — Skills for Real Engineers. Straight from my .claude directory.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,712 stars today | 📦 总星 164,786 | 🍴 14,177 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 7. obra/superpowers\n\n**obra/superpowers** — 如果你还没 star，那你可能错过了今天的船票。1,013 stars today 人已经上船了。\n\n⭐ 1,013 stars today | 📦 总星 251,872 | 🍴 22,477 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 8. microsoft/TypeScript\n\n**microsoft/TypeScript** 今天拿了 177 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 177 stars today | 📦 总星 109,797 | 🍴 13,634 | 💻 TypeScript\n[🔗 查看项目](https://github.com/microsoft/TypeScript)\n\n### 9. catchorg/Catch2\n\n**catchorg/Catch2** — A modern, C++-native, test framework for unit-tests, TDD and...  听起来像个周末项目，但它已经有 20,624 总星了。周末项目，认真的吗？\n\n⭐ 76 stars today | 📦 总星 20,624 | 🍴 3,409 | 💻 C++\n[🔗 查看项目](https://github.com/catchorg/Catch2)\n\n### 10. chriskohlhoff/asio\n\n**chriskohlhoff/asio** — 如果你还没 star，那你可能错过了今天的船票。92 stars today 人已经上船了。\n\n⭐ 92 stars today | 📦 总星 6,080 | 🍴 1,500 | 💻 C++\n[🔗 查看项目](https://github.com/chriskohlhoff/asio)\n\n---\n\n## 🫡 荣誉提名\n\n- **TencentCloud/TencentDB-Agent-Memory** — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a...  ⭐ 123 stars today\n- **davila7/claude-code-templates** — CLI tool for configuring and monitoring Claude Code  ⭐ 118 stars today\n- **zeux/meshoptimizer** — Mesh optimization library that makes meshes smaller and faster to render  ⭐ 91 stars today\n- **tailscale/tailscale** — The easiest, most secure way to use WireGuard and 2FA.  ⭐ 143 stars today\n- **google-labs-code/stitch-skills** — A library of Agent Skills designed to work with the Stitch MCP server. Each skil...  ⭐ 117 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-11T03:54:03.066107+00:00"
+}
