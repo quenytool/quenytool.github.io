@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-15",
+  "repos": [
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "lang": "Python",
+      "stars_today": "1,106 stars today",
+      "total_stars": "121,022",
+      "forks": "17,902"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "1,679 stars today",
+      "total_stars": "170,631",
+      "forks": "14,678"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "lang": "Rust",
+      "stars_today": "473 stars today",
+      "total_stars": "4,470",
+      "forks": "167"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "4,276 stars today",
+      "total_stars": "69,395",
+      "forks": "7,220"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "lang": "Python",
+      "stars_today": "109 stars today",
+      "total_stars": "61,932",
+      "forks": "10,917"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "1,015 stars today",
+      "total_stars": "6,283",
+      "forks": "357"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "1,256 stars today",
+      "total_stars": "23,000",
+      "forks": "3,948"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "lang": "PowerShell",
+      "stars_today": "783 stars today",
+      "total_stars": "51,821",
+      "forks": "2,139"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "lang": "HTML",
+      "stars_today": "851 stars today",
+      "total_stars": "13,676",
+      "forks": "1,635"
+    },
+    {
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "desc": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "lang": "Clojure",
+      "stars_today": "395 stars today",
+      "total_stars": "56,222",
+      "forks": "3,694"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "url": "https://github.com/AIEraDev/Clypra",
+      "desc": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "lang": "TypeScript",
+      "stars_today": "85 stars today",
+      "total_stars": "2,689",
+      "forks": "281"
+    },
+    {
+      "name": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "desc": "An experimental PlayStation 5 emulator project.",
+      "lang": "C#",
+      "stars_today": "332 stars today",
+      "total_stars": "2,191",
+      "forks": "140"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "desc": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "lang": "Go",
+      "stars_today": "186 stars today",
+      "total_stars": "5,898",
+      "forks": "1,931"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "lang": "Python",
+      "stars_today": "1,851 stars today",
+      "total_stars": "86,581",
+      "forks": "8,517"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "lang": "TypeScript",
+      "stars_today": "112 stars today",
+      "total_stars": "5,350",
+      "forks": "711"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：awesome-llm-apps 霸榜，开发者集体失眠\n\n> 📅 2026-07-15  |  🔍 共收录 15 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 3 | **Shell**: 1 | **Rust**: 1 | **CSS**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Shubhamsaboo/awesome-llm-apps\n\n**Shubhamsaboo/awesome-llm-apps** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,106 stars today | 📦 总星 121,022 | 🍴 17,902 | 💻 Python\n[🔗 查看项目](https://github.com/Shubhamsaboo/awesome-llm-apps)\n\n### 2. mattpocock/skills\n\n**mattpocock/skills** — Shell 写的，当然好（不是）。Skills for Real Engineers. Straight from my .claude director...  1,679 stars today 人表示「先 star 为敬」。\n\n⭐ 1,679 stars today | 📦 总星 170,631 | 🍴 14,678 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 3. Dicklesworthstone/destructive_command_guard\n\n**Dicklesworthstone/destructive_command_guard** — The Destructive Command Guard (dcg) is for blocking dangerous git and ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 473 stars today | 📦 总星 4,470 | 🍴 167 | 💻 Rust\n[🔗 查看项目](https://github.com/Dicklesworthstone/destructive_command_guard)\n\n### 4. OpenCut-app/OpenCut\n\n**OpenCut-app/OpenCut** — TypeScript 写的，当然好（不是）。The open-source CapCut alternative...  4,276 stars today 人表示「先 star 为敬」。\n\n⭐ 4,276 stars today | 📦 总星 69,395 | 🍴 7,220 | 💻 TypeScript\n[🔗 查看项目](https://github.com/OpenCut-app/OpenCut)\n\n### 5. virattt/ai-hedge-fund\n\n**virattt/ai-hedge-fund** — 如果你还没 star，那你可能错过了今天的船票。109 stars today 人已经上船了。\n\n⭐ 109 stars today | 📦 总星 61,932 | 🍴 10,917 | 💻 Python\n[🔗 查看项目](https://github.com/virattt/ai-hedge-fund)\n\n### 6. Nutlope/hallmark\n\n**Nutlope/hallmark** — CSS 写的，当然好（不是）。Anti-AI-slop design skill for Claude Code, Cursor, and Codex...  1,015 stars today 人表示「先 star 为敬」。\n\n⭐ 1,015 stars today | 📦 总星 6,283 | 🍴 357 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 7. HKUDS/Vibe-Trading\n\n**HKUDS/Vibe-Trading** — \"Vibe-Trading: Your Personal Trading Agent\"...  听起来像个周末项目，但它已经有 23,000 总星了。周末项目，认真的吗？\n\n⭐ 1,256 stars today | 📦 总星 23,000 | 🍴 3,948 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/Vibe-Trading)\n\n### 8. Raphire/Win11Debloat\n\n**Raphire/Win11Debloat** — A simple, lightweight PowerShell script that allows you to r...  听起来像个周末项目，但它已经有 51,821 总星了。周末项目，认真的吗？\n\n⭐ 783 stars today | 📦 总星 51,821 | 🍴 2,139 | 💻 PowerShell\n[🔗 查看项目](https://github.com/Raphire/Win11Debloat)\n\n### 9. hasaneyldrm/exercises-dataset\n\n**hasaneyldrm/exercises-dataset** — 如果你还没 star，那你可能错过了今天的船票。851 stars today 人已经上船了。\n\n⭐ 851 stars today | 📦 总星 13,676 | 🍴 1,635 | 💻 HTML\n[🔗 查看项目](https://github.com/hasaneyldrm/exercises-dataset)\n\n### 10. penpot/penpot\n\n**penpot/penpot** — Penpot: The open-source design platform for Product teams that need scalable col...  395 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 395 stars today | 📦 总星 56,222 | 🍴 3,694 | 💻 Clojure\n[🔗 查看项目](https://github.com/penpot/penpot)\n\n---\n\n## 🫡 荣誉提名\n\n- **AIEraDev/Clypra** — A modern video editor built with Tauri, React, and TypeScript. Focus on building...  ⭐ 85 stars today\n- **par274/sharpemu** — An experimental PlayStation 5 emulator project.  ⭐ 332 stars today\n- **chenyme/grok2api** — 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关  ⭐ 186 stars today\n- **Graphify-Labs/graphify** — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and...  ⭐ 1,851 stars today\n- **HenryNdubuaku/maths-cs-ai-compendium** — Become a cracked AI/ML Research Engineer  ⭐ 112 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-15T03:45:43.861034+00:00"
+}
