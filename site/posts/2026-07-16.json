@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-16",
+  "repos": [
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "1,664 stars today",
+      "total_stars": "72,201",
+      "forks": "7,373"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "1,277 stars today",
+      "total_stars": "8,923",
+      "forks": "458"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "2,130 stars today",
+      "total_stars": "172,573",
+      "forks": "14,819"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_today": "110 stars today",
+      "total_stars": "42,582",
+      "forks": "4,253"
+    },
+    {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "lang": "Rust",
+      "stars_today": "471 stars today",
+      "total_stars": "4,815",
+      "forks": "180"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "915 stars today",
+      "total_stars": "23,803",
+      "forks": "4,051"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "desc": "A coding agent for low-cost models",
+      "lang": "Rust",
+      "stars_today": "299 stars today",
+      "total_stars": "65,568",
+      "forks": "5,657"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars_today": "172 stars today",
+      "total_stars": "26,388",
+      "forks": "3,580"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "lang": "TypeScript",
+      "stars_today": "725 stars today",
+      "total_stars": "6,002",
+      "forks": "748"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "lang": "Python",
+      "stars_today": "1,236 stars today",
+      "total_stars": "122,044",
+      "forks": "18,011"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_today": "340 stars today",
+      "total_stars": "39,859",
+      "forks": "6,326"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "desc": "Experimental menu for GTA 5: Enhanced",
+      "lang": "C++",
+      "stars_today": "38 stars today",
+      "total_stars": "1,440",
+      "forks": "355"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "lang": "HTML",
+      "stars_today": "949 stars today",
+      "total_stars": "14,472",
+      "forks": "1,735"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-07-16：OpenCut 带着 1,664 stars today 颗星杀过来了\n\n> 📅 2026-07-16  |  🔍 共收录 13 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Python**: 3 | **Rust**: 2 | **CSS**: 1 | **Shell**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. OpenCut-app/OpenCut\n\n**OpenCut-app/OpenCut** 今天拿了 1,664 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,664 stars today | 📦 总星 72,201 | 🍴 7,373 | 💻 TypeScript\n[🔗 查看项目](https://github.com/OpenCut-app/OpenCut)\n\n### 2. Nutlope/hallmark\n\n**Nutlope/hallmark** — CSS 写的，当然好（不是）。Anti-AI-slop design skill for Claude Code, Cursor, and Codex...  1,277 stars today 人表示「先 star 为敬」。\n\n⭐ 1,277 stars today | 📦 总星 8,923 | 🍴 458 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 3. mattpocock/skills\n\n**mattpocock/skills** — Skills for Real Engineers. Straight from my .claude directory.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,130 stars today | 📦 总星 172,573 | 🍴 14,819 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 4. moeru-ai/airi\n\n**moeru-ai/airi** — 用 TypeScript 写就。今天获得了 110 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 110 stars today | 📦 总星 42,582 | 🍴 4,253 | 💻 TypeScript\n[🔗 查看项目](https://github.com/moeru-ai/airi)\n\n### 5. Dicklesworthstone/destructive_command_guard\n\n**Dicklesworthstone/destructive_command_guard** — The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm...  471 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 471 stars today | 📦 总星 4,815 | 🍴 180 | 💻 Rust\n[🔗 查看项目](https://github.com/Dicklesworthstone/destructive_command_guard)\n\n### 6. HKUDS/Vibe-Trading\n\n**HKUDS/Vibe-Trading** — Python 写的，当然好（不是）。\"Vibe-Trading: Your Personal Trading Agent\"...  915 stars today 人表示「先 star 为敬」。\n\n⭐ 915 stars today | 📦 总星 23,803 | 🍴 4,051 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/Vibe-Trading)\n\n### 7. openinterpreter/openinterpreter\n\n**openinterpreter/openinterpreter** — A coding agent for low-cost models...  299 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 299 stars today | 📦 总星 65,568 | 🍴 5,657 | 💻 Rust\n[🔗 查看项目](https://github.com/openinterpreter/openinterpreter)\n\n### 8. HKUDS/DeepTutor\n\n**HKUDS/DeepTutor** — 用 Python 写就。今天获得了 172 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 172 stars today | 📦 总星 26,388 | 🍴 3,580 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/DeepTutor)\n\n### 9. HenryNdubuaku/maths-cs-ai-compendium\n\n**HenryNdubuaku/maths-cs-ai-compendium** — 用 TypeScript 写就。今天获得了 725 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 725 stars today | 📦 总星 6,002 | 🍴 748 | 💻 TypeScript\n[🔗 查看项目](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)\n\n### 10. Shubhamsaboo/awesome-llm-apps\n\n**Shubhamsaboo/awesome-llm-apps** — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship....  1,236 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,236 stars today | 📦 总星 122,044 | 🍴 18,011 | 💻 Python\n[🔗 查看项目](https://github.com/Shubhamsaboo/awesome-llm-apps)\n\n---\n\n## 🫡 荣誉提名\n\n- **coreyhaines31/marketingskills** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...  ⭐ 340 stars today\n- **YimMenu/YimMenuV2** — Experimental menu for GTA 5: Enhanced  ⭐ 38 stars today\n- **hasaneyldrm/exercises-dataset** — 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou...  ⭐ 949 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-16T03:48:22.409370+00:00"
+}
