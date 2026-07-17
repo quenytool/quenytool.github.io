@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-17",
+  "repos": [
+    {
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "lang": "Python",
+      "stars_today": "60 stars today",
+      "total_stars": "963",
+      "forks": "138"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "3,372 stars today",
+      "total_stars": "11,094",
+      "forks": "552"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "3,537 stars today",
+      "total_stars": "74,155",
+      "forks": "7,488"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_today": "77 stars today",
+      "total_stars": "35,900",
+      "forks": "2,996"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "desc": "A coding agent for open models like Kimi K3",
+      "lang": "Rust",
+      "stars_today": "661 stars today",
+      "total_stars": "66,036",
+      "forks": "5,677"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "desc": "Bonsai Demo",
+      "lang": "Shell",
+      "stars_today": "196 stars today",
+      "total_stars": "1,557",
+      "forks": "156"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "lang": "HTML",
+      "stars_today": "710 stars today",
+      "total_stars": "15,121",
+      "forks": "1,818"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "lang": "Python",
+      "stars_today": "923 stars today",
+      "total_stars": "123,035",
+      "forks": "18,137"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "lang": "TypeScript",
+      "stars_today": "71 stars today",
+      "total_stars": "80,235",
+      "forks": "15,614"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "desc": "Experimental menu for GTA 5: Enhanced",
+      "lang": "C++",
+      "stars_today": "128 stars today",
+      "total_stars": "1,516",
+      "forks": "362"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars_today": "656 stars today",
+      "total_stars": "26,960",
+      "forks": "3,619"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "2,060 stars today",
+      "total_stars": "174,467",
+      "forks": "14,968"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "lang": "Java",
+      "stars_today": "13 stars today",
+      "total_stars": "9,680",
+      "forks": "1,319"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "desc": "Skills for Design Engineers",
+      "lang": "TypeScript",
+      "stars_today": "178 stars today",
+      "total_stars": "4,359",
+      "forks": "186"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "lang": "Python",
+      "stars_today": "1,107 stars today",
+      "total_stars": "89,253",
+      "forks": "8,711"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "435 stars today",
+      "total_stars": "526,446",
+      "forks": "49,805"
+    },
+    {
+      "name": "ossu/computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "desc": "🎓 Path to a free self-taught education in Computer Science!",
+      "lang": "HTML",
+      "stars_today": "107 stars today",
+      "total_stars": "206,614",
+      "forks": "25,632"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-07-17：17 个项目今天值得你 star\n\n> 📅 2026-07-17  |  🔍 共收录 17 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 3 | **Shell**: 2 | **HTML**: 2 | **CSS**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. apache/ossie\n\n**apache/ossie** — Apache Ossie, industry wide specification effort to standard...  听起来像个周末项目，但它已经有 963 总星了。周末项目，认真的吗？\n\n⭐ 60 stars today | 📦 总星 963 | 🍴 138 | 💻 Python\n[🔗 查看项目](https://github.com/apache/ossie)\n\n### 2. Nutlope/hallmark\n\n**Nutlope/hallmark** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex....  3,372 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 3,372 stars today | 📦 总星 11,094 | 🍴 552 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 3. OpenCut-app/OpenCut\n\n**OpenCut-app/OpenCut** 今天拿了 3,537 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,537 stars today | 📦 总星 74,155 | 🍴 7,488 | 💻 TypeScript\n[🔗 查看项目](https://github.com/OpenCut-app/OpenCut)\n\n### 4. PostHog/posthog\n\n**PostHog/posthog** — 🦔 PostHog is the leading platform for building self-driving ...  听起来像个周末项目，但它已经有 35,900 总星了。周末项目，认真的吗？\n\n⭐ 77 stars today | 📦 总星 35,900 | 🍴 2,996 | 💻 Python\n[🔗 查看项目](https://github.com/PostHog/posthog)\n\n### 5. openinterpreter/openinterpreter\n\n**openinterpreter/openinterpreter** — A coding agent for open models like Kimi K3... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 661 stars today | 📦 总星 66,036 | 🍴 5,677 | 💻 Rust\n[🔗 查看项目](https://github.com/openinterpreter/openinterpreter)\n\n### 6. PrismML-Eng/Bonsai-demo\n\n**PrismML-Eng/Bonsai-demo** — 用 Shell 写就。今天获得了 196 stars today 颗星，证明 Shell 还活着且活得挺好。\n\n⭐ 196 stars today | 📦 总星 1,557 | 🍴 156 | 💻 Shell\n[🔗 查看项目](https://github.com/PrismML-Eng/Bonsai-demo)\n\n### 7. hasaneyldrm/exercises-dataset\n\n**hasaneyldrm/exercises-dataset** — 如果你还没 star，那你可能错过了今天的船票。710 stars today 人已经上船了。\n\n⭐ 710 stars today | 📦 总星 15,121 | 🍴 1,818 | 💻 HTML\n[🔗 查看项目](https://github.com/hasaneyldrm/exercises-dataset)\n\n### 8. Shubhamsaboo/awesome-llm-apps\n\n**Shubhamsaboo/awesome-llm-apps** — 用 Python 写就。今天获得了 923 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 923 stars today | 📦 总星 123,035 | 🍴 18,137 | 💻 Python\n[🔗 查看项目](https://github.com/Shubhamsaboo/awesome-llm-apps)\n\n### 9. lobehub/lobehub\n\n**lobehub/lobehub** — TypeScript 写的，当然好（不是）。🤯 LobeHub is your Chief Agent Operator, organizing your agen...  71 stars today 人表示「先 star 为敬」。\n\n⭐ 71 stars today | 📦 总星 80,235 | 🍴 15,614 | 💻 TypeScript\n[🔗 查看项目](https://github.com/lobehub/lobehub)\n\n### 10. YimMenu/YimMenuV2\n\n**YimMenu/YimMenuV2** — Experimental menu for GTA 5: Enhanced...  听起来像个周末项目，但它已经有 1,516 总星了。周末项目，认真的吗？\n\n⭐ 128 stars today | 📦 总星 1,516 | 🍴 362 | 💻 C++\n[🔗 查看项目](https://github.com/YimMenu/YimMenuV2)\n\n---\n\n## 🫡 荣誉提名\n\n- **HKUDS/DeepTutor** — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.  ⭐ 656 stars today\n- **mattpocock/skills** — Skills for Real Engineers. Straight from my .claude directory.  ⭐ 2,060 stars today\n- **github/copilot-sdk** — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  ⭐ 13 stars today\n- **ibelick/ui-skills** — Skills for Design Engineers  ⭐ 178 stars today\n- **Graphify-Labs/graphify** — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and...  ⭐ 1,107 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-17T03:48:39.662984+00:00"
+}
