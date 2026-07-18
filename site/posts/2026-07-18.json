@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-18",
+  "repos": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "1,068 stars today",
+      "total_stars": "527,502",
+      "forks": "49,918"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_today": "438 stars today",
+      "total_stars": "36,239",
+      "forks": "3,010"
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "desc": "Become a cracked AI/ML Research Engineer",
+      "lang": "TypeScript",
+      "stars_today": "200 stars today",
+      "total_stars": "6,676",
+      "forks": "812"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "1,485 stars today",
+      "total_stars": "12,149",
+      "forks": "609"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "lang": "Java",
+      "stars_today": "233 stars today",
+      "total_stars": "9,812",
+      "forks": "1,332"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "45 stars today",
+      "total_stars": "1,612",
+      "forks": "490"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "desc": "Bonsai Demo",
+      "lang": "Shell",
+      "stars_today": "278 stars today",
+      "total_stars": "1,728",
+      "forks": "167"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "desc": "Protocol Buffers - Google's data interchange format",
+      "lang": "C++",
+      "stars_today": "11 stars today",
+      "total_stars": "71,549",
+      "forks": "16,193"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_today": "74 stars today",
+      "total_stars": "19,801",
+      "forks": "2,111"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "lang": "Ruby",
+      "stars_today": "91 stars today",
+      "total_stars": "17,883",
+      "forks": "1,771"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "desc": "A coding agent for open models like Kimi K3",
+      "lang": "Rust",
+      "stars_today": "431 stars today",
+      "total_stars": "66,422",
+      "forks": "5,707"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "lang": "Python",
+      "stars_today": "280 stars today",
+      "total_stars": "13,363",
+      "forks": "1,179"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars_today": "531 stars today",
+      "total_stars": "27,413",
+      "forks": "3,652"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "1,074 stars today",
+      "total_stars": "74,951",
+      "forks": "7,554"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-07-18：14 个项目今天值得你 star\n\n> 📅 2026-07-18  |  🔍 共收录 14 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 3 | **Markdown**: 1 | **CSS**: 1 | **Java**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. codecrafters-io/build-your-own-x\n\n**codecrafters-io/build-your-own-x** — Master programming by recreating your favorite technologies from scrat... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,068 stars today | 📦 总星 527,502 | 🍴 49,918 | 💻 Markdown\n[🔗 查看项目](https://github.com/codecrafters-io/build-your-own-x)\n\n### 2. PostHog/posthog\n\n**PostHog/posthog** — 用 Python 写就。今天获得了 438 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 438 stars today | 📦 总星 36,239 | 🍴 3,010 | 💻 Python\n[🔗 查看项目](https://github.com/PostHog/posthog)\n\n### 3. HenryNdubuaku/maths-cs-ai-compendium\n\n**HenryNdubuaku/maths-cs-ai-compendium** — TypeScript 写的，当然好（不是）。Become a cracked AI/ML Research Engineer...  200 stars today 人表示「先 star 为敬」。\n\n⭐ 200 stars today | 📦 总星 6,676 | 🍴 812 | 💻 TypeScript\n[🔗 查看项目](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)\n\n### 4. Nutlope/hallmark\n\n**Nutlope/hallmark** 今天拿了 1,485 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,485 stars today | 📦 总星 12,149 | 🍴 609 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 5. github/copilot-sdk\n\n**github/copilot-sdk** — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services...  233 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 233 stars today | 📦 总星 9,812 | 🍴 1,332 | 💻 Java\n[🔗 查看项目](https://github.com/github/copilot-sdk)\n\n### 6. anthropics/cwc-workshops\n\n**anthropics/cwc-workshops** — ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 45 stars today | 📦 总星 1,612 | 🍴 490 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anthropics/cwc-workshops)\n\n### 7. PrismML-Eng/Bonsai-demo\n\n**PrismML-Eng/Bonsai-demo** — Bonsai Demo...  听起来像个周末项目，但它已经有 1,728 总星了。周末项目，认真的吗？\n\n⭐ 278 stars today | 📦 总星 1,728 | 🍴 167 | 💻 Shell\n[🔗 查看项目](https://github.com/PrismML-Eng/Bonsai-demo)\n\n### 8. protocolbuffers/protobuf\n\n**protocolbuffers/protobuf** — 如果你还没 star，那你可能错过了今天的船票。11 stars today 人已经上船了。\n\n⭐ 11 stars today | 📦 总星 71,549 | 🍴 16,193 | 💻 C++\n[🔗 查看项目](https://github.com/protocolbuffers/protobuf)\n\n### 9. tirth8205/code-review-graph\n\n**tirth8205/code-review-graph** — 用 Python 写就。今天获得了 74 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 74 stars today | 📦 总星 19,801 | 🍴 2,111 | 💻 Python\n[🔗 查看项目](https://github.com/tirth8205/code-review-graph)\n\n### 10. docusealco/docuseal\n\n**docusealco/docuseal** — Open source DocuSign alternative. Create, fill, and sign dig...  听起来像个周末项目，但它已经有 17,883 总星了。周末项目，认真的吗？\n\n⭐ 91 stars today | 📦 总星 17,883 | 🍴 1,771 | 💻 Ruby\n[🔗 查看项目](https://github.com/docusealco/docuseal)\n\n---\n\n## 🫡 荣誉提名\n\n- **openinterpreter/openinterpreter** — A coding agent for open models like Kimi K3  ⭐ 431 stars today\n- **RyanCodrai/turbovec** — A vector index built on TurboQuant, written in Rust with Python bindings  ⭐ 280 stars today\n- **HKUDS/DeepTutor** — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.  ⭐ 531 stars today\n- **OpenCut-app/OpenCut** — The open-source CapCut alternative  ⭐ 1,074 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-18T03:42:16.653778+00:00"
+}
