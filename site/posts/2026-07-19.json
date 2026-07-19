@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-19",
+  "repos": [
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "lang": "Python",
+      "stars_today": "831 stars today",
+      "total_stars": "13,045",
+      "forks": "1,351"
+    },
+    {
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "lang": "Python",
+      "stars_today": "47 stars today",
+      "total_stars": "1,301",
+      "forks": "156"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_today": "338 stars today",
+      "total_stars": "36,633",
+      "forks": "3,032"
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "url": "https://github.com/ibelick/ui-skills",
+      "desc": "Skills for Design Engineers",
+      "lang": "TypeScript",
+      "stars_today": "123 stars today",
+      "total_stars": "5,102",
+      "forks": "219"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "191 stars today",
+      "total_stars": "39,167",
+      "forks": "6,555"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_today": "355 stars today",
+      "total_stars": "20,247",
+      "forks": "2,129"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "desc": "LIBERATED AI CHAT",
+      "lang": "TypeScript",
+      "stars_today": "69 stars today",
+      "total_stars": "9,548",
+      "forks": "2,257"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "161 stars today",
+      "total_stars": "23,377",
+      "forks": "2,658"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "lang": "TypeScript",
+      "stars_today": "203 stars today",
+      "total_stars": "1,304",
+      "forks": "88"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "1,126 stars today",
+      "total_stars": "528,361",
+      "forks": "49,998"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "lang": "Python",
+      "stars_today": "65 stars today",
+      "total_stars": "9,535",
+      "forks": "1,168"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-07-19  |  🔍 共收录 11 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 3 | **Jupyter Notebook**: 1 | **Markdown**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Robbyant/lingbot-map\n\n**Robbyant/lingbot-map** — 用 Python 写就。今天获得了 831 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 831 stars today | 📦 总星 13,045 | 🍴 1,351 | 💻 Python\n[🔗 查看项目](https://github.com/Robbyant/lingbot-map)\n\n### 2. apache/ossie\n\n**apache/ossie** — 如果你还没 star，那你可能错过了今天的船票。47 stars today 人已经上船了。\n\n⭐ 47 stars today | 📦 总星 1,301 | 🍴 156 | 💻 Python\n[🔗 查看项目](https://github.com/apache/ossie)\n\n### 3. PostHog/posthog\n\n**PostHog/posthog** 今天拿了 338 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 338 stars today | 📦 总星 36,633 | 🍴 3,032 | 💻 Python\n[🔗 查看项目](https://github.com/PostHog/posthog)\n\n### 4. ibelick/ui-skills\n\n**ibelick/ui-skills** — Skills for Design Engineers...  听起来像个周末项目，但它已经有 5,102 总星了。周末项目，认真的吗？\n\n⭐ 123 stars today | 📦 总星 5,102 | 🍴 219 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ibelick/ui-skills)\n\n### 5. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others....  听起来像个周末项目，但它已经有 39,167 总星了。周末项目，认真的吗？\n\n⭐ 191 stars today | 📦 总星 39,167 | 🍴 6,555 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 6. tirth8205/code-review-graph\n\n**tirth8205/code-review-graph** 今天拿了 355 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 355 stars today | 📦 总星 20,247 | 🍴 2,129 | 💻 Python\n[🔗 查看项目](https://github.com/tirth8205/code-review-graph)\n\n### 7. elder-plinius/G0DM0D3\n\n**elder-plinius/G0DM0D3** — LIBERATED AI CHAT...  听起来像个周末项目，但它已经有 9,548 总星了。周末项目，认真的吗？\n\n⭐ 69 stars today | 📦 总星 9,548 | 🍴 2,257 | 💻 TypeScript\n[🔗 查看项目](https://github.com/elder-plinius/G0DM0D3)\n\n### 8. lyogavin/airllm\n\n**lyogavin/airllm** — AirLLM 70B inference with single 4GB GPU...  听起来像个周末项目，但它已经有 23,377 总星了。周末项目，认真的吗？\n\n⭐ 161 stars today | 📦 总星 23,377 | 🍴 2,658 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/lyogavin/airllm)\n\n### 9. KnockOutEZ/wigolo\n\n**KnockOutEZ/wigolo** — The go-to web for your AI coding agent — local-first search,...  听起来像个周末项目，但它已经有 1,304 总星了。周末项目，认真的吗？\n\n⭐ 203 stars today | 📦 总星 1,304 | 🍴 88 | 💻 TypeScript\n[🔗 查看项目](https://github.com/KnockOutEZ/wigolo)\n\n### 10. codecrafters-io/build-your-own-x\n\n**codecrafters-io/build-your-own-x** — Master programming by recreating your favorite technologies from scrat... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,126 stars today | 📦 总星 528,361 | 🍴 49,998 | 💻 Markdown\n[🔗 查看项目](https://github.com/codecrafters-io/build-your-own-x)\n\n---\n\n## 🫡 荣誉提名\n\n- **MoonshotAI/kimi-cli** — Kimi Code CLI is your next CLI agent.  ⭐ 65 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-19T04:04:36.888983+00:00"
+}
