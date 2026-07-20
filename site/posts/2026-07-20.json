@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-20",
+  "repos": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "lang": "Python",
+      "stars_today": "1,734 stars today",
+      "total_stars": "6,725",
+      "forks": "622"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_today": "663 stars today",
+      "total_stars": "21,566",
+      "forks": "2,198"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "lang": "Python",
+      "stars_today": "360 stars today",
+      "total_stars": "18,452",
+      "forks": "1,456"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "501 stars today",
+      "total_stars": "39,847",
+      "forks": "6,642"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "610 stars today",
+      "total_stars": "43,516",
+      "forks": "5,308"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "lang": "TypeScript",
+      "stars_today": "595 stars today",
+      "total_stars": "1,975",
+      "forks": "122"
+    },
+    {
+      "name": "andrewrabert/jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "desc": "An unofficial desktop client for Jellyfin",
+      "lang": "Rust",
+      "stars_today": "43 stars today",
+      "total_stars": "1,322",
+      "forks": "110"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "lang": "Java",
+      "stars_today": "39 stars today",
+      "total_stars": "9,987",
+      "forks": "1,351"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_today": "411 stars today",
+      "total_stars": "36,990",
+      "forks": "3,057"
+    },
+    {
+      "name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "lang": "C++",
+      "stars_today": "59 stars today",
+      "total_stars": "104,215",
+      "forks": "9,441"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "lang": "Python",
+      "stars_today": "83 stars today",
+      "total_stars": "36,748",
+      "forks": "2,550"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "desc": "Coding Agent Harness",
+      "lang": "Rust",
+      "stars_today": "235 stars today",
+      "total_stars": "9,000",
+      "forks": "1,042"
+    },
+    {
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "lang": "HTML",
+      "stars_today": "64 stars today",
+      "total_stars": "20,263",
+      "forks": "1,343"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "lang": "Python",
+      "stars_today": "410 stars today",
+      "total_stars": "9,953",
+      "forks": "1,199"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "desc": "",
+      "lang": "Batchfile",
+      "stars_today": "106 stars today",
+      "total_stars": "31,046",
+      "forks": "2,375"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "754 stars today",
+      "total_stars": "529,031",
+      "forks": "50,049"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "358 stars today",
+      "total_stars": "23,687",
+      "forks": "2,685"
+    },
+    {
+      "name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "lang": "Python",
+      "stars_today": "121 stars today",
+      "total_stars": "16,275",
+      "forks": "1,845"
+    },
+    {
+      "name": "PKUFlyingPig/cs-self-learning",
+      "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "desc": "计算机自学指南",
+      "lang": "HTML",
+      "stars_today": "134 stars today",
+      "total_stars": "74,249",
+      "forks": "7,943"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-07-20\n\n> 📅 2026-07-20  |  🔍 共收录 19 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **TypeScript**: 2 | **Rust**: 2 | **HTML**: 2 | **Java**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. bojieli/ai-agent-book\n\n**bojieli/ai-agent-book** — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码...  听起来像个周末项目，但它已经有 6,725 总星了。周末项目，认真的吗？\n\n⭐ 1,734 stars today | 📦 总星 6,725 | 🍴 622 | 💻 Python\n[🔗 查看项目](https://github.com/bojieli/ai-agent-book)\n\n### 2. tirth8205/code-review-graph\n\n**tirth8205/code-review-graph** — Local-first code intelligence graph for MCP and CLI. Builds a persiste... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 663 stars today | 📦 总星 21,566 | 🍴 2,198 | 💻 Python\n[🔗 查看项目](https://github.com/tirth8205/code-review-graph)\n\n### 3. kvcache-ai/ktransformers\n\n**kvcache-ai/ktransformers** — 用 Python 写就。今天获得了 360 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 360 stars today | 📦 总星 18,452 | 🍴 1,456 | 💻 Python\n[🔗 查看项目](https://github.com/kvcache-ai/ktransformers)\n\n### 4. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others....  501 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 501 stars today | 📦 总星 39,847 | 🍴 6,642 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 5. jamiepine/voicebox\n\n**jamiepine/voicebox** — 如果你还没 star，那你可能错过了今天的船票。610 stars today 人已经上船了。\n\n⭐ 610 stars today | 📦 总星 43,516 | 🍴 5,308 | 💻 TypeScript\n[🔗 查看项目](https://github.com/jamiepine/voicebox)\n\n### 6. KnockOutEZ/wigolo\n\n**KnockOutEZ/wigolo** — The go-to web for your AI coding agent — local-first search, fetch, cr... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 595 stars today | 📦 总星 1,975 | 🍴 122 | 💻 TypeScript\n[🔗 查看项目](https://github.com/KnockOutEZ/wigolo)\n\n### 7. andrewrabert/jellium-desktop\n\n**andrewrabert/jellium-desktop** — Rust 写的，当然好（不是）。An unofficial desktop client for Jellyfin...  43 stars today 人表示「先 star 为敬」。\n\n⭐ 43 stars today | 📦 总星 1,322 | 🍴 110 | 💻 Rust\n[🔗 查看项目](https://github.com/andrewrabert/jellium-desktop)\n\n### 8. github/copilot-sdk\n\n**github/copilot-sdk** 今天拿了 39 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 39 stars today | 📦 总星 9,987 | 🍴 1,351 | 💻 Java\n[🔗 查看项目](https://github.com/github/copilot-sdk)\n\n### 9. PostHog/posthog\n\n**PostHog/posthog** — 🦔 PostHog is the leading platform for building self-driving products. ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 411 stars today | 📦 总星 36,990 | 🍴 3,057 | 💻 Python\n[🔗 查看项目](https://github.com/PostHog/posthog)\n\n### 10. microsoft/terminal\n\n**microsoft/terminal** 今天拿了 59 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 59 stars today | 📦 总星 104,215 | 🍴 9,441 | 💻 C++\n[🔗 查看项目](https://github.com/microsoft/terminal)\n\n---\n\n## 🫡 荣誉提名\n\n- **AstrBotDevs/AstrBot** — AI Agent Assistant & development framework that integrates lots of IM platforms,...  ⭐ 83 stars today\n- **1jehuang/jcode** — Coding Agent Harness  ⭐ 235 stars today\n- **trycua/cua** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks...  ⭐ 64 stars today\n- **MoonshotAI/kimi-cli** — Kimi Code CLI is your next CLI agent.  ⭐ 410 stars today\n- **Flowseal/zapret-discord-youtube** —   ⭐ 106 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-20T04:23:33.483011+00:00"
+}
