@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-21",
+  "repos": [
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_today": "1,833 stars today",
+      "total_stars": "23,518",
+      "forks": "2,287"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "desc": "The most intelligent agent harness for code",
+      "lang": "Rust",
+      "stars_today": "568 stars today",
+      "total_stars": "9,759",
+      "forks": "1,087"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "lang": "TypeScript",
+      "stars_today": "1,107 stars today",
+      "total_stars": "22,105",
+      "forks": "2,989"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "823 stars today",
+      "total_stars": "40,701",
+      "forks": "6,749"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "862 stars today",
+      "total_stars": "134,854",
+      "forks": "21,982"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "lang": "Python",
+      "stars_today": "458 stars today",
+      "total_stars": "18,766",
+      "forks": "1,463"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "821 stars today",
+      "total_stars": "44,323",
+      "forks": "5,390"
+    },
+    {
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "lang": "Python",
+      "stars_today": "234 stars today",
+      "total_stars": "28,849",
+      "forks": "2,746"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "lang": "Python",
+      "stars_today": "565 stars today",
+      "total_stars": "14,334",
+      "forks": "1,487"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "lang": "TypeScript",
+      "stars_today": "939 stars today",
+      "total_stars": "5,983",
+      "forks": "655"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "desc": "Kimi Code CLI is your next CLI agent.",
+      "lang": "Python",
+      "stars_today": "410 stars today",
+      "total_stars": "10,292",
+      "forks": "1,223"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "lang": "Python",
+      "stars_today": "317 stars today",
+      "total_stars": "37,166",
+      "forks": "2,585"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "desc": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "lang": "Python",
+      "stars_today": "96 stars today",
+      "total_stars": "26,589",
+      "forks": "2,165"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "lang": "TypeScript",
+      "stars_today": "689 stars today",
+      "total_stars": "2,642",
+      "forks": "156"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "desc": "A batteries-included framework for building web apps",
+      "lang": "Rust",
+      "stars_today": "371 stars today",
+      "total_stars": "1,637",
+      "forks": "42"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "lang": "TypeScript",
+      "stars_today": "240 stars today",
+      "total_stars": "133,821",
+      "forks": "7,565"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "lang": "TypeScript",
+      "stars_today": "1,641 stars today",
+      "total_stars": "4,986",
+      "forks": "346"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "desc": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "lang": "TypeScript",
+      "stars_today": "464 stars today",
+      "total_stars": "1,780",
+      "forks": "235"
+    },
+    {
+      "name": "handy-computer/transcribe.cpp",
+      "url": "https://github.com/handy-computer/transcribe.cpp",
+      "desc": "ggml speech-to-text inference for 16+ model families",
+      "lang": "C++",
+      "stars_today": "395 stars today",
+      "total_stars": "1,326",
+      "forks": "32"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "desc": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "lang": "C++",
+      "stars_today": "282 stars today",
+      "total_stars": "9,950",
+      "forks": "521"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-07-21：code-review-graph 带着 1,833 stars today 颗星杀过来了\n\n> 📅 2026-07-21  |  🔍 共收录 20 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **TypeScript**: 7 | **Rust**: 2 | **C++**: 2 | **Shell**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. tirth8205/code-review-graph\n\n**tirth8205/code-review-graph** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...  1,833 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,833 stars today | 📦 总星 23,518 | 🍴 2,287 | 💻 Python\n[🔗 查看项目](https://github.com/tirth8205/code-review-graph)\n\n### 2. 1jehuang/jcode\n\n**1jehuang/jcode** 今天拿了 568 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 568 stars today | 📦 总星 9,759 | 🍴 1,087 | 💻 Rust\n[🔗 查看项目](https://github.com/1jehuang/jcode)\n\n### 3. diegosouzapw/OmniRoute\n\n**diegosouzapw/OmniRoute** — Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,107 stars today | 📦 总星 22,105 | 🍴 2,989 | 💻 TypeScript\n[🔗 查看项目](https://github.com/diegosouzapw/OmniRoute)\n\n### 4. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — 用 Python 写就。今天获得了 823 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 823 stars today | 📦 总星 40,701 | 🍴 6,749 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 5. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — 如果你还没 star，那你可能错过了今天的船票。862 stars today 人已经上船了。\n\n⭐ 862 stars today | 📦 总星 134,854 | 🍴 21,982 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n### 6. kvcache-ai/ktransformers\n\n**kvcache-ai/ktransformers** 今天拿了 458 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 458 stars today | 📦 总星 18,766 | 🍴 1,463 | 💻 Python\n[🔗 查看项目](https://github.com/kvcache-ai/ktransformers)\n\n### 7. jamiepine/voicebox\n\n**jamiepine/voicebox** — The open-source AI voice studio. Clone, dictate, create.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 821 stars today | 📦 总星 44,323 | 🍴 5,390 | 💻 TypeScript\n[🔗 查看项目](https://github.com/jamiepine/voicebox)\n\n### 8. topoteretes/cognee\n\n**topoteretes/cognee** — Cognee is the open-source AI memory platform for agents. Giv...  听起来像个周末项目，但它已经有 28,849 总星了。周末项目，认真的吗？\n\n⭐ 234 stars today | 📦 总星 28,849 | 🍴 2,746 | 💻 Python\n[🔗 查看项目](https://github.com/topoteretes/cognee)\n\n### 9. Robbyant/lingbot-map\n\n**Robbyant/lingbot-map** — 用 Python 写就。今天获得了 565 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 565 stars today | 📦 总星 14,334 | 🍴 1,487 | 💻 Python\n[🔗 查看项目](https://github.com/Robbyant/lingbot-map)\n\n### 10. every-app/open-seo\n\n**every-app/open-seo** — 用 TypeScript 写就。今天获得了 939 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 939 stars today | 📦 总星 5,983 | 🍴 655 | 💻 TypeScript\n[🔗 查看项目](https://github.com/every-app/open-seo)\n\n---\n\n## 🫡 荣誉提名\n\n- **MoonshotAI/kimi-cli** — Kimi Code CLI is your next CLI agent.  ⭐ 410 stars today\n- **AstrBotDevs/AstrBot** — AI Agent Assistant & development framework that integrates lots of IM platforms,...  ⭐ 317 stars today\n- **PrefectHQ/fastmcp** — 🚀 The fast, Pythonic way to build MCP servers and clients.  ⭐ 96 stars today\n- **KnockOutEZ/wigolo** — The go-to web for your AI coding agent — local-first search, fetch, crawl & rese...  ⭐ 689 stars today\n- **tokio-rs/topcoat** — A batteries-included framework for building web apps  ⭐ 371 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-21T03:57:15.390685+00:00"
+}
