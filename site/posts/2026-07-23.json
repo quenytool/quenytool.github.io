@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-23",
+  "repos": [
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_today": "4,139 stars today",
+      "total_stars": "69,398",
+      "forks": "10,591"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "741 stars today",
+      "total_stars": "84,005",
+      "forks": "11,250"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_today": "1,699 stars today",
+      "total_stars": "8,468",
+      "forks": "388"
+    },
+    {
+      "name": "schollz/croc",
+      "url": "https://github.com/schollz/croc",
+      "desc": "Easily and securely send things from one computer to another 🐊 📦",
+      "lang": "Go",
+      "stars_today": "739 stars today",
+      "total_stars": "37,736",
+      "forks": "1,491"
+    },
+    {
+      "name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "lang": "TypeScript",
+      "stars_today": "80 stars today",
+      "total_stars": "4,364",
+      "forks": "305"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "lang": "Assembly",
+      "stars_today": "768 stars today",
+      "total_stars": "70,689",
+      "forks": "7,889"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "557 stars today",
+      "total_stars": "45,891",
+      "forks": "5,593"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "lang": "TypeScript",
+      "stars_today": "1,651 stars today",
+      "total_stars": "25,561",
+      "forks": "3,377"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "137 stars today",
+      "total_stars": "32,665",
+      "forks": "5,606"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_today": "163 stars today",
+      "total_stars": "68,876",
+      "forks": "7,812"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "desc": "Self-hosted deployment platform",
+      "lang": "TypeScript",
+      "stars_today": "1,302 stars today",
+      "total_stars": "7,400",
+      "forks": "546"
+    },
+    {
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "desc": "Web UI for the pi coding agent",
+      "lang": "TypeScript",
+      "stars_today": "314 stars today",
+      "total_stars": "2,115",
+      "forks": "312"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "652 stars today",
+      "total_stars": "42,376",
+      "forks": "7,059"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_today": "882 stars today",
+      "total_stars": "25,432",
+      "forks": "2,399"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "desc": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "lang": "TypeScript",
+      "stars_today": "68 stars today",
+      "total_stars": "10,855",
+      "forks": "7,301"
+    },
+    {
+      "name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "desc": "Fullstack app framework for web, desktop, and mobile.",
+      "lang": "Rust",
+      "stars_today": "420 stars today",
+      "total_stars": "38,064",
+      "forks": "1,788"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "lang": "C++",
+      "stars_today": "356 stars today",
+      "total_stars": "37,326",
+      "forks": "1,872"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars_today": "108 stars today",
+      "total_stars": "8,490",
+      "forks": "595"
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "desc": "Structured Outputs",
+      "lang": "Python",
+      "stars_today": "364 stars today",
+      "total_stars": "15,152",
+      "forks": "805"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-07-23：今天的代码，明天的 bug\n\n> 📅 2026-07-23  |  🔍 共收录 19 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 7 | **Python**: 6 | **Rust**: 3 | **Go**: 1 | **Assembly**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. koala73/worldmonitor\n\n**koala73/worldmonitor** — 用 TypeScript 写就。今天获得了 4,139 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 4,139 stars today | 📦 总星 69,398 | 🍴 10,591 | 💻 TypeScript\n[🔗 查看项目](https://github.com/koala73/worldmonitor)\n\n### 2. ruvnet/RuView\n\n**ruvnet/RuView** — Rust 写的，当然好（不是）。π RuView turns commodity WiFi signals into real-time spatial...  741 stars today 人表示「先 star 为敬」。\n\n⭐ 741 stars today | 📦 总星 84,005 | 🍴 11,250 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 3. ayghri/i-have-adhd\n\n**ayghri/i-have-adhd** — A skill for your coding agent to stop it from burying the answer. ADHD-friendly ...  1,699 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,699 stars today | 📦 总星 8,468 | 🍴 388 | 💻 Python\n[🔗 查看项目](https://github.com/ayghri/i-have-adhd)\n\n### 4. schollz/croc\n\n**schollz/croc** 今天拿了 739 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 739 stars today | 📦 总星 37,736 | 🍴 1,491 | 💻 Go\n[🔗 查看项目](https://github.com/schollz/croc)\n\n### 5. likec4/likec4\n\n**likec4/likec4** — 用 TypeScript 写就。今天获得了 80 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 80 stars today | 📦 总星 4,364 | 🍴 305 | 💻 TypeScript\n[🔗 查看项目](https://github.com/likec4/likec4)\n\n### 6. chrislgarry/Apollo-11\n\n**chrislgarry/Apollo-11** — 用 Assembly 写就。今天获得了 768 stars today 颗星，证明 Assembly 还活着且活得挺好。\n\n⭐ 768 stars today | 📦 总星 70,689 | 🍴 7,889 | 💻 Assembly\n[🔗 查看项目](https://github.com/chrislgarry/Apollo-11)\n\n### 7. jamiepine/voicebox\n\n**jamiepine/voicebox** — TypeScript 写的，当然好（不是）。The open-source AI voice studio. Clone, dictate, create....  557 stars today 人表示「先 star 为敬」。\n\n⭐ 557 stars today | 📦 总星 45,891 | 🍴 5,593 | 💻 TypeScript\n[🔗 查看项目](https://github.com/jamiepine/voicebox)\n\n### 8. diegosouzapw/OmniRoute\n\n**diegosouzapw/OmniRoute** — TypeScript 写的，当然好（不是）。Never stop coding. Free MIT AI gateway: one endpoint, 268+ p...  1,651 stars today 人表示「先 star 为敬」。\n\n⭐ 1,651 stars today | 📦 总星 25,561 | 🍴 3,377 | 💻 TypeScript\n[🔗 查看项目](https://github.com/diegosouzapw/OmniRoute)\n\n### 9. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** 今天拿了 137 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 137 stars today | 📦 总星 32,665 | 🍴 5,606 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n### 10. ComposioHQ/awesome-claude-skills\n\n**ComposioHQ/awesome-claude-skills** — A curated list of awesome Claude Skills, resources, and tool...  听起来像个周末项目，但它已经有 68,876 总星了。周末项目，认真的吗？\n\n⭐ 163 stars today | 📦 总星 68,876 | 🍴 7,812 | 💻 Python\n[🔗 查看项目](https://github.com/ComposioHQ/awesome-claude-skills)\n\n---\n\n## 🫡 荣誉提名\n\n- **oblien/openship** — Self-hosted deployment platform  ⭐ 1,302 stars today\n- **agegr/pi-web** — Web UI for the pi coding agent  ⭐ 314 stars today\n- **rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others.  ⭐ 652 stars today\n- **tirth8205/code-review-graph** — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of ...  ⭐ 882 stars today\n- **dreamhunter2333/cloudflare_temp_email** — CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot  ⭐ 68 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-23T03:56:00.945071+00:00"
+}
