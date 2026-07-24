@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-24",
+  "repos": [
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars_today": "2,162 stars today",
+      "total_stars": "7,307",
+      "forks": "584"
+    },
+    {
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "lang": "TypeScript",
+      "stars_today": "3,175 stars today",
+      "total_stars": "71,899",
+      "forks": "10,822"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "401 stars today",
+      "total_stars": "33,153",
+      "forks": "5,654"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars_today": "565 stars today",
+      "total_stars": "8,988",
+      "forks": "617"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "desc": "The best browser for both you and your AI agents work in parallel.",
+      "lang": "JavaScript",
+      "stars_today": "247 stars today",
+      "total_stars": "1,792",
+      "forks": "99"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "lang": "Assembly",
+      "stars_today": "592 stars today",
+      "total_stars": "71,151",
+      "forks": "7,924"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "lang": "TypeScript",
+      "stars_today": "1,929 stars today",
+      "total_stars": "27,437",
+      "forks": "3,595"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_today": "636 stars today",
+      "total_stars": "69,539",
+      "forks": "7,861"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "desc": "A collection of agent skills for CAD, robotics and hardware design",
+      "lang": "JavaScript",
+      "stars_today": "230 stars today",
+      "total_stars": "10,079",
+      "forks": "1,108"
+    },
+    {
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "desc": "Web UI for the pi coding agent",
+      "lang": "TypeScript",
+      "stars_today": "315 stars today",
+      "total_stars": "2,430",
+      "forks": "334"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "180 stars today",
+      "total_stars": "11,706",
+      "forks": "809"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "1,708 stars today",
+      "total_stars": "85,308",
+      "forks": "11,380"
+    },
+    {
+      "name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "lang": "TypeScript",
+      "stars_today": "472 stars today",
+      "total_stars": "4,756",
+      "forks": "325"
+    },
+    {
+      "name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "lang": "Rust",
+      "stars_today": "624 stars today",
+      "total_stars": "12,427",
+      "forks": "463"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "desc": "The Free Software Media System - Server Backend & API",
+      "lang": "C#",
+      "stars_today": "66 stars today",
+      "total_stars": "54,774",
+      "forks": "5,169"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-07-24：buzz 带着 2,162 stars today 颗星杀过来了\n\n> 📅 2026-07-24  |  🔍 共收录 15 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Rust**: 4 | **TypeScript**: 4 | **Python**: 2 | **JavaScript**: 2 | **Assembly**: 1\n\n> Rust 项目又上榜了。我就问一句：你们到底写了多少遍「用 Rust 重写」？ 🦀\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. block/buzz\n\n**block/buzz** — 如果你还没 star，那你可能错过了今天的船票。2,162 stars today 人已经上船了。\n\n⭐ 2,162 stars today | 📦 总星 7,307 | 🍴 584 | 💻 Rust\n[🔗 查看项目](https://github.com/block/buzz)\n\n### 2. koala73/worldmonitor\n\n**koala73/worldmonitor** — TypeScript 写的，当然好（不是）。Real-time global intelligence dashboard. AI-powered news agg...  3,175 stars today 人表示「先 star 为敬」。\n\n⭐ 3,175 stars today | 📦 总星 71,899 | 🍴 10,822 | 💻 TypeScript\n[🔗 查看项目](https://github.com/koala73/worldmonitor)\n\n### 3. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** — Kronos: A Foundation Model for the Language of Financial Markets...  401 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 401 stars today | 📦 总星 33,153 | 🍴 5,654 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n### 4. Pumpkin-MC/Pumpkin\n\n**Pumpkin-MC/Pumpkin** — Empowering everyone to host fast and efficient Minecraft servers.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 565 stars today | 📦 总星 8,988 | 🍴 617 | 💻 Rust\n[🔗 查看项目](https://github.com/Pumpkin-MC/Pumpkin)\n\n### 5. citrolabs/ego-lite\n\n**citrolabs/ego-lite** — The best browser for both you and your AI agents work in parallel....  247 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 247 stars today | 📦 总星 1,792 | 🍴 99 | 💻 JavaScript\n[🔗 查看项目](https://github.com/citrolabs/ego-lite)\n\n### 6. chrislgarry/Apollo-11\n\n**chrislgarry/Apollo-11** — 如果你还没 star，那你可能错过了今天的船票。592 stars today 人已经上船了。\n\n⭐ 592 stars today | 📦 总星 71,151 | 🍴 7,924 | 💻 Assembly\n[🔗 查看项目](https://github.com/chrislgarry/Apollo-11)\n\n### 7. diegosouzapw/OmniRoute\n\n**diegosouzapw/OmniRoute** — Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free),...  1,929 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,929 stars today | 📦 总星 27,437 | 🍴 3,595 | 💻 TypeScript\n[🔗 查看项目](https://github.com/diegosouzapw/OmniRoute)\n\n### 8. ComposioHQ/awesome-claude-skills\n\n**ComposioHQ/awesome-claude-skills** — 用 Python 写就。今天获得了 636 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 636 stars today | 📦 总星 69,539 | 🍴 7,861 | 💻 Python\n[🔗 查看项目](https://github.com/ComposioHQ/awesome-claude-skills)\n\n### 9. earthtojake/text-to-cad\n\n**earthtojake/text-to-cad** — JavaScript 写的，当然好（不是）。A collection of agent skills for CAD, robotics and hardware ...  230 stars today 人表示「先 star 为敬」。\n\n⭐ 230 stars today | 📦 总星 10,079 | 🍴 1,108 | 💻 JavaScript\n[🔗 查看项目](https://github.com/earthtojake/text-to-cad)\n\n### 10. agegr/pi-web\n\n**agegr/pi-web** — 如果你还没 star，那你可能错过了今天的船票。315 stars today 人已经上船了。\n\n⭐ 315 stars today | 📦 总星 2,430 | 🍴 334 | 💻 TypeScript\n[🔗 查看项目](https://github.com/agegr/pi-web)\n\n---\n\n## 🫡 荣誉提名\n\n- **alibaba/open-code-review** — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code ...  ⭐ 180 stars today\n- **ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...  ⭐ 1,708 stars today\n- **likec4/likec4** — Visualize, collaborate, and evolve the software architecture with always actual ...  ⭐ 472 stars today\n- **Automattic/harper** — Offline, privacy-first grammar checker. Fast, open-source, Rust-powered  ⭐ 624 stars today\n- **jellyfin/jellyfin** — The Free Software Media System - Server Backend & API  ⭐ 66 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-24T03:55:09.707537+00:00"
+}
