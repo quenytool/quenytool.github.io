@@ -1,0 +1,169 @@
+{
+  "date": "2026-07-26",
+  "repos": [
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars_today": "2,491 stars today",
+      "total_stars": "12,114",
+      "forks": "974"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "431 stars today",
+      "total_stars": "13,068",
+      "forks": "889"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "lang": "JavaScript",
+      "stars_today": "986 stars today",
+      "total_stars": "3,695",
+      "forks": "182"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_today": "577 stars today",
+      "total_stars": "70,652",
+      "forks": "7,947"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "132 stars today",
+      "total_stars": "49,936",
+      "forks": "5,899"
+    },
+    {
+      "name": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "lang": "Rust",
+      "stars_today": "503 stars today",
+      "total_stars": "13,465",
+      "forks": "512"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "319 stars today",
+      "total_stars": "33,837",
+      "forks": "5,709"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "479 stars today",
+      "total_stars": "261,162",
+      "forks": "23,304"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars_today": "358 stars today",
+      "total_stars": "9,741",
+      "forks": "658"
+    },
+    {
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "lang": "Swift",
+      "stars_today": "1,720 stars today",
+      "total_stars": "28,810",
+      "forks": "4,340"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,740 stars today",
+      "total_stars": "188,452",
+      "forks": "16,191"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "lang": "Swift",
+      "stars_today": "412 stars today",
+      "total_stars": "12,263",
+      "forks": "895"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "lang": "TypeScript",
+      "stars_today": "426 stars today",
+      "total_stars": "5,158",
+      "forks": "487"
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "lang": "Jupyter Notebook",
+      "stars_today": "408 stars today",
+      "total_stars": "45,405",
+      "forks": "5,423"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "lang": "Python",
+      "stars_today": "86 stars today",
+      "total_stars": "14,315",
+      "forks": "1,270"
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "lang": "Java",
+      "stars_today": "360 stars today",
+      "total_stars": "26,721",
+      "forks": "2,913"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "lang": "Python",
+      "stars_today": "77 stars today",
+      "total_stars": "15,255",
+      "forks": "1,616"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "377 stars today",
+      "total_stars": "233,372",
+      "forks": "35,580"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：buzz 爆火，Rust 又双叒叕赢了\n\n> 📅 2026-07-26  |  🔍 共收录 18 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **Rust**: 3 | **JavaScript**: 2 | **Jupyter Notebook**: 2 | **Shell**: 2\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. block/buzz\n\n**block/buzz** — A hive mind communication platform...  听起来像个周末项目，但它已经有 12,114 总星了。周末项目，认真的吗？\n\n⭐ 2,491 stars today | 📦 总星 12,114 | 🍴 974 | 💻 Rust\n[🔗 查看项目](https://github.com/block/buzz)\n\n### 2. alibaba/open-code-review\n\n**alibaba/open-code-review** — 如果你还没 star，那你可能错过了今天的船票。431 stars today 人已经上船了。\n\n⭐ 431 stars today | 📦 总星 13,068 | 🍴 889 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 3. citrolabs/ego-lite\n\n**citrolabs/ego-lite** — The fastest browser for AI agents to run web automation, built for sharing your ...  986 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 986 stars today | 📦 总星 3,695 | 🍴 182 | 💻 JavaScript\n[🔗 查看项目](https://github.com/citrolabs/ego-lite)\n\n### 4. ComposioHQ/awesome-claude-skills\n\n**ComposioHQ/awesome-claude-skills** — A curated list of awesome Claude Skills, resources, and tools for customizing Cl...  577 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 577 stars today | 📦 总星 70,652 | 🍴 7,947 | 💻 Python\n[🔗 查看项目](https://github.com/ComposioHQ/awesome-claude-skills)\n\n### 5. anthropics/claude-cookbooks\n\n**anthropics/claude-cookbooks** — 用 Jupyter Notebook 写就。今天获得了 132 stars today 颗星，证明 Jupyter Notebook 还活着且活得挺好。\n\n⭐ 132 stars today | 📦 总星 49,936 | 🍴 5,899 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/anthropics/claude-cookbooks)\n\n### 6. Automattic/harper\n\n**Automattic/harper** 今天拿了 503 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 503 stars today | 📦 总星 13,465 | 🍴 512 | 💻 Rust\n[🔗 查看项目](https://github.com/Automattic/harper)\n\n### 7. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** 今天拿了 319 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 319 stars today | 📦 总星 33,837 | 🍴 5,709 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n### 8. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodolo...  听起来像个周末项目，但它已经有 261,162 总星了。周末项目，认真的吗？\n\n⭐ 479 stars today | 📦 总星 261,162 | 🍴 23,304 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 9. Pumpkin-MC/Pumpkin\n\n**Pumpkin-MC/Pumpkin** 今天拿了 358 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 358 stars today | 📦 总星 9,741 | 🍴 658 | 💻 Rust\n[🔗 查看项目](https://github.com/Pumpkin-MC/Pumpkin)\n\n### 10. permissionlesstech/bitchat\n\n**permissionlesstech/bitchat** — 用 Swift 写就。今天获得了 1,720 stars today 颗星，证明 Swift 还活着且活得挺好。\n\n⭐ 1,720 stars today | 📦 总星 28,810 | 🍴 4,340 | 💻 Swift\n[🔗 查看项目](https://github.com/permissionlesstech/bitchat)\n\n---\n\n## 🫡 荣誉提名\n\n- **mattpocock/skills** — Skills for Real Engineers. Straight from my .agents directory.  ⭐ 1,740 stars today\n- **palmier-io/palmier-pro** — macOS video editor built for AI  ⭐ 412 stars today\n- **CoreBunch/Instatic** — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste...  ⭐ 426 stars today\n- **Lordog/dive-into-llms** — 《动手学大模型Dive into LLMs》系列编程实践教程  ⭐ 408 stars today\n- **RyanCodrai/turbovec** — A vector index built on TurboQuant, written in Rust with Python bindings  ⭐ 86 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-26T04:07:44.689455+00:00"
+}
