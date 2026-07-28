@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-28",
+  "repos": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "lang": "Swift",
+      "stars_today": "2,346 stars today",
+      "total_stars": "32,445",
+      "forks": "5,083"
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "desc": "Amnezia VPN Client (Desktop+Mobile)",
+      "lang": "C++",
+      "stars_today": "515 stars today",
+      "total_stars": "13,923",
+      "forks": "1,036"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_today": "572 stars today",
+      "total_stars": "44,172",
+      "forks": "4,405"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "lang": "TypeScript",
+      "stars_today": "420 stars today",
+      "total_stars": "2,816",
+      "forks": "362"
+    },
+    {
+      "name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars_today": "600 stars today",
+      "total_stars": "20,984",
+      "forks": "678"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_today": "362 stars today",
+      "total_stars": "58,412",
+      "forks": "11,613"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "847 stars today",
+      "total_stars": "51,683",
+      "forks": "3,051"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "441 stars today",
+      "total_stars": "34,619",
+      "forks": "5,801"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "979 stars today",
+      "total_stars": "15,008",
+      "forks": "1,013"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "lang": "Java",
+      "stars_today": "180 stars today",
+      "total_stars": "25,909",
+      "forks": "9,680"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_today": "434 stars today",
+      "total_stars": "11,247",
+      "forks": "1,152"
+    },
+    {
+      "name": "vudovn/ag-kit",
+      "url": "https://github.com/vudovn/ag-kit",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "14 stars today",
+      "total_stars": "7,997",
+      "forks": "1,512"
+    },
+    {
+      "name": "apache/cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "desc": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "lang": "Java",
+      "stars_today": "11 stars today",
+      "total_stars": "9,985",
+      "forks": "4,008"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "240 stars today",
+      "total_stars": "54,264",
+      "forks": "4,701"
+    },
+    {
+      "name": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "lang": "C++",
+      "stars_today": "51 stars today",
+      "total_stars": "75,237",
+      "forks": "11,970"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-07-28\n\n> 📅 2026-07-28  |  🔍 共收录 15 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 3 | **C++**: 2 | **Go**: 2 | **Java**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. permissionlesstech/bitchat\n\n**permissionlesstech/bitchat** 今天拿了 2,346 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,346 stars today | 📦 总星 32,445 | 🍴 5,083 | 💻 Swift\n[🔗 查看项目](https://github.com/permissionlesstech/bitchat)\n\n### 2. amnezia-vpn/amnezia-client\n\n**amnezia-vpn/amnezia-client** — Amnezia VPN Client (Desktop+Mobile)...  515 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 515 stars today | 📦 总星 13,923 | 🍴 1,036 | 💻 C++\n[🔗 查看项目](https://github.com/amnezia-vpn/amnezia-client)\n\n### 3. moeru-ai/airi\n\n**moeru-ai/airi** — 💖🧸 Self hosted, you-owned Grok Companion, a container of sou...  听起来像个周末项目，但它已经有 44,172 总星了。周末项目，认真的吗？\n\n⭐ 572 stars today | 📦 总星 44,172 | 🍴 4,405 | 💻 TypeScript\n[🔗 查看项目](https://github.com/moeru-ai/airi)\n\n### 4. opengeos/GeoLibre\n\n**opengeos/GeoLibre** — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi...  420 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 420 stars today | 📦 总星 2,816 | 🍴 362 | 💻 TypeScript\n[🔗 查看项目](https://github.com/opengeos/GeoLibre)\n\n### 5. yorukot/superfile\n\n**yorukot/superfile** — 如果你还没 star，那你可能错过了今天的船票。600 stars today 人已经上船了。\n\n⭐ 600 stars today | 📦 总星 20,984 | 🍴 678 | 💻 Go\n[🔗 查看项目](https://github.com/yorukot/superfile)\n\n### 6. NanmiCoder/MediaCrawler\n\n**NanmiCoder/MediaCrawler** — 用 Python 写就。今天获得了 362 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 362 stars today | 📦 总星 58,412 | 🍴 11,613 | 💻 Python\n[🔗 查看项目](https://github.com/NanmiCoder/MediaCrawler)\n\n### 7. pbakaus/impeccable\n\n**pbakaus/impeccable** 今天拿了 847 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 847 stars today | 📦 总星 51,683 | 🍴 3,051 | 💻 JavaScript\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 8. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** 今天拿了 441 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 441 stars today | 📦 总星 34,619 | 🍴 5,801 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n### 9. alibaba/open-code-review\n\n**alibaba/open-code-review** — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code ...  979 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 979 stars today | 📦 总星 15,008 | 🍴 1,013 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 10. jenkinsci/jenkins\n\n**jenkinsci/jenkins** — Jenkins automation server...  180 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 180 stars today | 📦 总星 25,909 | 🍴 9,680 | 💻 Java\n[🔗 查看项目](https://github.com/jenkinsci/jenkins)\n\n---\n\n## 🫡 荣誉提名\n\n- **bradautomates/claude-video** — Give Claude the ability to watch any video. /watch downloads, extracts frames, t...  ⭐ 434 stars today\n- **vudovn/ag-kit** —   ⭐ 14 stars today\n- **apache/cassandra** — Open source transactional distributed database. Linear scalability and proven fa...  ⭐ 11 stars today\n- **mvanhorn/last30days-skill** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...  ⭐ 240 stars today\n- **ocornut/imgui** — Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie...  ⭐ 51 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-28T03:47:43.995950+00:00"
+}
