@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-29",
+  "repos": [
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "lang": "TypeScript",
+      "stars_today": "341 stars today",
+      "total_stars": "18,872",
+      "forks": "2,538"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "lang": "Java",
+      "stars_today": "180 stars today",
+      "total_stars": "26,106",
+      "forks": "9,689"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_today": "797 stars today",
+      "total_stars": "44,879",
+      "forks": "4,454"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "lang": "Python",
+      "stars_today": "62 stars today",
+      "total_stars": "15,724",
+      "forks": "1,657"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "636 stars today",
+      "total_stars": "234,949",
+      "forks": "35,796"
+    },
+    {
+      "name": "hello245m/free-stockdb",
+      "url": "https://github.com/hello245m/free-stockdb",
+      "desc": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "lang": "HTML",
+      "stars_today": "50 stars today",
+      "total_stars": "1,422",
+      "forks": "214"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "lang": "Python",
+      "stars_today": "227 stars today",
+      "total_stars": "7,356",
+      "forks": "960"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "stars_today": "423 stars today",
+      "total_stars": "11,621",
+      "forks": "1,351"
+    },
+    {
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "lang": "TypeScript",
+      "stars_today": "607 stars today",
+      "total_stars": "3,488",
+      "forks": "397"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "lang": "Python",
+      "stars_today": "309 stars today",
+      "total_stars": "9,767",
+      "forks": "1,303"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "lang": "Python",
+      "stars_today": "46 stars today",
+      "total_stars": "5,278",
+      "forks": "839"
+    },
+    {
+      "name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars_today": "662 stars today",
+      "total_stars": "21,556",
+      "forks": "698"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "lang": "Python",
+      "stars_today": "988 stars today",
+      "total_stars": "12,234",
+      "forks": "1,224"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-07-29：editor 带着 341 stars today 颗星杀过来了\n\n> 📅 2026-07-29  |  🔍 共收录 13 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 3 | **Java**: 1 | **JavaScript**: 1 | **HTML**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. pascalorg/editor\n\n**pascalorg/editor** — Create and share 3D architectural projects....  341 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 341 stars today | 📦 总星 18,872 | 🍴 2,538 | 💻 TypeScript\n[🔗 查看项目](https://github.com/pascalorg/editor)\n\n### 2. jenkinsci/jenkins\n\n**jenkinsci/jenkins** — 用 Java 写就。今天获得了 180 stars today 颗星，证明 Java 还活着且活得挺好。\n\n⭐ 180 stars today | 📦 总星 26,106 | 🍴 9,689 | 💻 Java\n[🔗 查看项目](https://github.com/jenkinsci/jenkins)\n\n### 3. moeru-ai/airi\n\n**moeru-ai/airi** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waif... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 797 stars today | 📦 总星 44,879 | 🍴 4,454 | 💻 TypeScript\n[🔗 查看项目](https://github.com/moeru-ai/airi)\n\n### 4. andrewyng/aisuite\n\n**andrewyng/aisuite** — Python 写的，当然好（不是）。Simple, unified interface to multiple Generative AI provider...  62 stars today 人表示「先 star 为敬」。\n\n⭐ 62 stars today | 📦 总星 15,724 | 🍴 1,657 | 💻 Python\n[🔗 查看项目](https://github.com/andrewyng/aisuite)\n\n### 5. affaan-m/ECC\n\n**affaan-m/ECC** 今天拿了 636 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 636 stars today | 📦 总星 234,949 | 🍴 35,796 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 6. hello245m/free-stockdb\n\n**hello245m/free-stockdb** — 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 50 stars today | 📦 总星 1,422 | 🍴 214 | 💻 HTML\n[🔗 查看项目](https://github.com/hello245m/free-stockdb)\n\n### 7. huggingface/speech-to-speech\n\n**huggingface/speech-to-speech** — Build local voice agents with open-source models...  227 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 227 stars today | 📦 总星 7,356 | 🍴 960 | 💻 Python\n[🔗 查看项目](https://github.com/huggingface/speech-to-speech)\n\n### 8. virgiliojr94/book-to-skill\n\n**virgiliojr94/book-to-skill** — Turn any technical book PDF into a Claude Code skill — ready to study,... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 423 stars today | 📦 总星 11,621 | 🍴 1,351 | 💻 Python\n[🔗 查看项目](https://github.com/virgiliojr94/book-to-skill)\n\n### 9. opengeos/GeoLibre\n\n**opengeos/GeoLibre** — A lightweight, cloud-native GIS platform for visualizing, exploring, a... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 607 stars today | 📦 总星 3,488 | 🍴 397 | 💻 TypeScript\n[🔗 查看项目](https://github.com/opengeos/GeoLibre)\n\n### 10. paperswithbacktest/awesome-systematic-trading\n\n**paperswithbacktest/awesome-systematic-trading** — Python 写的，当然好（不是）。A curated list of awesome libraries, packages, strategies, b...  309 stars today 人表示「先 star 为敬」。\n\n⭐ 309 stars today | 📦 总星 9,767 | 🍴 1,303 | 💻 Python\n[🔗 查看项目](https://github.com/paperswithbacktest/awesome-systematic-trading)\n\n---\n\n## 🫡 荣誉提名\n\n- **microsoft/agent-governance-toolkit** — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution...  ⭐ 46 stars today\n- **yorukot/superfile** — Pretty fancy and modern terminal file manager  ⭐ 662 stars today\n- **bradautomates/claude-video** — Give Claude the ability to watch any video. /watch downloads, extracts frames, t...  ⭐ 988 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-29T03:51:50.903454+00:00"
+}
