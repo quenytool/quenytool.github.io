@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-31",
+  "repos": [
+    {
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "desc": "Build local voice agents with open-source models",
+      "lang": "Python",
+      "stars_today": "628 stars today",
+      "total_stars": "9,106",
+      "forks": "1,116"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "lang": "Jupyter Notebook",
+      "stars_today": "155 stars today",
+      "total_stars": "54,257",
+      "forks": "10,994"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "lang": "Python",
+      "stars_today": "621 stars today",
+      "total_stars": "11,174",
+      "forks": "1,426"
+    },
+    {
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "lang": "TypeScript",
+      "stars_today": "915 stars today",
+      "total_stars": "18,862",
+      "forks": "1,918"
+    },
+    {
+      "name": "WhiskeySockets/Baileys",
+      "url": "https://github.com/WhiskeySockets/Baileys",
+      "desc": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "lang": "JavaScript",
+      "stars_today": "19 stars today",
+      "total_stars": "10,465",
+      "forks": "3,255"
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "desc": "Create and share 3D architectural projects.",
+      "lang": "TypeScript",
+      "stars_today": "625 stars today",
+      "total_stars": "20,193",
+      "forks": "2,623"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "378 stars today",
+      "total_stars": "55,639",
+      "forks": "4,791"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "lang": "C#",
+      "stars_today": "7 stars today",
+      "total_stars": "38,305",
+      "forks": "10,859"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "lang": "C",
+      "stars_today": "70 stars today",
+      "total_stars": "137,190",
+      "forks": "8,366"
+    },
+    {
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "lang": "Python",
+      "stars_today": "29 stars today",
+      "total_stars": "69,924",
+      "forks": "24,254"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "80 stars today",
+      "total_stars": "48,131",
+      "forks": "3,266"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "lang": "Java",
+      "stars_today": "25 stars today",
+      "total_stars": "26,320",
+      "forks": "9,719"
+    },
+    {
+      "name": "agavra/tuicr",
+      "url": "https://github.com/agavra/tuicr",
+      "desc": "a code review TUI with vim keybindings",
+      "lang": "Rust",
+      "stars_today": "190 stars today",
+      "total_stars": "1,903",
+      "forks": "163"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "804 stars today",
+      "total_stars": "236,304",
+      "forks": "35,934"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-07-31：今天的代码，明天的 bug\n\n> 📅 2026-07-31  |  🔍 共收录 14 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 3 | **JavaScript**: 2 | **Jupyter Notebook**: 1 | **C#**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. huggingface/speech-to-speech\n\n**huggingface/speech-to-speech** — Python 写的，当然好（不是）。Build local voice agents with open-source models...  628 stars today 人表示「先 star 为敬」。\n\n⭐ 628 stars today | 📦 总星 9,106 | 🍴 1,116 | 💻 Python\n[🔗 查看项目](https://github.com/huggingface/speech-to-speech)\n\n### 2. microsoft/AI-For-Beginners\n\n**microsoft/AI-For-Beginners** — 12 Weeks, 24 Lessons, AI for All!...  155 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 155 stars today | 📦 总星 54,257 | 🍴 10,994 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/microsoft/AI-For-Beginners)\n\n### 3. paperswithbacktest/awesome-systematic-trading\n\n**paperswithbacktest/awesome-systematic-trading** — A curated list of awesome libraries, packages, strategies, books, blogs, tutoria...  621 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 621 stars today | 📦 总星 11,174 | 🍴 1,426 | 💻 Python\n[🔗 查看项目](https://github.com/paperswithbacktest/awesome-systematic-trading)\n\n### 4. different-ai/openwork\n\n**different-ai/openwork** — 用 TypeScript 写就。今天获得了 915 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 915 stars today | 📦 总星 18,862 | 🍴 1,918 | 💻 TypeScript\n[🔗 查看项目](https://github.com/different-ai/openwork)\n\n### 5. WhiskeySockets/Baileys\n\n**WhiskeySockets/Baileys** — Socket-based TS/JavaScript API for WhatsApp Web...  听起来像个周末项目，但它已经有 10,465 总星了。周末项目，认真的吗？\n\n⭐ 19 stars today | 📦 总星 10,465 | 🍴 3,255 | 💻 JavaScript\n[🔗 查看项目](https://github.com/WhiskeySockets/Baileys)\n\n### 6. pascalorg/editor\n\n**pascalorg/editor** — Create and share 3D architectural projects....  625 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 625 stars today | 📦 总星 20,193 | 🍴 2,623 | 💻 TypeScript\n[🔗 查看项目](https://github.com/pascalorg/editor)\n\n### 7. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark...  378 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 378 stars today | 📦 总星 55,639 | 🍴 4,791 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 8. dotnet/aspnetcore\n\n**dotnet/aspnetcore** — C# 写的，当然好（不是）。ASP.NET Core is a cross-platform .NET framework for building...  7 stars today 人表示「先 star 为敬」。\n\n⭐ 7 stars today | 📦 总星 38,305 | 🍴 10,859 | 💻 C#\n[🔗 查看项目](https://github.com/dotnet/aspnetcore)\n\n### 9. microsoft/PowerToys\n\n**microsoft/PowerToys** — 如果你还没 star，那你可能错过了今天的船票。70 stars today 人已经上船了。\n\n⭐ 70 stars today | 📦 总星 137,190 | 🍴 8,366 | 💻 C\n[🔗 查看项目](https://github.com/microsoft/PowerToys)\n\n### 10. ansible/ansible\n\n**ansible/ansible** — 如果你还没 star，那你可能错过了今天的船票。29 stars today 人已经上船了。\n\n⭐ 29 stars today | 📦 总星 69,924 | 🍴 24,254 | 💻 Python\n[🔗 查看项目](https://github.com/ansible/ansible)\n\n---\n\n## 🫡 荣誉提名\n\n- **ChromeDevTools/chrome-devtools-mcp** — Chrome DevTools for coding agents  ⭐ 80 stars today\n- **jenkinsci/jenkins** — Jenkins automation server  ⭐ 25 stars today\n- **agavra/tuicr** — a code review TUI with vim keybindings  ⭐ 190 stars today\n- **affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, memory, se...  ⭐ 804 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-31T04:02:43.057317+00:00"
+}
