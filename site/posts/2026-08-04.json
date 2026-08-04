@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-04",
+  "repos": [
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "1,085 stars today",
+      "total_stars": "27,346",
+      "forks": "2,986"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "lang": "PowerShell",
+      "stars_today": "2,446 stars today",
+      "total_stars": "16,150",
+      "forks": "2,265"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_today": "1,699 stars today",
+      "total_stars": "8,568",
+      "forks": "563"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "lang": "Go",
+      "stars_today": "883 stars today",
+      "total_stars": "30,097",
+      "forks": "1,937"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "lang": "TypeScript",
+      "stars_today": "1,090 stars today",
+      "total_stars": "12,316",
+      "forks": "1,165"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "lang": "Jupyter Notebook",
+      "stars_today": "1,902 stars today",
+      "total_stars": "60,962",
+      "forks": "11,859"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "21 Lessons, Get Started Building with Generative AI",
+      "lang": "Jupyter Notebook",
+      "stars_today": "775 stars today",
+      "total_stars": "115,707",
+      "forks": "61,456"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "lang": "Python",
+      "stars_today": "237 stars today",
+      "total_stars": "360,631",
+      "forks": "57,528"
+    },
+    {
+      "name": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "desc": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "lang": "C",
+      "stars_today": "384 stars today",
+      "total_stars": "20,409",
+      "forks": "1,805"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "200 stars today",
+      "total_stars": "35,861",
+      "forks": "5,968"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "1,057 stars today",
+      "total_stars": "65,869",
+      "forks": "5,464"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+      "lang": "Python",
+      "stars_today": "278 stars today",
+      "total_stars": "44,101",
+      "forks": "7,274"
+    },
+    {
+      "name": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "desc": "Invidious is an alternative front-end to YouTube",
+      "lang": "Crystal",
+      "stars_today": "402 stars today",
+      "total_stars": "22,297",
+      "forks": "2,482"
+    },
+    {
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "lang": "Python",
+      "stars_today": "148 stars today",
+      "total_stars": "12,068",
+      "forks": "3,462"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "desc": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "lang": "TypeScript",
+      "stars_today": "665 stars today",
+      "total_stars": "6,929",
+      "forks": "559"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "412 stars today",
+      "total_stars": "48,795",
+      "forks": "5,997"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-08-04：airllm 让 1,085 stars today 个开发者点了收藏\n\n> 📅 2026-08-04  |  🔍 共收录 16 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **Jupyter Notebook**: 3 | **TypeScript**: 3 | **PowerShell**: 1 | **Rust**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. lyogavin/airllm\n\n**lyogavin/airllm** — AirLLM 70B inference with single 4GB GPU...  1,085 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,085 stars today | 📦 总星 27,346 | 🍴 2,986 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/lyogavin/airllm)\n\n### 2. zhaoxuya520/reverse-skill\n\n**zhaoxuya520/reverse-skill** — Reverse Engineering / Authorized Penetration Testing / Secur...  听起来像个周末项目，但它已经有 16,150 总星了。周末项目，认真的吗？\n\n⭐ 2,446 stars today | 📦 总星 16,150 | 🍴 2,265 | 💻 PowerShell\n[🔗 查看项目](https://github.com/zhaoxuya520/reverse-skill)\n\n### 3. firecrawl/pdf-inspector\n\n**firecrawl/pdf-inspector** — Fast Rust library for PDF inspection, classification, and te...  听起来像个周末项目，但它已经有 8,568 总星了。周末项目，认真的吗？\n\n⭐ 1,699 stars today | 📦 总星 8,568 | 🍴 563 | 💻 Rust\n[🔗 查看项目](https://github.com/firecrawl/pdf-inspector)\n\n### 4. esengine/DeepSeek-Reasonix\n\n**esengine/DeepSeek-Reasonix** — DeepSeek-native AI coding agent for your terminal. Engineere...  听起来像个周末项目，但它已经有 30,097 总星了。周末项目，认真的吗？\n\n⭐ 883 stars today | 📦 总星 30,097 | 🍴 1,937 | 💻 Go\n[🔗 查看项目](https://github.com/esengine/DeepSeek-Reasonix)\n\n### 5. TencentCloud/TencentDB-Agent-Memory\n\n**TencentCloud/TencentDB-Agent-Memory** — TypeScript 写的，当然好（不是）。TencentDB Agent Memory is a team-level memory hub for AI Age...  1,090 stars today 人表示「先 star 为敬」。\n\n⭐ 1,090 stars today | 📦 总星 12,316 | 🍴 1,165 | 💻 TypeScript\n[🔗 查看项目](https://github.com/TencentCloud/TencentDB-Agent-Memory)\n\n### 6. microsoft/AI-For-Beginners\n\n**microsoft/AI-For-Beginners** — 用 Jupyter Notebook 写就。今天获得了 1,902 stars today 颗星，证明 Jupyter Notebook 还活着且活得挺好。\n\n⭐ 1,902 stars today | 📦 总星 60,962 | 🍴 11,859 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/microsoft/AI-For-Beginners)\n\n### 7. microsoft/generative-ai-for-beginners\n\n**microsoft/generative-ai-for-beginners** — 21 Lessons, Get Started Building with Generative AI...  775 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 775 stars today | 📦 总星 115,707 | 🍴 61,456 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/microsoft/generative-ai-for-beginners)\n\n### 8. donnemartin/system-design-primer\n\n**donnemartin/system-design-primer** — 如果你还没 star，那你可能错过了今天的船票。237 stars today 人已经上船了。\n\n⭐ 237 stars today | 📦 总星 360,631 | 🍴 57,528 | 💻 Python\n[🔗 查看项目](https://github.com/donnemartin/system-design-primer)\n\n### 9. antirez/ds4\n\n**antirez/ds4** — DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm...  384 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 384 stars today | 📦 总星 20,409 | 🍴 1,805 | 💻 C\n[🔗 查看项目](https://github.com/antirez/ds4)\n\n### 10. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** 今天拿了 200 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 200 stars today | 📦 总星 35,861 | 🍴 5,968 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n---\n\n## 🫡 荣誉提名\n\n- **Panniantong/Agent-Reach** — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi...  ⭐ 1,057 stars today\n- **Alishahryar1/free-claude-code** — Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone li...  ⭐ 278 stars today\n- **iv-org/invidious** — Invidious is an alternative front-end to YouTube  ⭐ 402 stars today\n- **livekit/agents** — A framework for building realtime voice AI agents 🤖🎙️📹  ⭐ 148 stars today\n- **usekaneo/kaneo** — 🎯 All you need. Nothing you don't. Open source project management that works for...  ⭐ 665 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-04T03:49:52.773024+00:00"
+}
