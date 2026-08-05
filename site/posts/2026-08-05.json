@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-05",
+  "repos": [
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "lang": "TypeScript",
+      "stars_today": "1,111 stars today",
+      "total_stars": "13,929",
+      "forks": "1,297"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "lang": "PowerShell",
+      "stars_today": "2,297 stars today",
+      "total_stars": "18,147",
+      "forks": "2,485"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_today": "2,540 stars today",
+      "total_stars": "10,236",
+      "forks": "668"
+    },
+    {
+      "name": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "desc": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "lang": "Python",
+      "stars_today": "148 stars today",
+      "total_stars": "731",
+      "forks": "70"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "653 stars today",
+      "total_stars": "266,608",
+      "forks": "23,834"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "21 Lessons, Get Started Building with Generative AI",
+      "lang": "Jupyter Notebook",
+      "stars_today": "783 stars today",
+      "total_stars": "116,354",
+      "forks": "61,572"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "lang": "TypeScript",
+      "stars_today": "11 stars today",
+      "total_stars": "50,822",
+      "forks": "3,628"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "1,711 stars today",
+      "total_stars": "28,503",
+      "forks": "3,074"
+    },
+    {
+      "name": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "lang": "JavaScript",
+      "stars_today": "10 stars today",
+      "total_stars": "65,949",
+      "forks": "9,529"
+    },
+    {
+      "name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "desc": "Fast C++ logging library.",
+      "lang": "C++",
+      "stars_today": "10 stars today",
+      "total_stars": "29,393",
+      "forks": "5,372"
+    },
+    {
+      "name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "desc": "A modern runtime for JavaScript and TypeScript.",
+      "lang": "Rust",
+      "stars_today": "31 stars today",
+      "total_stars": "108,082",
+      "forks": "6,306"
+    },
+    {
+      "name": "usekaneo/kaneo",
+      "url": "https://github.com/usekaneo/kaneo",
+      "desc": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "lang": "TypeScript",
+      "stars_today": "559 stars today",
+      "total_stars": "7,336",
+      "forks": "580"
+    },
+    {
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "lang": "Python",
+      "stars_today": "432 stars today",
+      "total_stars": "12,479",
+      "forks": "3,484"
+    },
+    {
+      "name": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "desc": "Deliver web apps with confidence 🚀",
+      "lang": "TypeScript",
+      "stars_today": "13 stars today",
+      "total_stars": "100,856",
+      "forks": "27,400"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "lang": "TypeScript",
+      "stars_today": "52 stars today",
+      "total_stars": "96,530",
+      "forks": "5,537"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_today": "320 stars today",
+      "total_stars": "19,419",
+      "forks": "2,415"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "lang": "Go",
+      "stars_today": "922 stars today",
+      "total_stars": "30,910",
+      "forks": "1,986"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "lang": "TypeScript",
+      "stars_today": "40 stars today",
+      "total_stars": "23,911",
+      "forks": "1,958"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：TencentDB-Agent-Memory 霸榜，开发者集体失眠\n\n> 📅 2026-08-05  |  🔍 共收录 18 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Python**: 3 | **Rust**: 2 | **Jupyter Notebook**: 2 | **PowerShell**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. TencentCloud/TencentDB-Agent-Memory\n\n**TencentCloud/TencentDB-Agent-Memory** — TypeScript 写的，当然好（不是）。TencentDB Agent Memory is a team-level memory hub for AI Age...  1,111 stars today 人表示「先 star 为敬」。\n\n⭐ 1,111 stars today | 📦 总星 13,929 | 🍴 1,297 | 💻 TypeScript\n[🔗 查看项目](https://github.com/TencentCloud/TencentDB-Agent-Memory)\n\n### 2. zhaoxuya520/reverse-skill\n\n**zhaoxuya520/reverse-skill** — Reverse Engineering / Authorized Penetration Testing / Security Resear... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,297 stars today | 📦 总星 18,147 | 🍴 2,485 | 💻 PowerShell\n[🔗 查看项目](https://github.com/zhaoxuya520/reverse-skill)\n\n### 3. firecrawl/pdf-inspector\n\n**firecrawl/pdf-inspector** 今天拿了 2,540 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,540 stars today | 📦 总星 10,236 | 🍴 668 | 💻 Rust\n[🔗 查看项目](https://github.com/firecrawl/pdf-inspector)\n\n### 4. uber/ADR\n\n**uber/ADR** — ADR secures enterprise AI agents through observability, secu...  听起来像个周末项目，但它已经有 731 总星了。周末项目，认真的吗？\n\n⭐ 148 stars today | 📦 总星 731 | 🍴 70 | 💻 Python\n[🔗 查看项目](https://github.com/uber/ADR)\n\n### 5. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that wo... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 653 stars today | 📦 总星 266,608 | 🍴 23,834 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 6. microsoft/generative-ai-for-beginners\n\n**microsoft/generative-ai-for-beginners** — Jupyter Notebook 写的，当然好（不是）。21 Lessons, Get Started Building with Generative AI...  783 stars today 人表示「先 star 为敬」。\n\n⭐ 783 stars today | 📦 总星 116,354 | 🍴 61,572 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/microsoft/generative-ai-for-beginners)\n\n### 7. cypress-io/cypress\n\n**cypress-io/cypress** — 如果你还没 star，那你可能错过了今天的船票。11 stars today 人已经上船了。\n\n⭐ 11 stars today | 📦 总星 50,822 | 🍴 3,628 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cypress-io/cypress)\n\n### 8. lyogavin/airllm\n\n**lyogavin/airllm** — AirLLM 70B inference with single 4GB GPU...  1,711 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,711 stars today | 📦 总星 28,503 | 🍴 3,074 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/lyogavin/airllm)\n\n### 9. webpack/webpack\n\n**webpack/webpack** 今天拿了 10 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 10 stars today | 📦 总星 65,949 | 🍴 9,529 | 💻 JavaScript\n[🔗 查看项目](https://github.com/webpack/webpack)\n\n### 10. gabime/spdlog\n\n**gabime/spdlog** — C++ 写的，当然好（不是）。Fast C++ logging library....  10 stars today 人表示「先 star 为敬」。\n\n⭐ 10 stars today | 📦 总星 29,393 | 🍴 5,372 | 💻 C++\n[🔗 查看项目](https://github.com/gabime/spdlog)\n\n---\n\n## 🫡 荣誉提名\n\n- **denoland/deno** — A modern runtime for JavaScript and TypeScript.  ⭐ 31 stars today\n- **usekaneo/kaneo** — 🎯 All you need. Nothing you don't. Open source project management that works for...  ⭐ 559 stars today\n- **livekit/agents** — A framework for building realtime voice AI agents 🤖🎙️📹  ⭐ 432 stars today\n- **angular/angular** — Deliver web apps with confidence 🚀  ⭐ 13 stars today\n- **tailwindlabs/tailwindcss** — A utility-first CSS framework for rapid UI development.  ⭐ 52 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-05T03:45:37.802240+00:00"
+}
