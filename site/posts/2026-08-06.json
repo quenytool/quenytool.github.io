@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-06",
+  "repos": [
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "desc": "Give your agent a computer 👾",
+      "lang": "TypeScript",
+      "stars_today": "891 stars today",
+      "total_stars": "3,364",
+      "forks": "154"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "lang": "Python",
+      "stars_today": "326 stars today",
+      "total_stars": "2,302",
+      "forks": "170"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "lang": "TypeScript",
+      "stars_today": "1,892 stars today",
+      "total_stars": "15,227",
+      "forks": "1,386"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "lang": "Python",
+      "stars_today": "303 stars today",
+      "total_stars": "361,656",
+      "forks": "57,658"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_today": "1,582 stars today",
+      "total_stars": "11,606",
+      "forks": "780"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "lang": "Go",
+      "stars_today": "747 stars today",
+      "total_stars": "31,768",
+      "forks": "2,044"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "226 stars today",
+      "total_stars": "82,061",
+      "forks": "8,830"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "931 stars today",
+      "total_stars": "267,423",
+      "forks": "23,895"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_today": "146 stars today",
+      "total_stars": "48,983",
+      "forks": "4,620"
+    },
+    {
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "desc": "The React Framework",
+      "lang": "JavaScript",
+      "stars_today": "68 stars today",
+      "total_stars": "141,577",
+      "forks": "31,682"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "lang": "TypeScript",
+      "stars_today": "408 stars today",
+      "total_stars": "96,903",
+      "forks": "5,550"
+    },
+    {
+      "name": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "desc": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "lang": "Python",
+      "stars_today": "354 stars today",
+      "total_stars": "1,089",
+      "forks": "88"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "833 stars today",
+      "total_stars": "29,188",
+      "forks": "3,134"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-08-06  |  🔍 共收录 13 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 3 | **JavaScript**: 2 | **Rust**: 1 | **Go**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cloudflare/computer\n\n**cloudflare/computer** 今天拿了 891 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 891 stars today | 📦 总星 3,364 | 🍴 154 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cloudflare/computer)\n\n### 2. huangruiteng/loopx\n\n**huangruiteng/loopx** — 如果你还没 star，那你可能错过了今天的船票。326 stars today 人已经上船了。\n\n⭐ 326 stars today | 📦 总星 2,302 | 🍴 170 | 💻 Python\n[🔗 查看项目](https://github.com/huangruiteng/loopx)\n\n### 3. TencentCloud/TencentDB-Agent-Memory\n\n**TencentCloud/TencentDB-Agent-Memory** — 如果你还没 star，那你可能错过了今天的船票。1,892 stars today 人已经上船了。\n\n⭐ 1,892 stars today | 📦 总星 15,227 | 🍴 1,386 | 💻 TypeScript\n[🔗 查看项目](https://github.com/TencentCloud/TencentDB-Agent-Memory)\n\n### 4. donnemartin/system-design-primer\n\n**donnemartin/system-design-primer** — 用 Python 写就。今天获得了 303 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 303 stars today | 📦 总星 361,656 | 🍴 57,658 | 💻 Python\n[🔗 查看项目](https://github.com/donnemartin/system-design-primer)\n\n### 5. firecrawl/pdf-inspector\n\n**firecrawl/pdf-inspector** — Fast Rust library for PDF inspection, classification, and te...  听起来像个周末项目，但它已经有 11,606 总星了。周末项目，认真的吗？\n\n⭐ 1,582 stars today | 📦 总星 11,606 | 🍴 780 | 💻 Rust\n[🔗 查看项目](https://github.com/firecrawl/pdf-inspector)\n\n### 6. esengine/DeepSeek-Reasonix\n\n**esengine/DeepSeek-Reasonix** — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach...  747 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 747 stars today | 📦 总星 31,768 | 🍴 2,044 | 💻 Go\n[🔗 查看项目](https://github.com/esengine/DeepSeek-Reasonix)\n\n### 7. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents....  226 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 226 stars today | 📦 总星 82,061 | 🍴 8,830 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 8. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that works....  931 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 931 stars today | 📦 总星 267,423 | 🍴 23,895 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 9. roboflow/supervision\n\n**roboflow/supervision** — 用 Python 写就。今天获得了 146 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 146 stars today | 📦 总星 48,983 | 🍴 4,620 | 💻 Python\n[🔗 查看项目](https://github.com/roboflow/supervision)\n\n### 10. vercel/next.js\n\n**vercel/next.js** — 用 JavaScript 写就。今天获得了 68 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 68 stars today | 📦 总星 141,577 | 🍴 31,682 | 💻 JavaScript\n[🔗 查看项目](https://github.com/vercel/next.js)\n\n---\n\n## 🫡 荣誉提名\n\n- **tailwindlabs/tailwindcss** — A utility-first CSS framework for rapid UI development.  ⭐ 408 stars today\n- **uber/ADR** — ADR secures enterprise AI agents through observability, security benchmarking, a...  ⭐ 354 stars today\n- **lyogavin/airllm** — AirLLM 70B inference with single 4GB GPU  ⭐ 833 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-06T03:51:04.932337+00:00"
+}
