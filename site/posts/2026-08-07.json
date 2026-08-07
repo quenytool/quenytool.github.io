@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-07",
+  "repos": [
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "lang": "TypeScript",
+      "stars_today": "1,057 stars today",
+      "total_stars": "16,581",
+      "forks": "1,497"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "593 stars today",
+      "total_stars": "83,052",
+      "forks": "8,899"
+    },
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "desc": "Give your agent a computer 👾",
+      "lang": "TypeScript",
+      "stars_today": "2,802 stars today",
+      "total_stars": "4,915",
+      "forks": "246"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,873 stars today",
+      "total_stars": "207,321",
+      "forks": "17,905"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars_today": "138 stars today",
+      "total_stars": "23,182",
+      "forks": "1,776"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "lang": "Python",
+      "stars_today": "847 stars today",
+      "total_stars": "2,966",
+      "forks": "220"
+    },
+    {
+      "name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "desc": "Google core libraries for Java",
+      "lang": "Java",
+      "stars_today": "13 stars today",
+      "total_stars": "51,654",
+      "forks": "11,164"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars_today": "134 stars today",
+      "total_stars": "77,230",
+      "forks": "17,440"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "lang": "Python",
+      "stars_today": "37 stars today",
+      "total_stars": "186,069",
+      "forks": "46,055"
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "lang": "Python",
+      "stars_today": "237 stars today",
+      "total_stars": "29,094",
+      "forks": "2,686"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "lang": "Go",
+      "stars_today": "888 stars today",
+      "total_stars": "32,530",
+      "forks": "2,102"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "858 stars today",
+      "total_stars": "268,187",
+      "forks": "23,966"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_today": "1,190 stars today",
+      "total_stars": "12,564",
+      "forks": "844"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：TencentDB-Agent-Memory 霸榜，开发者集体失眠\n\n> 📅 2026-08-07  |  🔍 共收录 13 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 2 | **Shell**: 2 | **JavaScript**: 1 | **Java**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. TencentCloud/TencentDB-Agent-Memory\n\n**TencentCloud/TencentDB-Agent-Memory** — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver...  1,057 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,057 stars today | 📦 总星 16,581 | 🍴 1,497 | 💻 TypeScript\n[🔗 查看项目](https://github.com/TencentCloud/TencentDB-Agent-Memory)\n\n### 2. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — 如果你还没 star，那你可能错过了今天的船票。593 stars today 人已经上船了。\n\n⭐ 593 stars today | 📦 总星 83,052 | 🍴 8,899 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 3. cloudflare/computer\n\n**cloudflare/computer** — TypeScript 写的，当然好（不是）。Give your agent a computer 👾...  2,802 stars today 人表示「先 star 为敬」。\n\n⭐ 2,802 stars today | 📦 总星 4,915 | 🍴 246 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cloudflare/computer)\n\n### 4. mattpocock/skills\n\n**mattpocock/skills** — 如果你还没 star，那你可能错过了今天的船票。1,873 stars today 人已经上船了。\n\n⭐ 1,873 stars today | 📦 总星 207,321 | 🍴 17,905 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 5. goauthentik/authentik\n\n**goauthentik/authentik** — The authentication glue you need....  138 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 138 stars today | 📦 总星 23,182 | 🍴 1,776 | 💻 Python\n[🔗 查看项目](https://github.com/goauthentik/authentik)\n\n### 6. huangruiteng/loopx\n\n**huangruiteng/loopx** — Lightweight loop engineering state kernel for long-running A...  听起来像个周末项目，但它已经有 2,966 总星了。周末项目，认真的吗？\n\n⭐ 847 stars today | 📦 总星 2,966 | 🍴 220 | 💻 Python\n[🔗 查看项目](https://github.com/huangruiteng/loopx)\n\n### 7. google/guava\n\n**google/guava** — Google core libraries for Java... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 13 stars today | 📦 总星 51,654 | 🍴 11,164 | 💻 Java\n[🔗 查看项目](https://github.com/google/guava)\n\n### 8. TapXWorld/ChinaTextbook\n\n**TapXWorld/ChinaTextbook** — 所有小初高、大学PDF教材。... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 134 stars today | 📦 总星 77,230 | 🍴 17,440 | 💻 Roff\n[🔗 查看项目](https://github.com/TapXWorld/ChinaTextbook)\n\n### 9. Significant-Gravitas/AutoGPT\n\n**Significant-Gravitas/AutoGPT** — 用 Python 写就。今天获得了 37 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 37 stars today | 📦 总星 186,069 | 🍴 46,055 | 💻 Python\n[🔗 查看项目](https://github.com/Significant-Gravitas/AutoGPT)\n\n### 10. tirth8205/code-review-graph\n\n**tirth8205/code-review-graph** — 用 Python 写就。今天获得了 237 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 237 stars today | 📦 总星 29,094 | 🍴 2,686 | 💻 Python\n[🔗 查看项目](https://github.com/tirth8205/code-review-graph)\n\n---\n\n## 🫡 荣誉提名\n\n- **esengine/DeepSeek-Reasonix** — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach...  ⭐ 888 stars today\n- **obra/superpowers** — An agentic skills framework & software development methodology that works.  ⭐ 858 stars today\n- **firecrawl/pdf-inspector** — Fast Rust library for PDF inspection, classification, and text extraction. Intel...  ⭐ 1,190 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-07T03:31:33.907494+00:00"
+}
