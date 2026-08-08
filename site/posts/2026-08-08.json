@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-08",
+  "repos": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars_today": "2,293 stars today",
+      "total_stars": "6,677",
+      "forks": "533"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "1,131 stars today",
+      "total_stars": "83,942",
+      "forks": "8,971"
+    },
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "desc": "Give your agent a computer 👾",
+      "lang": "TypeScript",
+      "stars_today": "872 stars today",
+      "total_stars": "5,796",
+      "forks": "292"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "2,152 stars today",
+      "total_stars": "208,905",
+      "forks": "18,034"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "782 stars today",
+      "total_stars": "268,777",
+      "forks": "24,000"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars_today": "530 stars today",
+      "total_stars": "23,633",
+      "forks": "1,807"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_today": "122 stars today",
+      "total_stars": "2,369",
+      "forks": "308"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "stars_today": "141 stars today",
+      "total_stars": "70,530",
+      "forks": "10,991"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "desc": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "lang": "Go",
+      "stars_today": "55 stars today",
+      "total_stars": "7,146",
+      "forks": "2,170"
+    },
+    {
+      "name": "jdx/mise",
+      "url": "https://github.com/jdx/mise",
+      "desc": "dev tools, env vars, task runner",
+      "lang": "Rust",
+      "stars_today": "135 stars today",
+      "total_stars": "32,084",
+      "forks": "1,335"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "lang": "Python",
+      "stars_today": "355 stars today",
+      "total_stars": "186,343",
+      "forks": "46,059"
+    },
+    {
+      "name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "desc": "Google core libraries for Java",
+      "lang": "Java",
+      "stars_today": "152 stars today",
+      "total_stars": "51,767",
+      "forks": "11,175"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "desc": "A simple tool for coordinating several AI agents.",
+      "lang": "Clojure",
+      "stars_today": "81 stars today",
+      "total_stars": "1,845",
+      "forks": "202"
+    },
+    {
+      "name": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "desc": "self-hosted, distributed Durable Objects",
+      "lang": "Rust",
+      "stars_today": "516 stars today",
+      "total_stars": "2,228",
+      "forks": "62"
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "url": "https://github.com/K2SOsint/Legendary_OSINT",
+      "desc": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "lang": "Unknown",
+      "stars_today": "109 stars today",
+      "total_stars": "1,460",
+      "forks": "189"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "lang": "Go",
+      "stars_today": "234 stars today",
+      "total_stars": "19,790",
+      "forks": "641"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "327 stars today",
+      "total_stars": "16,277",
+      "forks": "1,291"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-08-08：prime-agent 让 2,293 stars today 个开发者点了收藏\n\n> 📅 2026-08-08  |  🔍 共收录 17 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 2 | **Shell**: 2 | **Go**: 2 | **Rust**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. PrimeIntellect-ai/prime-agent\n\n**PrimeIntellect-ai/prime-agent** — A self-improving RLM agent for coding workflows and long-running autonomous task...  2,293 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,293 stars today | 📦 总星 6,677 | 🍴 533 | 💻 TypeScript\n[🔗 查看项目](https://github.com/PrimeIntellect-ai/prime-agent)\n\n### 2. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents....  1,131 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,131 stars today | 📦 总星 83,942 | 🍴 8,971 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 3. cloudflare/computer\n\n**cloudflare/computer** — Give your agent a computer 👾...  听起来像个周末项目，但它已经有 5,796 总星了。周末项目，认真的吗？\n\n⭐ 872 stars today | 📦 总星 5,796 | 🍴 292 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cloudflare/computer)\n\n### 4. mattpocock/skills\n\n**mattpocock/skills** 今天拿了 2,152 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,152 stars today | 📦 总星 208,905 | 🍴 18,034 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 5. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that wo... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 782 stars today | 📦 总星 268,777 | 🍴 24,000 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 6. goauthentik/authentik\n\n**goauthentik/authentik** — Python 写的，当然好（不是）。The authentication glue you need....  530 stars today 人表示「先 star 为敬」。\n\n⭐ 530 stars today | 📦 总星 23,633 | 🍴 1,807 | 💻 Python\n[🔗 查看项目](https://github.com/goauthentik/authentik)\n\n### 7. semantica-agi/semantica\n\n**semantica-agi/semantica** — Python 写的，当然好（不是）。Graph-Native Infrastructure for Context and Accountable AI S...  122 stars today 人表示「先 star 为敬」。\n\n⭐ 122 stars today | 📦 总星 2,369 | 🍴 308 | 💻 Python\n[🔗 查看项目](https://github.com/semantica-agi/semantica)\n\n### 8. 666ghj/MiroFish\n\n**666ghj/MiroFish** — 如果你还没 star，那你可能错过了今天的船票。141 stars today 人已经上船了。\n\n⭐ 141 stars today | 📦 总星 70,530 | 🍴 10,991 | 💻 Python\n[🔗 查看项目](https://github.com/666ghj/MiroFish)\n\n### 9. chenyme/grok2api\n\n**chenyme/grok2api** — Multi-account API gateway for Grok Build, Grok Web, and Grok...  听起来像个周末项目，但它已经有 7,146 总星了。周末项目，认真的吗？\n\n⭐ 55 stars today | 📦 总星 7,146 | 🍴 2,170 | 💻 Go\n[🔗 查看项目](https://github.com/chenyme/grok2api)\n\n### 10. jdx/mise\n\n**jdx/mise** — 用 Rust 写就。今天获得了 135 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 135 stars today | 📦 总星 32,084 | 🍴 1,335 | 💻 Rust\n[🔗 查看项目](https://github.com/jdx/mise)\n\n---\n\n## 🫡 荣誉提名\n\n- **Significant-Gravitas/AutoGPT** — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our...  ⭐ 355 stars today\n- **google/guava** — Google core libraries for Java  ⭐ 152 stars today\n- **unclebob/swarm-forge** — A simple tool for coordinating several AI agents.  ⭐ 81 stars today\n- **denoland/celld** — self-hosted, distributed Durable Objects  ⭐ 516 stars today\n- **K2SOsint/Legendary_OSINT** — A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, ...  ⭐ 109 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-08T02:29:06.116604+00:00"
+}
