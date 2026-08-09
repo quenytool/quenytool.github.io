@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-09",
+  "repos": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars_today": "2,483 stars today",
+      "total_stars": "9,072",
+      "forks": "876"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "779 stars today",
+      "total_stars": "84,613",
+      "forks": "9,113"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "lang": "Roff",
+      "stars_today": "118 stars today",
+      "total_stars": "77,968",
+      "forks": "17,663"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "481 stars today",
+      "total_stars": "16,773",
+      "forks": "1,372"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,359 stars today",
+      "total_stars": "210,098",
+      "forks": "18,151"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars_today": "467 stars today",
+      "total_stars": "23,990",
+      "forks": "1,838"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_today": "153 stars today",
+      "total_stars": "96,520",
+      "forks": "18,660"
+    },
+    {
+      "name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "desc": "Google core libraries for Java",
+      "lang": "Java",
+      "stars_today": "93 stars today",
+      "total_stars": "51,859",
+      "forks": "11,180"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "desc": "Truly independent web browser",
+      "lang": "C++",
+      "stars_today": "48 stars today",
+      "total_stars": "65,011",
+      "forks": "3,105"
+    },
+    {
+      "name": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "desc": "self-hosted, distributed Durable Objects",
+      "lang": "Rust",
+      "stars_today": "432 stars today",
+      "total_stars": "2,608",
+      "forks": "74"
+    },
+    {
+      "name": "litu54/DevOps-Interview-Guide",
+      "url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "desc": "DevOps Interview Guide",
+      "lang": "Unknown",
+      "stars_today": "68 stars today",
+      "total_stars": "715",
+      "forks": "888"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "lang": "Kotlin",
+      "stars_today": "101 stars today",
+      "total_stars": "49,919",
+      "forks": "8,257"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-08-09\n\n> 📅 2026-08-09  |  🔍 共收录 12 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 3 | **TypeScript**: 1 | **JavaScript**: 1 | **Roff**: 1 | **Shell**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. PrimeIntellect-ai/prime-agent\n\n**PrimeIntellect-ai/prime-agent** — A self-improving RLM agent for coding workflows and long-run...  听起来像个周末项目，但它已经有 9,072 总星了。周末项目，认真的吗？\n\n⭐ 2,483 stars today | 📦 总星 9,072 | 🍴 876 | 💻 TypeScript\n[🔗 查看项目](https://github.com/PrimeIntellect-ai/prime-agent)\n\n### 2. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — 用 JavaScript 写就。今天获得了 779 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 779 stars today | 📦 总星 84,613 | 🍴 9,113 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 3. TapXWorld/ChinaTextbook\n\n**TapXWorld/ChinaTextbook** — 所有小初高、大学PDF教材。... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 118 stars today | 📦 总星 77,968 | 🍴 17,663 | 💻 Roff\n[🔗 查看项目](https://github.com/TapXWorld/ChinaTextbook)\n\n### 4. google/skills\n\n**google/skills** — Agent Skills for Google products and technologies...  听起来像个周末项目，但它已经有 16,773 总星了。周末项目，认真的吗？\n\n⭐ 481 stars today | 📦 总星 16,773 | 🍴 1,372 | 💻 Python\n[🔗 查看项目](https://github.com/google/skills)\n\n### 5. mattpocock/skills\n\n**mattpocock/skills** — Skills for Real Engineers. Straight from my .agents directory.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,359 stars today | 📦 总星 210,098 | 🍴 18,151 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 6. goauthentik/authentik\n\n**goauthentik/authentik** 今天拿了 467 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 467 stars today | 📦 总星 23,990 | 🍴 1,838 | 💻 Python\n[🔗 查看项目](https://github.com/goauthentik/authentik)\n\n### 7. TauricResearch/TradingAgents\n\n**TauricResearch/TradingAgents** — 如果你还没 star，那你可能错过了今天的船票。153 stars today 人已经上船了。\n\n⭐ 153 stars today | 📦 总星 96,520 | 🍴 18,660 | 💻 Python\n[🔗 查看项目](https://github.com/TauricResearch/TradingAgents)\n\n### 8. google/guava\n\n**google/guava** — Google core libraries for Java... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 93 stars today | 📦 总星 51,859 | 🍴 11,180 | 💻 Java\n[🔗 查看项目](https://github.com/google/guava)\n\n### 9. LadybirdBrowser/ladybird\n\n**LadybirdBrowser/ladybird** — Truly independent web browser... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 48 stars today | 📦 总星 65,011 | 🍴 3,105 | 💻 C++\n[🔗 查看项目](https://github.com/LadybirdBrowser/ladybird)\n\n### 10. denoland/celld\n\n**denoland/celld** — self-hosted, distributed Durable Objects...  听起来像个周末项目，但它已经有 2,608 总星了。周末项目，认真的吗？\n\n⭐ 432 stars today | 📦 总星 2,608 | 🍴 74 | 💻 Rust\n[🔗 查看项目](https://github.com/denoland/celld)\n\n---\n\n## 🫡 荣誉提名\n\n- **litu54/DevOps-Interview-Guide** — DevOps Interview Guide  ⭐ 68 stars today\n- **bannedbook/fanqiang** — 翻墙-科学上网  ⭐ 101 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-09T02:35:49.638440+00:00"
+}
