@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-10",
+  "repos": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars_today": "2,356 stars today",
+      "total_stars": "11,370",
+      "forks": "1,166"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "lang": "Python",
+      "stars_today": "96 stars today",
+      "total_stars": "3,075",
+      "forks": "525"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "858 stars today",
+      "total_stars": "140,853",
+      "forks": "22,998"
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "lang": "Go",
+      "stars_today": "210 stars today",
+      "total_stars": "20,749",
+      "forks": "728"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "86 stars today",
+      "total_stars": "7,112",
+      "forks": "940"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "680 stars today",
+      "total_stars": "85,210",
+      "forks": "9,169"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_today": "306 stars today",
+      "total_stars": "61,286",
+      "forks": "52,028"
+    },
+    {
+      "name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "desc": "The authentication glue you need.",
+      "lang": "Python",
+      "stars_today": "310 stars today",
+      "total_stars": "24,313",
+      "forks": "1,860"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "528 stars today",
+      "total_stars": "17,281",
+      "forks": "1,396"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "lang": "Python",
+      "stars_today": "365 stars today",
+      "total_stars": "125,613",
+      "forks": "14,847"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "lang": "Python",
+      "stars_today": "47 stars today",
+      "total_stars": "852",
+      "forks": "180"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "163 stars today",
+      "total_stars": "17,691",
+      "forks": "4,016"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：prime-agent 爆火，TypeScript 又双叒叕赢了\n\n> 📅 2026-08-10  |  🔍 共收录 12 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 2 | **Shell**: 1 | **Go**: 1 | **JavaScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. PrimeIntellect-ai/prime-agent\n\n**PrimeIntellect-ai/prime-agent** — A self-improving RLM agent for coding workflows and long-run...  听起来像个周末项目，但它已经有 11,370 总星了。周末项目，认真的吗？\n\n⭐ 2,356 stars today | 📦 总星 11,370 | 🍴 1,166 | 💻 TypeScript\n[🔗 查看项目](https://github.com/PrimeIntellect-ai/prime-agent)\n\n### 2. vitali87/code-graph-rag\n\n**vitali87/code-graph-rag** — The ultimate RAG for your monorepo. Query, understand, and edit multi-... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 96 stars today | 📦 总星 3,075 | 🍴 525 | 💻 Python\n[🔗 查看项目](https://github.com/vitali87/code-graph-rag)\n\n### 3. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wizards to Reddit commun...  858 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 858 stars today | 📦 总星 140,853 | 🍴 22,998 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n### 4. pranshuparmar/witr\n\n**pranshuparmar/witr** — Go 写的，当然好（不是）。Why is this running? Trace any process, port, container, or ...  210 stars today 人表示「先 star 为敬」。\n\n⭐ 210 stars today | 📦 总星 20,749 | 🍴 728 | 💻 Go\n[🔗 查看项目](https://github.com/pranshuparmar/witr)\n\n### 5. google-deepmind/weathernext\n\n**google-deepmind/weathernext** — 如果你还没 star，那你可能错过了今天的船票。86 stars today 人已经上船了。\n\n⭐ 86 stars today | 📦 总星 7,112 | 🍴 940 | 💻 Python\n[🔗 查看项目](https://github.com/google-deepmind/weathernext)\n\n### 6. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — JavaScript 写的，当然好（不是）。Production-grade engineering skills for AI coding agents....  680 stars today 人表示「先 star 为敬」。\n\n⭐ 680 stars today | 📦 总星 85,210 | 🍴 9,169 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 7. ZhuLinsen/daily_stock_analysis\n\n**ZhuLinsen/daily_stock_analysis** — Python 写的，当然好（不是）。LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powere...  306 stars today 人表示「先 star 为敬」。\n\n⭐ 306 stars today | 📦 总星 61,286 | 🍴 52,028 | 💻 Python\n[🔗 查看项目](https://github.com/ZhuLinsen/daily_stock_analysis)\n\n### 8. goauthentik/authentik\n\n**goauthentik/authentik** — Python 写的，当然好（不是）。The authentication glue you need....  310 stars today 人表示「先 star 为敬」。\n\n⭐ 310 stars today | 📦 总星 24,313 | 🍴 1,860 | 💻 Python\n[🔗 查看项目](https://github.com/goauthentik/authentik)\n\n### 9. google/skills\n\n**google/skills** 今天拿了 528 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 528 stars today | 📦 总星 17,281 | 🍴 1,396 | 💻 Python\n[🔗 查看项目](https://github.com/google/skills)\n\n### 10. Comfy-Org/ComfyUI\n\n**Comfy-Org/ComfyUI** 今天拿了 365 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 365 stars today | 📦 总星 125,613 | 🍴 14,847 | 💻 Python\n[🔗 查看项目](https://github.com/Comfy-Org/ComfyUI)\n\n---\n\n## 🫡 荣誉提名\n\n- **harveyai/harvey-labs** — A benchmark built to evaluate and improve agent capabilities for supporting lega...  ⭐ 47 stars today\n- **pingdotgg/t3code** —   ⭐ 163 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-10T02:41:58.559803+00:00"
+}
