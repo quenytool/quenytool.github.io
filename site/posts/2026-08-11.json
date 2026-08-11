@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-11",
+  "repos": [
+    {
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_today": "970 stars today",
+      "total_stars": "4,200",
+      "forks": "484"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "1,349 stars today",
+      "total_stars": "141,893",
+      "forks": "23,142"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_today": "259 stars today",
+      "total_stars": "61,143",
+      "forks": "12,023"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "659 stars today",
+      "total_stars": "85,791",
+      "forks": "9,235"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_today": "198 stars today",
+      "total_stars": "76,565",
+      "forks": "14,211"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "lang": "TypeScript",
+      "stars_today": "2,642 stars today",
+      "total_stars": "13,176",
+      "forks": "1,338"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "desc": "Truly independent web browser",
+      "lang": "C++",
+      "stars_today": "56 stars today",
+      "total_stars": "65,277",
+      "forks": "3,121"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "154 stars today",
+      "total_stars": "89,396",
+      "forks": "11,897"
+    },
+    {
+      "name": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "lang": "TypeScript",
+      "stars_today": "315 stars today",
+      "total_stars": "17,966",
+      "forks": "2,366"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "lang": "TypeScript",
+      "stars_today": "835 stars today",
+      "total_stars": "165,153",
+      "forks": "9,293"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_today": "177 stars today",
+      "total_stars": "97,264",
+      "forks": "18,739"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "325 stars today",
+      "total_stars": "7,372",
+      "forks": "954"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "lang": "Python",
+      "stars_today": "682 stars today",
+      "total_stars": "3,564",
+      "forks": "549"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "389 stars today",
+      "total_stars": "18,048",
+      "forks": "4,076"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "lang": "Python",
+      "stars_today": "922 stars today",
+      "total_stars": "126,382",
+      "forks": "14,905"
+    },
+    {
+      "name": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "lang": "C",
+      "stars_today": "111 stars today",
+      "total_stars": "6,054",
+      "forks": "6,195"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：semantica 霸榜，开发者集体失眠\n\n> 📅 2026-08-11  |  🔍 共收录 16 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 5 | **Shell**: 1 | **JavaScript**: 1 | **C++**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. semantica-agi/semantica\n\n**semantica-agi/semantica** 今天拿了 970 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 970 stars today | 📦 总星 4,200 | 🍴 484 | 💻 Python\n[🔗 查看项目](https://github.com/semantica-agi/semantica)\n\n### 2. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — 如果你还没 star，那你可能错过了今天的船票。1,349 stars today 人已经上船了。\n\n⭐ 1,349 stars today | 📦 总星 141,893 | 🍴 23,142 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n### 3. NanmiCoder/MediaCrawler\n\n**NanmiCoder/MediaCrawler** 今天拿了 259 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 259 stars today | 📦 总星 61,143 | 🍴 12,023 | 💻 Python\n[🔗 查看项目](https://github.com/NanmiCoder/MediaCrawler)\n\n### 4. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 659 stars today | 📦 总星 85,791 | 🍴 9,235 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 5. paperclipai/paperclip\n\n**paperclipai/paperclip** — TypeScript 写的，当然好（不是）。The open-source app everyone uses to manage agents at work...  198 stars today 人表示「先 star 为敬」。\n\n⭐ 198 stars today | 📦 总星 76,565 | 🍴 14,211 | 💻 TypeScript\n[🔗 查看项目](https://github.com/paperclipai/paperclip)\n\n### 6. PrimeIntellect-ai/prime-agent\n\n**PrimeIntellect-ai/prime-agent** — TypeScript 写的，当然好（不是）。A self-improving RLM agent for coding workflows and long-run...  2,642 stars today 人表示「先 star 为敬」。\n\n⭐ 2,642 stars today | 📦 总星 13,176 | 🍴 1,338 | 💻 TypeScript\n[🔗 查看项目](https://github.com/PrimeIntellect-ai/prime-agent)\n\n### 7. LadybirdBrowser/ladybird\n\n**LadybirdBrowser/ladybird** — Truly independent web browser... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 56 stars today | 📦 总星 65,277 | 🍴 3,121 | 💻 C++\n[🔗 查看项目](https://github.com/LadybirdBrowser/ladybird)\n\n### 8. ruvnet/RuView\n\n**ruvnet/RuView** — Rust 写的，当然好（不是）。π RuView turns commodity WiFi signals into real-time spatial...  154 stars today 人表示「先 star 为敬」。\n\n⭐ 154 stars today | 📦 总星 89,396 | 🍴 11,897 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 9. danielmiessler/LifeOS\n\n**danielmiessler/LifeOS** — 如果你还没 star，那你可能错过了今天的船票。315 stars today 人已经上船了。\n\n⭐ 315 stars today | 📦 总星 17,966 | 🍴 2,366 | 💻 TypeScript\n[🔗 查看项目](https://github.com/danielmiessler/LifeOS)\n\n### 10. firecrawl/firecrawl\n\n**firecrawl/firecrawl** — The context API to search, scrape, and interact with the web...  听起来像个周末项目，但它已经有 165,153 总星了。周末项目，认真的吗？\n\n⭐ 835 stars today | 📦 总星 165,153 | 🍴 9,293 | 💻 TypeScript\n[🔗 查看项目](https://github.com/firecrawl/firecrawl)\n\n---\n\n## 🫡 荣誉提名\n\n- **TauricResearch/TradingAgents** — TradingAgents: Multi-Agents LLM Financial Trading Framework  ⭐ 177 stars today\n- **google-deepmind/weathernext** —   ⭐ 325 stars today\n- **vitali87/code-graph-rag** — The ultimate RAG for your monorepo. Query, understand, and edit multi-language c...  ⭐ 682 stars today\n- **pingdotgg/t3code** —   ⭐ 389 stars today\n- **Comfy-Org/ComfyUI** — The most powerful and modular diffusion model GUI, api and backend with a graph/...  ⭐ 922 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-11T02:35:49.434875+00:00"
+}
