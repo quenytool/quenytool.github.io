@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-13",
+  "repos": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "lang": "HTML",
+      "stars_today": "2,855 stars today",
+      "total_stars": "10,983",
+      "forks": "697"
+    },
+    {
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars_today": "227 stars today",
+      "total_stars": "1,947",
+      "forks": "233"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_today": "845 stars today",
+      "total_stars": "5,805",
+      "forks": "632"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "lang": "TypeScript",
+      "stars_today": "1,235 stars today",
+      "total_stars": "44,037",
+      "forks": "3,066"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "1,873 stars today",
+      "total_stars": "144,651",
+      "forks": "23,427"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "266 stars today",
+      "total_stars": "36,968",
+      "forks": "6,149"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "lang": "Python",
+      "stars_today": "215 stars today",
+      "total_stars": "62,053",
+      "forks": "12,134"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "lang": "Python",
+      "stars_today": "476 stars today",
+      "total_stars": "45,774",
+      "forks": "3,723"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "lang": "Go",
+      "stars_today": "139 stars today",
+      "total_stars": "87,601",
+      "forks": "10,314"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_today": "571 stars today",
+      "total_stars": "77,790",
+      "forks": "14,299"
+    },
+    {
+      "name": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "desc": "",
+      "lang": "Rust",
+      "stars_today": "421 stars today",
+      "total_stars": "885",
+      "forks": "92"
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "desc": "人人都能用英语",
+      "lang": "TypeScript",
+      "stars_today": "86 stars today",
+      "total_stars": "36,169",
+      "forks": "5,030"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "lang": "Python",
+      "stars_today": "74 stars today",
+      "total_stars": "20,382",
+      "forks": "3,302"
+    },
+    {
+      "name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "desc": "An open-source cross-platform alternative to AirDrop",
+      "lang": "Dart",
+      "stars_today": "213 stars today",
+      "total_stars": "87,884",
+      "forks": "4,874"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "lang": "Python",
+      "stars_today": "65 stars today",
+      "total_stars": "8,739",
+      "forks": "1,398"
+    },
+    {
+      "name": "embabel/embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "lang": "Kotlin",
+      "stars_today": "40 stars today",
+      "total_stars": "4,238",
+      "forks": "411"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "lang": "Python",
+      "stars_today": "315 stars today",
+      "total_stars": "4,318",
+      "forks": "308"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：diagram-design 霸榜，开发者集体失眠\n\n> 📅 2026-08-13  |  🔍 共收录 17 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 3 | **Rust**: 2 | **HTML**: 1 | **Shell**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — 如果你还没 star，那你可能错过了今天的船票。2,855 stars today 人已经上船了。\n\n⭐ 2,855 stars today | 📦 总星 10,983 | 🍴 697 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 2. macro-inc/macro\n\n**macro-inc/macro** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,...  227 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 227 stars today | 📦 总星 1,947 | 🍴 233 | 💻 Rust\n[🔗 查看项目](https://github.com/macro-inc/macro)\n\n### 3. semantica-agi/semantica\n\n**semantica-agi/semantica** — 用 Python 写就。今天获得了 845 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 845 stars today | 📦 总星 5,805 | 🍴 632 | 💻 Python\n[🔗 查看项目](https://github.com/semantica-agi/semantica)\n\n### 4. stablyai/orca\n\n**stablyai/orca** — 用 TypeScript 写就。今天获得了 1,235 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 1,235 stars today | 📦 总星 44,037 | 🍴 3,066 | 💻 TypeScript\n[🔗 查看项目](https://github.com/stablyai/orca)\n\n### 5. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wiza...  听起来像个周末项目，但它已经有 144,651 总星了。周末项目，认真的吗？\n\n⭐ 1,873 stars today | 📦 总星 144,651 | 🍴 23,427 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n### 6. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** — 用 Python 写就。今天获得了 266 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 266 stars today | 📦 总星 36,968 | 🍴 6,149 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n### 7. NanmiCoder/MediaCrawler\n\n**NanmiCoder/MediaCrawler** — Python 写的，当然好（不是）。小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬...  215 stars today 人表示「先 star 为敬」。\n\n⭐ 215 stars today | 📦 总星 62,053 | 🍴 12,134 | 💻 Python\n[🔗 查看项目](https://github.com/NanmiCoder/MediaCrawler)\n\n### 8. hugohe3/ppt-master\n\n**hugohe3/ppt-master** — 用 Python 写就。今天获得了 476 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 476 stars today | 📦 总星 45,774 | 🍴 3,723 | 💻 Python\n[🔗 查看项目](https://github.com/hugohe3/ppt-master)\n\n### 9. infiniflow/ragflow\n\n**infiniflow/ragflow** — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 139 stars today | 📦 总星 87,601 | 🍴 10,314 | 💻 Go\n[🔗 查看项目](https://github.com/infiniflow/ragflow)\n\n### 10. paperclipai/paperclip\n\n**paperclipai/paperclip** — TypeScript 写的，当然好（不是）。The open-source app everyone uses to manage agents at work...  571 stars today 人表示「先 star 为敬」。\n\n⭐ 571 stars today | 📦 总星 77,790 | 🍴 14,299 | 💻 TypeScript\n[🔗 查看项目](https://github.com/paperclipai/paperclip)\n\n---\n\n## 🫡 荣誉提名\n\n- **NVIDIA-NeMo/Switchyard** —   ⭐ 421 stars today\n- **ZuodaoTech/everyone-can-use-english** — 人人都能用英语  ⭐ 86 stars today\n- **smicallef/spiderfoot** — SpiderFoot automates OSINT for threat intelligence and mapping your attack surfa...  ⭐ 74 stars today\n- **localsend/localsend** — An open-source cross-platform alternative to AirDrop  ⭐ 213 stars today\n- **Lightricks/LTX-2** — Official Python inference and LoRA trainer package for the LTX-2 audio–video gen...  ⭐ 65 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-13T03:09:52.812118+00:00"
+}
