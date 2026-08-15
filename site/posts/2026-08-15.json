@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-15",
+  "repos": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "lang": "HTML",
+      "stars_today": "3,646 stars today",
+      "total_stars": "17,311",
+      "forks": "1,038"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "lang": "Python",
+      "stars_today": "662 stars today",
+      "total_stars": "5,628",
+      "forks": "374"
+    },
+    {
+      "name": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "lang": "Python",
+      "stars_today": "427 stars today",
+      "total_stars": "12,860",
+      "forks": "1,717"
+    },
+    {
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars_today": "436 stars today",
+      "total_stars": "3,041",
+      "forks": "307"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "lang": "Python",
+      "stars_today": "293 stars today",
+      "total_stars": "20,954",
+      "forks": "3,342"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "lang": "JavaScript",
+      "stars_today": "165 stars today",
+      "total_stars": "10,385",
+      "forks": "528"
+    },
+    {
+      "name": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "desc": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "lang": "TypeScript",
+      "stars_today": "769 stars today",
+      "total_stars": "7,312",
+      "forks": "639"
+    },
+    {
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "lang": "Python",
+      "stars_today": "1,160 stars today",
+      "total_stars": "128,539",
+      "forks": "11,492"
+    },
+    {
+      "name": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "desc": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "lang": "TypeScript",
+      "stars_today": "579 stars today",
+      "total_stars": "5,954",
+      "forks": "603"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "lang": "Go",
+      "stars_today": "473 stars today",
+      "total_stars": "88,394",
+      "forks": "10,375"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "41 stars today",
+      "total_stars": "2,814",
+      "forks": "228"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "desc": "",
+      "lang": "Unknown",
+      "stars_today": "222 stars today",
+      "total_stars": "5,719",
+      "forks": "690"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "lang": "Python",
+      "stars_today": "1,181 stars today",
+      "total_stars": "7,543",
+      "forks": "783"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "lang": "Rust",
+      "stars_today": "143 stars today",
+      "total_stars": "120,647",
+      "forks": "18,456"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "255 stars today",
+      "total_stars": "83,184",
+      "forks": "8,234"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "lang": "Python",
+      "stars_today": "501 stars today",
+      "total_stars": "71,523",
+      "forks": "6,453"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "lang": "JavaScript",
+      "stars_today": "132 stars today",
+      "total_stars": "39,091",
+      "forks": "5,267"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：diagram-design 爆火，HTML 又双叒叕赢了\n\n> 📅 2026-08-15  |  🔍 共收录 17 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 4 | **Rust**: 2 | **JavaScript**: 2 | **HTML**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — 29 editorial diagram types for Claude Code. Self-contained HTML + SVG.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 3,646 stars today | 📦 总星 17,311 | 🍴 1,038 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 2. cactus-compute/needle\n\n**cactus-compute/needle** — 用 Python 写就。今天获得了 662 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 662 stars today | 📦 总星 5,628 | 🍴 374 | 💻 Python\n[🔗 查看项目](https://github.com/cactus-compute/needle)\n\n### 3. megadose/holehe\n\n**megadose/holehe** — holehe allows you to check if the mail is used on different sites like twitter, ...  427 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 427 stars today | 📦 总星 12,860 | 🍴 1,717 | 💻 Python\n[🔗 查看项目](https://github.com/megadose/holehe)\n\n### 4. macro-inc/macro\n\n**macro-inc/macro** — Macro is a unified workspace for teams: email, chat, docs, t...  听起来像个周末项目，但它已经有 3,041 总星了。周末项目，认真的吗？\n\n⭐ 436 stars today | 📦 总星 3,041 | 🍴 307 | 💻 Rust\n[🔗 查看项目](https://github.com/macro-inc/macro)\n\n### 5. smicallef/spiderfoot\n\n**smicallef/spiderfoot** — SpiderFoot automates OSINT for threat intelligence and mappi...  听起来像个周末项目，但它已经有 20,954 总星了。周末项目，认真的吗？\n\n⭐ 293 stars today | 📦 总星 20,954 | 🍴 3,342 | 💻 Python\n[🔗 查看项目](https://github.com/smicallef/spiderfoot)\n\n### 6. citrolabs/ego-lite\n\n**citrolabs/ego-lite** 今天拿了 165 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 165 stars today | 📦 总星 10,385 | 🍴 528 | 💻 JavaScript\n[🔗 查看项目](https://github.com/citrolabs/ego-lite)\n\n### 7. holaboss-ai/holaOS\n\n**holaboss-ai/holaOS** — Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — ...  769 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 769 stars today | 📦 总星 7,312 | 🍴 639 | 💻 TypeScript\n[🔗 查看项目](https://github.com/holaboss-ai/holaOS)\n\n### 8. github/spec-kit\n\n**github/spec-kit** 今天拿了 1,160 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,160 stars today | 📦 总星 128,539 | 🍴 11,492 | 💻 Python\n[🔗 查看项目](https://github.com/github/spec-kit)\n\n### 9. lightningpixel/modly\n\n**lightningpixel/modly** — Desktop app to generate 3D models from images or prompt usin...  听起来像个周末项目，但它已经有 5,954 总星了。周末项目，认真的吗？\n\n⭐ 579 stars today | 📦 总星 5,954 | 🍴 603 | 💻 TypeScript\n[🔗 查看项目](https://github.com/lightningpixel/modly)\n\n### 10. infiniflow/ragflow\n\n**infiniflow/ragflow** — 如果你还没 star，那你可能错过了今天的船票。473 stars today 人已经上船了。\n\n⭐ 473 stars today | 📦 总星 88,394 | 🍴 10,375 | 💻 Go\n[🔗 查看项目](https://github.com/infiniflow/ragflow)\n\n---\n\n## 🫡 荣誉提名\n\n- **cursor/plugins** — Cursor plugin specification and official plugins  ⭐ 41 stars today\n- **deepseek-ai/awesome-deepseek-agent** —   ⭐ 222 stars today\n- **semantica-agi/semantica** — Graph-Native Infrastructure for Context and Accountable AI Systems  ⭐ 1,181 stars today\n- **rustdesk/rustdesk** — An open-source remote desktop application designed for self-hosting, as an alter...  ⭐ 143 stars today\n- **OpenCut-app/OpenCut** — The open-source CapCut alternative  ⭐ 255 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-15T01:58:24.675016+00:00"
+}
