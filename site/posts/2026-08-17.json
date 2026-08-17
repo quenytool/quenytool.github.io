@@ -1,0 +1,70 @@
+{
+  "date": "2026-08-17",
+  "repos": [
+    {
+      "name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "desc": "Meta-Framework of Spatiotemporal Composability",
+      "lang": "TypeScript",
+      "stars_today": "720 stars today",
+      "total_stars": "4,821",
+      "forks": "262"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "lang": "Shell",
+      "stars_today": "270 stars today",
+      "total_stars": "25,435",
+      "forks": "2,596"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "lang": "Python",
+      "stars_today": "572 stars today",
+      "total_stars": "72,638",
+      "forks": "6,551"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "150 stars today",
+      "total_stars": "83,939",
+      "forks": "8,290"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "lang": "Python",
+      "stars_today": "1,588 stars today",
+      "total_stars": "461,866",
+      "forks": "51,018"
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "lang": "JavaScript",
+      "stars_today": "452 stars today",
+      "total_stars": "40,077",
+      "forks": "5,331"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "lang": "Python",
+      "stars_today": "443 stars today",
+      "total_stars": "6,627",
+      "forks": "435"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-08-17  |  🔍 共收录 7 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 3 | **TypeScript**: 2 | **Shell**: 1 | **JavaScript**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cordiverse/cordis\n\n**cordiverse/cordis** — TypeScript 写的，当然好（不是）。Meta-Framework of Spatiotemporal Composability...  720 stars today 人表示「先 star 为敬」。\n\n⭐ 720 stars today | 📦 总星 4,821 | 🍴 262 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cordiverse/cordis)\n\n### 2. basecamp/omarchy\n\n**basecamp/omarchy** 今天拿了 270 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 270 stars today | 📦 总星 25,435 | 🍴 2,596 | 💻 Shell\n[🔗 查看项目](https://github.com/basecamp/omarchy)\n\n### 3. unslothai/unsloth\n\n**unslothai/unsloth** 今天拿了 572 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 572 stars today | 📦 总星 72,638 | 🍴 6,551 | 💻 Python\n[🔗 查看项目](https://github.com/unslothai/unsloth)\n\n### 4. OpenCut-app/OpenCut\n\n**OpenCut-app/OpenCut** — The open-source CapCut alternative...  150 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 150 stars today | 📦 总星 83,939 | 🍴 8,290 | 💻 TypeScript\n[🔗 查看项目](https://github.com/OpenCut-app/OpenCut)\n\n### 5. public-apis/public-apis\n\n**public-apis/public-apis** — Python 写的，当然好（不是）。A collective list of free APIs...  1,588 stars today 人表示「先 star 为敬」。\n\n⭐ 1,588 stars today | 📦 总星 461,866 | 🍴 51,018 | 💻 Python\n[🔗 查看项目](https://github.com/public-apis/public-apis)\n\n### 6. ToolJet/ToolJet\n\n**ToolJet/ToolJet** — 用 JavaScript 写就。今天获得了 452 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 452 stars today | 📦 总星 40,077 | 🍴 5,331 | 💻 JavaScript\n[🔗 查看项目](https://github.com/ToolJet/ToolJet)\n\n### 7. cactus-compute/needle\n\n**cactus-compute/needle** 今天拿了 443 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 443 stars today | 📦 总星 6,627 | 🍴 435 | 💻 Python\n[🔗 查看项目](https://github.com/cactus-compute/needle)\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-17T02:05:28.584873+00:00"
+}
