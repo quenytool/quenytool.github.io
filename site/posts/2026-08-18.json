@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-18",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "stars_today": "1,189 stars today",
+      "total_stars": "106,190",
+      "forks": "16,131"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_today": "598 stars today",
+      "total_stars": "54,253",
+      "forks": "5,804"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "lang": "Rust",
+      "stars_today": "120 stars today",
+      "total_stars": "25,961",
+      "forks": "3,374"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars_today": "207 stars today",
+      "total_stars": "2,120",
+      "forks": "197"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "198 stars today",
+      "total_stars": "28,475",
+      "forks": "3,451"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "lang": "Rust",
+      "stars_today": "198 stars today",
+      "total_stars": "32,323",
+      "forks": "2,002"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "lang": "JavaScript",
+      "stars_today": "218 stars today",
+      "total_stars": "64,726",
+      "forks": "12,653"
+    },
+    {
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "lang": "Python",
+      "stars_today": "78 stars today",
+      "total_stars": "19,013",
+      "forks": "1,645"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars_today": "175 stars today",
+      "total_stars": "111,200",
+      "forks": "6,579"
+    },
+    {
+      "name": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "desc": "Meta-Framework of Spatiotemporal Composability",
+      "lang": "TypeScript",
+      "stars_today": "957 stars today",
+      "total_stars": "5,638",
+      "forks": "301"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "desc": "A full-featured download manager.",
+      "lang": "TypeScript",
+      "stars_today": "344 stars today",
+      "total_stars": "53,122",
+      "forks": "4,930"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：MoneyPrinterTurbo 霸榜，开发者集体失眠\n\n> 📅 2026-08-18  |  🔍 共收录 11 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **Rust**: 3 | **TypeScript**: 3 | **JavaScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 如果你还没 star，那你可能错过了今天的船票。1,189 stars today 人已经上船了。\n\n⭐ 1,189 stars today | 📦 总星 106,190 | 🍴 16,131 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 2. usestrix/strix\n\n**usestrix/strix** 今天拿了 598 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 598 stars today | 📦 总星 54,253 | 🍴 5,804 | 💻 Python\n[🔗 查看项目](https://github.com/usestrix/strix)\n\n### 3. nautechsystems/nautilus_trader\n\n**nautechsystems/nautilus_trader** 今天拿了 120 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 120 stars today | 📦 总星 25,961 | 🍴 3,374 | 💻 Rust\n[🔗 查看项目](https://github.com/nautechsystems/nautilus_trader)\n\n### 4. akitaonrails/ai-memory\n\n**akitaonrails/ai-memory** — Solution for long term memory for agent coding CLIs and to facilitate handoff be...  207 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 207 stars today | 📦 总星 2,120 | 🍴 197 | 💻 Rust\n[🔗 查看项目](https://github.com/akitaonrails/ai-memory)\n\n### 5. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 817 structured cybersecurity skills for AI agents · Mapped t...  听起来像个周末项目，但它已经有 28,475 总星了。周末项目，认真的吗？\n\n⭐ 198 stars today | 📦 总星 28,475 | 🍴 3,451 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 6. AlexsJones/llmfit\n\n**AlexsJones/llmfit** — Hundreds of models & providers. One command to find what run...  听起来像个周末项目，但它已经有 32,323 总星了。周末项目，认真的吗？\n\n⭐ 198 stars today | 📦 总星 32,323 | 🍴 2,002 | 💻 Rust\n[🔗 查看项目](https://github.com/AlexsJones/llmfit)\n\n### 7. santifer/career-ops\n\n**santifer/career-ops** — JavaScript 写的，当然好（不是）。Open-source AI job search: scan job portals, evaluate listin...  218 stars today 人表示「先 star 为敬」。\n\n⭐ 218 stars today | 📦 总星 64,726 | 🍴 12,653 | 💻 JavaScript\n[🔗 查看项目](https://github.com/santifer/career-ops)\n\n### 8. jundot/omlx\n\n**jundot/omlx** — Python 写的，当然好（不是）。LLM inference server with continuous batching & SSD caching ...  78 stars today 人表示「先 star 为敬」。\n\n⭐ 78 stars today | 📦 总星 19,013 | 🍴 1,645 | 💻 Python\n[🔗 查看项目](https://github.com/jundot/omlx)\n\n### 9. immich-app/immich\n\n**immich-app/immich** 今天拿了 175 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 175 stars today | 📦 总星 111,200 | 🍴 6,579 | 💻 TypeScript\n[🔗 查看项目](https://github.com/immich-app/immich)\n\n### 10. cordiverse/cordis\n\n**cordiverse/cordis** — Meta-Framework of Spatiotemporal Composability...  957 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 957 stars today | 📦 总星 5,638 | 🍴 301 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cordiverse/cordis)\n\n---\n\n## 🫡 荣誉提名\n\n- **agalwood/Motrix** — A full-featured download manager.  ⭐ 344 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-18T01:59:59.281156+00:00"
+}
