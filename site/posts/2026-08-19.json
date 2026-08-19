@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-19",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "stars_today": "2,304 stars today",
+      "total_stars": "108,662",
+      "forks": "16,499"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "desc": "local multi-agent harness",
+      "lang": "TypeScript",
+      "stars_today": "306 stars today",
+      "total_stars": "2,084",
+      "forks": "243"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars_today": "648 stars today",
+      "total_stars": "2,766",
+      "forks": "237"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "lang": "Python",
+      "stars_today": "213 stars today",
+      "total_stars": "29,451",
+      "forks": "2,309"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "730 stars today",
+      "total_stars": "29,235",
+      "forks": "3,497"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "desc": "A collective list of free APIs",
+      "lang": "Python",
+      "stars_today": "1,005 stars today",
+      "total_stars": "464,632",
+      "forks": "51,325"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "lang": "Shell",
+      "stars_today": "356 stars today",
+      "total_stars": "26,453",
+      "forks": "2,691"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "desc": "A full-featured download manager.",
+      "lang": "TypeScript",
+      "stars_today": "609 stars today",
+      "total_stars": "53,712",
+      "forks": "4,951"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "lang": "PLSQL",
+      "stars_today": "192 stars today",
+      "total_stars": "24,334",
+      "forks": "5,594"
+    },
+    {
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "lang": "Python",
+      "stars_today": "370 stars today",
+      "total_stars": "19,428",
+      "forks": "1,672"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "535 stars today",
+      "total_stars": "15,975",
+      "forks": "802"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "192 stars today",
+      "total_stars": "84,815",
+      "forks": "8,355"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-08-19：MoneyPrinterTurbo 让 2,304 stars today 个开发者点了收藏\n\n> 📅 2026-08-19  |  🔍 共收录 12 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 4 | **Rust**: 1 | **Shell**: 1 | **PLSQL**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a top... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,304 stars today | 📦 总星 108,662 | 🍴 16,499 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 2. chaitanyagiri/munder-difflin\n\n**chaitanyagiri/munder-difflin** — local multi-agent harness... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 306 stars today | 📦 总星 2,084 | 🍴 243 | 💻 TypeScript\n[🔗 查看项目](https://github.com/chaitanyagiri/munder-difflin)\n\n### 3. akitaonrails/ai-memory\n\n**akitaonrails/ai-memory** — Solution for long term memory for agent coding CLIs and to facilitate ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 648 stars today | 📦 总星 2,766 | 🍴 237 | 💻 Rust\n[🔗 查看项目](https://github.com/akitaonrails/ai-memory)\n\n### 4. volcengine/OpenViking\n\n**volcengine/OpenViking** — 用 Python 写就。今天获得了 213 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 213 stars today | 📦 总星 29,451 | 🍴 2,309 | 💻 Python\n[🔗 查看项目](https://github.com/volcengine/OpenViking)\n\n### 5. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 817 structured cybersecurity skills for AI agents · Mapped t...  听起来像个周末项目，但它已经有 29,235 总星了。周末项目，认真的吗？\n\n⭐ 730 stars today | 📦 总星 29,235 | 🍴 3,497 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 6. public-apis/public-apis\n\n**public-apis/public-apis** — A collective list of free APIs... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,005 stars today | 📦 总星 464,632 | 🍴 51,325 | 💻 Python\n[🔗 查看项目](https://github.com/public-apis/public-apis)\n\n### 7. basecamp/omarchy\n\n**basecamp/omarchy** — 如果你还没 star，那你可能错过了今天的船票。356 stars today 人已经上船了。\n\n⭐ 356 stars today | 📦 总星 26,453 | 🍴 2,691 | 💻 Shell\n[🔗 查看项目](https://github.com/basecamp/omarchy)\n\n### 8. agalwood/Motrix\n\n**agalwood/Motrix** — 如果你还没 star，那你可能错过了今天的船票。609 stars today 人已经上船了。\n\n⭐ 609 stars today | 📦 总星 53,712 | 🍴 4,951 | 💻 TypeScript\n[🔗 查看项目](https://github.com/agalwood/Motrix)\n\n### 9. NawfalMotii79/PLFM_RADAR\n\n**NawfalMotii79/PLFM_RADAR** — Open-source, low-cost 10.5 GHz PLFM phased array RADAR system...  192 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 192 stars today | 📦 总星 24,334 | 🍴 5,594 | 💻 PLSQL\n[🔗 查看项目](https://github.com/NawfalMotii79/PLFM_RADAR)\n\n### 10. jundot/omlx\n\n**jundot/omlx** — 用 Python 写就。今天获得了 370 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 370 stars today | 📦 总星 19,428 | 🍴 1,672 | 💻 Python\n[🔗 查看项目](https://github.com/jundot/omlx)\n\n---\n\n## 🫡 荣誉提名\n\n- **genlayerlabs/genlayer-project-boilerplate** —   ⭐ 535 stars today\n- **OpenCut-app/OpenCut** — The open-source CapCut alternative  ⭐ 192 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-19T02:03:45.377275+00:00"
+}
