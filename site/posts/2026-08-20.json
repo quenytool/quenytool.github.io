@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-20",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "lang": "Python",
+      "stars_today": "2,221 stars today",
+      "total_stars": "110,857",
+      "forks": "16,801"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "lang": "Python",
+      "stars_today": "804 stars today",
+      "total_stars": "30,253",
+      "forks": "2,338"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "desc": "local multi-agent harness",
+      "lang": "TypeScript",
+      "stars_today": "795 stars today",
+      "total_stars": "2,719",
+      "forks": "322"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "766 stars today",
+      "total_stars": "29,871",
+      "forks": "3,540"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "lang": "Rust",
+      "stars_today": "80 stars today",
+      "total_stars": "26,459",
+      "forks": "3,422"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,894 stars today",
+      "total_stars": "223,901",
+      "forks": "19,257"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "557 stars today",
+      "total_stars": "274,308",
+      "forks": "24,557"
+    },
+    {
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "lang": "Python",
+      "stars_today": "472 stars today",
+      "total_stars": "19,854",
+      "forks": "1,693"
+    },
+    {
+      "name": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "lang": "JavaScript",
+      "stars_today": "198 stars today",
+      "total_stars": "65,827",
+      "forks": "12,745"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "lang": "TypeScript",
+      "stars_today": "128 stars today",
+      "total_stars": "111,895",
+      "forks": "6,632"
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "desc": "",
+      "lang": "Rust",
+      "stars_today": "1,397 stars today",
+      "total_stars": "4,578",
+      "forks": "85"
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "desc": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "lang": "Python",
+      "stars_today": "63 stars today",
+      "total_stars": "13,162",
+      "forks": "659"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "430 stars today",
+      "total_stars": "16,227",
+      "forks": "810"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-08-20  |  🔍 共收录 13 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 3 | **Rust**: 2 | **Shell**: 2 | **JavaScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. harry0703/MoneyPrinterTurbo\n\n**harry0703/MoneyPrinterTurbo** — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos ...  听起来像个周末项目，但它已经有 110,857 总星了。周末项目，认真的吗？\n\n⭐ 2,221 stars today | 📦 总星 110,857 | 🍴 16,801 | 💻 Python\n[🔗 查看项目](https://github.com/harry0703/MoneyPrinterTurbo)\n\n### 2. volcengine/OpenViking\n\n**volcengine/OpenViking** — Self-evolving Context Database for AI Agents. Unify Agent Memory, Know... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 804 stars today | 📦 总星 30,253 | 🍴 2,338 | 💻 Python\n[🔗 查看项目](https://github.com/volcengine/OpenViking)\n\n### 3. chaitanyagiri/munder-difflin\n\n**chaitanyagiri/munder-difflin** 今天拿了 795 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 795 stars today | 📦 总星 2,719 | 🍴 322 | 💻 TypeScript\n[🔗 查看项目](https://github.com/chaitanyagiri/munder-difflin)\n\n### 4. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR...  766 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 766 stars today | 📦 总星 29,871 | 🍴 3,540 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 5. nautechsystems/nautilus_trader\n\n**nautechsystems/nautilus_trader** — Production-grade Rust-native trading engine with deterministic event-driven arch...  80 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 80 stars today | 📦 总星 26,459 | 🍴 3,422 | 💻 Rust\n[🔗 查看项目](https://github.com/nautechsystems/nautilus_trader)\n\n### 6. mattpocock/skills\n\n**mattpocock/skills** — Shell 写的，当然好（不是）。Skills for Real Engineers. Straight from my .agents director...  1,894 stars today 人表示「先 star 为敬」。\n\n⭐ 1,894 stars today | 📦 总星 223,901 | 🍴 19,257 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 7. obra/superpowers\n\n**obra/superpowers** — 如果你还没 star，那你可能错过了今天的船票。557 stars today 人已经上船了。\n\n⭐ 557 stars today | 📦 总星 274,308 | 🍴 24,557 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 8. jundot/omlx\n\n**jundot/omlx** — 如果你还没 star，那你可能错过了今天的船票。472 stars today 人已经上船了。\n\n⭐ 472 stars today | 📦 总星 19,854 | 🍴 1,693 | 💻 Python\n[🔗 查看项目](https://github.com/jundot/omlx)\n\n### 9. santifer/career-ops\n\n**santifer/career-ops** — Open-source AI job search: scan job portals, evaluate listin...  听起来像个周末项目，但它已经有 65,827 总星了。周末项目，认真的吗？\n\n⭐ 198 stars today | 📦 总星 65,827 | 🍴 12,745 | 💻 JavaScript\n[🔗 查看项目](https://github.com/santifer/career-ops)\n\n### 10. immich-app/immich\n\n**immich-app/immich** — 用 TypeScript 写就。今天获得了 128 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 128 stars today | 📦 总星 111,895 | 🍴 6,632 | 💻 TypeScript\n[🔗 查看项目](https://github.com/immich-app/immich)\n\n---\n\n## 🫡 荣誉提名\n\n- **amadeusprotocol/node** —   ⭐ 1,397 stars today\n- **marceloprates/prettymaps** — Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely  ⭐ 63 stars today\n- **genlayerlabs/genlayer-project-boilerplate** —   ⭐ 430 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-20T02:02:23.731572+00:00"
+}
