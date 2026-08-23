@@ -1,0 +1,160 @@
+{
+  "date": "2026-08-23",
+  "repos": [
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars_today": "1,544 stars today",
+      "total_stars": "113,524",
+      "forks": "17,376"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "2,683 stars today",
+      "total_stars": "232,159",
+      "forks": "19,813"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "411 stars today",
+      "total_stars": "242,191",
+      "forks": "36,702"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "592 stars today",
+      "total_stars": "276,210",
+      "forks": "24,704"
+    },
+    {
+      "name": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "desc": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "lang": "Go",
+      "stars_today": "278 stars today",
+      "total_stars": "38,803",
+      "forks": "8,039"
+    },
+    {
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "lang": "TypeScript",
+      "stars_today": "263 stars today",
+      "total_stars": "57,240",
+      "forks": "5,446"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "lang": "TypeScript",
+      "stars_today": "149 stars today",
+      "total_stars": "201,838",
+      "forks": "60,306"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "Python",
+      "stars_today": "127 stars today",
+      "total_stars": "142,558",
+      "forks": "22,838"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "lang": "Rust",
+      "stars_today": "959 stars today",
+      "total_stars": "13,984",
+      "forks": "375"
+    },
+    {
+      "name": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "desc": "The Modular Platform (includes MAX & Mojo)",
+      "lang": "Mojo",
+      "stars_today": "395 stars today",
+      "total_stars": "28,853",
+      "forks": "3,066"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "315 stars today",
+      "total_stars": "205,335",
+      "forks": "21,008"
+    },
+    {
+      "name": "mahlernim/google-timeline-visualizer",
+      "url": "https://github.com/mahlernim/google-timeline-visualizer",
+      "desc": "Visualize your year in travel using your Google Location History (Timeline) data",
+      "lang": "Kotlin",
+      "stars_today": "441 stars today",
+      "total_stars": "2,577",
+      "forks": "303"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_today": "829 stars today",
+      "total_stars": "133,933",
+      "forks": "14,029"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "lang": "Go",
+      "stars_today": "104 stars today",
+      "total_stars": "110,546",
+      "forks": "13,745"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "286 stars today",
+      "total_stars": "4,679",
+      "forks": "382"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_today": "286 stars today",
+      "total_stars": "38,625",
+      "forks": "3,244"
+    },
+    {
+      "name": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "desc": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "lang": "Python",
+      "stars_today": "150 stars today",
+      "total_stars": "5,515",
+      "forks": "521"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-08-23：今天的代码，明天的 bug\n\n> 📅 2026-08-23  |  🔍 共收录 17 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Python**: 3 | **Rust**: 2 | **Shell**: 2 | **Go**: 2\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. openai/codex\n\n**openai/codex** — Lightweight coding agent that runs in your terminal... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,544 stars today | 📦 总星 113,524 | 🍴 17,376 | 💻 Rust\n[🔗 查看项目](https://github.com/openai/codex)\n\n### 2. mattpocock/skills\n\n**mattpocock/skills** — Shell 写的，当然好（不是）。Skills for Real Engineers. Straight from my .agents director...  2,683 stars today 人表示「先 star 为敬」。\n\n⭐ 2,683 stars today | 📦 总星 232,159 | 🍴 19,813 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 3. affaan-m/ECC\n\n**affaan-m/ECC** — JavaScript 写的，当然好（不是）。The agent harness performance optimization system. Skills, i...  411 stars today 人表示「先 star 为敬」。\n\n⭐ 411 stars today | 📦 总星 242,191 | 🍴 36,702 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 4. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that works....  592 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 592 stars today | 📦 总星 276,210 | 🍴 24,704 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 5. Wei-Shaw/sub2api\n\n**Wei-Shaw/sub2api** — Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，...  听起来像个周末项目，但它已经有 38,803 总星了。周末项目，认真的吗？\n\n⭐ 278 stars today | 📦 总星 38,803 | 🍴 8,039 | 💻 Go\n[🔗 查看项目](https://github.com/Wei-Shaw/sub2api)\n\n### 6. makeplane/plane\n\n**makeplane/plane** 今天拿了 263 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 263 stars today | 📦 总星 57,240 | 🍴 5,446 | 💻 TypeScript\n[🔗 查看项目](https://github.com/makeplane/plane)\n\n### 7. n8n-io/n8n\n\n**n8n-io/n8n** 今天拿了 149 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 149 stars today | 📦 总星 201,838 | 🍴 60,306 | 💻 TypeScript\n[🔗 查看项目](https://github.com/n8n-io/n8n)\n\n### 8. anthropics/claude-code\n\n**anthropics/claude-code** — Claude Code is an agentic coding tool that lives in your terminal, und... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 127 stars today | 📦 总星 142,558 | 🍴 22,838 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 9. AprilNEA/OpenLogi\n\n**AprilNEA/OpenLogi** — 如果你还没 star，那你可能错过了今天的船票。959 stars today 人已经上船了。\n\n⭐ 959 stars today | 📦 总星 13,984 | 🍴 375 | 💻 Rust\n[🔗 查看项目](https://github.com/AprilNEA/OpenLogi)\n\n### 10. modular/modular\n\n**modular/modular** — 如果你还没 star，那你可能错过了今天的船票。395 stars today 人已经上船了。\n\n⭐ 395 stars today | 📦 总星 28,853 | 🍴 3,066 | 💻 Mojo\n[🔗 查看项目](https://github.com/modular/modular)\n\n---\n\n## 🫡 荣誉提名\n\n- **multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...  ⭐ 315 stars today\n- **mahlernim/google-timeline-visualizer** — Visualize your year in travel using your Google Location History (Timeline) data  ⭐ 441 stars today\n- **ripienaar/free-for-dev** — A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo...  ⭐ 829 stars today\n- **microsoft/TypeScript** — TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  ⭐ 104 stars today\n- **cursor/plugins** — Cursor plugin specification and official plugins  ⭐ 286 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-23T02:10:14.603815+00:00"
+}
