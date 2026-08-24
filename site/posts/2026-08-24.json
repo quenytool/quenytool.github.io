@@ -1,0 +1,169 @@
+{
+  "date": "2026-08-24",
+  "repos": [
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars_today": "2,715 stars today",
+      "total_stars": "115,390",
+      "forks": "17,594"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_today": "401 stars today",
+      "total_stars": "12,902",
+      "forks": "1,439"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "2,447 stars today",
+      "total_stars": "233,952",
+      "forks": "19,949"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "lang": "Shell",
+      "stars_today": "750 stars today",
+      "total_stars": "29,181",
+      "forks": "2,965"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "lang": "Rust",
+      "stars_today": "1,009 stars today",
+      "total_stars": "15,002",
+      "forks": "405"
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars_today": "410 stars today",
+      "total_stars": "30,140",
+      "forks": "3,834"
+    },
+    {
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "lang": "TypeScript",
+      "stars_today": "51 stars today",
+      "total_stars": "2,374",
+      "forks": "270"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_today": "1,081 stars today",
+      "total_stars": "48,016",
+      "forks": "7,893"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "lang": "Rust",
+      "stars_today": "39 stars today",
+      "total_stars": "36,790",
+      "forks": "3,673"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "427 stars today",
+      "total_stars": "242,580",
+      "forks": "36,721"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_today": "131 stars today",
+      "total_stars": "69,099",
+      "forks": "8,273"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "lang": "Unknown",
+      "stars_today": "156 stars today",
+      "total_stars": "31,333",
+      "forks": "3,366"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "lang": "Python",
+      "stars_today": "417 stars today",
+      "total_stars": "24,702",
+      "forks": "2,585"
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "lang": "Rust",
+      "stars_today": "78 stars today",
+      "total_stars": "65,971",
+      "forks": "3,127"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "lang": "Python",
+      "stars_today": "225 stars today",
+      "total_stars": "988",
+      "forks": "128"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_today": "615 stars today",
+      "total_stars": "134,469",
+      "forks": "14,064"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "lang": "Python",
+      "stars_today": "201 stars today",
+      "total_stars": "129,422",
+      "forks": "15,261"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "454 stars today",
+      "total_stars": "235,037",
+      "forks": "47,359"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-08-24：今天的代码，明天的 bug\n\n> 📅 2026-08-24  |  🔍 共收录 18 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Rust**: 5 | **Python**: 5 | **JavaScript**: 2 | **Shell**: 2 | **TypeScript**: 2\n\n> Rust 项目又上榜了。我就问一句：你们到底写了多少遍「用 Rust 重写」？ 🦀\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. openai/codex\n\n**openai/codex** — Lightweight coding agent that runs in your terminal...  2,715 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,715 stars today | 📦 总星 115,390 | 🍴 17,594 | 💻 Rust\n[🔗 查看项目](https://github.com/openai/codex)\n\n### 2. freestylefly/awesome-gpt-image-2\n\n**freestylefly/awesome-gpt-image-2** — JavaScript 写的，当然好（不是）。Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工...  401 stars today 人表示「先 star 为敬」。\n\n⭐ 401 stars today | 📦 总星 12,902 | 🍴 1,439 | 💻 JavaScript\n[🔗 查看项目](https://github.com/freestylefly/awesome-gpt-image-2)\n\n### 3. mattpocock/skills\n\n**mattpocock/skills** — 如果你还没 star，那你可能错过了今天的船票。2,447 stars today 人已经上船了。\n\n⭐ 2,447 stars today | 📦 总星 233,952 | 🍴 19,949 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 4. basecamp/omarchy\n\n**basecamp/omarchy** — Shell 写的，当然好（不是）。Beautiful, Modern & Opinionated Linux...  750 stars today 人表示「先 star 为敬」。\n\n⭐ 750 stars today | 📦 总星 29,181 | 🍴 2,965 | 💻 Shell\n[🔗 查看项目](https://github.com/basecamp/omarchy)\n\n### 5. AprilNEA/OpenLogi\n\n**AprilNEA/OpenLogi** — ⚡️A native, local-first alternative to Logitech Options+, wr...  听起来像个周末项目，但它已经有 15,002 总星了。周末项目，认真的吗？\n\n⭐ 1,009 stars today | 📦 总星 15,002 | 🍴 405 | 💻 Rust\n[🔗 查看项目](https://github.com/AprilNEA/OpenLogi)\n\n### 6. block/buzz\n\n**block/buzz** — 用 Rust 写就。今天获得了 410 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 410 stars today | 📦 总星 30,140 | 🍴 3,834 | 💻 Rust\n[🔗 查看项目](https://github.com/block/buzz)\n\n### 7. apache/maka\n\n**apache/maka** — Apache Maka (Incubating) is a local-first AI agent workspace...  听起来像个周末项目，但它已经有 2,374 总星了。周末项目，认真的吗？\n\n⭐ 51 stars today | 📦 总星 2,374 | 🍴 270 | 💻 TypeScript\n[🔗 查看项目](https://github.com/apache/maka)\n\n### 8. Alishahryar1/free-claude-code\n\n**Alishahryar1/free-claude-code** — Python 写的，当然好（不是）。Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ fre...  1,081 stars today 人表示「先 star 为敬」。\n\n⭐ 1,081 stars today | 📦 总星 48,016 | 🍴 7,893 | 💻 Python\n[🔗 查看项目](https://github.com/Alishahryar1/free-claude-code)\n\n### 9. tinyhumansai/openhuman\n\n**tinyhumansai/openhuman** — Your Personal AI super intelligence. A brain that builds a local-first memory of...  39 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 39 stars today | 📦 总星 36,790 | 🍴 3,673 | 💻 Rust\n[🔗 查看项目](https://github.com/tinyhumansai/openhuman)\n\n### 10. affaan-m/ECC\n\n**affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, memory, se...  427 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 427 stars today | 📦 总星 242,580 | 🍴 36,721 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n---\n\n## 🫡 荣誉提名\n\n- **ruvnet/ruflo** — 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coord...  ⭐ 131 stars today\n- **VoltAgent/awesome-agent-skills** — A curated collection of 1000+ agent skills from official dev teams and the commu...  ⭐ 156 stars today\n- **virgiliojr94/book-to-skill** — Turn any technical book PDF into a Claude Code skill — ready to study, reference...  ⭐ 417 stars today\n- **dani-garcia/vaultwarden** — Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar...  ⭐ 78 stars today\n- **anthropics/claude-plugins-community** — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror...  ⭐ 225 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-24T02:08:19.255542+00:00"
+}
