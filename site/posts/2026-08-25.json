@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-25",
+  "repos": [
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_today": "891 stars today",
+      "total_stars": "49,042",
+      "forks": "8,005"
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars_today": "1,994 stars today",
+      "total_stars": "117,147",
+      "forks": "17,861"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_today": "434 stars today",
+      "total_stars": "34,127",
+      "forks": "11,909"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "588 stars today",
+      "total_stars": "206,566",
+      "forks": "21,091"
+    },
+    {
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "lang": "TypeScript",
+      "stars_today": "243 stars today",
+      "total_stars": "57,964",
+      "forks": "5,491"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "896 stars today",
+      "total_stars": "235,848",
+      "forks": "47,588"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "lang": "Python",
+      "stars_today": "489 stars today",
+      "total_stars": "1,375",
+      "forks": "155"
+    },
+    {
+      "name": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "lang": "Rust",
+      "stars_today": "1,097 stars today",
+      "total_stars": "15,912",
+      "forks": "432"
+    },
+    {
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "lang": "TypeScript",
+      "stars_today": "411 stars today",
+      "total_stars": "2,937",
+      "forks": "307"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "lang": "Python",
+      "stars_today": "83 stars today",
+      "total_stars": "39,012",
+      "forks": "3,275"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "lang": "TypeScript",
+      "stars_today": "173 stars today",
+      "total_stars": "387,440",
+      "forks": "81,349"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "lang": "Python",
+      "stars_today": "310 stars today",
+      "total_stars": "11,944",
+      "forks": "1,336"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "349 stars today",
+      "total_stars": "48,318",
+      "forks": "8,506"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "lang": "Shell",
+      "stars_today": "1,056 stars today",
+      "total_stars": "30,209",
+      "forks": "3,064"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "lang": "TypeScript",
+      "stars_today": "174 stars today",
+      "total_stars": "19,810",
+      "forks": "2,882"
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "lang": "Rust",
+      "stars_today": "175 stars today",
+      "total_stars": "66,132",
+      "forks": "3,140"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_today": "2,449 stars today",
+      "total_stars": "15,644",
+      "forks": "1,655"
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "lang": "Unknown",
+      "stars_today": "602 stars today",
+      "total_stars": "31,917",
+      "forks": "3,400"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "lang": "Rust",
+      "stars_today": "515 stars today",
+      "total_stars": "37,293",
+      "forks": "3,700"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-08-25  |  🔍 共收录 19 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **Rust**: 4 | **TypeScript**: 4 | **Unknown**: 2 | **Shell**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Alishahryar1/free-claude-code\n\n**Alishahryar1/free-claude-code** — 用 Python 写就。今天获得了 891 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 891 stars today | 📦 总星 49,042 | 🍴 8,005 | 💻 Python\n[🔗 查看项目](https://github.com/Alishahryar1/free-claude-code)\n\n### 2. openai/codex\n\n**openai/codex** — 用 Rust 写就。今天获得了 1,994 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 1,994 stars today | 📦 总星 117,147 | 🍴 17,861 | 💻 Rust\n[🔗 查看项目](https://github.com/openai/codex)\n\n### 3. MadsLorentzen/ai-job-search\n\n**MadsLorentzen/ai-job-search** — 如果你还没 star，那你可能错过了今天的船票。434 stars today 人已经上船了。\n\n⭐ 434 stars today | 📦 总星 34,127 | 🍴 11,909 | 💻 Python\n[🔗 查看项目](https://github.com/MadsLorentzen/ai-job-search)\n\n### 4. multica-ai/andrej-karpathy-skills\n\n**multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, der...  听起来像个周末项目，但它已经有 206,566 总星了。周末项目，认真的吗？\n\n⭐ 588 stars today | 📦 总星 206,566 | 🍴 21,091 | 💻 Unknown\n[🔗 查看项目](https://github.com/multica-ai/andrej-karpathy-skills)\n\n### 5. makeplane/plane\n\n**makeplane/plane** — 如果你还没 star，那你可能错过了今天的船票。243 stars today 人已经上船了。\n\n⭐ 243 stars today | 📦 总星 57,964 | 🍴 5,491 | 💻 TypeScript\n[🔗 查看项目](https://github.com/makeplane/plane)\n\n### 6. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — The agent that grows with you...  896 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 896 stars today | 📦 总星 235,848 | 🍴 47,588 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 7. anthropics/claude-plugins-community\n\n**anthropics/claude-plugins-community** — Community plugin marketplace for Claude Cowork and Claude Code. Read-o... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 489 stars today | 📦 总星 1,375 | 🍴 155 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-community)\n\n### 8. AprilNEA/OpenLogi\n\n**AprilNEA/OpenLogi** — 用 Rust 写就。今天获得了 1,097 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 1,097 stars today | 📦 总星 15,912 | 🍴 432 | 💻 Rust\n[🔗 查看项目](https://github.com/AprilNEA/OpenLogi)\n\n### 9. apache/maka\n\n**apache/maka** — Apache Maka (Incubating) is a local-first AI agent workspace...  听起来像个周末项目，但它已经有 2,937 总星了。周末项目，认真的吗？\n\n⭐ 411 stars today | 📦 总星 2,937 | 🍴 307 | 💻 TypeScript\n[🔗 查看项目](https://github.com/apache/maka)\n\n### 10. PostHog/posthog\n\n**PostHog/posthog** — 如果你还没 star，那你可能错过了今天的船票。83 stars today 人已经上船了。\n\n⭐ 83 stars today | 📦 总星 39,012 | 🍴 3,275 | 💻 Python\n[🔗 查看项目](https://github.com/PostHog/posthog)\n\n---\n\n## 🫡 荣誉提名\n\n- **openclaw/openclaw** — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  ⭐ 173 stars today\n- **AgriciDaniel/claude-obsidian** — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and ...  ⭐ 310 stars today\n- **rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others.  ⭐ 349 stars today\n- **basecamp/omarchy** — Beautiful, Modern & Opinionated Linux  ⭐ 1,056 stars today\n- **tashfeenahmed/freellmapi** — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. A...  ⭐ 174 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-25T02:04:15.542304+00:00"
+}
