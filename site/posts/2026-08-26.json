@@ -1,0 +1,151 @@
+{
+  "date": "2026-08-26",
+  "repos": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_today": "1,698 stars today",
+      "total_stars": "18,188",
+      "forks": "1,869"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "lang": "Python",
+      "stars_today": "351 stars today",
+      "total_stars": "1,790",
+      "forks": "178"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_today": "1,265 stars today",
+      "total_stars": "35,363",
+      "forks": "12,157"
+    },
+    {
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "lang": "TypeScript",
+      "stars_today": "543 stars today",
+      "total_stars": "3,369",
+      "forks": "332"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_today": "218 stars today",
+      "total_stars": "100,298",
+      "forks": "19,355"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "lang": "Python",
+      "stars_today": "813 stars today",
+      "total_stars": "12,767",
+      "forks": "1,381"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "569 stars today",
+      "total_stars": "49,044",
+      "forks": "8,571"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "lang": "Rust",
+      "stars_today": "542 stars today",
+      "total_stars": "37,800",
+      "forks": "3,737"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "desc": "Beautiful, Modern & Opinionated Linux",
+      "lang": "Shell",
+      "stars_today": "1,083 stars today",
+      "total_stars": "31,327",
+      "forks": "3,182"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "lang": "Python",
+      "stars_today": "161 stars today",
+      "total_stars": "134,255",
+      "forks": "19,744"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "830 stars today",
+      "total_stars": "207,250",
+      "forks": "21,146"
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "desc": "Lightweight coding agent that runs in your terminal",
+      "lang": "Rust",
+      "stars_today": "1,181 stars today",
+      "total_stars": "118,170",
+      "forks": "18,004"
+    },
+    {
+      "name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "lang": "Python",
+      "stars_today": "231 stars today",
+      "total_stars": "2,132",
+      "forks": "195"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "982 stars today",
+      "total_stars": "111,125",
+      "forks": "6,106"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "55 stars today",
+      "total_stars": "34,106",
+      "forks": "3,869"
+    },
+    {
+      "name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "desc": "Your own search engine",
+      "lang": "Go",
+      "stars_today": "98 stars today",
+      "total_stars": "2,811",
+      "forks": "127"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-08-26：awesome-gpt-image-2 带着 1,698 stars today 颗星杀过来了\n\n> 📅 2026-08-26  |  🔍 共收录 16 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **JavaScript**: 2 | **Rust**: 2 | **TypeScript**: 1 | **Shell**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. freestylefly/awesome-gpt-image-2\n\n**freestylefly/awesome-gpt-image-2** — JavaScript 写的，当然好（不是）。Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工...  1,698 stars today 人表示「先 star 为敬」。\n\n⭐ 1,698 stars today | 📦 总星 18,188 | 🍴 1,869 | 💻 JavaScript\n[🔗 查看项目](https://github.com/freestylefly/awesome-gpt-image-2)\n\n### 2. anthropics/claude-plugins-community\n\n**anthropics/claude-plugins-community** — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror...  351 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 351 stars today | 📦 总星 1,790 | 🍴 178 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-community)\n\n### 3. MadsLorentzen/ai-job-search\n\n**MadsLorentzen/ai-job-search** — Python 写的，当然好（不是）。The job search that runs on your machine. AI job application...  1,265 stars today 人表示「先 star 为敬」。\n\n⭐ 1,265 stars today | 📦 总星 35,363 | 🍴 12,157 | 💻 Python\n[🔗 查看项目](https://github.com/MadsLorentzen/ai-job-search)\n\n### 4. apache/maka\n\n**apache/maka** — Apache Maka (Incubating) is a local-first AI agent workspace...  听起来像个周末项目，但它已经有 3,369 总星了。周末项目，认真的吗？\n\n⭐ 543 stars today | 📦 总星 3,369 | 🍴 332 | 💻 TypeScript\n[🔗 查看项目](https://github.com/apache/maka)\n\n### 5. TauricResearch/TradingAgents\n\n**TauricResearch/TradingAgents** — Python 写的，当然好（不是）。TradingAgents: Multi-Agents LLM Financial Trading Framework...  218 stars today 人表示「先 star 为敬」。\n\n⭐ 218 stars today | 📦 总星 100,298 | 🍴 19,355 | 💻 Python\n[🔗 查看项目](https://github.com/TauricResearch/TradingAgents)\n\n### 6. AgriciDaniel/claude-obsidian\n\n**AgriciDaniel/claude-obsidian** — Self-organizing AI second brain for Obsidian + Claude Code. ...  听起来像个周末项目，但它已经有 12,767 总星了。周末项目，认真的吗？\n\n⭐ 813 stars today | 📦 总星 12,767 | 🍴 1,381 | 💻 Python\n[🔗 查看项目](https://github.com/AgriciDaniel/claude-obsidian)\n\n### 7. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — 用 Python 写就。今天获得了 569 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 569 stars today | 📦 总星 49,044 | 🍴 8,571 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 8. tinyhumansai/openhuman\n\n**tinyhumansai/openhuman** 今天拿了 542 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 542 stars today | 📦 总星 37,800 | 🍴 3,737 | 💻 Rust\n[🔗 查看项目](https://github.com/tinyhumansai/openhuman)\n\n### 9. basecamp/omarchy\n\n**basecamp/omarchy** — Beautiful, Modern & Opinionated Linux...  听起来像个周末项目，但它已经有 31,327 总星了。周末项目，认真的吗？\n\n⭐ 1,083 stars today | 📦 总星 31,327 | 🍴 3,182 | 💻 Shell\n[🔗 查看项目](https://github.com/basecamp/omarchy)\n\n### 10. Shubhamsaboo/awesome-llm-apps\n\n**Shubhamsaboo/awesome-llm-apps** 今天拿了 161 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 161 stars today | 📦 总星 134,255 | 🍴 19,744 | 💻 Python\n[🔗 查看项目](https://github.com/Shubhamsaboo/awesome-llm-apps)\n\n---\n\n## 🫡 荣誉提名\n\n- **multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...  ⭐ 830 stars today\n- **openai/codex** — Lightweight coding agent that runs in your terminal  ⭐ 1,181 stars today\n- **marin-community/marin** — Open-source framework for the research and development of foundation models.  ⭐ 231 stars today\n- **DietrichGebert/ponytail** — Makes your AI agent think like the laziest senior dev in the room. The best code...  ⭐ 982 stars today\n- **anthropics/claude-plugins-official** — Official, Anthropic-managed directory of high quality Claude Code Plugins.  ⭐ 55 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-26T02:10:09.213878+00:00"
+}
