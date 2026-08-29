@@ -1,0 +1,187 @@
+{
+  "date": "2026-08-29",
+  "repos": [
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "stars_today": "4,562 stars today",
+      "total_stars": "28,498",
+      "forks": "1,789"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_today": "720 stars today",
+      "total_stars": "36,981",
+      "forks": "3,510"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "457 stars today",
+      "total_stars": "35,131",
+      "forks": "3,940"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "3,829 stars today",
+      "total_stars": "11,471",
+      "forks": "2,313"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "lang": "TypeScript",
+      "stars_today": "202 stars today",
+      "total_stars": "46,230",
+      "forks": "5,107"
+    },
+    {
+      "name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "desc": "Help AI coding agents write modern Go",
+      "lang": "Go",
+      "stars_today": "574 stars today",
+      "total_stars": "2,675",
+      "forks": "79"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "1,144 stars today",
+      "total_stars": "53,503",
+      "forks": "6,669"
+    },
+    {
+      "name": "abi/screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "lang": "Python",
+      "stars_today": "326 stars today",
+      "total_stars": "75,692",
+      "forks": "9,224"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "246 stars today",
+      "total_stars": "6,024",
+      "forks": "480"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "lang": "JavaScript",
+      "stars_today": "1,687 stars today",
+      "total_stars": "24,496",
+      "forks": "2,419"
+    },
+    {
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "lang": "Go",
+      "stars_today": "965 stars today",
+      "total_stars": "2,958",
+      "forks": "82"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_today": "191 stars today",
+      "total_stars": "73,415",
+      "forks": "8,015"
+    },
+    {
+      "name": "swoole/typephp",
+      "url": "https://github.com/swoole/typephp",
+      "desc": "Compile PHP to Native Binaries",
+      "lang": "PHP",
+      "stars_today": "188 stars today",
+      "total_stars": "849",
+      "forks": "40"
+    },
+    {
+      "name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "desc": "Open-source framework for the research and development of foundation models.",
+      "lang": "Python",
+      "stars_today": "236 stars today",
+      "total_stars": "2,930",
+      "forks": "241"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "lang": "TypeScript",
+      "stars_today": "433 stars today",
+      "total_stars": "21,757",
+      "forks": "3,076"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "67 stars today",
+      "total_stars": "50,027",
+      "forks": "3,505"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "703 stars today",
+      "total_stars": "50,719",
+      "forks": "8,790"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,396 stars today",
+      "total_stars": "115,678",
+      "forks": "6,322"
+    },
+    {
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "desc": "GoogleTest - Google Testing and Mocking Framework",
+      "lang": "C++",
+      "stars_today": "156 stars today",
+      "total_stars": "39,211",
+      "forks": "10,874"
+    },
+    {
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "lang": "Python",
+      "stars_today": "22 stars today",
+      "total_stars": "13,412",
+      "forks": "3,635"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：archify 霸榜，开发者集体失眠\n\n> 📅 2026-08-29  |  🔍 共收录 20 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **JavaScript**: 4 | **TypeScript**: 4 | **Go**: 2 | **Java**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. tt-a1i/archify\n\n**tt-a1i/archify** — Agent skill for beautiful, verifiable architecture, workflow...  听起来像个周末项目，但它已经有 28,498 总星了。周末项目，认真的吗？\n\n⭐ 4,562 stars today | 📦 总星 28,498 | 🍴 1,789 | 💻 JavaScript\n[🔗 查看项目](https://github.com/tt-a1i/archify)\n\n### 2. K-Dense-AI/scientific-agent-skills\n\n**K-Dense-AI/scientific-agent-skills** — 如果你还没 star，那你可能错过了今天的船票。720 stars today 人已经上船了。\n\n⭐ 720 stars today | 📦 总星 36,981 | 🍴 3,510 | 💻 Python\n[🔗 查看项目](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n### 3. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** 今天拿了 457 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 457 stars today | 📦 总星 35,131 | 🍴 3,940 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 4. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — JavaScript 写的，当然好（不是）。A spy satellite simulator in your browser, except the data i...  3,829 stars today 人表示「先 star 为敬」。\n\n⭐ 3,829 stars today | 📦 总星 11,471 | 🍴 2,313 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 5. abhigyanpatwari/GitNexus\n\n**abhigyanpatwari/GitNexus** — GitNexus: The Zero-Server Code Intelligence Engine - GitNexu...  听起来像个周末项目，但它已经有 46,230 总星了。周末项目，认真的吗？\n\n⭐ 202 stars today | 📦 总星 46,230 | 🍴 5,107 | 💻 TypeScript\n[🔗 查看项目](https://github.com/abhigyanpatwari/GitNexus)\n\n### 6. JetBrains/go-modern-guidelines\n\n**JetBrains/go-modern-guidelines** — 用 Go 写就。今天获得了 574 stars today 颗星，证明 Go 还活着且活得挺好。\n\n⭐ 574 stars today | 📦 总星 2,675 | 🍴 79 | 💻 Go\n[🔗 查看项目](https://github.com/JetBrains/go-modern-guidelines)\n\n### 7. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — World's first open-source, agentic video production system. ...  听起来像个周末项目，但它已经有 53,503 总星了。周末项目，认真的吗？\n\n⭐ 1,144 stars today | 📦 总星 53,503 | 🍴 6,669 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 8. abi/screenshot-to-code\n\n**abi/screenshot-to-code** 今天拿了 326 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 326 stars today | 📦 总星 75,692 | 🍴 9,224 | 💻 Python\n[🔗 查看项目](https://github.com/abi/screenshot-to-code)\n\n### 9. cursor/plugins\n\n**cursor/plugins** — Cursor plugin specification and official plugins...  246 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 246 stars today | 📦 总星 6,024 | 🍴 480 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cursor/plugins)\n\n### 10. freestylefly/awesome-gpt-image-2\n\n**freestylefly/awesome-gpt-image-2** — 如果你还没 star，那你可能错过了今天的船票。1,687 stars today 人已经上船了。\n\n⭐ 1,687 stars today | 📦 总星 24,496 | 🍴 2,419 | 💻 JavaScript\n[🔗 查看项目](https://github.com/freestylefly/awesome-gpt-image-2)\n\n---\n\n## 🫡 荣誉提名\n\n- **tailscale/tailcat** — like netcat, but over Tailscale's data plane, without Tailscale's control plane  ⭐ 965 stars today\n- **NationalSecurityAgency/ghidra** — Ghidra is a software reverse engineering (SRE) framework  ⭐ 191 stars today\n- **swoole/typephp** — Compile PHP to Native Binaries  ⭐ 188 stars today\n- **marin-community/marin** — Open-source framework for the research and development of foundation models.  ⭐ 236 stars today\n- **tashfeenahmed/freellmapi** — 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. A...  ⭐ 433 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-29T07:18:03.332143+00:00"
+}
