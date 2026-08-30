@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-30",
+  "repos": [
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "stars_today": "3,902 stars today",
+      "total_stars": "31,702",
+      "forks": "1,973"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "1,855 stars today",
+      "total_stars": "12,859",
+      "forks": "2,542"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_today": "1,587 stars today",
+      "total_stars": "38,094",
+      "forks": "3,590"
+    },
+    {
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "lang": "Go",
+      "stars_today": "789 stars today",
+      "total_stars": "3,680",
+      "forks": "111"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "lang": "TypeScript",
+      "stars_today": "907 stars today",
+      "total_stars": "22,531",
+      "forks": "4,349"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "lang": "Python",
+      "stars_today": "150 stars today",
+      "total_stars": "28,778",
+      "forks": "3,172"
+    },
+    {
+      "name": "bigskysoftware/htmx",
+      "url": "https://github.com/bigskysoftware/htmx",
+      "desc": "</> htmx - high power tools for HTML",
+      "lang": "JavaScript",
+      "stars_today": "32 stars today",
+      "total_stars": "49,164",
+      "forks": "1,641"
+    },
+    {
+      "name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "desc": "Help AI coding agents write modern Go",
+      "lang": "Go",
+      "stars_today": "303 stars today",
+      "total_stars": "2,911",
+      "forks": "81"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "lang": "Python",
+      "stars_today": "73 stars today",
+      "total_stars": "73,975",
+      "forks": "8,472"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "806 stars today",
+      "total_stars": "54,211",
+      "forks": "6,721"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "lang": "TypeScript",
+      "stars_today": "517 stars today",
+      "total_stars": "14,736",
+      "forks": "1,767"
+    },
+    {
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "desc": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "lang": "Python",
+      "stars_today": "35 stars today",
+      "total_stars": "5,031",
+      "forks": "743"
+    },
+    {
+      "name": "abi/screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "lang": "Python",
+      "stars_today": "550 stars today",
+      "total_stars": "76,117",
+      "forks": "9,269"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "358 stars today",
+      "total_stars": "35,488",
+      "forks": "3,963"
+    },
+    {
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "desc": "GoogleTest - Google Testing and Mocking Framework",
+      "lang": "C++",
+      "stars_today": "128 stars today",
+      "total_stars": "39,338",
+      "forks": "10,878"
+    },
+    {
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "desc": "Action for checking out a repo",
+      "lang": "TypeScript",
+      "stars_today": "5 stars today",
+      "total_stars": "8,811",
+      "forks": "2,756"
+    },
+    {
+      "name": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "desc": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
+      "lang": "Python",
+      "stars_today": "39 stars today",
+      "total_stars": "3,714",
+      "forks": "423"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "196 stars today",
+      "total_stars": "90,787",
+      "forks": "9,713"
+    },
+    {
+      "name": "workweave/router",
+      "url": "https://github.com/workweave/router",
+      "desc": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "lang": "Go",
+      "stars_today": "284 stars today",
+      "total_stars": "2,855",
+      "forks": "81"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-08-30：19 个项目今天值得你 star\n\n> 📅 2026-08-30  |  🔍 共收录 19 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **JavaScript**: 4 | **Go**: 3 | **TypeScript**: 3 | **C++**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. tt-a1i/archify\n\n**tt-a1i/archify** 今天拿了 3,902 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,902 stars today | 📦 总星 31,702 | 🍴 1,973 | 💻 JavaScript\n[🔗 查看项目](https://github.com/tt-a1i/archify)\n\n### 2. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — A spy satellite simulator in your browser, except the data i...  听起来像个周末项目，但它已经有 12,859 总星了。周末项目，认真的吗？\n\n⭐ 1,855 stars today | 📦 总星 12,859 | 🍴 2,542 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 3. K-Dense-AI/scientific-agent-skills\n\n**K-Dense-AI/scientific-agent-skills** 今天拿了 1,587 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,587 stars today | 📦 总星 38,094 | 🍴 3,590 | 💻 Python\n[🔗 查看项目](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n### 4. tailscale/tailcat\n\n**tailscale/tailcat** — like netcat, but over Tailscale's data plane, without Tailscale's control plane...  789 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 789 stars today | 📦 总星 3,680 | 🍴 111 | 💻 Go\n[🔗 查看项目](https://github.com/tailscale/tailcat)\n\n### 5. THU-MAIC/OpenMAIC\n\n**THU-MAIC/OpenMAIC** — Open Multi-Agent Interactive Classroom — Get an immersive, m...  听起来像个周末项目，但它已经有 22,531 总星了。周末项目，认真的吗？\n\n⭐ 907 stars today | 📦 总星 22,531 | 🍴 4,349 | 💻 TypeScript\n[🔗 查看项目](https://github.com/THU-MAIC/OpenMAIC)\n\n### 6. p-e-w/heretic\n\n**p-e-w/heretic** — 如果你还没 star，那你可能错过了今天的船票。150 stars today 人已经上船了。\n\n⭐ 150 stars today | 📦 总星 28,778 | 🍴 3,172 | 💻 Python\n[🔗 查看项目](https://github.com/p-e-w/heretic)\n\n### 7. bigskysoftware/htmx\n\n**bigskysoftware/htmx** 今天拿了 32 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 32 stars today | 📦 总星 49,164 | 🍴 1,641 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bigskysoftware/htmx)\n\n### 8. JetBrains/go-modern-guidelines\n\n**JetBrains/go-modern-guidelines** — Help AI coding agents write modern Go...  303 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 303 stars today | 📦 总星 2,911 | 🍴 81 | 💻 Go\n[🔗 查看项目](https://github.com/JetBrains/go-modern-guidelines)\n\n### 9. ComposioHQ/awesome-claude-skills\n\n**ComposioHQ/awesome-claude-skills** — 如果你还没 star，那你可能错过了今天的船票。73 stars today 人已经上船了。\n\n⭐ 73 stars today | 📦 总星 73,975 | 🍴 8,472 | 💻 Python\n[🔗 查看项目](https://github.com/ComposioHQ/awesome-claude-skills)\n\n### 10. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — Python 写的，当然好（不是）。World's first open-source, agentic video production system. ...  806 stars today 人表示「先 star 为敬」。\n\n⭐ 806 stars today | 📦 总星 54,211 | 🍴 6,721 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n---\n\n## 🫡 荣誉提名\n\n- **every-app/open-seo** — Open source alternative to Semrush and Ahrefs  ⭐ 517 stars today\n- **Osmantic/ODS** — Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice...  ⭐ 35 stars today\n- **abi/screenshot-to-code** — Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)  ⭐ 550 stars today\n- **anthropics/claude-plugins-official** — Official, Anthropic-managed directory of high quality Claude Code Plugins.  ⭐ 358 stars today\n- **google/googletest** — GoogleTest - Google Testing and Mocking Framework  ⭐ 128 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-08-30T05:42:24.964742+00:00"
+}
