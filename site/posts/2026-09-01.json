@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-01",
+  "repos": [
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "lang": "TypeScript",
+      "stars_today": "2,824 stars today",
+      "total_stars": "27,800",
+      "forks": "4,828"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "lang": "JavaScript",
+      "stars_today": "3,991 stars today",
+      "total_stars": "39,617",
+      "forks": "2,524"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_today": "1,980 stars today",
+      "total_stars": "40,944",
+      "forks": "3,784"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "desc": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "lang": "C#",
+      "stars_today": "582 stars today",
+      "total_stars": "23,463",
+      "forks": "59,694"
+    },
+    {
+      "name": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "desc": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "lang": "Go",
+      "stars_today": "373 stars today",
+      "total_stars": "10,615",
+      "forks": "898"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "lang": "Python",
+      "stars_today": "495 stars today",
+      "total_stars": "56,385",
+      "forks": "7,347"
+    },
+    {
+      "name": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "desc": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "lang": "Python",
+      "stars_today": "77 stars today",
+      "total_stars": "5,620",
+      "forks": "786"
+    },
+    {
+      "name": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "lang": "Java",
+      "stars_today": "198 stars today",
+      "total_stars": "9,451",
+      "forks": "4,208"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "lang": "PowerShell",
+      "stars_today": "1,401 stars today",
+      "total_stars": "33,356",
+      "forks": "4,521"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "512 stars today",
+      "total_stars": "245,361",
+      "forks": "37,060"
+    },
+    {
+      "name": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "desc": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+      "lang": "Python",
+      "stars_today": "93 stars today",
+      "total_stars": "4,372",
+      "forks": "452"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "desc": "Open source alternative to Semrush and Ahrefs",
+      "lang": "TypeScript",
+      "stars_today": "610 stars today",
+      "total_stars": "15,851",
+      "forks": "1,910"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "desc": "Fully automatic censorship removal for language models",
+      "lang": "Python",
+      "stars_today": "537 stars today",
+      "total_stars": "29,752",
+      "forks": "3,256"
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "lang": "Python",
+      "stars_today": "571 stars today",
+      "total_stars": "6,375",
+      "forks": "740"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_today": "228 stars today",
+      "total_stars": "17,482",
+      "forks": "1,205"
+    },
+    {
+      "name": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "desc": "RL training environments for Microduck (mjlab)",
+      "lang": "Python",
+      "stars_today": "385 stars today",
+      "total_stars": "1,237",
+      "forks": "211"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：OpenMAIC 爆火，TypeScript 又双叒叕赢了\n\n> 📅 2026-09-01  |  🔍 共收录 16 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 2 | **JavaScript**: 2 | **C#**: 1 | **Go**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. THU-MAIC/OpenMAIC\n\n**THU-MAIC/OpenMAIC** — Open Multi-Agent Interactive Classroom — Get an immersive, m...  听起来像个周末项目，但它已经有 27,800 总星了。周末项目，认真的吗？\n\n⭐ 2,824 stars today | 📦 总星 27,800 | 🍴 4,828 | 💻 TypeScript\n[🔗 查看项目](https://github.com/THU-MAIC/OpenMAIC)\n\n### 2. tt-a1i/archify\n\n**tt-a1i/archify** — Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo...  3,991 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 3,991 stars today | 📦 总星 39,617 | 🍴 2,524 | 💻 JavaScript\n[🔗 查看项目](https://github.com/tt-a1i/archify)\n\n### 3. K-Dense-AI/scientific-agent-skills\n\n**K-Dense-AI/scientific-agent-skills** — Turn any AI agent into an AI Scientist. The #1 Agent Skills ...  听起来像个周末项目，但它已经有 40,944 总星了。周末项目，认真的吗？\n\n⭐ 1,980 stars today | 📦 总星 40,944 | 🍴 3,784 | 💻 Python\n[🔗 查看项目](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n### 4. k1tbyte/Wand-Enhancer\n\n**k1tbyte/Wand-Enhancer** — Advanced UX and interoperability extension for Wand (WeMod) app... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 582 stars today | 📦 总星 23,463 | 🍴 59,694 | 💻 C#\n[🔗 查看项目](https://github.com/k1tbyte/Wand-Enhancer)\n\n### 5. majd/ipatool\n\n**majd/ipatool** — Command-line tool that allows searching and downloading app ...  听起来像个周末项目，但它已经有 10,615 总星了。周末项目，认真的吗？\n\n⭐ 373 stars today | 📦 总星 10,615 | 🍴 898 | 💻 Go\n[🔗 查看项目](https://github.com/majd/ipatool)\n\n### 6. jingyaogong/minimind\n\n**jingyaogong/minimind** 今天拿了 495 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 495 stars today | 📦 总星 56,385 | 🍴 7,347 | 💻 Python\n[🔗 查看项目](https://github.com/jingyaogong/minimind)\n\n### 7. Osmantic/ODS\n\n**Osmantic/ODS** — Python 写的，当然好（不是）。Turn your PC, Mac, or Linux box into an AI server. LLM infer...  77 stars today 人表示「先 star 为敬」。\n\n⭐ 77 stars today | 📦 总星 5,620 | 🍴 786 | 💻 Python\n[🔗 查看项目](https://github.com/Osmantic/ODS)\n\n### 8. checkstyle/checkstyle\n\n**checkstyle/checkstyle** — Java 写的，当然好（不是）。Checkstyle is a development tool to help programmers write J...  198 stars today 人表示「先 star 为敬」。\n\n⭐ 198 stars today | 📦 总星 9,451 | 🍴 4,208 | 💻 Java\n[🔗 查看项目](https://github.com/checkstyle/checkstyle)\n\n### 9. zhaoxuya520/reverse-skill\n\n**zhaoxuya520/reverse-skill** 今天拿了 1,401 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,401 stars today | 📦 总星 33,356 | 🍴 4,521 | 💻 PowerShell\n[🔗 查看项目](https://github.com/zhaoxuya520/reverse-skill)\n\n### 10. affaan-m/ECC\n\n**affaan-m/ECC** — JavaScript 写的，当然好（不是）。The agent harness performance optimization system. Skills, i...  512 stars today 人表示「先 star 为敬」。\n\n⭐ 512 stars today | 📦 总星 245,361 | 🍴 37,060 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n---\n\n## 🫡 荣誉提名\n\n- **kaifcodec/user-scanner** — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a...  ⭐ 93 stars today\n- **every-app/open-seo** — Open source alternative to Semrush and Ahrefs  ⭐ 610 stars today\n- **p-e-w/heretic** — Fully automatic censorship removal for language models  ⭐ 537 stars today\n- **handsomestWei/patent-disclosure-skill** — 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。  ⭐ 571 stars today\n- **firecrawl/pdf-inspector** — Fast Rust library for PDF inspection, classification, and text extraction. Intel...  ⭐ 228 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-01T05:31:54.930990+00:00"
+}
