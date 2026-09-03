@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-03",
+  "repos": [
+    {
+      "name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "lang": "C++",
+      "stars_today": "14 stars today",
+      "total_stars": "24,420",
+      "forks": "2,993"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "lang": "Python",
+      "stars_today": "343 stars today",
+      "total_stars": "30,078",
+      "forks": "2,883"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,354 stars today",
+      "total_stars": "122,012",
+      "forks": "6,594"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "832 stars today",
+      "total_stars": "15,089",
+      "forks": "2,132"
+    },
+    {
+      "name": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "desc": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "lang": "Python",
+      "stars_today": "63 stars today",
+      "total_stars": "6,236",
+      "forks": "1,275"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "148 stars today",
+      "total_stars": "50,709",
+      "forks": "3,556"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "533 stars today",
+      "total_stars": "240,249",
+      "forks": "49,173"
+    },
+    {
+      "name": "superlinked/sie",
+      "url": "https://github.com/superlinked/sie",
+      "desc": "Open-source inference server and production cluster for all the models your agent needs.",
+      "lang": "Python",
+      "stars_today": "60 stars today",
+      "total_stars": "3,110",
+      "forks": "299"
+    },
+    {
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "desc": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "lang": "Rust",
+      "stars_today": "888 stars today",
+      "total_stars": "2,988",
+      "forks": "193"
+    },
+    {
+      "name": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "desc": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "lang": "Vue",
+      "stars_today": "21 stars today",
+      "total_stars": "9,415",
+      "forks": "1,137"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "lang": "Python",
+      "stars_today": "799 stars today",
+      "total_stars": "45,656",
+      "forks": "3,587"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "516 stars today",
+      "total_stars": "246,472",
+      "forks": "37,164"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "desc": "Protocol Buffers - Google's data interchange format",
+      "lang": "C++",
+      "stars_today": "18 stars today",
+      "total_stars": "71,956",
+      "forks": "16,272"
+    },
+    {
+      "name": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "desc": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "lang": "TypeScript",
+      "stars_today": "73 stars today",
+      "total_stars": "11,860",
+      "forks": "384"
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "lang": "Python",
+      "stars_today": "374 stars today",
+      "total_stars": "40,617",
+      "forks": "3,508"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "Go",
+      "stars_today": "238 stars today",
+      "total_stars": "102,729",
+      "forks": "5,973"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,166 stars today",
+      "total_stars": "245,477",
+      "forks": "20,869"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "desc": "runs anywhere. uses anything",
+      "lang": "TypeScript",
+      "stars_today": "775 stars today",
+      "total_stars": "32,055",
+      "forks": "9,004"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "lang": "Rust",
+      "stars_today": "586 stars today",
+      "total_stars": "18,599",
+      "forks": "1,247"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：fmt 爆火，C++ 又双叒叕赢了\n\n> 📅 2026-09-03  |  🔍 共收录 19 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 3 | **C++**: 2 | **JavaScript**: 2 | **Rust**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. fmtlib/fmt\n\n**fmtlib/fmt** — 如果你还没 star，那你可能错过了今天的船票。14 stars today 人已经上船了。\n\n⭐ 14 stars today | 📦 总星 24,420 | 🍴 2,993 | 💻 C++\n[🔗 查看项目](https://github.com/fmtlib/fmt)\n\n### 2. google-research/timesfm\n\n**google-research/timesfm** 今天拿了 343 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 343 stars today | 📦 总星 30,078 | 🍴 2,883 | 💻 Python\n[🔗 查看项目](https://github.com/google-research/timesfm)\n\n### 3. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — 如果你还没 star，那你可能错过了今天的船票。1,354 stars today 人已经上船了。\n\n⭐ 1,354 stars today | 📦 总星 122,012 | 🍴 6,594 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 4. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — 用 Python 写就。今天获得了 832 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 832 stars today | 📦 总星 15,089 | 🍴 2,132 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 5. sngyai/Sequoia-X\n\n**sngyai/Sequoia-X** 今天拿了 63 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 63 stars today | 📦 总星 6,236 | 🍴 1,275 | 💻 Python\n[🔗 查看项目](https://github.com/sngyai/Sequoia-X)\n\n### 6. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — Chrome DevTools for coding agents...  听起来像个周末项目，但它已经有 50,709 总星了。周末项目，认真的吗？\n\n⭐ 148 stars today | 📦 总星 50,709 | 🍴 3,556 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 7. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — 用 Python 写就。今天获得了 533 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 533 stars today | 📦 总星 240,249 | 🍴 49,173 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 8. superlinked/sie\n\n**superlinked/sie** — 如果你还没 star，那你可能错过了今天的船票。60 stars today 人已经上船了。\n\n⭐ 60 stars today | 📦 总星 3,110 | 🍴 299 | 💻 Python\n[🔗 查看项目](https://github.com/superlinked/sie)\n\n### 9. pacifio/atlas\n\n**pacifio/atlas** — Rust 写的，当然好（不是）。Source control for agents. Use multiple coding agents, track...  888 stars today 人表示「先 star 为敬」。\n\n⭐ 888 stars today | 📦 总星 2,988 | 🍴 193 | 💻 Rust\n[🔗 查看项目](https://github.com/pacifio/atlas)\n\n### 10. zyronon/TypeWords\n\n**zyronon/TypeWords** — Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；...  21 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 21 stars today | 📦 总星 9,415 | 🍴 1,137 | 💻 Vue\n[🔗 查看项目](https://github.com/zyronon/TypeWords)\n\n---\n\n## 🫡 荣誉提名\n\n- **Imbad0202/academic-research-skills** — Academic Research Skills for Claude Code: research → write → review → revise → f...  ⭐ 799 stars today\n- **affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, memory, se...  ⭐ 516 stars today\n- **protocolbuffers/protobuf** — Protocol Buffers - Google's data interchange format  ⭐ 18 stars today\n- **vercel-labs/portless** — Replace port numbers with stable, named local URLs. For humans and agents.  ⭐ 73 stars today\n- **blader/humanizer** — Agent skill that removes signs of AI-generated writing from text  ⭐ 374 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-03T04:54:43.160069+00:00"
+}
