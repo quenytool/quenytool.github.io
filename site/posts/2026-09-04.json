@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-04",
+  "repos": [
+    {
+      "name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "lang": "C++",
+      "stars_today": "963 stars today",
+      "total_stars": "25,191",
+      "forks": "3,020"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,601 stars today",
+      "total_stars": "247,863",
+      "forks": "21,009"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "774 stars today",
+      "total_stars": "240,980",
+      "forks": "49,389"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "2,128 stars today",
+      "total_stars": "123,737",
+      "forks": "6,684"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "281 stars today",
+      "total_stars": "173,749",
+      "forks": "20,610"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "751 stars today",
+      "total_stars": "247,376",
+      "forks": "37,281"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "lang": "Go",
+      "stars_today": "543 stars today",
+      "total_stars": "103,186",
+      "forks": "5,996"
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "lang": "Python",
+      "stars_today": "1,208 stars today",
+      "total_stars": "41,700",
+      "forks": "3,563"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "lang": "Python",
+      "stars_today": "1,618 stars today",
+      "total_stars": "30,761",
+      "forks": "2,938"
+    },
+    {
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "lang": "HTML",
+      "stars_today": "88 stars today",
+      "total_stars": "8,477",
+      "forks": "1,371"
+    },
+    {
+      "name": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "desc": "翻墙-科学上网",
+      "lang": "Kotlin",
+      "stars_today": "522 stars today",
+      "total_stars": "52,359",
+      "forks": "8,491"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "264 stars today",
+      "total_stars": "92,089",
+      "forks": "9,813"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "lang": "Unknown",
+      "stars_today": "171 stars today",
+      "total_stars": "88,455",
+      "forks": "9,828"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "lang": "TypeScript",
+      "stars_today": "161 stars today",
+      "total_stars": "2,027",
+      "forks": "145"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "lang": "Python",
+      "stars_today": "496 stars today",
+      "total_stars": "46,061",
+      "forks": "3,608"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "desc": "runs anywhere. uses anything",
+      "lang": "TypeScript",
+      "stars_today": "451 stars today",
+      "total_stars": "32,402",
+      "forks": "9,021"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "1,672 stars today",
+      "total_stars": "16,510",
+      "forks": "2,224"
+    },
+    {
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "lang": "HTML",
+      "stars_today": "168 stars today",
+      "total_stars": "169,095",
+      "forks": "21,769"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "462 stars today",
+      "total_stars": "281,434",
+      "forks": "25,212"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-09-04：19 个项目今天值得你 star\n\n> 📅 2026-09-04  |  🔍 共收录 19 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **JavaScript**: 3 | **Shell**: 2 | **HTML**: 2 | **TypeScript**: 2\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. fmtlib/fmt\n\n**fmtlib/fmt** — 如果你还没 star，那你可能错过了今天的船票。963 stars today 人已经上船了。\n\n⭐ 963 stars today | 📦 总星 25,191 | 🍴 3,020 | 💻 C++\n[🔗 查看项目](https://github.com/fmtlib/fmt)\n\n### 2. mattpocock/skills\n\n**mattpocock/skills** — 如果你还没 star，那你可能错过了今天的船票。1,601 stars today 人已经上船了。\n\n⭐ 1,601 stars today | 📦 总星 247,863 | 🍴 21,009 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 3. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — The agent that grows with you...  听起来像个周末项目，但它已经有 240,980 总星了。周末项目，认真的吗？\n\n⭐ 774 stars today | 📦 总星 240,980 | 🍴 49,389 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 4. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** 今天拿了 2,128 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,128 stars today | 📦 总星 123,737 | 🍴 6,684 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 5. anthropics/skills\n\n**anthropics/skills** — Public repository for Agent Skills...  281 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 281 stars today | 📦 总星 173,749 | 🍴 20,610 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/skills)\n\n### 6. affaan-m/ECC\n\n**affaan-m/ECC** — JavaScript 写的，当然好（不是）。The agent harness performance optimization system. Skills, i...  751 stars today 人表示「先 star 为敬」。\n\n⭐ 751 stars today | 📦 总星 247,376 | 🍴 37,281 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 7. JuliusBrussee/caveman\n\n**JuliusBrussee/caveman** — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o...  543 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 543 stars today | 📦 总星 103,186 | 🍴 5,996 | 💻 Go\n[🔗 查看项目](https://github.com/JuliusBrussee/caveman)\n\n### 8. blader/humanizer\n\n**blader/humanizer** 今天拿了 1,208 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,208 stars today | 📦 总星 41,700 | 🍴 3,563 | 💻 Python\n[🔗 查看项目](https://github.com/blader/humanizer)\n\n### 9. google-research/timesfm\n\n**google-research/timesfm** — 用 Python 写就。今天获得了 1,618 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 1,618 stars today | 📦 总星 30,761 | 🍴 2,938 | 💻 Python\n[🔗 查看项目](https://github.com/google-research/timesfm)\n\n### 10. averygan/reclip\n\n**averygan/reclip** — HTML 写的，当然好（不是）。Download videos from almost any website. Lightweight, self-h...  88 stars today 人表示「先 star 为敬」。\n\n⭐ 88 stars today | 📦 总星 8,477 | 🍴 1,371 | 💻 HTML\n[🔗 查看项目](https://github.com/averygan/reclip)\n\n---\n\n## 🫡 荣誉提名\n\n- **bannedbook/fanqiang** — 翻墙-科学上网  ⭐ 522 stars today\n- **addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.  ⭐ 264 stars today\n- **ByteByteGoHq/system-design-101** — Explain complex systems using visuals and simple terms. Help you prepare for sys...  ⭐ 171 stars today\n- **magnitudedev/magnitude** — Open source inference server that runs the best local models for your hardware, ...  ⭐ 161 stars today\n- **Imbad0202/academic-research-skills** — Academic Research Skills for Claude Code: research → write → review → revise → f...  ⭐ 496 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-04T04:59:38.710651+00:00"
+}
