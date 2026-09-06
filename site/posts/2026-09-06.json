@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-06",
+  "repos": [
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "2,692 stars today",
+      "total_stars": "252,942",
+      "forks": "21,345"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,314 stars today",
+      "total_stars": "250,105",
+      "forks": "37,631"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "2,845 stars today",
+      "total_stars": "128,170",
+      "forks": "6,858"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "575 stars today",
+      "total_stars": "242,090",
+      "forks": "49,750"
+    },
+    {
+      "name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "desc": "A modern formatting library",
+      "lang": "C++",
+      "stars_today": "134 stars today",
+      "total_stars": "25,579",
+      "forks": "3,043"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "475 stars today",
+      "total_stars": "174,625",
+      "forks": "20,682"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "855 stars today",
+      "total_stars": "31,810",
+      "forks": "2,047"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_today": "725 stars today",
+      "total_stars": "204,758",
+      "forks": "26,710"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_today": "136 stars today",
+      "total_stars": "70,730",
+      "forks": "8,420"
+    },
+    {
+      "name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "442 stars today",
+      "total_stars": "2,788",
+      "forks": "77"
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "lang": "Python",
+      "stars_today": "990 stars today",
+      "total_stars": "43,603",
+      "forks": "3,650"
+    },
+    {
+      "name": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "desc": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "lang": "TypeScript",
+      "stars_today": "68 stars today",
+      "total_stars": "2,948",
+      "forks": "200"
+    },
+    {
+      "name": "WorldFlowAI/everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "desc": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "lang": "JavaScript",
+      "stars_today": "95 stars today",
+      "total_stars": "2,399",
+      "forks": "367"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "lang": "TypeScript",
+      "stars_today": "674 stars today",
+      "total_stars": "3,289",
+      "forks": "238"
+    },
+    {
+      "name": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "lang": "Python",
+      "stars_today": "230 stars today",
+      "total_stars": "4,730",
+      "forks": "1,255"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "lang": "Shell",
+      "stars_today": "22 stars today",
+      "total_stars": "94,942",
+      "forks": "10,427"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-09-06：skills 带着 2,692 stars today 颗星杀过来了\n\n> 📅 2026-09-06  |  🔍 共收录 16 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 5 | **Python**: 4 | **JavaScript**: 3 | **Shell**: 2 | **C++**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. mattpocock/skills\n\n**mattpocock/skills** — Shell 写的，当然好（不是）。Skills for Real Engineers. Straight from my .agents director...  2,692 stars today 人表示「先 star 为敬」。\n\n⭐ 2,692 stars today | 📦 总星 252,942 | 🍴 21,345 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 2. affaan-m/ECC\n\n**affaan-m/ECC** 今天拿了 1,314 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,314 stars today | 📦 总星 250,105 | 🍴 37,631 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 3. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — Makes your AI agent think like the laziest senior dev in the room. The best code...  2,845 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,845 stars today | 📦 总星 128,170 | 🍴 6,858 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 4. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — The agent that grows with you... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 575 stars today | 📦 总星 242,090 | 🍴 49,750 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 5. fmtlib/fmt\n\n**fmtlib/fmt** — A modern formatting library...  134 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 134 stars today | 📦 总星 25,579 | 🍴 3,043 | 💻 C++\n[🔗 查看项目](https://github.com/fmtlib/fmt)\n\n### 6. anthropics/skills\n\n**anthropics/skills** — Public repository for Agent Skills...  475 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 475 stars today | 📦 总星 174,625 | 🍴 20,682 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/skills)\n\n### 7. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** 今天拿了 855 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 855 stars today | 📦 总星 31,810 | 🍴 2,047 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 8. anomalyco/opencode\n\n**anomalyco/opencode** — 用 TypeScript 写就。今天获得了 725 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 725 stars today | 📦 总星 204,758 | 🍴 26,710 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anomalyco/opencode)\n\n### 9. ruvnet/ruflo\n\n**ruvnet/ruflo** — 🌊 The original agent meta-harness. Deploy intelligent multi-player swa... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 136 stars today | 📦 总星 70,730 | 🍴 8,420 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ruvnet/ruflo)\n\n### 10. humanlayer/skills\n\n**humanlayer/skills** — 用 TypeScript 写就。今天获得了 442 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 442 stars today | 📦 总星 2,788 | 🍴 77 | 💻 TypeScript\n[🔗 查看项目](https://github.com/humanlayer/skills)\n\n---\n\n## 🫡 荣誉提名\n\n- **blader/humanizer** — Agent skill that removes signs of AI-generated writing from text  ⭐ 990 stars today\n- **BraveOPotato/FckSignups** — A list of tools that are open-source, in-browser, and require no-signups!  ⭐ 68 stars today\n- **WorldFlowAI/everything-claude-code** — Claude Code toolkit - agents, commands, skills, rules, and hooks for productive ...  ⭐ 95 stars today\n- **magnitudedev/magnitude** — Open source inference server that runs the best local models for your hardware, ...  ⭐ 674 stars today\n- **bikini/exploitarium** — A single archive of public exploit PoCs and vulnerability research writeups. At ...  ⭐ 230 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-06T04:59:38.366721+00:00"
+}
