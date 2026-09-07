@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-07",
+  "repos": [
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,485 stars today",
+      "total_stars": "251,700",
+      "forks": "37,824"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "2,207 stars today",
+      "total_stars": "254,996",
+      "forks": "21,494"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "620 stars today",
+      "total_stars": "32,626",
+      "forks": "2,088"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "lang": "Python",
+      "stars_today": "520 stars today",
+      "total_stars": "242,654",
+      "forks": "49,906"
+    },
+    {
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "desc": "Skills Catalog for Codex",
+      "lang": "Python",
+      "stars_today": "46 stars today",
+      "total_stars": "25,685",
+      "forks": "1,733"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_today": "551 stars today",
+      "total_stars": "205,372",
+      "forks": "26,784"
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "desc": "Agent skill that removes signs of AI-generated writing from text",
+      "lang": "Python",
+      "stars_today": "748 stars today",
+      "total_stars": "44,472",
+      "forks": "3,688"
+    },
+    {
+      "name": "llvm/llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "lang": "LLVM",
+      "stars_today": "23 stars today",
+      "total_stars": "40,257",
+      "forks": "18,563"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,539 stars today",
+      "total_stars": "129,732",
+      "forks": "6,949"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_today": "276 stars today",
+      "total_stars": "71,081",
+      "forks": "8,446"
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "lang": "TypeScript",
+      "stars_today": "604 stars today",
+      "total_stars": "3,774",
+      "forks": "272"
+    },
+    {
+      "name": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "desc": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "lang": "TypeScript",
+      "stars_today": "436 stars today",
+      "total_stars": "3,410",
+      "forks": "211"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_today": "329 stars today",
+      "total_stars": "47,632",
+      "forks": "7,396"
+    },
+    {
+      "name": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "desc": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "lang": "TypeScript",
+      "stars_today": "146 stars today",
+      "total_stars": "3,939",
+      "forks": "243"
+    },
+    {
+      "name": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "desc": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "lang": "JavaScript",
+      "stars_today": "121 stars today",
+      "total_stars": "7,515",
+      "forks": "936"
+    },
+    {
+      "name": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "451 stars today",
+      "total_stars": "3,236",
+      "forks": "96"
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "desc": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "lang": "Python",
+      "stars_today": "142 stars today",
+      "total_stars": "4,835",
+      "forks": "783"
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "desc": "Stremio - Freedom to Stream",
+      "lang": "JavaScript",
+      "stars_today": "122 stars today",
+      "total_stars": "13,544",
+      "forks": "1,549"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：ECC 爆火，JavaScript 又双叒叕赢了\n\n> 📅 2026-09-07  |  🔍 共收录 18 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **JavaScript**: 5 | **Python**: 4 | **Shell**: 1 | **HTML**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. affaan-m/ECC\n\n**affaan-m/ECC** — JavaScript 写的，当然好（不是）。The agent harness performance optimization system. Skills, i...  1,485 stars today 人表示「先 star 为敬」。\n\n⭐ 1,485 stars today | 📦 总星 251,700 | 🍴 37,824 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 2. mattpocock/skills\n\n**mattpocock/skills** 今天拿了 2,207 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,207 stars today | 📦 总星 254,996 | 🍴 21,494 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 3. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contai... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 620 stars today | 📦 总星 32,626 | 🍴 2,088 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 4. NousResearch/hermes-agent\n\n**NousResearch/hermes-agent** — The agent that grows with you...  听起来像个周末项目，但它已经有 242,654 总星了。周末项目，认真的吗？\n\n⭐ 520 stars today | 📦 总星 242,654 | 🍴 49,906 | 💻 Python\n[🔗 查看项目](https://github.com/NousResearch/hermes-agent)\n\n### 5. openai/skills\n\n**openai/skills** 今天拿了 46 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 46 stars today | 📦 总星 25,685 | 🍴 1,733 | 💻 Python\n[🔗 查看项目](https://github.com/openai/skills)\n\n### 6. anomalyco/opencode\n\n**anomalyco/opencode** — TypeScript 写的，当然好（不是）。The open source coding agent....  551 stars today 人表示「先 star 为敬」。\n\n⭐ 551 stars today | 📦 总星 205,372 | 🍴 26,784 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anomalyco/opencode)\n\n### 7. blader/humanizer\n\n**blader/humanizer** — Python 写的，当然好（不是）。Agent skill that removes signs of AI-generated writing from ...  748 stars today 人表示「先 star 为敬」。\n\n⭐ 748 stars today | 📦 总星 44,472 | 🍴 3,688 | 💻 Python\n[🔗 查看项目](https://github.com/blader/humanizer)\n\n### 8. llvm/llvm-project\n\n**llvm/llvm-project** — The LLVM Project is a collection of modular and reusable com...  听起来像个周末项目，但它已经有 40,257 总星了。周末项目，认真的吗？\n\n⭐ 23 stars today | 📦 总星 40,257 | 🍴 18,563 | 💻 LLVM\n[🔗 查看项目](https://github.com/llvm/llvm-project)\n\n### 9. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — 如果你还没 star，那你可能错过了今天的船票。1,539 stars today 人已经上船了。\n\n⭐ 1,539 stars today | 📦 总星 129,732 | 🍴 6,949 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 10. ruvnet/ruflo\n\n**ruvnet/ruflo** — 如果你还没 star，那你可能错过了今天的船票。276 stars today 人已经上船了。\n\n⭐ 276 stars today | 📦 总星 71,081 | 🍴 8,446 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ruvnet/ruflo)\n\n---\n\n## 🫡 荣誉提名\n\n- **magnitudedev/magnitude** — Open source inference server that runs the best local models for your hardware, ...  ⭐ 604 stars today\n- **BraveOPotato/FckSignups** — A list of tools that are open-source, in-browser, and require no-signups!  ⭐ 436 stars today\n- **coreyhaines31/marketingskills** — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics...  ⭐ 329 stars today\n- **aipoch/open-science** — Open Science by AIPOCH is an open-source, local-first, model-agnostic AI researc...  ⭐ 146 stars today\n- **OpenWhispr/openwhispr** — Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud model...  ⭐ 121 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-07T05:07:12.812514+00:00"
+}
