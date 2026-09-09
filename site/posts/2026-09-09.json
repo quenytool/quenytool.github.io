@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-09",
+  "repos": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_today": "656 stars today",
+      "total_stars": "31,223",
+      "forks": "1,884"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "710 stars today",
+      "total_stars": "35,262",
+      "forks": "2,216"
+    },
+    {
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "desc": "Skills Catalog for Codex",
+      "lang": "Python",
+      "stars_today": "490 stars today",
+      "total_stars": "26,604",
+      "forks": "1,785"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,427 stars today",
+      "total_stars": "254,479",
+      "forks": "38,128"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "lang": "TypeScript",
+      "stars_today": "2,627 stars today",
+      "total_stars": "47,930",
+      "forks": "4,402"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_today": "666 stars today",
+      "total_stars": "48,947",
+      "forks": "7,501"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "452 stars today",
+      "total_stars": "283,474",
+      "forks": "25,377"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "333 stars today",
+      "total_stars": "211,583",
+      "forks": "21,476"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "lang": "Python",
+      "stars_today": "2,047 stars today",
+      "total_stars": "181,850",
+      "forks": "13,354"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "desc": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "lang": "JavaScript",
+      "stars_today": "871 stars today",
+      "total_stars": "10,633",
+      "forks": "1,060"
+    },
+    {
+      "name": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "desc": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "lang": "TypeScript",
+      "stars_today": "505 stars today",
+      "total_stars": "10,256",
+      "forks": "9,057"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "desc": "Agents that use the browser.",
+      "lang": "Python",
+      "stars_today": "228 stars today",
+      "total_stars": "113,664",
+      "forks": "12,499"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "651 stars today",
+      "total_stars": "21,475",
+      "forks": "1,545"
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "desc": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "lang": "Python",
+      "stars_today": "494 stars today",
+      "total_stars": "5,789",
+      "forks": "844"
+    },
+    {
+      "name": "viarotel-org/escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "desc": "📱 Display and control your Android device graphically with scrcpy.",
+      "lang": "JavaScript",
+      "stars_today": "178 stars today",
+      "total_stars": "11,469",
+      "forks": "799"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "OpenAI Plugins",
+      "lang": "JavaScript",
+      "stars_today": "105 stars today",
+      "total_stars": "5,904",
+      "forks": "806"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：i-have-adhd 爆火，Python 又双叒叕赢了\n\n> 📅 2026-09-09  |  🔍 共收录 16 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **JavaScript**: 5 | **TypeScript**: 3 | **HTML**: 1 | **Shell**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. ayghri/i-have-adhd\n\n**ayghri/i-have-adhd** — A skill to stop your coding agent from burying the answer. ADHD-friend... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 656 stars today | 📦 总星 31,223 | 🍴 1,884 | 💻 Python\n[🔗 查看项目](https://github.com/ayghri/i-have-adhd)\n\n### 2. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** 今天拿了 710 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 710 stars today | 📦 总星 35,262 | 🍴 2,216 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 3. openai/skills\n\n**openai/skills** — 用 Python 写就。今天获得了 490 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 490 stars today | 📦 总星 26,604 | 🍴 1,785 | 💻 Python\n[🔗 查看项目](https://github.com/openai/skills)\n\n### 4. affaan-m/ECC\n\n**affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,427 stars today | 📦 总星 254,479 | 🍴 38,128 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 5. heygen-com/hyperframes\n\n**heygen-com/hyperframes** — Write HTML. Render video. Built for agents....  听起来像个周末项目，但它已经有 47,930 总星了。周末项目，认真的吗？\n\n⭐ 2,627 stars today | 📦 总星 47,930 | 🍴 4,402 | 💻 TypeScript\n[🔗 查看项目](https://github.com/heygen-com/hyperframes)\n\n### 6. coreyhaines31/marketingskills\n\n**coreyhaines31/marketingskills** — 如果你还没 star，那你可能错过了今天的船票。666 stars today 人已经上船了。\n\n⭐ 666 stars today | 📦 总星 48,947 | 🍴 7,501 | 💻 JavaScript\n[🔗 查看项目](https://github.com/coreyhaines31/marketingskills)\n\n### 7. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that works....  452 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 452 stars today | 📦 总星 283,474 | 🍴 25,377 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 8. multica-ai/andrej-karpathy-skills\n\n**multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, der...  听起来像个周末项目，但它已经有 211,583 总星了。周末项目，认真的吗？\n\n⭐ 333 stars today | 📦 总星 211,583 | 🍴 21,476 | 💻 Unknown\n[🔗 查看项目](https://github.com/multica-ai/andrej-karpathy-skills)\n\n### 9. microsoft/markitdown\n\n**microsoft/markitdown** 今天拿了 2,047 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,047 stars today | 📦 总星 181,850 | 🍴 13,354 | 💻 Python\n[🔗 查看项目](https://github.com/microsoft/markitdown)\n\n### 10. jo-inc/camofox-browser\n\n**jo-inc/camofox-browser** — 用 JavaScript 写就。今天获得了 871 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 871 stars today | 📦 总星 10,633 | 🍴 1,060 | 💻 JavaScript\n[🔗 查看项目](https://github.com/jo-inc/camofox-browser)\n\n---\n\n## 🫡 荣誉提名\n\n- **MoonTechLab/LunaTV** — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源  ⭐ 505 stars today\n- **browser-use/browser-use** — Agents that use the browser.  ⭐ 228 stars today\n- **mksglu/context-mode** — Context window optimization for AI coding agents. Sandboxes tool output (98% red...  ⭐ 651 stars today\n- **The-Swarm-Corporation/AutoHedge** — Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw...  ⭐ 494 stars today\n- **viarotel-org/escrcpy** — 📱 Display and control your Android device graphically with scrcpy.  ⭐ 178 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-09T05:04:09.941895+00:00"
+}
