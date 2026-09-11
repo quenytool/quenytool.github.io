@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-11",
+  "repos": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_today": "3,882 stars today",
+      "total_stars": "38,895",
+      "forks": "2,228"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "1,762 stars today",
+      "total_stars": "24,849",
+      "forks": "5,142"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "732 stars today",
+      "total_stars": "284,825",
+      "forks": "25,478"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "lang": "TypeScript",
+      "stars_today": "277 stars today",
+      "total_stars": "1,779",
+      "forks": "262"
+    },
+    {
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "desc": "Make Every Team AI Native",
+      "lang": "TypeScript",
+      "stars_today": "841 stars today",
+      "total_stars": "3,922",
+      "forks": "253"
+    },
+    {
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "lang": "Rust",
+      "stars_today": "258 stars today",
+      "total_stars": "35,827",
+      "forks": "2,270"
+    },
+    {
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "lang": "Unknown",
+      "stars_today": "900 stars today",
+      "total_stars": "18,954",
+      "forks": "3,500"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "1,294 stars today",
+      "total_stars": "37,959",
+      "forks": "2,404"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "lang": "JavaScript",
+      "stars_today": "962 stars today",
+      "total_stars": "31,029",
+      "forks": "3,006"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "lang": "C",
+      "stars_today": "72 stars today",
+      "total_stars": "4,498",
+      "forks": "522"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "lang": "TypeScript",
+      "stars_today": "626 stars today",
+      "total_stars": "64,389",
+      "forks": "9,014"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_today": "98 stars today",
+      "total_stars": "27,532",
+      "forks": "3,015"
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "lang": "TypeScript",
+      "stars_today": "837 stars today",
+      "total_stars": "35,494",
+      "forks": "5,655"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "lang": "TypeScript",
+      "stars_today": "142 stars today",
+      "total_stars": "18,239",
+      "forks": "2,104"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "desc": "The open agent skills tool - npx skills",
+      "lang": "TypeScript",
+      "stars_today": "122 stars today",
+      "total_stars": "31,248",
+      "forks": "2,665"
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "lang": "TypeScript",
+      "stars_today": "624 stars today",
+      "total_stars": "2,412",
+      "forks": "197"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-09-11：16 个项目今天值得你 star\n\n> 📅 2026-09-11  |  🔍 共收录 16 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 7 | **JavaScript**: 2 | **C**: 2 | **Python**: 1 | **Shell**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. ayghri/i-have-adhd\n\n**ayghri/i-have-adhd** — 如果你还没 star，那你可能错过了今天的船票。3,882 stars today 人已经上船了。\n\n⭐ 3,882 stars today | 📦 总星 38,895 | 🍴 2,228 | 💻 Python\n[🔗 查看项目](https://github.com/ayghri/i-have-adhd)\n\n### 2. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — 如果你还没 star，那你可能错过了今天的船票。1,762 stars today 人已经上船了。\n\n⭐ 1,762 stars today | 📦 总星 24,849 | 🍴 5,142 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 3. obra/superpowers\n\n**obra/superpowers** — Shell 写的，当然好（不是）。An agentic skills framework & software development methodolo...  732 stars today 人表示「先 star 为敬」。\n\n⭐ 732 stars today | 📦 总星 284,825 | 🍴 25,478 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 4. alsk1992/CloddsBot\n\n**alsk1992/CloddsBot** — TypeScript 写的，当然好（不是）。Open Source AI trading agent that operates autonomously acro...  277 stars today 人表示「先 star 为敬」。\n\n⭐ 277 stars today | 📦 总星 1,779 | 🍴 262 | 💻 TypeScript\n[🔗 查看项目](https://github.com/alsk1992/CloddsBot)\n\n### 5. Tencent/teamai-cli\n\n**Tencent/teamai-cli** 今天拿了 841 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 841 stars today | 📦 总星 3,922 | 🍴 253 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Tencent/teamai-cli)\n\n### 6. AlexsJones/llmfit\n\n**AlexsJones/llmfit** — Hundreds of models & providers. One command to find what run...  听起来像个周末项目，但它已经有 35,827 总星了。周末项目，认真的吗？\n\n⭐ 258 stars today | 📦 总星 35,827 | 🍴 2,270 | 💻 Rust\n[🔗 查看项目](https://github.com/AlexsJones/llmfit)\n\n### 7. liquidslr/system-design-notes\n\n**liquidslr/system-design-notes** — Notes of the book System Desgin Interview - An Insider's Guide...  900 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 900 stars today | 📦 总星 18,954 | 🍴 3,500 | 💻 Unknown\n[🔗 查看项目](https://github.com/liquidslr/system-design-notes)\n\n### 8. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — 用 HTML 写就。今天获得了 1,294 stars today 颗星，证明 HTML 还活着且活得挺好。\n\n⭐ 1,294 stars today | 📦 总星 37,959 | 🍴 2,404 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 9. freestylefly/awesome-gpt-image-2\n\n**freestylefly/awesome-gpt-image-2** — 用 JavaScript 写就。今天获得了 962 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 962 stars today | 📦 总星 31,029 | 🍴 3,006 | 💻 JavaScript\n[🔗 查看项目](https://github.com/freestylefly/awesome-gpt-image-2)\n\n### 10. armory3d/armorpaint\n\n**armory3d/armorpaint** — 如果你还没 star，那你可能错过了今天的船票。72 stars today 人已经上船了。\n\n⭐ 72 stars today | 📦 总星 4,498 | 🍴 522 | 💻 C\n[🔗 查看项目](https://github.com/armory3d/armorpaint)\n\n---\n\n## 🫡 荣誉提名\n\n- **diegosouzapw/OmniRoute** — Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),...  ⭐ 626 stars today\n- **JustVugg/colibri** — Run frontier MoE models on hardware you already own — pure C, zero deps, experts...  ⭐ 98 stars today\n- **THU-MAIC/OpenMAIC** — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning ...  ⭐ 837 stars today\n- **nashsu/llm_wiki** — LLM Wiki is a cross-platform desktop application that turns your documents into ...  ⭐ 142 stars today\n- **vercel-labs/skills** — The open agent skills tool - npx skills  ⭐ 122 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-11T05:04:44.430447+00:00"
+}
