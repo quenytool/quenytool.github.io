@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-12",
+  "repos": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_today": "3,463 stars today",
+      "total_stars": "42,218",
+      "forks": "2,387"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "3,680 stars today",
+      "total_stars": "27,388",
+      "forks": "5,604"
+    },
+    {
+      "name": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "desc": "User friendly sideloader",
+      "lang": "TypeScript",
+      "stars_today": "50 stars today",
+      "total_stars": "2,941",
+      "forks": "204"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "lang": "TypeScript",
+      "stars_today": "152 stars today",
+      "total_stars": "1,431",
+      "forks": "505"
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "lang": "TypeScript",
+      "stars_today": "552 stars today",
+      "total_stars": "2,843",
+      "forks": "223"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "lang": "C",
+      "stars_today": "350 stars today",
+      "total_stars": "4,764",
+      "forks": "534"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "lang": "TypeScript",
+      "stars_today": "626 stars today",
+      "total_stars": "2,218",
+      "forks": "287"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "lang": "TypeScript",
+      "stars_today": "647 stars today",
+      "total_stars": "18,821",
+      "forks": "2,136"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "729 stars today",
+      "total_stars": "285,448",
+      "forks": "25,524"
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "desc": "Smart PVR for newsgroup and bittorrent users.",
+      "lang": "C#",
+      "stars_today": "191 stars today",
+      "total_stars": "15,769",
+      "forks": "1,949"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "desc": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "lang": "Python",
+      "stars_today": "129 stars today",
+      "total_stars": "4,905",
+      "forks": "394"
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "desc": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "lang": "Go",
+      "stars_today": "198 stars today",
+      "total_stars": "1,192",
+      "forks": "90"
+    },
+    {
+      "name": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "desc": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "lang": "Python",
+      "stars_today": "153 stars today",
+      "total_stars": "2,724",
+      "forks": "265"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "desc": "Run parallel research agents with any model",
+      "lang": "Rust",
+      "stars_today": "120 stars today",
+      "total_stars": "1,371",
+      "forks": "96"
+    },
+    {
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "lang": "Python",
+      "stars_today": "1,015 stars today",
+      "total_stars": "135,826",
+      "forks": "12,203"
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "desc": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "lang": "TypeScript",
+      "stars_today": "106 stars today",
+      "total_stars": "23,683",
+      "forks": "2,946"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-09-12：i-have-adhd 让 3,463 stars today 个开发者点了收藏\n\n> 📅 2026-09-12  |  🔍 共收录 16 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Python**: 4 | **JavaScript**: 1 | **C**: 1 | **Shell**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. ayghri/i-have-adhd\n\n**ayghri/i-have-adhd** — Python 写的，当然好（不是）。A skill to stop your coding agent from burying the answer. A...  3,463 stars today 人表示「先 star 为敬」。\n\n⭐ 3,463 stars today | 📦 总星 42,218 | 🍴 2,387 | 💻 Python\n[🔗 查看项目](https://github.com/ayghri/i-have-adhd)\n\n### 2. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — 如果你还没 star，那你可能错过了今天的船票。3,680 stars today 人已经上船了。\n\n⭐ 3,680 stars today | 📦 总星 27,388 | 🍴 5,604 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 3. nab138/iloader\n\n**nab138/iloader** 今天拿了 50 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 50 stars today | 📦 总星 2,941 | 🍴 204 | 💻 TypeScript\n[🔗 查看项目](https://github.com/nab138/iloader)\n\n### 4. melgarafael/DeskcommCRM\n\n**melgarafael/DeskcommCRM** — TypeScript 写的，当然好（不是）。Open-source AI sales OS — self-hosted CRM with native AI age...  152 stars today 人表示「先 star 为敬」。\n\n⭐ 152 stars today | 📦 总星 1,431 | 🍴 505 | 💻 TypeScript\n[🔗 查看项目](https://github.com/melgarafael/DeskcommCRM)\n\n### 5. vastsa/PI-Desktop\n\n**vastsa/PI-Desktop** — Local-first AI coding agent desktop: Electron + Rust host core + pi Ag... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 552 stars today | 📦 总星 2,843 | 🍴 223 | 💻 TypeScript\n[🔗 查看项目](https://github.com/vastsa/PI-Desktop)\n\n### 6. armory3d/armorpaint\n\n**armory3d/armorpaint** — Graphics Creation Tools...  350 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 350 stars today | 📦 总星 4,764 | 🍴 534 | 💻 C\n[🔗 查看项目](https://github.com/armory3d/armorpaint)\n\n### 7. alsk1992/CloddsBot\n\n**alsk1992/CloddsBot** 今天拿了 626 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 626 stars today | 📦 总星 2,218 | 🍴 287 | 💻 TypeScript\n[🔗 查看项目](https://github.com/alsk1992/CloddsBot)\n\n### 8. nashsu/llm_wiki\n\n**nashsu/llm_wiki** — TypeScript 写的，当然好（不是）。LLM Wiki is a cross-platform desktop application that turns ...  647 stars today 人表示「先 star 为敬」。\n\n⭐ 647 stars today | 📦 总星 18,821 | 🍴 2,136 | 💻 TypeScript\n[🔗 查看项目](https://github.com/nashsu/llm_wiki)\n\n### 9. obra/superpowers\n\n**obra/superpowers** 今天拿了 729 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 729 stars today | 📦 总星 285,448 | 🍴 25,524 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 10. Sonarr/Sonarr\n\n**Sonarr/Sonarr** — Smart PVR for newsgroup and bittorrent users....  191 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 191 stars today | 📦 总星 15,769 | 🍴 1,949 | 💻 C#\n[🔗 查看项目](https://github.com/Sonarr/Sonarr)\n\n---\n\n## 🫡 荣誉提名\n\n- **jihe520/MathModelAgent** — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mat...  ⭐ 129 stars today\n- **p1neappleXpress/OpenFlux** — Network stack research tool. TCP tunnel with pluggable transports.  ⭐ 198 stars today\n- **jordan-gibbs/hyperresearch** — Agent-driven research knowledge base. Agents collect, search, and synthesize web...  ⭐ 153 stars today\n- **alphaXiv/OpenResearch** — Run parallel research agents with any model  ⭐ 120 stars today\n- **github/spec-kit** — 💫 Toolkit to help you get started with Spec-Driven Development  ⭐ 1,015 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-12T04:54:39.450721+00:00"
+}
