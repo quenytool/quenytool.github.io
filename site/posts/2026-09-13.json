@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-13",
+  "repos": [
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "2,265 stars today",
+      "total_stars": "30,305",
+      "forks": "6,089"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "lang": "TypeScript",
+      "stars_today": "504 stars today",
+      "total_stars": "1,882",
+      "forks": "560"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "217 stars today",
+      "total_stars": "65,535",
+      "forks": "10,756"
+    },
+    {
+      "name": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "desc": "User friendly sideloader",
+      "lang": "TypeScript",
+      "stars_today": "209 stars today",
+      "total_stars": "3,127",
+      "forks": "214"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "desc": "",
+      "lang": "Batchfile",
+      "stars_today": "65 stars today",
+      "total_stars": "33,219",
+      "forks": "2,540"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "desc": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "lang": "Python",
+      "stars_today": "262 stars today",
+      "total_stars": "5,182",
+      "forks": "404"
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "desc": "Smart PVR for newsgroup and bittorrent users.",
+      "lang": "C#",
+      "stars_today": "227 stars today",
+      "total_stars": "15,962",
+      "forks": "1,953"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "lang": "TypeScript",
+      "stars_today": "376 stars today",
+      "total_stars": "2,557",
+      "forks": "317"
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "desc": "Browse media content with your own rules on Android TV",
+      "lang": "Java",
+      "stars_today": "136 stars today",
+      "total_stars": "33,249",
+      "forks": "2,016"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "lang": "Python",
+      "stars_today": "230 stars today",
+      "total_stars": "137,705",
+      "forks": "20,238"
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "desc": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "lang": "Go",
+      "stars_today": "355 stars today",
+      "total_stars": "1,426",
+      "forks": "105"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "desc": "Graphics Creation Tools",
+      "lang": "C",
+      "stars_today": "237 stars today",
+      "total_stars": "4,937",
+      "forks": "549"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_today": "113 stars today",
+      "total_stars": "3,684",
+      "forks": "561"
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "lang": "Python",
+      "stars_today": "210 stars today",
+      "total_stars": "7,376",
+      "forks": "830"
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "lang": "Rust",
+      "stars_today": "54 stars today",
+      "total_stars": "7,303",
+      "forks": "258"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "lang": "Go",
+      "stars_today": "189 stars today",
+      "total_stars": "23,540",
+      "forks": "3,071"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-09-13：今天的代码，明天的 bug\n\n> 📅 2026-09-13  |  🔍 共收录 16 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 3 | **JavaScript**: 2 | **Go**: 2 | **Batchfile**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — 如果你还没 star，那你可能错过了今天的船票。2,265 stars today 人已经上船了。\n\n⭐ 2,265 stars today | 📦 总星 30,305 | 🍴 6,089 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 2. melgarafael/DeskcommCRM\n\n**melgarafael/DeskcommCRM** 今天拿了 504 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 504 stars today | 📦 总星 1,882 | 🍴 560 | 💻 TypeScript\n[🔗 查看项目](https://github.com/melgarafael/DeskcommCRM)\n\n### 3. asgeirtj/system_prompts_leaks\n\n**asgeirtj/system_prompts_leaks** — JavaScript 写的，当然好（不是）。Extracted system prompts from Anthropic - Claude Fable 5.1, ...  217 stars today 人表示「先 star 为敬」。\n\n⭐ 217 stars today | 📦 总星 65,535 | 🍴 10,756 | 💻 JavaScript\n[🔗 查看项目](https://github.com/asgeirtj/system_prompts_leaks)\n\n### 4. nab138/iloader\n\n**nab138/iloader** — 用 TypeScript 写就。今天获得了 209 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 209 stars today | 📦 总星 3,127 | 🍴 214 | 💻 TypeScript\n[🔗 查看项目](https://github.com/nab138/iloader)\n\n### 5. Flowseal/zapret-discord-youtube\n\n**Flowseal/zapret-discord-youtube** — ...  听起来像个周末项目，但它已经有 33,219 总星了。周末项目，认真的吗？\n\n⭐ 65 stars today | 📦 总星 33,219 | 🍴 2,540 | 💻 Batchfile\n[🔗 查看项目](https://github.com/Flowseal/zapret-discord-youtube)\n\n### 6. jihe520/MathModelAgent\n\n**jihe520/MathModelAgent** — 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mat...  262 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 262 stars today | 📦 总星 5,182 | 🍴 404 | 💻 Python\n[🔗 查看项目](https://github.com/jihe520/MathModelAgent)\n\n### 7. Sonarr/Sonarr\n\n**Sonarr/Sonarr** 今天拿了 227 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 227 stars today | 📦 总星 15,962 | 🍴 1,953 | 💻 C#\n[🔗 查看项目](https://github.com/Sonarr/Sonarr)\n\n### 8. alsk1992/CloddsBot\n\n**alsk1992/CloddsBot** — Open Source AI trading agent that operates autonomously across 1000+ markets - P...  376 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 376 stars today | 📦 总星 2,557 | 🍴 317 | 💻 TypeScript\n[🔗 查看项目](https://github.com/alsk1992/CloddsBot)\n\n### 9. yuliskov/SmartTube\n\n**yuliskov/SmartTube** 今天拿了 136 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 136 stars today | 📦 总星 33,249 | 🍴 2,016 | 💻 Java\n[🔗 查看项目](https://github.com/yuliskov/SmartTube)\n\n### 10. Shubhamsaboo/awesome-llm-apps\n\n**Shubhamsaboo/awesome-llm-apps** — 如果你还没 star，那你可能错过了今天的船票。230 stars today 人已经上船了。\n\n⭐ 230 stars today | 📦 总星 137,705 | 🍴 20,238 | 💻 Python\n[🔗 查看项目](https://github.com/Shubhamsaboo/awesome-llm-apps)\n\n---\n\n## 🫡 荣誉提名\n\n- **p1neappleXpress/OpenFlux** — Network stack research tool. TCP tunnel with pluggable transports.  ⭐ 355 stars today\n- **armory3d/armorpaint** — Graphics Creation Tools  ⭐ 237 stars today\n- **SnailSploit/Claude-Red** — claude-red is a curated library of offensive security skills designed for the Cl...  ⭐ 113 stars today\n- **multimodal-art-projection/YuE** — YuE2: frontier music generation with symbolic planning, zero-shot covers, and ag...  ⭐ 210 stars today\n- **max-sixty/worktrunk** — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent w...  ⭐ 54 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-13T05:16:31.928642+00:00"
+}
