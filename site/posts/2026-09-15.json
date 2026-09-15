@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-15",
+  "repos": [
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_today": "2,173 stars today",
+      "total_stars": "32,408",
+      "forks": "3,411"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "1,571 stars today",
+      "total_stars": "26,245",
+      "forks": "1,893"
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "lang": "Python",
+      "stars_today": "559 stars today",
+      "total_stars": "8,561",
+      "forks": "919"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "2,776 stars today",
+      "total_stars": "29,641",
+      "forks": "3,588"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "stars_today": "560 stars today",
+      "total_stars": "73,363",
+      "forks": "11,295"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "651 stars today",
+      "total_stars": "81,540",
+      "forks": "7,095"
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "lang": "JavaScript",
+      "stars_today": "764 stars today",
+      "total_stars": "66,933",
+      "forks": "10,881"
+    },
+    {
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "desc": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "lang": "Python",
+      "stars_today": "77 stars today",
+      "total_stars": "2,182",
+      "forks": "168"
+    },
+    {
+      "name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "desc": "An open-source cross-platform alternative to AirDrop",
+      "lang": "Dart",
+      "stars_today": "251 stars today",
+      "total_stars": "91,440",
+      "forks": "5,102"
+    },
+    {
+      "name": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "lang": "Rust",
+      "stars_today": "115 stars today",
+      "total_stars": "67,588",
+      "forks": "3,213"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_today": "745 stars today",
+      "total_stars": "106,301",
+      "forks": "20,325"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "383 stars today",
+      "total_stars": "93,957",
+      "forks": "12,437"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "desc": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "lang": "TypeScript",
+      "stars_today": "512 stars today",
+      "total_stars": "6,152",
+      "forks": "520"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_today": "216 stars today",
+      "total_stars": "37,456",
+      "forks": "4,253"
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "lang": "Python",
+      "stars_today": "536 stars today",
+      "total_stars": "166,078",
+      "forks": "34,580"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "lang": "TypeScript",
+      "stars_today": "1,130 stars today",
+      "total_stars": "6,113",
+      "forks": "992"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "lang": "TypeScript",
+      "stars_today": "40 stars today",
+      "total_stars": "37,000",
+      "forks": "3,691"
+    },
+    {
+      "name": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "lang": "TypeScript",
+      "stars_today": "280 stars today",
+      "total_stars": "8,433",
+      "forks": "1,031"
+    },
+    {
+      "name": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "desc": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "lang": "Swift",
+      "stars_today": "229 stars today",
+      "total_stars": "3,679",
+      "forks": "252"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_today": "579 stars today",
+      "total_stars": "4,894",
+      "forks": "639"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：colibri 爆火，C 又双叒叕赢了\n\n> 📅 2026-09-15  |  🔍 共收录 20 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 9 | **TypeScript**: 4 | **Rust**: 2 | **C**: 1 | **Go**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. JustVugg/colibri\n\n**JustVugg/colibri** — Run frontier MoE models on hardware you already own — pure C...  听起来像个周末项目，但它已经有 32,408 总星了。周末项目，认真的吗？\n\n⭐ 2,173 stars today | 📦 总星 32,408 | 🍴 3,411 | 💻 C\n[🔗 查看项目](https://github.com/JustVugg/colibri)\n\n### 2. alibaba/open-code-review\n\n**alibaba/open-code-review** — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,571 stars today | 📦 总星 26,245 | 🍴 1,893 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 3. multimodal-art-projection/YuE\n\n**multimodal-art-projection/YuE** — 如果你还没 star，那你可能错过了今天的船票。559 stars today 人已经上船了。\n\n⭐ 559 stars today | 📦 总星 8,561 | 🍴 919 | 💻 Python\n[🔗 查看项目](https://github.com/multimodal-art-projection/YuE)\n\n### 4. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — 如果你还没 star，那你可能错过了今天的船票。2,776 stars today 人已经上船了。\n\n⭐ 2,776 stars today | 📦 总星 29,641 | 🍴 3,588 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 5. 666ghj/MiroFish\n\n**666ghj/MiroFish** — 如果你还没 star，那你可能错过了今天的船票。560 stars today 人已经上船了。\n\n⭐ 560 stars today | 📦 总星 73,363 | 🍴 11,295 | 💻 Python\n[🔗 查看项目](https://github.com/666ghj/MiroFish)\n\n### 6. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** 今天拿了 651 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 651 stars today | 📦 总星 81,540 | 🍴 7,095 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 7. asgeirtj/system_prompts_leaks\n\n**asgeirtj/system_prompts_leaks** — 用 JavaScript 写就。今天获得了 764 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 764 stars today | 📦 总星 66,933 | 🍴 10,881 | 💻 JavaScript\n[🔗 查看项目](https://github.com/asgeirtj/system_prompts_leaks)\n\n### 8. rlaope/oh-my-hermes\n\n**rlaope/oh-my-hermes** — Python 写的，当然好（不是）。All in one plugin for Hermes Agent ⚚ the coding intelligence...  77 stars today 人表示「先 star 为敬」。\n\n⭐ 77 stars today | 📦 总星 2,182 | 🍴 168 | 💻 Python\n[🔗 查看项目](https://github.com/rlaope/oh-my-hermes)\n\n### 9. localsend/localsend\n\n**localsend/localsend** 今天拿了 251 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 251 stars today | 📦 总星 91,440 | 🍴 5,102 | 💻 Dart\n[🔗 查看项目](https://github.com/localsend/localsend)\n\n### 10. dani-garcia/vaultwarden\n\n**dani-garcia/vaultwarden** — 如果你还没 star，那你可能错过了今天的船票。115 stars today 人已经上船了。\n\n⭐ 115 stars today | 📦 总星 67,588 | 🍴 3,213 | 💻 Rust\n[🔗 查看项目](https://github.com/dani-garcia/vaultwarden)\n\n---\n\n## 🫡 荣誉提名\n\n- **TauricResearch/TradingAgents** — TradingAgents: Multi-Agents LLM Financial Trading Framework  ⭐ 745 stars today\n- **ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...  ⭐ 383 stars today\n- **tech-leads-club/agent-skills** — The secure, validated skill registry for professional AI coding agents. Extend A...  ⭐ 512 stars today\n- **OpenBMB/VoxCPM** — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D...  ⭐ 216 stars today\n- **huggingface/transformers** — 🤗 Transformers: the model-definition framework for state-of-the-art machine lear...  ⭐ 536 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-15T05:12:01.214292+00:00"
+}
