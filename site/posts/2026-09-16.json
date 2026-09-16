@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-16",
+  "repos": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "2,756 stars today",
+      "total_stars": "29,162",
+      "forks": "2,073"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_today": "2,026 stars today",
+      "total_stars": "34,094",
+      "forks": "3,567"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "lang": "TypeScript",
+      "stars_today": "634 stars today",
+      "total_stars": "6,806",
+      "forks": "1,047"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "2,072 stars today",
+      "total_stars": "31,244",
+      "forks": "3,716"
+    },
+    {
+      "name": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "desc": "📺 Homebrew's official macOS GUI",
+      "lang": "Swift",
+      "stars_today": "271 stars today",
+      "total_stars": "1,518",
+      "forks": "35"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "lang": "TypeScript",
+      "stars_today": "193 stars today",
+      "total_stars": "2,931",
+      "forks": "690"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "desc": "Turn your coding agents into research agents",
+      "lang": "Rust",
+      "stars_today": "531 stars today",
+      "total_stars": "3,547",
+      "forks": "234"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_today": "725 stars today",
+      "total_stars": "76,894",
+      "forks": "8,483"
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "desc": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "lang": "TypeScript",
+      "stars_today": "254 stars today",
+      "total_stars": "43,941",
+      "forks": "9,037"
+    },
+    {
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "desc": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "lang": "Rust",
+      "stars_today": "91 stars today",
+      "total_stars": "4,707",
+      "forks": "282"
+    },
+    {
+      "name": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "desc": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "lang": "Python",
+      "stars_today": "129 stars today",
+      "total_stars": "1,278",
+      "forks": "205"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "307 stars today",
+      "total_stars": "94,926",
+      "forks": "10,069"
+    },
+    {
+      "name": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "desc": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "lang": "Rust",
+      "stars_today": "258 stars today",
+      "total_stars": "13,111",
+      "forks": "1,114"
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "lang": "TypeScript",
+      "stars_today": "458 stars today",
+      "total_stars": "105,882",
+      "forks": "13,308"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-09-16\n\n> 📅 2026-09-16  |  🔍 共收录 14 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 4 | **Rust**: 3 | **Python**: 2 | **Go**: 1 | **C**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. alibaba/open-code-review\n\n**alibaba/open-code-review** 今天拿了 2,756 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,756 stars today | 📦 总星 29,162 | 🍴 2,073 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 2. JustVugg/colibri\n\n**JustVugg/colibri** — Run frontier MoE models on hardware you already own — pure C...  听起来像个周末项目，但它已经有 34,094 总星了。周末项目，认真的吗？\n\n⭐ 2,026 stars today | 📦 总星 34,094 | 🍴 3,567 | 💻 C\n[🔗 查看项目](https://github.com/JustVugg/colibri)\n\n### 3. ever-co/ever-gauzy\n\n**ever-co/ever-gauzy** — TypeScript 写的，当然好（不是）。Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HR...  634 stars today 人表示「先 star 为敬」。\n\n⭐ 634 stars today | 📦 总星 6,806 | 🍴 1,047 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ever-co/ever-gauzy)\n\n### 4. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** 今天拿了 2,072 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,072 stars today | 📦 总星 31,244 | 🍴 3,716 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 5. Homebrew/BrewUI\n\n**Homebrew/BrewUI** — 📺 Homebrew's official macOS GUI...  271 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 271 stars today | 📦 总星 1,518 | 🍴 35 | 💻 Swift\n[🔗 查看项目](https://github.com/Homebrew/BrewUI)\n\n### 6. melgarafael/DeskcommCRM\n\n**melgarafael/DeskcommCRM** — 如果你还没 star，那你可能错过了今天的船票。193 stars today 人已经上船了。\n\n⭐ 193 stars today | 📦 总星 2,931 | 🍴 690 | 💻 TypeScript\n[🔗 查看项目](https://github.com/melgarafael/DeskcommCRM)\n\n### 7. alphaXiv/OpenResearch\n\n**alphaXiv/OpenResearch** 今天拿了 531 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 531 stars today | 📦 总星 3,547 | 🍴 234 | 💻 Rust\n[🔗 查看项目](https://github.com/alphaXiv/OpenResearch)\n\n### 8. NationalSecurityAgency/ghidra\n\n**NationalSecurityAgency/ghidra** — Ghidra is a software reverse engineering (SRE) framework...  听起来像个周末项目，但它已经有 76,894 总星了。周末项目，认真的吗？\n\n⭐ 725 stars today | 📦 总星 76,894 | 🍴 8,483 | 💻 Java\n[🔗 查看项目](https://github.com/NationalSecurityAgency/ghidra)\n\n### 9. danny-avila/LibreChat\n\n**danny-avila/LibreChat** — TypeScript 写的，当然好（不是）。Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSe...  254 stars today 人表示「先 star 为敬」。\n\n⭐ 254 stars today | 📦 总星 43,941 | 🍴 9,037 | 💻 TypeScript\n[🔗 查看项目](https://github.com/danny-avila/LibreChat)\n\n### 10. pacifio/atlas\n\n**pacifio/atlas** — 用 Rust 写就。今天获得了 91 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 91 stars today | 📦 总星 4,707 | 🍴 282 | 💻 Rust\n[🔗 查看项目](https://github.com/pacifio/atlas)\n\n---\n\n## 🫡 荣誉提名\n\n- **MG1937/ASC** — ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Rese...  ⭐ 129 stars today\n- **addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.  ⭐ 307 stars today\n- **tonhowtf/omniget** — Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sit...  ⭐ 258 stars today\n- **earendil-works/pi** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI  ⭐ 458 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-16T05:07:11.872784+00:00"
+}
