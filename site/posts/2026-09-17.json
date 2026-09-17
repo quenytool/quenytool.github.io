@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-17",
+  "repos": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "3,231 stars today",
+      "total_stars": "32,530",
+      "forks": "2,301"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "927 stars today",
+      "total_stars": "7,766",
+      "forks": "436"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_today": "1,546 stars today",
+      "total_stars": "35,163",
+      "forks": "3,697"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "desc": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "lang": "Swift",
+      "stars_today": "1,179 stars today",
+      "total_stars": "5,729",
+      "forks": "274"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "417 stars today",
+      "total_stars": "54,508",
+      "forks": "6,797"
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "desc": "",
+      "lang": "Swift",
+      "stars_today": "547 stars today",
+      "total_stars": "13,436",
+      "forks": "1,593"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "110 stars today",
+      "total_stars": "24,354",
+      "forks": "2,924"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "lang": "TypeScript",
+      "stars_today": "778 stars today",
+      "total_stars": "7,398",
+      "forks": "1,096"
+    },
+    {
+      "name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "desc": "Anki is a smart spaced repetition flashcard program",
+      "lang": "Rust",
+      "stars_today": "58 stars today",
+      "total_stars": "30,944",
+      "forks": "3,214"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_today": "1,059 stars today",
+      "total_stars": "77,978",
+      "forks": "8,625"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_today": "165 stars today",
+      "total_stars": "145,625",
+      "forks": "23,505"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_today": "260 stars today",
+      "total_stars": "50,665",
+      "forks": "4,815"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "desc": "Turn your coding agents into research agents",
+      "lang": "Rust",
+      "stars_today": "1,017 stars today",
+      "total_stars": "4,562",
+      "forks": "281"
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_today": "120 stars today",
+      "total_stars": "109,835",
+      "forks": "14,061"
+    },
+    {
+      "name": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "desc": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "lang": "Python",
+      "stars_today": "80 stars today",
+      "total_stars": "2,609",
+      "forks": "188"
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "lang": "Go",
+      "stars_today": "1,197 stars today",
+      "total_stars": "25,577",
+      "forks": "3,498"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_today": "367 stars today",
+      "total_stars": "5,852",
+      "forks": "748"
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "desc": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "lang": "Python",
+      "stars_today": "332 stars today",
+      "total_stars": "9,450",
+      "forks": "1,018"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "658 stars today",
+      "total_stars": "95,588",
+      "forks": "10,116"
+    },
+    {
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "lang": "TypeScript",
+      "stars_today": "112 stars today",
+      "total_stars": "68,436",
+      "forks": "7,388"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,057 stars today",
+      "total_stars": "260,486",
+      "forks": "38,988"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-09-17：open-code-review 让 3,231 stars today 个开发者点了收藏\n\n> 📅 2026-09-17  |  🔍 共收录 21 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 5 | **Python**: 5 | **JavaScript**: 3 | **Go**: 2 | **Swift**: 2\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. alibaba/open-code-review\n\n**alibaba/open-code-review** — Go 写的，当然好（不是）。Fast, efficient, battle-tested at Alibaba's scale. Hybrid ar...  3,231 stars today 人表示「先 star 为敬」。\n\n⭐ 3,231 stars today | 📦 总星 32,530 | 🍴 2,301 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 2. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — A coding-agent skill for multi-phase security audits with in...  听起来像个周末项目，但它已经有 7,766 总星了。周末项目，认真的吗？\n\n⭐ 927 stars today | 📦 总星 7,766 | 🍴 436 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 3. JustVugg/colibri\n\n**JustVugg/colibri** — 如果你还没 star，那你可能错过了今天的船票。1,546 stars today 人已经上船了。\n\n⭐ 1,546 stars today | 📦 总星 35,163 | 🍴 3,697 | 💻 C\n[🔗 查看项目](https://github.com/JustVugg/colibri)\n\n### 4. abue-ammar/tinycast\n\n**abue-ammar/tinycast** — Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history....  1,179 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,179 stars today | 📦 总星 5,729 | 🍴 274 | 💻 Swift\n[🔗 查看项目](https://github.com/abue-ammar/tinycast)\n\n### 5. jamiepine/voicebox\n\n**jamiepine/voicebox** — 如果你还没 star，那你可能错过了今天的船票。417 stars today 人已经上船了。\n\n⭐ 417 stars today | 📦 总星 54,508 | 🍴 6,797 | 💻 TypeScript\n[🔗 查看项目](https://github.com/jamiepine/voicebox)\n\n### 6. Lakr233/vphone-cli\n\n**Lakr233/vphone-cli** — ...  547 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 547 stars today | 📦 总星 13,436 | 🍴 1,593 | 💻 Swift\n[🔗 查看项目](https://github.com/Lakr233/vphone-cli)\n\n### 7. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — 用 Python 写就。今天获得了 110 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 110 stars today | 📦 总星 24,354 | 🍴 2,924 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 8. ever-co/ever-gauzy\n\n**ever-co/ever-gauzy** — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HR...  听起来像个周末项目，但它已经有 7,398 总星了。周末项目，认真的吗？\n\n⭐ 778 stars today | 📦 总星 7,398 | 🍴 1,096 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ever-co/ever-gauzy)\n\n### 9. ankitects/anki\n\n**ankitects/anki** — Anki is a smart spaced repetition flashcard program... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 58 stars today | 📦 总星 30,944 | 🍴 3,214 | 💻 Rust\n[🔗 查看项目](https://github.com/ankitects/anki)\n\n### 10. NationalSecurityAgency/ghidra\n\n**NationalSecurityAgency/ghidra** 今天拿了 1,059 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,059 stars today | 📦 总星 77,978 | 🍴 8,625 | 💻 Java\n[🔗 查看项目](https://github.com/NationalSecurityAgency/ghidra)\n\n---\n\n## 🫡 荣誉提名\n\n- **anthropics/claude-code** — Claude Code is an agentic coding tool that lives in your terminal, understands y...  ⭐ 165 stars today\n- **roboflow/supervision** — We write your reusable computer vision tools. 💜  ⭐ 260 stars today\n- **alphaXiv/OpenResearch** — Turn your coding agents into research agents  ⭐ 1,017 stars today\n- **supabase/supabase** — The Postgres development platform. Supabase gives you a dedicated Postgres datab...  ⭐ 120 stars today\n- **rlaope/oh-my-hermes** — All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory...  ⭐ 80 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-17T05:12:24.969366+00:00"
+}
