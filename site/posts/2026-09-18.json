@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-18",
+  "repos": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "3,286 stars today",
+      "total_stars": "35,333",
+      "forks": "2,505"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "3,607 stars today",
+      "total_stars": "11,035",
+      "forks": "594"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "680 stars today",
+      "total_stars": "95,972",
+      "forks": "10,156"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "lang": "TypeScript",
+      "stars_today": "1,302 stars today",
+      "total_stars": "4,443",
+      "forks": "313"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "desc": "Turn your coding agents into research agents",
+      "lang": "Rust",
+      "stars_today": "939 stars today",
+      "total_stars": "5,068",
+      "forks": "309"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_today": "538 stars today",
+      "total_stars": "145,937",
+      "forks": "23,650"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_today": "912 stars today",
+      "total_stars": "78,623",
+      "forks": "8,694"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "287 stars today",
+      "total_stars": "24,628",
+      "forks": "2,951"
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "lang": "Go",
+      "stars_today": "1,125 stars today",
+      "total_stars": "26,494",
+      "forks": "3,570"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "desc": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "lang": "Swift",
+      "stars_today": "739 stars today",
+      "total_stars": "6,225",
+      "forks": "287"
+    },
+    {
+      "name": "cilium/cilium",
+      "url": "https://github.com/cilium/cilium",
+      "desc": "eBPF-based Networking, Security, and Observability",
+      "lang": "Go",
+      "stars_today": "111 stars today",
+      "total_stars": "25,297",
+      "forks": "4,076"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "667 stars today",
+      "total_stars": "54,932",
+      "forks": "6,832"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,171 stars today",
+      "total_stars": "261,308",
+      "forks": "39,114"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_today": "329 stars today",
+      "total_stars": "50,855",
+      "forks": "4,830"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "lang": "C",
+      "stars_today": "873 stars today",
+      "total_stars": "35,837",
+      "forks": "3,765"
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "lang": "Python",
+      "stars_today": "367 stars today",
+      "total_stars": "3,592",
+      "forks": "373"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "desc": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "lang": "TypeScript",
+      "stars_today": "470 stars today",
+      "total_stars": "7,615",
+      "forks": "1,130"
+    },
+    {
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "desc": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "lang": "TypeScript",
+      "stars_today": "380 stars today",
+      "total_stars": "68,602",
+      "forks": "7,419"
+    },
+    {
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "lang": "Go",
+      "stars_today": "145 stars today",
+      "total_stars": "14,924",
+      "forks": "1,488"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "lang": "TypeScript",
+      "stars_today": "281 stars today",
+      "total_stars": "205,091",
+      "forks": "60,754"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-09-18：20 个项目今天值得你 star\n\n> 📅 2026-09-18  |  🔍 共收录 20 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Go**: 4 | **JavaScript**: 3 | **Python**: 3 | **Rust**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. alibaba/open-code-review\n\n**alibaba/open-code-review** 今天拿了 3,286 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,286 stars today | 📦 总星 35,333 | 🍴 2,505 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 2. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — 用 JavaScript 写就。今天获得了 3,607 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 3,607 stars today | 📦 总星 11,035 | 🍴 594 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 3. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents....  680 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 680 stars today | 📦 总星 95,972 | 🍴 10,156 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 4. Tencent/BrowserSkill\n\n**Tencent/BrowserSkill** — Let AI agents use your real, logged-in browser without interrupting your work. C...  1,302 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,302 stars today | 📦 总星 4,443 | 🍴 313 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Tencent/BrowserSkill)\n\n### 5. alphaXiv/OpenResearch\n\n**alphaXiv/OpenResearch** — Turn your coding agents into research agents... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 939 stars today | 📦 总星 5,068 | 🍴 309 | 💻 Rust\n[🔗 查看项目](https://github.com/alphaXiv/OpenResearch)\n\n### 6. anthropics/claude-code\n\n**anthropics/claude-code** — TypeScript 写的，当然好（不是）。Claude Code is an agentic coding tool that lives in your ter...  538 stars today 人表示「先 star 为敬」。\n\n⭐ 538 stars today | 📦 总星 145,937 | 🍴 23,650 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 7. NationalSecurityAgency/ghidra\n\n**NationalSecurityAgency/ghidra** — 用 Java 写就。今天获得了 912 stars today 颗星，证明 Java 还活着且活得挺好。\n\n⭐ 912 stars today | 📦 总星 78,623 | 🍴 8,694 | 💻 Java\n[🔗 查看项目](https://github.com/NationalSecurityAgency/ghidra)\n\n### 8. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — Python 写的，当然好（不是）。Open source repository of plugins primarily intended for kno...  287 stars today 人表示「先 star 为敬」。\n\n⭐ 287 stars today | 📦 总星 24,628 | 🍴 2,951 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 9. Tencent/WeKnora\n\n**Tencent/WeKnora** — 用 Go 写就。今天获得了 1,125 stars today 颗星，证明 Go 还活着且活得挺好。\n\n⭐ 1,125 stars today | 📦 总星 26,494 | 🍴 3,570 | 💻 Go\n[🔗 查看项目](https://github.com/Tencent/WeKnora)\n\n### 10. abue-ammar/tinycast\n\n**abue-ammar/tinycast** — Tinycast — a tiny, fully native macOS launcher, hotkeys, and...  听起来像个周末项目，但它已经有 6,225 总星了。周末项目，认真的吗？\n\n⭐ 739 stars today | 📦 总星 6,225 | 🍴 287 | 💻 Swift\n[🔗 查看项目](https://github.com/abue-ammar/tinycast)\n\n---\n\n## 🫡 荣誉提名\n\n- **cilium/cilium** — eBPF-based Networking, Security, and Observability  ⭐ 111 stars today\n- **jamiepine/voicebox** — The open-source AI voice studio. Clone, dictate, create.  ⭐ 667 stars today\n- **affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, memory, se...  ⭐ 1,171 stars today\n- **roboflow/supervision** — We write your reusable computer vision tools. 💜  ⭐ 329 stars today\n- **JustVugg/colibri** — Run frontier MoE models on hardware you already own — pure C, zero deps, experts...  ⭐ 873 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-18T05:04:53.968310+00:00"
+}
