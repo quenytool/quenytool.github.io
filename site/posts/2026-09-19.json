@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-19",
+  "repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "3,006 stars today",
+      "total_stars": "14,097",
+      "forks": "764"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_today": "444 stars today",
+      "total_stars": "146,378",
+      "forks": "23,817"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "2,704 stars today",
+      "total_stars": "36,837",
+      "forks": "2,624"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "958 stars today",
+      "total_stars": "262,185",
+      "forks": "39,228"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "lang": "TypeScript",
+      "stars_today": "1,306 stars today",
+      "total_stars": "5,415",
+      "forks": "374"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "675 stars today",
+      "total_stars": "96,494",
+      "forks": "10,198"
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "lang": "Python",
+      "stars_today": "569 stars today",
+      "total_stars": "4,020",
+      "forks": "416"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "desc": "Spec-driven development (SDD) for AI coding assistants.",
+      "lang": "TypeScript",
+      "stars_today": "296 stars today",
+      "total_stars": "69,424",
+      "forks": "4,754"
+    },
+    {
+      "name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "desc": "Anki is a smart spaced repetition flashcard program",
+      "lang": "Rust",
+      "stars_today": "174 stars today",
+      "total_stars": "31,240",
+      "forks": "3,238"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "299 stars today",
+      "total_stars": "24,924",
+      "forks": "2,973"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "desc": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "lang": "TypeScript",
+      "stars_today": "140 stars today",
+      "total_stars": "30,366",
+      "forks": "2,646"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "desc": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "lang": "JavaScript",
+      "stars_today": "79 stars today",
+      "total_stars": "6,505",
+      "forks": "2,718"
+    },
+    {
+      "name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "desc": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "lang": "Rust",
+      "stars_today": "267 stars today",
+      "total_stars": "33,218",
+      "forks": "1,486"
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_today": "120 stars today",
+      "total_stars": "110,192",
+      "forks": "14,325"
+    },
+    {
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "lang": "Go",
+      "stars_today": "478 stars today",
+      "total_stars": "15,347",
+      "forks": "1,504"
+    },
+    {
+      "name": "ahmedkhaleel2004/gitdiagram",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "desc": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "lang": "TypeScript",
+      "stars_today": "152 stars today",
+      "total_stars": "16,507",
+      "forks": "1,260"
+    },
+    {
+      "name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "desc": "Your own search engine",
+      "lang": "Go",
+      "stars_today": "889 stars today",
+      "total_stars": "5,002",
+      "forks": "209"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：security-audit-skill 爆火，JavaScript 又双叒叕赢了\n\n> 📅 2026-09-19  |  🔍 共收录 17 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **JavaScript**: 4 | **Go**: 3 | **Python**: 2 | **Rust**: 2\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** 今天拿了 3,006 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,006 stars today | 📦 总星 14,097 | 🍴 764 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 2. anthropics/claude-code\n\n**anthropics/claude-code** — Claude Code is an agentic coding tool that lives in your terminal, understands y...  444 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 444 stars today | 📦 总星 146,378 | 🍴 23,817 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 3. alibaba/open-code-review\n\n**alibaba/open-code-review** — Secure, fast, efficient, battle-tested at Alibaba's scale. H...  听起来像个周末项目，但它已经有 36,837 总星了。周末项目，认真的吗？\n\n⭐ 2,704 stars today | 📦 总星 36,837 | 🍴 2,624 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 4. affaan-m/ECC\n\n**affaan-m/ECC** — The agent harness performance optimization system. Skills, instincts, ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 958 stars today | 📦 总星 262,185 | 🍴 39,228 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 5. Tencent/BrowserSkill\n\n**Tencent/BrowserSkill** — Let AI agents use your real, logged-in browser without interrupting yo... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,306 stars today | 📦 总星 5,415 | 🍴 374 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Tencent/BrowserSkill)\n\n### 6. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents....  675 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 675 stars today | 📦 总星 96,494 | 🍴 10,198 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 7. TencentCloud/Octop\n\n**TencentCloud/Octop** — 如果你还没 star，那你可能错过了今天的船票。569 stars today 人已经上船了。\n\n⭐ 569 stars today | 📦 总星 4,020 | 🍴 416 | 💻 Python\n[🔗 查看项目](https://github.com/TencentCloud/Octop)\n\n### 8. Fission-AI/OpenSpec\n\n**Fission-AI/OpenSpec** — TypeScript 写的，当然好（不是）。Spec-driven development (SDD) for AI coding assistants....  296 stars today 人表示「先 star 为敬」。\n\n⭐ 296 stars today | 📦 总星 69,424 | 🍴 4,754 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Fission-AI/OpenSpec)\n\n### 9. ankitects/anki\n\n**ankitects/anki** — 用 Rust 写就。今天获得了 174 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 174 stars today | 📦 总星 31,240 | 🍴 3,238 | 💻 Rust\n[🔗 查看项目](https://github.com/ankitects/anki)\n\n### 10. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — 用 Python 写就。今天获得了 299 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 299 stars today | 📦 总星 24,924 | 🍴 2,973 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n---\n\n## 🫡 荣誉提名\n\n- **supermemoryai/supermemory** — Memory and context engine + app that is extremely fast, scalable, and can be run...  ⭐ 140 stars today\n- **tradesdontlie/tradingview-mcp** — AI-assisted TradingView chart analysis — connect Claude Code to your TradingView...  ⭐ 79 stars today\n- **rustfs/rustfs** — RustFS is an open-source, S3-compatible high-performance object storage system s...  ⭐ 267 stars today\n- **supabase/supabase** — The Postgres development platform. Supabase gives you a dedicated Postgres datab...  ⭐ 120 stars today\n- **coder/coder** — Secure environments for developers and their agents  ⭐ 478 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-19T04:55:24.722903+00:00"
+}
