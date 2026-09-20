@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-20",
+  "repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "3,155 stars today",
+      "total_stars": "16,727",
+      "forks": "916"
+    },
+    {
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "lang": "HTML",
+      "stars_today": "859 stars today",
+      "total_stars": "24,612",
+      "forks": "1,690"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "556 stars today",
+      "total_stars": "97,170",
+      "forks": "10,254"
+    },
+    {
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "lang": "Go",
+      "stars_today": "402 stars today",
+      "total_stars": "15,682",
+      "forks": "1,525"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_today": "483 stars today",
+      "total_stars": "146,788",
+      "forks": "23,970"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "lang": "TypeScript",
+      "stars_today": "472 stars today",
+      "total_stars": "16,218",
+      "forks": "2,095"
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "lang": "Jupyter Notebook",
+      "stars_today": "196 stars today",
+      "total_stars": "5,030",
+      "forks": "921"
+    },
+    {
+      "name": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "desc": "Get your documents ready for gen AI",
+      "lang": "Python",
+      "stars_today": "129 stars today",
+      "total_stars": "67,195",
+      "forks": "4,839"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "lang": "Rust",
+      "stars_today": "31 stars today",
+      "total_stars": "12,072",
+      "forks": "1,120"
+    },
+    {
+      "name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "desc": "Your own search engine",
+      "lang": "Go",
+      "stars_today": "420 stars today",
+      "total_stars": "5,300",
+      "forks": "222"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "desc": "科技爱好者周刊，每周五发布",
+      "lang": "Unknown",
+      "stars_today": "98 stars today",
+      "total_stars": "103,345",
+      "forks": "4,431"
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "desc": "人人都能用英语",
+      "lang": "TypeScript",
+      "stars_today": "48 stars today",
+      "total_stars": "37,937",
+      "forks": "5,216"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "281 stars today",
+      "total_stars": "25,179",
+      "forks": "3,000"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "desc": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "lang": "Python",
+      "stars_today": "234 stars today",
+      "total_stars": "11,675",
+      "forks": "749"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "lang": "Rust",
+      "stars_today": "32 stars today",
+      "total_stars": "3,456",
+      "forks": "451"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：security-audit-skill 爆火，JavaScript 又双叒叕赢了\n\n> 📅 2026-09-20  |  🔍 共收录 15 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Python**: 3 | **JavaScript**: 2 | **Go**: 2 | **Rust**: 2\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — A coding-agent skill for multi-phase security audits with independentl... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 3,155 stars today | 📦 总星 16,727 | 🍴 916 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 2. trycua/cua\n\n**trycua/cua** — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 859 stars today | 📦 总星 24,612 | 🍴 1,690 | 💻 HTML\n[🔗 查看项目](https://github.com/trycua/cua)\n\n### 3. addyosmani/agent-skills\n\n**addyosmani/agent-skills** 今天拿了 556 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 556 stars today | 📦 总星 97,170 | 🍴 10,254 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 4. coder/coder\n\n**coder/coder** — Secure environments for developers and their agents...  听起来像个周末项目，但它已经有 15,682 总星了。周末项目，认真的吗？\n\n⭐ 402 stars today | 📦 总星 15,682 | 🍴 1,525 | 💻 Go\n[🔗 查看项目](https://github.com/coder/coder)\n\n### 5. anthropics/claude-code\n\n**anthropics/claude-code** — TypeScript 写的，当然好（不是）。Claude Code is an agentic coding tool that lives in your ter...  483 stars today 人表示「先 star 为敬」。\n\n⭐ 483 stars today | 📦 总星 146,788 | 🍴 23,970 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 6. Open-Dev-Society/OpenStock\n\n**Open-Dev-Society/OpenStock** — TypeScript 写的，当然好（不是）。OpenStock is an open-source alternative to expensive market ...  472 stars today 人表示「先 star 为敬」。\n\n⭐ 472 stars today | 📦 总星 16,218 | 🍴 2,095 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Open-Dev-Society/OpenStock)\n\n### 7. higgsfield-ai/higgsfield\n\n**higgsfield-ai/higgsfield** — Fault-tolerant, highly scalable GPU orchestration, and a machine learn... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 196 stars today | 📦 总星 5,030 | 🍴 921 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/higgsfield-ai/higgsfield)\n\n### 8. docling-project/docling\n\n**docling-project/docling** — Python 写的，当然好（不是）。Get your documents ready for gen AI...  129 stars today 人表示「先 star 为敬」。\n\n⭐ 129 stars today | 📦 总星 67,195 | 🍴 4,839 | 💻 Python\n[🔗 查看项目](https://github.com/docling-project/docling)\n\n### 9. cloudflare/quiche\n\n**cloudflare/quiche** 今天拿了 31 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 31 stars today | 📦 总星 12,072 | 🍴 1,120 | 💻 Rust\n[🔗 查看项目](https://github.com/cloudflare/quiche)\n\n### 10. asciimoo/hister\n\n**asciimoo/hister** — Your own search engine... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 420 stars today | 📦 总星 5,300 | 🍴 222 | 💻 Go\n[🔗 查看项目](https://github.com/asciimoo/hister)\n\n---\n\n## 🫡 荣誉提名\n\n- **ruanyf/weekly** — 科技爱好者周刊，每周五发布  ⭐ 98 stars today\n- **ZuodaoTech/everyone-can-use-english** — 人人都能用英语  ⭐ 48 stars today\n- **anthropics/knowledge-work-plugins** — Open source repository of plugins primarily intended for knowledge workers to us...  ⭐ 281 stars today\n- **cactus-compute/needle** — Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, struct...  ⭐ 234 stars today\n- **yynxxxxx/Codex-X** — OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置...  ⭐ 32 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-20T05:17:34.662756+00:00"
+}
