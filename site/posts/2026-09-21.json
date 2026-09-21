@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-21",
+  "repos": [
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "826 stars today",
+      "total_stars": "263,950",
+      "forks": "39,484"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "desc": "A framework for building agentic apps",
+      "lang": "TypeScript",
+      "stars_today": "98 stars today",
+      "total_stars": "5,373",
+      "forks": "501"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "2,428 stars today",
+      "total_stars": "18,246",
+      "forks": "1,022"
+    },
+    {
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "lang": "HTML",
+      "stars_today": "1,018 stars today",
+      "total_stars": "25,289",
+      "forks": "1,742"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "260 stars today",
+      "total_stars": "35,470",
+      "forks": "5,256"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "lang": "Python",
+      "stars_today": "57 stars today",
+      "total_stars": "45,654",
+      "forks": "3,155"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_today": "419 stars today",
+      "total_stars": "147,240",
+      "forks": "24,084"
+    },
+    {
+      "name": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "desc": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "lang": "Python",
+      "stars_today": "172 stars today",
+      "total_stars": "4,632",
+      "forks": "1,016"
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "lang": "Jupyter Notebook",
+      "stars_today": "465 stars today",
+      "total_stars": "5,465",
+      "forks": "962"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "lang": "TypeScript",
+      "stars_today": "755 stars today",
+      "total_stars": "16,990",
+      "forks": "2,145"
+    },
+    {
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "lang": "Go",
+      "stars_today": "379 stars today",
+      "total_stars": "16,137",
+      "forks": "1,546"
+    },
+    {
+      "name": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "desc": "The Generative UI framework",
+      "lang": "TypeScript",
+      "stars_today": "291 stars today",
+      "total_stars": "17,503",
+      "forks": "926"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "736 stars today",
+      "total_stars": "97,806",
+      "forks": "10,300"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-09-21：ECC 带着 826 stars today 颗星杀过来了\n\n> 📅 2026-09-21  |  🔍 共收录 13 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 4 | **JavaScript**: 3 | **Python**: 3 | **HTML**: 1 | **Jupyter Notebook**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. affaan-m/ECC\n\n**affaan-m/ECC** — 用 JavaScript 写就。今天获得了 826 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 826 stars today | 📦 总星 263,950 | 🍴 39,484 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 2. BuilderIO/agent-native\n\n**BuilderIO/agent-native** 今天拿了 98 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 98 stars today | 📦 总星 5,373 | 🍴 501 | 💻 TypeScript\n[🔗 查看项目](https://github.com/BuilderIO/agent-native)\n\n### 3. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — JavaScript 写的，当然好（不是）。A coding-agent skill for multi-phase security audits with in...  2,428 stars today 人表示「先 star 为敬」。\n\n⭐ 2,428 stars today | 📦 总星 18,246 | 🍴 1,022 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 4. trycua/cua\n\n**trycua/cua** — Scale computer-use 2.0 with open-source drivers, cross-OS fl...  听起来像个周末项目，但它已经有 25,289 总星了。周末项目，认真的吗？\n\n⭐ 1,018 stars today | 📦 总星 25,289 | 🍴 1,742 | 💻 HTML\n[🔗 查看项目](https://github.com/trycua/cua)\n\n### 5. anthropics/financial-services\n\n**anthropics/financial-services** — ...  260 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 260 stars today | 📦 总星 35,470 | 🍴 5,256 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/financial-services)\n\n### 6. paperless-ngx/paperless-ngx\n\n**paperless-ngx/paperless-ngx** — A community-supported supercharged document management system: scan, i... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 57 stars today | 📦 总星 45,654 | 🍴 3,155 | 💻 Python\n[🔗 查看项目](https://github.com/paperless-ngx/paperless-ngx)\n\n### 7. anthropics/claude-code\n\n**anthropics/claude-code** — 用 TypeScript 写就。今天获得了 419 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 419 stars today | 📦 总星 147,240 | 🍴 24,084 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 8. mihail911/modern-software-dev-assignments\n\n**mihail911/modern-software-dev-assignments** — Assignments for CS146S: The Modern Software Dev (Stanford Un...  听起来像个周末项目，但它已经有 4,632 总星了。周末项目，认真的吗？\n\n⭐ 172 stars today | 📦 总星 4,632 | 🍴 1,016 | 💻 Python\n[🔗 查看项目](https://github.com/mihail911/modern-software-dev-assignments)\n\n### 9. higgsfield-ai/higgsfield\n\n**higgsfield-ai/higgsfield** — 如果你还没 star，那你可能错过了今天的船票。465 stars today 人已经上船了。\n\n⭐ 465 stars today | 📦 总星 5,465 | 🍴 962 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/higgsfield-ai/higgsfield)\n\n### 10. Open-Dev-Society/OpenStock\n\n**Open-Dev-Society/OpenStock** — 如果你还没 star，那你可能错过了今天的船票。755 stars today 人已经上船了。\n\n⭐ 755 stars today | 📦 总星 16,990 | 🍴 2,145 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Open-Dev-Society/OpenStock)\n\n---\n\n## 🫡 荣誉提名\n\n- **coder/coder** — Secure environments for developers and their agents  ⭐ 379 stars today\n- **vercel-labs/json-render** — The Generative UI framework  ⭐ 291 stars today\n- **addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.  ⭐ 736 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-21T05:20:03.240939+00:00"
+}
