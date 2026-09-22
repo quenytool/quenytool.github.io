@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-22",
+  "repos": [
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "desc": "A framework for building agentic apps",
+      "lang": "TypeScript",
+      "stars_today": "607 stars today",
+      "total_stars": "6,056",
+      "forks": "553"
+    },
+    {
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "lang": "HTML",
+      "stars_today": "609 stars today",
+      "total_stars": "25,790",
+      "forks": "1,772"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "lang": "TypeScript",
+      "stars_today": "844 stars today",
+      "total_stars": "17,955",
+      "forks": "2,216"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars_today": "167 stars today",
+      "total_stars": "7,808",
+      "forks": "526"
+    },
+    {
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "desc": "Secure environments for developers and their agents",
+      "lang": "Go",
+      "stars_today": "460 stars today",
+      "total_stars": "16,490",
+      "forks": "1,569"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "424 stars today",
+      "total_stars": "35,917",
+      "forks": "5,273"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "lang": "Rust",
+      "stars_today": "32 stars today",
+      "total_stars": "12,404",
+      "forks": "1,137"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "lang": "Python",
+      "stars_today": "169 stars today",
+      "total_stars": "13,681",
+      "forks": "1,332"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "desc": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "lang": "Python",
+      "stars_today": "250 stars today",
+      "total_stars": "8,406",
+      "forks": "1,581"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "desc": "科技爱好者周刊，每周五发布",
+      "lang": "Unknown",
+      "stars_today": "182 stars today",
+      "total_stars": "104,165",
+      "forks": "4,456"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "lang": "TypeScript",
+      "stars_today": "394 stars today",
+      "total_stars": "37,956",
+      "forks": "3,775"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "lang": "Rust",
+      "stars_today": "50 stars today",
+      "total_stars": "3,747",
+      "forks": "468"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-09-22：agent-native 让 607 stars today 个开发者点了收藏\n\n> 📅 2026-09-22  |  🔍 共收录 12 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Rust**: 3 | **Python**: 3 | **HTML**: 1 | **Go**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. BuilderIO/agent-native\n\n**BuilderIO/agent-native** — A framework for building agentic apps...  听起来像个周末项目，但它已经有 6,056 总星了。周末项目，认真的吗？\n\n⭐ 607 stars today | 📦 总星 6,056 | 🍴 553 | 💻 TypeScript\n[🔗 查看项目](https://github.com/BuilderIO/agent-native)\n\n### 2. trycua/cua\n\n**trycua/cua** 今天拿了 609 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 609 stars today | 📦 总星 25,790 | 🍴 1,772 | 💻 HTML\n[🔗 查看项目](https://github.com/trycua/cua)\n\n### 3. Open-Dev-Society/OpenStock\n\n**Open-Dev-Society/OpenStock** — TypeScript 写的，当然好（不是）。OpenStock is an open-source alternative to expensive market ...  844 stars today 人表示「先 star 为敬」。\n\n⭐ 844 stars today | 📦 总星 17,955 | 🍴 2,216 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Open-Dev-Society/OpenStock)\n\n### 4. akitaonrails/ai-memory\n\n**akitaonrails/ai-memory** — Solution for long term memory for agent coding CLIs and to facilitate handoff be...  167 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 167 stars today | 📦 总星 7,808 | 🍴 526 | 💻 Rust\n[🔗 查看项目](https://github.com/akitaonrails/ai-memory)\n\n### 5. coder/coder\n\n**coder/coder** — Go 写的，当然好（不是）。Secure environments for developers and their agents...  460 stars today 人表示「先 star 为敬」。\n\n⭐ 460 stars today | 📦 总星 16,490 | 🍴 1,569 | 💻 Go\n[🔗 查看项目](https://github.com/coder/coder)\n\n### 6. anthropics/financial-services\n\n**anthropics/financial-services** — 用 Python 写就。今天获得了 424 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 424 stars today | 📦 总星 35,917 | 🍴 5,273 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/financial-services)\n\n### 7. cloudflare/quiche\n\n**cloudflare/quiche** — 如果你还没 star，那你可能错过了今天的船票。32 stars today 人已经上船了。\n\n⭐ 32 stars today | 📦 总星 12,404 | 🍴 1,137 | 💻 Rust\n[🔗 查看项目](https://github.com/cloudflare/quiche)\n\n### 8. mvt-project/mvt\n\n**mvt-project/mvt** — MVT (Mobile Verification Toolkit) helps with conducting fore...  听起来像个周末项目，但它已经有 13,681 总星了。周末项目，认真的吗？\n\n⭐ 169 stars today | 📦 总星 13,681 | 🍴 1,332 | 💻 Python\n[🔗 查看项目](https://github.com/mvt-project/mvt)\n\n### 9. zhouxiaoka/autoclip\n\n**zhouxiaoka/autoclip** — AutoClip : AI-powered video clipping and highlight generation · 一款智能高光... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 250 stars today | 📦 总星 8,406 | 🍴 1,581 | 💻 Python\n[🔗 查看项目](https://github.com/zhouxiaoka/autoclip)\n\n### 10. ruanyf/weekly\n\n**ruanyf/weekly** — 科技爱好者周刊，每周五发布...  听起来像个周末项目，但它已经有 104,165 总星了。周末项目，认真的吗？\n\n⭐ 182 stars today | 📦 总星 104,165 | 🍴 4,456 | 💻 Unknown\n[🔗 查看项目](https://github.com/ruanyf/weekly)\n\n---\n\n## 🫡 荣誉提名\n\n- **Crosstalk-Solutions/project-nomad** — Project NOMAD is an offline-first knowledge and education server. Wikipedia, tho...  ⭐ 394 stars today\n- **yynxxxxx/Codex-X** — OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置...  ⭐ 50 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-22T05:17:36.936022+00:00"
+}
