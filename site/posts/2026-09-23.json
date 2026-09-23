@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-23",
+  "repos": [
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "438 stars today",
+      "total_stars": "36,489",
+      "forks": "5,332"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "desc": "Agent Substrate: the core system",
+      "lang": "Go",
+      "stars_today": "245 stars today",
+      "total_stars": "3,076",
+      "forks": "389"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_today": "255 stars today",
+      "total_stars": "15,703",
+      "forks": "1,401"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "lang": "Python",
+      "stars_today": "64 stars today",
+      "total_stars": "31,199",
+      "forks": "3,548"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "lang": "Go",
+      "stars_today": "2,305 stars today",
+      "total_stars": "7,893",
+      "forks": "366"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "lang": "Python",
+      "stars_today": "441 stars today",
+      "total_stars": "14,204",
+      "forks": "1,366"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "lang": "Python",
+      "stars_today": "230 stars today",
+      "total_stars": "2,311",
+      "forks": "224"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_today": "191 stars today",
+      "total_stars": "26,003",
+      "forks": "3,130"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-09-23：8 个项目今天值得你 star\n\n> 📅 2026-09-23  |  🔍 共收录 8 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **Go**: 2 | **TypeScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/financial-services\n\n**anthropics/financial-services** — Python 写的，当然好（不是）。...  438 stars today 人表示「先 star 为敬」。\n\n⭐ 438 stars today | 📦 总星 36,489 | 🍴 5,332 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/financial-services)\n\n### 2. agent-substrate/substrate\n\n**agent-substrate/substrate** — Agent Substrate: the core system...  245 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 245 stars today | 📦 总星 3,076 | 🍴 389 | 💻 Go\n[🔗 查看项目](https://github.com/agent-substrate/substrate)\n\n### 3. dream-num/univer\n\n**dream-num/univer** — The Office Harness for AI Agents — Spreadsheets, Docs, Slide...  听起来像个周末项目，但它已经有 15,703 总星了。周末项目，认真的吗？\n\n⭐ 255 stars today | 📦 总星 15,703 | 🍴 1,401 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n### 4. davila7/claude-code-templates\n\n**davila7/claude-code-templates** — 如果你还没 star，那你可能错过了今天的船票。64 stars today 人已经上船了。\n\n⭐ 64 stars today | 📦 总星 31,199 | 🍴 3,548 | 💻 Python\n[🔗 查看项目](https://github.com/davila7/claude-code-templates)\n\n### 5. google/ax\n\n**google/ax** — Google's open agentic orchestration runtime...  听起来像个周末项目，但它已经有 7,893 总星了。周末项目，认真的吗？\n\n⭐ 2,305 stars today | 📦 总星 7,893 | 🍴 366 | 💻 Go\n[🔗 查看项目](https://github.com/google/ax)\n\n### 6. mvt-project/mvt\n\n**mvt-project/mvt** — MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi...  441 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 441 stars today | 📦 总星 14,204 | 🍴 1,366 | 💻 Python\n[🔗 查看项目](https://github.com/mvt-project/mvt)\n\n### 7. superdesigndev/treg\n\n**superdesigndev/treg** — 用 Python 写就。今天获得了 230 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 230 stars today | 📦 总星 2,311 | 🍴 224 | 💻 Python\n[🔗 查看项目](https://github.com/superdesigndev/treg)\n\n### 8. browser-use/video-use\n\n**browser-use/video-use** — 如果你还没 star，那你可能错过了今天的船票。191 stars today 人已经上船了。\n\n⭐ 191 stars today | 📦 总星 26,003 | 🍴 3,130 | 💻 Python\n[🔗 查看项目](https://github.com/browser-use/video-use)\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-23T05:03:24.527178+00:00"
+}
