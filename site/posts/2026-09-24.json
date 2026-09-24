@@ -1,0 +1,160 @@
+{
+  "date": "2026-09-24",
+  "repos": [
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "664 stars today",
+      "total_stars": "37,050",
+      "forks": "5,388"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "lang": "Go",
+      "stars_today": "1,543 stars today",
+      "total_stars": "9,317",
+      "forks": "448"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "desc": "CLI tool for configuring and monitoring Claude Code",
+      "lang": "Python",
+      "stars_today": "389 stars today",
+      "total_stars": "31,573",
+      "forks": "3,586"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "desc": "A framework for building agentic apps",
+      "lang": "TypeScript",
+      "stars_today": "87 stars today",
+      "total_stars": "6,629",
+      "forks": "594"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "474 stars today",
+      "total_stars": "290,796",
+      "forks": "26,023"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_today": "1,142 stars today",
+      "total_stars": "16,473",
+      "forks": "1,454"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "lang": "TypeScript",
+      "stars_today": "344 stars today",
+      "total_stars": "18,934",
+      "forks": "2,303"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "desc": "Agent Substrate: the core system",
+      "lang": "Go",
+      "stars_today": "558 stars today",
+      "total_stars": "3,568",
+      "forks": "419"
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "desc": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "lang": "Python",
+      "stars_today": "115 stars today",
+      "total_stars": "7,939",
+      "forks": "1,210"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_today": "57 stars today",
+      "total_stars": "50,016",
+      "forks": "4,603"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "lang": "Python",
+      "stars_today": "506 stars today",
+      "total_stars": "2,812",
+      "forks": "244"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "304 stars today",
+      "total_stars": "70,453",
+      "forks": "4,277"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "lang": "Python",
+      "stars_today": "543 stars today",
+      "total_stars": "14,519",
+      "forks": "1,383"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "190 stars today",
+      "total_stars": "44,666",
+      "forks": "3,644"
+    },
+    {
+      "name": "harry7557558/spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "desc": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+      "lang": "C++",
+      "stars_today": "69 stars today",
+      "total_stars": "786",
+      "forks": "57"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_today": "746 stars today",
+      "total_stars": "26,601",
+      "forks": "3,169"
+    },
+    {
+      "name": "TNT-Likely/PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "desc": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "lang": "Python",
+      "stars_today": "95 stars today",
+      "total_stars": "1,614",
+      "forks": "304"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-09-24：financial-services 让 664 stars today 个开发者点了收藏\n\n> 📅 2026-09-24  |  🔍 共收录 17 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **TypeScript**: 3 | **Go**: 2 | **Shell**: 1 | **JavaScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/financial-services\n\n**anthropics/financial-services** — 如果你还没 star，那你可能错过了今天的船票。664 stars today 人已经上船了。\n\n⭐ 664 stars today | 📦 总星 37,050 | 🍴 5,388 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/financial-services)\n\n### 2. google/ax\n\n**google/ax** — Google's open agentic orchestration runtime... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,543 stars today | 📦 总星 9,317 | 🍴 448 | 💻 Go\n[🔗 查看项目](https://github.com/google/ax)\n\n### 3. davila7/claude-code-templates\n\n**davila7/claude-code-templates** — Python 写的，当然好（不是）。CLI tool for configuring and monitoring Claude Code...  389 stars today 人表示「先 star 为敬」。\n\n⭐ 389 stars today | 📦 总星 31,573 | 🍴 3,586 | 💻 Python\n[🔗 查看项目](https://github.com/davila7/claude-code-templates)\n\n### 4. BuilderIO/agent-native\n\n**BuilderIO/agent-native** — TypeScript 写的，当然好（不是）。A framework for building agentic apps...  87 stars today 人表示「先 star 为敬」。\n\n⭐ 87 stars today | 📦 总星 6,629 | 🍴 594 | 💻 TypeScript\n[🔗 查看项目](https://github.com/BuilderIO/agent-native)\n\n### 5. obra/superpowers\n\n**obra/superpowers** — 用 Shell 写就。今天获得了 474 stars today 颗星，证明 Shell 还活着且活得挺好。\n\n⭐ 474 stars today | 📦 总星 290,796 | 🍴 26,023 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 6. dream-num/univer\n\n**dream-num/univer** 今天拿了 1,142 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,142 stars today | 📦 总星 16,473 | 🍴 1,454 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n### 7. Open-Dev-Society/OpenStock\n\n**Open-Dev-Society/OpenStock** — OpenStock is an open-source alternative to expensive market platforms. Track rea...  344 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 344 stars today | 📦 总星 18,934 | 🍴 2,303 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Open-Dev-Society/OpenStock)\n\n### 8. agent-substrate/substrate\n\n**agent-substrate/substrate** — 用 Go 写就。今天获得了 558 stars today 颗星，证明 Go 还活着且活得挺好。\n\n⭐ 558 stars today | 📦 总星 3,568 | 🍴 419 | 💻 Go\n[🔗 查看项目](https://github.com/agent-substrate/substrate)\n\n### 9. strands-agents/harness-sdk\n\n**strands-agents/harness-sdk** 今天拿了 115 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 115 stars today | 📦 总星 7,939 | 🍴 1,210 | 💻 Python\n[🔗 查看项目](https://github.com/strands-agents/harness-sdk)\n\n### 10. HKUDS/CLI-Anything\n\n**HKUDS/CLI-Anything** — 如果你还没 star，那你可能错过了今天的船票。57 stars today 人已经上船了。\n\n⭐ 57 stars today | 📦 总星 50,016 | 🍴 4,603 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/CLI-Anything)\n\n---\n\n## 🫡 荣誉提名\n\n- **superdesigndev/treg** — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn  ⭐ 506 stars today\n- **pbakaus/impeccable** — The design language that makes your AI harness better at design.  ⭐ 304 stars today\n- **mvt-project/mvt** — MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi...  ⭐ 543 stars today\n- **DeusData/codebase-memory-mcp** — High-performance code intelligence MCP server. Indexes codebases into a persiste...  ⭐ 190 stars today\n- **harry7557558/spirula-studio** — Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or C...  ⭐ 69 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-24T05:14:27.012801+00:00"
+}
