@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-25",
+  "repos": [
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "347 stars today",
+      "total_stars": "56,763",
+      "forks": "9,951"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "lang": "Python",
+      "stars_today": "1,668 stars today",
+      "total_stars": "28,094",
+      "forks": "2,747"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_today": "1,082 stars today",
+      "total_stars": "17,928",
+      "forks": "1,542"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "lang": "Go",
+      "stars_today": "1,373 stars today",
+      "total_stars": "10,680",
+      "forks": "521"
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "lang": "Python",
+      "stars_today": "44 stars today",
+      "total_stars": "4,147",
+      "forks": "632"
+    },
+    {
+      "name": "FxEmbed/FxEmbed",
+      "url": "https://github.com/FxEmbed/FxEmbed",
+      "desc": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+      "lang": "TypeScript",
+      "stars_today": "182 stars today",
+      "total_stars": "5,399",
+      "forks": "251"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "509 stars today",
+      "total_stars": "37,414",
+      "forks": "5,422"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_today": "413 stars today",
+      "total_stars": "50,390",
+      "forks": "4,618"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "lang": "Python",
+      "stars_today": "272 stars today",
+      "total_stars": "14,756",
+      "forks": "1,394"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "611 stars today",
+      "total_stars": "291,297",
+      "forks": "26,063"
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "desc": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "lang": "Python",
+      "stars_today": "455 stars today",
+      "total_stars": "8,319",
+      "forks": "1,244"
+    },
+    {
+      "name": "julyx10/lap",
+      "url": "https://github.com/julyx10/lap",
+      "desc": "An offline-first photo manager for large local libraries",
+      "lang": "Vue",
+      "stars_today": "122 stars today",
+      "total_stars": "2,926",
+      "forks": "172"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "lang": "Python",
+      "stars_today": "468 stars today",
+      "total_stars": "3,214",
+      "forks": "268"
+    },
+    {
+      "name": "leejet/stable-diffusion.cpp",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "desc": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "lang": "C++",
+      "stars_today": "36 stars today",
+      "total_stars": "7,285",
+      "forks": "814"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-09-25：14 个项目今天值得你 star\n\n> 📅 2026-09-25  |  🔍 共收录 14 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **TypeScript**: 2 | **Go**: 1 | **Shell**: 1 | **Vue**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 347 stars today | 📦 总星 56,763 | 🍴 9,951 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 2. vectorize-io/hindsight\n\n**vectorize-io/hindsight** — Hindsight: Agent Memory That Learns...  听起来像个周末项目，但它已经有 28,094 总星了。周末项目，认真的吗？\n\n⭐ 1,668 stars today | 📦 总星 28,094 | 🍴 2,747 | 💻 Python\n[🔗 查看项目](https://github.com/vectorize-io/hindsight)\n\n### 3. dream-num/univer\n\n**dream-num/univer** — The Office Harness for AI Agents — Spreadsheets, Docs, Slide...  听起来像个周末项目，但它已经有 17,928 总星了。周末项目，认真的吗？\n\n⭐ 1,082 stars today | 📦 总星 17,928 | 🍴 1,542 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n### 4. google/ax\n\n**google/ax** 今天拿了 1,373 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,373 stars today | 📦 总星 10,680 | 🍴 521 | 💻 Go\n[🔗 查看项目](https://github.com/google/ax)\n\n### 5. NVIDIA/Model-Optimizer\n\n**NVIDIA/Model-Optimizer** 今天拿了 44 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 44 stars today | 📦 总星 4,147 | 🍴 632 | 💻 Python\n[🔗 查看项目](https://github.com/NVIDIA/Model-Optimizer)\n\n### 6. FxEmbed/FxEmbed\n\n**FxEmbed/FxEmbed** — TypeScript 写的，当然好（不是）。Fix X/Twitter and Bluesky embeds! Use multiple images, video...  182 stars today 人表示「先 star 为敬」。\n\n⭐ 182 stars today | 📦 总星 5,399 | 🍴 251 | 💻 TypeScript\n[🔗 查看项目](https://github.com/FxEmbed/FxEmbed)\n\n### 7. anthropics/financial-services\n\n**anthropics/financial-services** — ...  听起来像个周末项目，但它已经有 37,414 总星了。周末项目，认真的吗？\n\n⭐ 509 stars today | 📦 总星 37,414 | 🍴 5,422 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/financial-services)\n\n### 8. HKUDS/CLI-Anything\n\n**HKUDS/CLI-Anything** — Python 写的，当然好（不是）。\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:...  413 stars today 人表示「先 star 为敬」。\n\n⭐ 413 stars today | 📦 总星 50,390 | 🍴 4,618 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/CLI-Anything)\n\n### 9. mvt-project/mvt\n\n**mvt-project/mvt** — 如果你还没 star，那你可能错过了今天的船票。272 stars today 人已经上船了。\n\n⭐ 272 stars today | 📦 总星 14,756 | 🍴 1,394 | 💻 Python\n[🔗 查看项目](https://github.com/mvt-project/mvt)\n\n### 10. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodolo...  听起来像个周末项目，但它已经有 291,297 总星了。周末项目，认真的吗？\n\n⭐ 611 stars today | 📦 总星 291,297 | 🍴 26,063 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n---\n\n## 🫡 荣誉提名\n\n- **strands-agents/harness-sdk** — Build an agent harness and control it end-to-end. Open-source SDK for production...  ⭐ 455 stars today\n- **julyx10/lap** — An offline-first photo manager for large local libraries  ⭐ 122 stars today\n- **superdesigndev/treg** — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn  ⭐ 468 stars today\n- **leejet/stable-diffusion.cpp** — Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++  ⭐ 36 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-25T05:16:05.447963+00:00"
+}
