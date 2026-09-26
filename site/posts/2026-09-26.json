@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-26",
+  "repos": [
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_today": "2,109 stars today",
+      "total_stars": "85,309",
+      "forks": "15,263"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "83 stars today",
+      "total_stars": "36,974",
+      "forks": "4,155"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "lang": "Python",
+      "stars_today": "1,653 stars today",
+      "total_stars": "30,078",
+      "forks": "3,205"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "468 stars today",
+      "total_stars": "291,723",
+      "forks": "26,110"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "583 stars today",
+      "total_stars": "269,813",
+      "forks": "22,736"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_today": "1,050 stars today",
+      "total_stars": "18,771",
+      "forks": "1,599"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "189 stars today",
+      "total_stars": "178,389",
+      "forks": "21,118"
+    },
+    {
+      "name": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "desc": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "lang": "JavaScript",
+      "stars_today": "93 stars today",
+      "total_stars": "532",
+      "forks": "99"
+    },
+    {
+      "name": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "desc": "Wifite but USB-only & cross-platform.",
+      "lang": "Python",
+      "stars_today": "183 stars today",
+      "total_stars": "1,000",
+      "forks": "90"
+    },
+    {
+      "name": "kelseyhightower/kubernetes-the-hard-way",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "desc": "Bootstrap Kubernetes the hard way. No scripts.",
+      "lang": "Unknown",
+      "stars_today": "119 stars today",
+      "total_stars": "50,152",
+      "forks": "15,921"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "1,177 stars today",
+      "total_stars": "57,680",
+      "forks": "10,043"
+    },
+    {
+      "name": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "desc": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "lang": "Python",
+      "stars_today": "44 stars today",
+      "total_stars": "5,176",
+      "forks": "1,259"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "desc": "Google's open agentic orchestration runtime",
+      "lang": "Go",
+      "stars_today": "1,379 stars today",
+      "total_stars": "11,604",
+      "forks": "556"
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "lang": "Python",
+      "stars_today": "359 stars today",
+      "total_stars": "4,526",
+      "forks": "655"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "306 stars today",
+      "total_stars": "71,271",
+      "forks": "4,311"
+    },
+    {
+      "name": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "desc": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "lang": "Go",
+      "stars_today": "49 stars today",
+      "total_stars": "7,789",
+      "forks": "587"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：paperclip 爆火，TypeScript 又双叒叕赢了\n\n> 📅 2026-09-26  |  🔍 共收录 16 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 2 | **Shell**: 2 | **JavaScript**: 2 | **Go**: 2\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. paperclipai/paperclip\n\n**paperclipai/paperclip** 今天拿了 2,109 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,109 stars today | 📦 总星 85,309 | 🍴 15,263 | 💻 TypeScript\n[🔗 查看项目](https://github.com/paperclipai/paperclip)\n\n### 2. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** 今天拿了 83 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 83 stars today | 📦 总星 36,974 | 🍴 4,155 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 3. vectorize-io/hindsight\n\n**vectorize-io/hindsight** — Hindsight: Agent Memory That Learns...  1,653 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,653 stars today | 📦 总星 30,078 | 🍴 3,205 | 💻 Python\n[🔗 查看项目](https://github.com/vectorize-io/hindsight)\n\n### 4. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodolo...  听起来像个周末项目，但它已经有 291,723 总星了。周末项目，认真的吗？\n\n⭐ 468 stars today | 📦 总星 291,723 | 🍴 26,110 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 5. mattpocock/skills\n\n**mattpocock/skills** — 如果你还没 star，那你可能错过了今天的船票。583 stars today 人已经上船了。\n\n⭐ 583 stars today | 📦 总星 269,813 | 🍴 22,736 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 6. dream-num/univer\n\n**dream-num/univer** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...  1,050 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,050 stars today | 📦 总星 18,771 | 🍴 1,599 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n### 7. anthropics/skills\n\n**anthropics/skills** 今天拿了 189 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 189 stars today | 📦 总星 178,389 | 🍴 21,118 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/skills)\n\n### 8. androoAGI/starnet\n\n**androoAGI/starnet** — A living pixel-art station where real AI agents do real work. Local-fi... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 93 stars today | 📦 总星 532 | 🍴 99 | 💻 JavaScript\n[🔗 查看项目](https://github.com/androoAGI/starnet)\n\n### 9. derv82/wifit3\n\n**derv82/wifit3** — 用 Python 写就。今天获得了 183 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 183 stars today | 📦 总星 1,000 | 🍴 90 | 💻 Python\n[🔗 查看项目](https://github.com/derv82/wifit3)\n\n### 10. kelseyhightower/kubernetes-the-hard-way\n\n**kelseyhightower/kubernetes-the-hard-way** 今天拿了 119 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 119 stars today | 📦 总星 50,152 | 🍴 15,921 | 💻 Unknown\n[🔗 查看项目](https://github.com/kelseyhightower/kubernetes-the-hard-way)\n\n---\n\n## 🫡 荣誉提名\n\n- **rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others.  ⭐ 1,177 stars today\n- **shy3130/tick-stock-panel** — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | ...  ⭐ 44 stars today\n- **google/ax** — Google's open agentic orchestration runtime  ⭐ 1,379 stars today\n- **NVIDIA/Model-Optimizer** — A unified library of SOTA model optimization techniques like quantization, disti...  ⭐ 359 stars today\n- **pbakaus/impeccable** — The design language that makes your AI harness better at design.  ⭐ 306 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-26T05:21:07.357659+00:00"
+}
