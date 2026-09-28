@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-28",
+  "repos": [
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_today": "2,401 stars today",
+      "total_stars": "90,587",
+      "forks": "15,716"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "lang": "Python",
+      "stars_today": "4,520 stars today",
+      "total_stars": "38,147",
+      "forks": "4,971"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "3,086 stars today",
+      "total_stars": "40,749",
+      "forks": "4,836"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "790 stars today",
+      "total_stars": "59,628",
+      "forks": "10,273"
+    },
+    {
+      "name": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "desc": "An open-source Android app to let you browse YouTube and other services freely.",
+      "lang": "Shell",
+      "stars_today": "242 stars today",
+      "total_stars": "6,670",
+      "forks": "225"
+    },
+    {
+      "name": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "desc": "TypeScript-to-Native Compiler",
+      "lang": "TypeScript",
+      "stars_today": "102 stars today",
+      "total_stars": "5,478",
+      "forks": "142"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "lang": "TypeScript",
+      "stars_today": "114 stars today",
+      "total_stars": "1,147",
+      "forks": "110"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_today": "895 stars today",
+      "total_stars": "20,747",
+      "forks": "1,757"
+    },
+    {
+      "name": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "lang": "C",
+      "stars_today": "83 stars today",
+      "total_stars": "870",
+      "forks": "153"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：paperclip 爆火，TypeScript 又双叒叕赢了\n\n> 📅 2026-09-28  |  🔍 共收录 9 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 4 | **Python**: 3 | **Shell**: 1 | **C**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. paperclipai/paperclip\n\n**paperclipai/paperclip** — 用 TypeScript 写就。今天获得了 2,401 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 2,401 stars today | 📦 总星 90,587 | 🍴 15,716 | 💻 TypeScript\n[🔗 查看项目](https://github.com/paperclipai/paperclip)\n\n### 2. vectorize-io/hindsight\n\n**vectorize-io/hindsight** — Hindsight: Agent Memory That Learns...  听起来像个周末项目，但它已经有 38,147 总星了。周末项目，认真的吗？\n\n⭐ 4,520 stars today | 📦 总星 38,147 | 🍴 4,971 | 💻 Python\n[🔗 查看项目](https://github.com/vectorize-io/hindsight)\n\n### 3. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — v... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 3,086 stars today | 📦 总星 40,749 | 🍴 4,836 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 4. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others....  790 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 790 stars today | 📦 总星 59,628 | 🍴 10,273 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 5. InfinityLoop1308/PipePipe\n\n**InfinityLoop1308/PipePipe** 今天拿了 242 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 242 stars today | 📦 总星 6,670 | 🍴 225 | 💻 Shell\n[🔗 查看项目](https://github.com/InfinityLoop1308/PipePipe)\n\n### 6. vercel-labs/scriptc\n\n**vercel-labs/scriptc** — TypeScript-to-Native Compiler...  听起来像个周末项目，但它已经有 5,478 总星了。周末项目，认真的吗？\n\n⭐ 102 stars today | 📦 总星 5,478 | 🍴 142 | 💻 TypeScript\n[🔗 查看项目](https://github.com/vercel-labs/scriptc)\n\n### 7. mvschwarz/openrig\n\n**mvschwarz/openrig** 今天拿了 114 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 114 stars today | 📦 总星 1,147 | 🍴 110 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mvschwarz/openrig)\n\n### 8. dream-num/univer\n\n**dream-num/univer** — 如果你还没 star，那你可能错过了今天的船票。895 stars today 人已经上船了。\n\n⭐ 895 stars today | 📦 总星 20,747 | 🍴 1,757 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n### 9. willfaust/Madeira\n\n**willfaust/Madeira** — Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT...  83 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 83 stars today | 📦 总星 870 | 🍴 153 | 💻 C\n[🔗 查看项目](https://github.com/willfaust/Madeira)\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-28T05:45:13.231544+00:00"
+}
