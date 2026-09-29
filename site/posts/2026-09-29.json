@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-29",
+  "repos": [
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "3,221 stars today",
+      "total_stars": "45,014",
+      "forks": "5,158"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "desc": "The open-source app everyone uses to manage agents at work",
+      "lang": "TypeScript",
+      "stars_today": "3,197 stars today",
+      "total_stars": "93,303",
+      "forks": "15,934"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "desc": "Hindsight: Agent Memory That Learns",
+      "lang": "Python",
+      "stars_today": "4,561 stars today",
+      "total_stars": "41,443",
+      "forks": "5,579"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "lang": "PLSQL",
+      "stars_today": "158 stars today",
+      "total_stars": "25,857",
+      "forks": "5,891"
+    },
+    {
+      "name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "lang": "TeX",
+      "stars_today": "195 stars today",
+      "total_stars": "2,620",
+      "forks": "245"
+    },
+    {
+      "name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "lang": "JavaScript",
+      "stars_today": "327 stars today",
+      "total_stars": "64,982",
+      "forks": "6,536"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "lang": "TypeScript",
+      "stars_today": "734 stars today",
+      "total_stars": "1,890",
+      "forks": "145"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "lang": "TypeScript",
+      "stars_today": "1,099 stars today",
+      "total_stars": "21,425",
+      "forks": "1,812"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-09-29\n\n> 📅 2026-09-29  |  🔍 共收录 8 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Python**: 2 | **PLSQL**: 1 | **TeX**: 1 | **JavaScript**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — 如果你还没 star，那你可能错过了今天的船票。3,221 stars today 人已经上船了。\n\n⭐ 3,221 stars today | 📦 总星 45,014 | 🍴 5,158 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 2. paperclipai/paperclip\n\n**paperclipai/paperclip** — TypeScript 写的，当然好（不是）。The open-source app everyone uses to manage agents at work...  3,197 stars today 人表示「先 star 为敬」。\n\n⭐ 3,197 stars today | 📦 总星 93,303 | 🍴 15,934 | 💻 TypeScript\n[🔗 查看项目](https://github.com/paperclipai/paperclip)\n\n### 3. vectorize-io/hindsight\n\n**vectorize-io/hindsight** — Hindsight: Agent Memory That Learns...  听起来像个周末项目，但它已经有 41,443 总星了。周末项目，认真的吗？\n\n⭐ 4,561 stars today | 📦 总星 41,443 | 🍴 5,579 | 💻 Python\n[🔗 查看项目](https://github.com/vectorize-io/hindsight)\n\n### 4. NawfalMotii79/PLFM_RADAR\n\n**NawfalMotii79/PLFM_RADAR** 今天拿了 158 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 158 stars today | 📦 总星 25,857 | 🍴 5,891 | 💻 PLSQL\n[🔗 查看项目](https://github.com/NawfalMotii79/PLFM_RADAR)\n\n### 5. cs341-illinois/coursebook\n\n**cs341-illinois/coursebook** — Open Source Introductory Systems Programming Textbook for the Universi... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 195 stars today | 📦 总星 2,620 | 🍴 245 | 💻 TeX\n[🔗 查看项目](https://github.com/cs341-illinois/coursebook)\n\n### 6. byoungd/up\n\n**byoungd/up** — 用 JavaScript 写就。今天获得了 327 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 327 stars today | 📦 总星 64,982 | 🍴 6,536 | 💻 JavaScript\n[🔗 查看项目](https://github.com/byoungd/up)\n\n### 7. mvschwarz/openrig\n\n**mvschwarz/openrig** — 用 TypeScript 写就。今天获得了 734 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 734 stars today | 📦 总星 1,890 | 🍴 145 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mvschwarz/openrig)\n\n### 8. dream-num/univer\n\n**dream-num/univer** — The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa...  1,099 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,099 stars today | 📦 总星 21,425 | 🍴 1,812 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-09-29T06:03:12.888118+00:00"
+}
