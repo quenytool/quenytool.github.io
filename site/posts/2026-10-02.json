@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-02",
+  "repos": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,194 stars today",
+      "total_stars": "150,809",
+      "forks": "8,091"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "883 stars today",
+      "total_stars": "274,091",
+      "forks": "23,018"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_today": "2,456 stars today",
+      "total_stars": "14,118",
+      "forks": "1,635"
+    },
+    {
+      "name": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "desc": "Firebase SDK for Apple App Development",
+      "lang": "C++",
+      "stars_today": "112 stars today",
+      "total_stars": "6,885",
+      "forks": "1,808"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "lang": "TypeScript",
+      "stars_today": "642 stars today",
+      "total_stars": "3,847",
+      "forks": "256"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "150 stars today",
+      "total_stars": "9,352",
+      "forks": "885"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "455 stars today",
+      "total_stars": "294,075",
+      "forks": "26,304"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "362 stars today",
+      "total_stars": "24,844",
+      "forks": "1,788"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "lang": "TypeScript",
+      "stars_today": "627 stars today",
+      "total_stars": "55,461",
+      "forks": "5,025"
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "lang": "TypeScript",
+      "stars_today": "298 stars today",
+      "total_stars": "111,368",
+      "forks": "14,141"
+    },
+    {
+      "name": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "desc": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "lang": "Python",
+      "stars_today": "163 stars today",
+      "total_stars": "8,162",
+      "forks": "820"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "desc": "yoink any video from your terminal. no shady ads.",
+      "lang": "TypeScript",
+      "stars_today": "361 stars today",
+      "total_stars": "3,061",
+      "forks": "290"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "desc": "Useful tool to track location or mobile number",
+      "lang": "Python",
+      "stars_today": "368 stars today",
+      "total_stars": "16,509",
+      "forks": "2,264"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "495 stars today",
+      "total_stars": "73,825",
+      "forks": "4,444"
+    },
+    {
+      "name": "Friedrich-M/UniMate",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "desc": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "lang": "Python",
+      "stars_today": "217 stars today",
+      "total_stars": "1,126",
+      "forks": "102"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-10-02：ponytail 带着 1,194 stars today 颗星杀过来了\n\n> 📅 2026-10-02  |  🔍 共收录 15 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Python**: 3 | **JavaScript**: 2 | **Shell**: 2 | **Rust**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — Makes your AI agent think like the laziest senior dev in the...  听起来像个周末项目，但它已经有 150,809 总星了。周末项目，认真的吗？\n\n⭐ 1,194 stars today | 📦 总星 150,809 | 🍴 8,091 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 2. mattpocock/skills\n\n**mattpocock/skills** — Skills for Real Engineers. Straight from my .agents directory....  883 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 883 stars today | 📦 总星 274,091 | 🍴 23,018 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 3. NVIDIA/OpenShell\n\n**NVIDIA/OpenShell** — 如果你还没 star，那你可能错过了今天的船票。2,456 stars today 人已经上船了。\n\n⭐ 2,456 stars today | 📦 总星 14,118 | 🍴 1,635 | 💻 Rust\n[🔗 查看项目](https://github.com/NVIDIA/OpenShell)\n\n### 4. firebase/firebase-ios-sdk\n\n**firebase/firebase-ios-sdk** — Firebase SDK for Apple App Development...  112 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 112 stars today | 📦 总星 6,885 | 🍴 1,808 | 💻 C++\n[🔗 查看项目](https://github.com/firebase/firebase-ios-sdk)\n\n### 5. mvschwarz/openrig\n\n**mvschwarz/openrig** — TypeScript 写的，当然好（不是）。Build your own network of agents from Claude Code, Codex and...  642 stars today 人表示「先 star 为敬」。\n\n⭐ 642 stars today | 📦 总星 3,847 | 🍴 256 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mvschwarz/openrig)\n\n### 6. cursor/plugins\n\n**cursor/plugins** — Cursor plugin specification and official plugins...  听起来像个周末项目，但它已经有 9,352 总星了。周末项目，认真的吗？\n\n⭐ 150 stars today | 📦 总星 9,352 | 🍴 885 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cursor/plugins)\n\n### 7. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that wo... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 455 stars today | 📦 总星 294,075 | 🍴 26,304 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 8. mksglu/context-mode\n\n**mksglu/context-mode** — Context window optimization for AI coding agents. Sandboxes ...  听起来像个周末项目，但它已经有 24,844 总星了。周末项目，认真的吗？\n\n⭐ 362 stars today | 📦 总星 24,844 | 🍴 1,788 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 9. heygen-com/hyperframes\n\n**heygen-com/hyperframes** 今天拿了 627 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 627 stars today | 📦 总星 55,461 | 🍴 5,025 | 💻 TypeScript\n[🔗 查看项目](https://github.com/heygen-com/hyperframes)\n\n### 10. earendil-works/pi\n\n**earendil-works/pi** — TypeScript 写的，当然好（不是）。AI agent toolkit: unified LLM API, agent loop, TUI, coding a...  298 stars today 人表示「先 star 为敬」。\n\n⭐ 298 stars today | 📦 总星 111,368 | 🍴 14,141 | 💻 TypeScript\n[🔗 查看项目](https://github.com/earendil-works/pi)\n\n---\n\n## 🫡 荣誉提名\n\n- **tile-ai/tilelang** — Domain-specific language designed to streamline the development of high-performa...  ⭐ 163 stars today\n- **pablostanley/yoinks** — yoink any video from your terminal. no shady ads.  ⭐ 361 stars today\n- **HunxByts/GhostTrack** — Useful tool to track location or mobile number  ⭐ 368 stars today\n- **pbakaus/impeccable** — The design language that makes your AI harness better at design.  ⭐ 495 stars today\n- **Friedrich-M/UniMate** — [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons  ⭐ 217 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-02T06:04:21.006077+00:00"
+}
