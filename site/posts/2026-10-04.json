@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-04",
+  "repos": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,281 stars today",
+      "total_stars": "153,735",
+      "forks": "8,259"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "699 stars today",
+      "total_stars": "75,518",
+      "forks": "4,527"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "897 stars today",
+      "total_stars": "272,399",
+      "forks": "40,673"
+    },
+    {
+      "name": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "desc": "Build production-ready applications in TypeScript",
+      "lang": "TypeScript",
+      "stars_today": "302 stars today",
+      "total_stars": "16,875",
+      "forks": "816"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "lang": "Go",
+      "stars_today": "507 stars today",
+      "total_stars": "109,613",
+      "forks": "6,341"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "1,696 stars today",
+      "total_stars": "90,026",
+      "forks": "7,918"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "252 stars today",
+      "total_stars": "24,789",
+      "forks": "6,454"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "79 stars today",
+      "total_stars": "95,697",
+      "forks": "8,465"
+    },
+    {
+      "name": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "desc": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "lang": "TypeScript",
+      "stars_today": "85 stars today",
+      "total_stars": "10,634",
+      "forks": "1,287"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "252 stars today",
+      "total_stars": "100,910",
+      "forks": "10,599"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "577 stars today",
+      "total_stars": "294,978",
+      "forks": "26,359"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "751 stars today",
+      "total_stars": "275,488",
+      "forks": "23,113"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "256 stars today",
+      "total_stars": "25,294",
+      "forks": "1,808"
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "lang": "TypeScript",
+      "stars_today": "408 stars today",
+      "total_stars": "112,241",
+      "forks": "14,237"
+    },
+    {
+      "name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "desc": "Developer-first error tracking and performance monitoring",
+      "lang": "Python",
+      "stars_today": "214 stars today",
+      "total_stars": "45,230",
+      "forks": "4,899"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_today": "128 stars today",
+      "total_stars": "149,282",
+      "forks": "25,409"
+    },
+    {
+      "name": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "193 stars today",
+      "total_stars": "9,438",
+      "forks": "2,072"
+    },
+    {
+      "name": "meituan-longcat/LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "desc": "",
+      "lang": "Python",
+      "stars_today": "44 stars today",
+      "total_stars": "8,825",
+      "forks": "1,531"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "232 stars today",
+      "total_stars": "91,706",
+      "forks": "9,064"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-10-04\n\n> 📅 2026-10-04  |  🔍 共收录 19 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 8 | **JavaScript**: 4 | **Python**: 4 | **Shell**: 2 | **Go**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — JavaScript 写的，当然好（不是）。Makes your AI agent think like the laziest senior dev in the...  1,281 stars today 人表示「先 star 为敬」。\n\n⭐ 1,281 stars today | 📦 总星 153,735 | 🍴 8,259 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 2. pbakaus/impeccable\n\n**pbakaus/impeccable** — The design language that makes your AI harness better at design....  699 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 699 stars today | 📦 总星 75,518 | 🍴 4,527 | 💻 JavaScript\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 3. affaan-m/ECC\n\n**affaan-m/ECC** 今天拿了 897 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 897 stars today | 📦 总星 272,399 | 🍴 40,673 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 4. Effect-TS/effect\n\n**Effect-TS/effect** 今天拿了 302 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 302 stars today | 📦 总星 16,875 | 🍴 816 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Effect-TS/effect)\n\n### 5. JuliusBrussee/caveman\n\n**JuliusBrussee/caveman** — 用 Go 写就。今天获得了 507 stars today 颗星，证明 Go 还活着且活得挺好。\n\n⭐ 507 stars today | 📦 总星 109,613 | 🍴 6,341 | 💻 Go\n[🔗 查看项目](https://github.com/JuliusBrussee/caveman)\n\n### 6. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** — Give your AI agent eyes to see the entire internet. Read & search Twit... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,696 stars today | 📦 总星 90,026 | 🍴 7,918 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 7. pingdotgg/t3code\n\n**pingdotgg/t3code** — ...  听起来像个周末项目，但它已经有 24,789 总星了。周末项目，认真的吗？\n\n⭐ 252 stars today | 📦 总星 24,789 | 🍴 6,454 | 💻 TypeScript\n[🔗 查看项目](https://github.com/pingdotgg/t3code)\n\n### 8. thedotmack/claude-mem\n\n**thedotmack/claude-mem** — 如果你还没 star，那你可能错过了今天的船票。79 stars today 人已经上船了。\n\n⭐ 79 stars today | 📦 总星 95,697 | 🍴 8,465 | 💻 TypeScript\n[🔗 查看项目](https://github.com/thedotmack/claude-mem)\n\n### 9. cloudflare/cloudflare-os\n\n**cloudflare/cloudflare-os** — Agent workspace built on Cloudflare Workers for creating doc...  听起来像个周末项目，但它已经有 10,634 总星了。周末项目，认真的吗？\n\n⭐ 85 stars today | 📦 总星 10,634 | 🍴 1,287 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cloudflare/cloudflare-os)\n\n### 10. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — 用 JavaScript 写就。今天获得了 252 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 252 stars today | 📦 总星 100,910 | 🍴 10,599 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n---\n\n## 🫡 荣誉提名\n\n- **obra/superpowers** — An agentic skills framework & software development methodology that works.  ⭐ 577 stars today\n- **mattpocock/skills** — Skills for Real Engineers. Straight from my .agents directory.  ⭐ 751 stars today\n- **mksglu/context-mode** — Context window optimization for AI coding agents. Sandboxes tool output (98% red...  ⭐ 256 stars today\n- **earendil-works/pi** — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI  ⭐ 408 stars today\n- **getsentry/sentry** — Developer-first error tracking and performance monitoring  ⭐ 214 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-04T06:13:47.101712+00:00"
+}
