@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-05",
+  "repos": [
+    {
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "desc": "Next generation e2e testing framework for web and mobile apps.",
+      "lang": "TypeScript",
+      "stars_today": "345 stars today",
+      "total_stars": "3,424",
+      "forks": "132"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "1,171 stars today",
+      "total_stars": "76,480",
+      "forks": "4,562"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_today": "197 stars today",
+      "total_stars": "53,182",
+      "forks": "7,923"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,894 stars today",
+      "total_stars": "155,157",
+      "forks": "8,340"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "desc": "Give your agent CAD superpowers.",
+      "lang": "Python",
+      "stars_today": "83 stars today",
+      "total_stars": "16,977",
+      "forks": "1,750"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "980 stars today",
+      "total_stars": "91,137",
+      "forks": "8,006"
+    },
+    {
+      "name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "desc": "Developer-first error tracking and performance monitoring",
+      "lang": "Python",
+      "stars_today": "152 stars today",
+      "total_stars": "45,432",
+      "forks": "4,906"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "245 stars today",
+      "total_stars": "63,367",
+      "forks": "8,072"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "490 stars today",
+      "total_stars": "25,277",
+      "forks": "6,532"
+    },
+    {
+      "name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "lang": "Go",
+      "stars_today": "24 stars today",
+      "total_stars": "76,664",
+      "forks": "5,049"
+    },
+    {
+      "name": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "desc": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "lang": "JavaScript",
+      "stars_today": "232 stars today",
+      "total_stars": "1,209",
+      "forks": "136"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "336 stars today",
+      "total_stars": "101,283",
+      "forks": "10,623"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "628 stars today",
+      "total_stars": "96,248",
+      "forks": "8,496"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "125 stars today",
+      "total_stars": "135,223",
+      "forks": "20,095"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "The open-source CapCut alternative",
+      "lang": "TypeScript",
+      "stars_today": "512 stars today",
+      "total_stars": "92,316",
+      "forks": "9,091"
+    },
+    {
+      "name": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "desc": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "lang": "C",
+      "stars_today": "211 stars today",
+      "total_stars": "23,489",
+      "forks": "2,255"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-10-05  |  🔍 共收录 16 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 5 | **JavaScript**: 5 | **Python**: 4 | **Go**: 1 | **C**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. tester-army/e2e\n\n**tester-army/e2e** — Next generation e2e testing framework for web and mobile app...  听起来像个周末项目，但它已经有 3,424 总星了。周末项目，认真的吗？\n\n⭐ 345 stars today | 📦 总星 3,424 | 🍴 132 | 💻 TypeScript\n[🔗 查看项目](https://github.com/tester-army/e2e)\n\n### 2. pbakaus/impeccable\n\n**pbakaus/impeccable** 今天拿了 1,171 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,171 stars today | 📦 总星 76,480 | 🍴 4,562 | 💻 JavaScript\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 3. coreyhaines31/marketingskills\n\n**coreyhaines31/marketingskills** — 用 JavaScript 写就。今天获得了 197 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 197 stars today | 📦 总星 53,182 | 🍴 7,923 | 💻 JavaScript\n[🔗 查看项目](https://github.com/coreyhaines31/marketingskills)\n\n### 4. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — JavaScript 写的，当然好（不是）。Makes your AI agent think like the laziest senior dev in the...  1,894 stars today 人表示「先 star 为敬」。\n\n⭐ 1,894 stars today | 📦 总星 155,157 | 🍴 8,340 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 5. earthtojake/text-to-cad\n\n**earthtojake/text-to-cad** — Give your agent CAD superpowers.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 83 stars today | 📦 总星 16,977 | 🍴 1,750 | 💻 Python\n[🔗 查看项目](https://github.com/earthtojake/text-to-cad)\n\n### 6. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** — Give your AI agent eyes to see the entire internet. Read & search Twit... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 980 stars today | 📦 总星 91,137 | 🍴 8,006 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 7. getsentry/sentry\n\n**getsentry/sentry** — 用 Python 写就。今天获得了 152 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 152 stars today | 📦 总星 45,432 | 🍴 4,906 | 💻 Python\n[🔗 查看项目](https://github.com/getsentry/sentry)\n\n### 8. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — 如果你还没 star，那你可能错过了今天的船票。245 stars today 人已经上船了。\n\n⭐ 245 stars today | 📦 总星 63,367 | 🍴 8,072 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 9. pingdotgg/t3code\n\n**pingdotgg/t3code** — ...  490 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 490 stars today | 📦 总星 25,277 | 🍴 6,532 | 💻 TypeScript\n[🔗 查看项目](https://github.com/pingdotgg/t3code)\n\n### 10. caddyserver/caddy\n\n**caddyserver/caddy** — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS...  24 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 24 stars today | 📦 总星 76,664 | 🍴 5,049 | 💻 Go\n[🔗 查看项目](https://github.com/caddyserver/caddy)\n\n---\n\n## 🫡 荣誉提名\n\n- **michael-denyer/pstack-claude** — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's p...  ⭐ 232 stars today\n- **addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.  ⭐ 336 stars today\n- **thedotmack/claude-mem** — Persistent Context Across Sessions for Every Agent – Captures everything your ag...  ⭐ 628 stars today\n- **garrytan/gstack** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...  ⭐ 125 stars today\n- **OpenCut-app/OpenCut** — The open-source CapCut alternative  ⭐ 512 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-05T06:06:07.491451+00:00"
+}
