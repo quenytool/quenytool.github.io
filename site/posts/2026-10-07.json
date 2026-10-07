@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-07",
+  "repos": [
+    {
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "desc": "Next generation e2e testing framework for web and mobile apps.",
+      "lang": "TypeScript",
+      "stars_today": "1,725 stars today",
+      "total_stars": "6,595",
+      "forks": "292"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "889 stars today",
+      "total_stars": "278,428",
+      "forks": "23,314"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "desc": "Give your agent CAD superpowers.",
+      "lang": "Python",
+      "stars_today": "619 stars today",
+      "total_stars": "18,102",
+      "forks": "1,810"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_today": "949 stars today",
+      "total_stars": "7,011",
+      "forks": "525"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "616 stars today",
+      "total_stars": "77,859",
+      "forks": "4,633"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "534 stars today",
+      "total_stars": "97,288",
+      "forks": "8,572"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "lang": "Python",
+      "stars_today": "326 stars today",
+      "total_stars": "54,539",
+      "forks": "3,133"
+    },
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "2,956 stars today",
+      "total_stars": "10,479",
+      "forks": "1,158"
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "desc": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "lang": "Cuda",
+      "stars_today": "199 stars today",
+      "total_stars": "8,781",
+      "forks": "1,385"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "623 stars today",
+      "total_stars": "157,976",
+      "forks": "25,462"
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "desc": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "lang": "JavaScript",
+      "stars_today": "1,419 stars today",
+      "total_stars": "5,993",
+      "forks": "814"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "228 stars today",
+      "total_stars": "44,212",
+      "forks": "2,849"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-10-07  |  🔍 共收录 12 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Shell**: 2 | **Python**: 2 | **JavaScript**: 2 | **C++**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. tester-army/e2e\n\n**tester-army/e2e** — 用 TypeScript 写就。今天获得了 1,725 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 1,725 stars today | 📦 总星 6,595 | 🍴 292 | 💻 TypeScript\n[🔗 查看项目](https://github.com/tester-army/e2e)\n\n### 2. mattpocock/skills\n\n**mattpocock/skills** — Shell 写的，当然好（不是）。Skills for Real Engineers. Straight from my .agents director...  889 stars today 人表示「先 star 为敬」。\n\n⭐ 889 stars today | 📦 总星 278,428 | 🍴 23,314 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 3. earthtojake/text-to-cad\n\n**earthtojake/text-to-cad** — 用 Python 写就。今天获得了 619 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 619 stars today | 📦 总星 18,102 | 🍴 1,810 | 💻 Python\n[🔗 查看项目](https://github.com/earthtojake/text-to-cad)\n\n### 4. boykopovar/AnyPS5\n\n**boykopovar/AnyPS5** — Tool for automatic PS5 executables porting to Linux and Wind...  听起来像个周末项目，但它已经有 7,011 总星了。周末项目，认真的吗？\n\n⭐ 949 stars today | 📦 总星 7,011 | 🍴 525 | 💻 C++\n[🔗 查看项目](https://github.com/boykopovar/AnyPS5)\n\n### 5. pbakaus/impeccable\n\n**pbakaus/impeccable** — The design language that makes your AI harness better at des...  听起来像个周末项目，但它已经有 77,859 总星了。周末项目，认真的吗？\n\n⭐ 616 stars today | 📦 总星 77,859 | 🍴 4,633 | 💻 JavaScript\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 6. thedotmack/claude-mem\n\n**thedotmack/claude-mem** — Persistent Context Across Sessions for Every Agent – Capture...  听起来像个周末项目，但它已经有 97,288 总星了。周末项目，认真的吗？\n\n⭐ 534 stars today | 📦 总星 97,288 | 🍴 8,572 | 💻 TypeScript\n[🔗 查看项目](https://github.com/thedotmack/claude-mem)\n\n### 7. ayghri/i-have-adhd\n\n**ayghri/i-have-adhd** — 如果你还没 star，那你可能错过了今天的船票。326 stars today 人已经上船了。\n\n⭐ 326 stars today | 📦 总星 54,539 | 🍴 3,133 | 💻 Python\n[🔗 查看项目](https://github.com/ayghri/i-have-adhd)\n\n### 8. morluto/rea\n\n**morluto/rea** — Reverse engineer anything with agents, from app behavior down to native binaries...  2,956 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,956 stars today | 📦 总星 10,479 | 🍴 1,158 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 9. deepseek-ai/DeepGEMM\n\n**deepseek-ai/DeepGEMM** 今天拿了 199 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 199 stars today | 📦 总星 8,781 | 🍴 1,385 | 💻 Cuda\n[🔗 查看项目](https://github.com/deepseek-ai/DeepGEMM)\n\n### 10. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wiza...  听起来像个周末项目，但它已经有 157,976 总星了。周末项目，认真的吗？\n\n⭐ 623 stars today | 📦 总星 157,976 | 🍴 25,462 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n---\n\n## 🫡 荣誉提名\n\n- **DuarteSantos8/openGym** — Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, ...  ⭐ 1,419 stars today\n- **cathrynlavery/diagram-design** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ...  ⭐ 228 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-07T06:21:25.886886+00:00"
+}
