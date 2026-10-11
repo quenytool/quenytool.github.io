@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-11",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "25,793 stars today",
+      "total_stars": "78,630",
+      "forks": "16,926"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_today": "5,805 stars today",
+      "total_stars": "27,477",
+      "forks": "2,321"
+    },
+    {
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_today": "3,222 stars today",
+      "total_stars": "15,080",
+      "forks": "2,396"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "1,190 stars today",
+      "total_stars": "49,209",
+      "forks": "3,116"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "178 stars today",
+      "total_stars": "26,431",
+      "forks": "1,903"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,736 stars today",
+      "total_stars": "284,853",
+      "forks": "23,840"
+    },
+    {
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "lang": "Dart",
+      "stars_today": "88 stars today",
+      "total_stars": "179,629",
+      "forks": "33,623"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "desc": "An Open Source Machine Learning Framework for Everyone",
+      "lang": "C++",
+      "stars_today": "26 stars today",
+      "total_stars": "200,788",
+      "forks": "78,988"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "lang": "Python",
+      "stars_today": "461 stars today",
+      "total_stars": "59,731",
+      "forks": "4,711"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "lang": "Python",
+      "stars_today": "84 stars today",
+      "total_stars": "104,200",
+      "forks": "31,968"
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "lang": "Python",
+      "stars_today": "96 stars today",
+      "total_stars": "167,376",
+      "forks": "34,809"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "625 stars today",
+      "total_stars": "28,916",
+      "forks": "3,285"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "278 stars today",
+      "total_stars": "218,448",
+      "forks": "21,997"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-10-11\n\n> 📅 2026-10-11  |  🔍 共收录 13 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 2 | **C++**: 2 | **Rust**: 1 | **HTML**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — Reverse engineer anything with agents, from app behavior dow...  听起来像个周末项目，但它已经有 78,630 总星了。周末项目，认真的吗？\n\n⭐ 25,793 stars today | 📦 总星 78,630 | 🍴 16,926 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. boykopovar/AnyPS5\n\n**boykopovar/AnyPS5** — Tool for automatic PS5 executables porting to Linux and Wind...  听起来像个周末项目，但它已经有 27,477 总星了。周末项目，认真的吗？\n\n⭐ 5,805 stars today | 📦 总星 27,477 | 🍴 2,321 | 💻 C++\n[🔗 查看项目](https://github.com/boykopovar/AnyPS5)\n\n### 3. storytold/artcraft\n\n**storytold/artcraft** — ArtCraft is an intentional crafting engine for artists, designers, and filmmaker...  3,222 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 3,222 stars today | 📦 总星 15,080 | 🍴 2,396 | 💻 Rust\n[🔗 查看项目](https://github.com/storytold/artcraft)\n\n### 4. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory...  1,190 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,190 stars today | 📦 总星 49,209 | 🍴 3,116 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 5. mksglu/context-mode\n\n**mksglu/context-mode** — Context window optimization for AI coding agents. Sandboxes tool outpu... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 178 stars today | 📦 总星 26,431 | 🍴 1,903 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 6. mattpocock/skills\n\n**mattpocock/skills** — 如果你还没 star，那你可能错过了今天的船票。1,736 stars today 人已经上船了。\n\n⭐ 1,736 stars today | 📦 总星 284,853 | 🍴 23,840 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 7. flutter/flutter\n\n**flutter/flutter** — Dart 写的，当然好（不是）。Flutter makes it easy and fast to build beautiful apps for m...  88 stars today 人表示「先 star 为敬」。\n\n⭐ 88 stars today | 📦 总星 179,629 | 🍴 33,623 | 💻 Dart\n[🔗 查看项目](https://github.com/flutter/flutter)\n\n### 8. tensorflow/tensorflow\n\n**tensorflow/tensorflow** — C++ 写的，当然好（不是）。An Open Source Machine Learning Framework for Everyone...  26 stars today 人表示「先 star 为敬」。\n\n⭐ 26 stars today | 📦 总星 200,788 | 🍴 78,988 | 💻 C++\n[🔗 查看项目](https://github.com/tensorflow/tensorflow)\n\n### 9. hugohe3/ppt-master\n\n**hugohe3/ppt-master** — 用 Python 写就。今天获得了 461 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 461 stars today | 📦 总星 59,731 | 🍴 4,711 | 💻 Python\n[🔗 查看项目](https://github.com/hugohe3/ppt-master)\n\n### 10. pytorch/pytorch\n\n**pytorch/pytorch** — 用 Python 写就。今天获得了 84 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 84 stars today | 📦 总星 104,200 | 🍴 31,968 | 💻 Python\n[🔗 查看项目](https://github.com/pytorch/pytorch)\n\n---\n\n## 🫡 荣誉提名\n\n- **huggingface/transformers** — 🤗 Transformers: the model-definition framework for state-of-the-art machine lear...  ⭐ 96 stars today\n- **anthropics/knowledge-work-plugins** — Open source repository of plugins primarily intended for knowledge workers to us...  ⭐ 625 stars today\n- **multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...  ⭐ 278 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-11T06:17:26.864970+00:00"
+}
