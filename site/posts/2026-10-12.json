@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-12",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "25,599 stars today",
+      "total_stars": "117,871",
+      "forks": "26,481"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_today": "3,952 stars today",
+      "total_stars": "30,848",
+      "forks": "2,656"
+    },
+    {
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_today": "2,957 stars today",
+      "total_stars": "18,878",
+      "forks": "3,092"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "1,083 stars today",
+      "total_stars": "50,922",
+      "forks": "3,230"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "886 stars today",
+      "total_stars": "52,147",
+      "forks": "10,433"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "lang": "Python",
+      "stars_today": "315 stars today",
+      "total_stars": "104,623",
+      "forks": "32,177"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "548 stars today",
+      "total_stars": "36,733",
+      "forks": "3,828"
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "lang": "Assembly",
+      "stars_today": "466 stars today",
+      "total_stars": "74,401",
+      "forks": "8,114"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：rea 霸榜，开发者集体失眠\n\n> 📅 2026-10-12  |  🔍 共收录 8 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 1 | **C++**: 1 | **Rust**: 1 | **HTML**: 1 | **JavaScript**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — TypeScript 写的，当然好（不是）。Reverse engineer anything with agents, from app behavior dow...  25,599 stars today 人表示「先 star 为敬」。\n\n⭐ 25,599 stars today | 📦 总星 117,871 | 🍴 26,481 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. boykopovar/AnyPS5\n\n**boykopovar/AnyPS5** — Tool for automatic PS5 executables porting to Linux and Wind...  听起来像个周末项目，但它已经有 30,848 总星了。周末项目，认真的吗？\n\n⭐ 3,952 stars today | 📦 总星 30,848 | 🍴 2,656 | 💻 C++\n[🔗 查看项目](https://github.com/boykopovar/AnyPS5)\n\n### 3. storytold/artcraft\n\n**storytold/artcraft** — 如果你还没 star，那你可能错过了今天的船票。2,957 stars today 人已经上船了。\n\n⭐ 2,957 stars today | 📦 总星 18,878 | 🍴 3,092 | 💻 Rust\n[🔗 查看项目](https://github.com/storytold/artcraft)\n\n### 4. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — 如果你还没 star，那你可能错过了今天的船票。1,083 stars today 人已经上船了。\n\n⭐ 1,083 stars today | 📦 总星 50,922 | 🍴 3,230 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 5. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — 用 JavaScript 写就。今天获得了 886 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 886 stars today | 📦 总星 52,147 | 🍴 10,433 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 6. pytorch/pytorch\n\n**pytorch/pytorch** — Tensors and Dynamic neural networks in Python with strong GPU acceleration...  315 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 315 stars today | 📦 总星 104,623 | 🍴 32,177 | 💻 Python\n[🔗 查看项目](https://github.com/pytorch/pytorch)\n\n### 7. lyogavin/airllm\n\n**lyogavin/airllm** — 用 Jupyter Notebook 写就。今天获得了 548 stars today 颗星，证明 Jupyter Notebook 还活着且活得挺好。\n\n⭐ 548 stars today | 📦 总星 36,733 | 🍴 3,828 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/lyogavin/airllm)\n\n### 8. chrislgarry/Apollo-11\n\n**chrislgarry/Apollo-11** — Original Apollo 11 Guidance Computer (AGC) source code for the command... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 466 stars today | 📦 总星 74,401 | 🍴 8,114 | 💻 Assembly\n[🔗 查看项目](https://github.com/chrislgarry/Apollo-11)\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-12T06:23:51.715610+00:00"
+}
