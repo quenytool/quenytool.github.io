@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-13",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "45,327 stars today",
+      "total_stars": "174,001",
+      "forks": "41,703"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "1,895 stars today",
+      "total_stars": "54,180",
+      "forks": "10,664"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "246 stars today",
+      "total_stars": "27,551",
+      "forks": "1,956"
+    },
+    {
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_today": "4,095 stars today",
+      "total_stars": "23,117",
+      "forks": "3,690"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "lang": "Python",
+      "stars_today": "157 stars today",
+      "total_stars": "155,324",
+      "forks": "22,663"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "2,081 stars today",
+      "total_stars": "53,065",
+      "forks": "3,352"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "879 stars today",
+      "total_stars": "37,769",
+      "forks": "3,890"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "lang": "C++",
+      "stars_today": "97 stars today",
+      "total_stars": "41,026",
+      "forks": "3,819"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_today": "626 stars today",
+      "total_stars": "59,510",
+      "forks": "9,353"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：rea 霸榜，开发者集体失眠\n\n> 📅 2026-10-13  |  🔍 共收录 9 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 2 | **Python**: 2 | **JavaScript**: 1 | **Rust**: 1 | **HTML**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — 用 TypeScript 写就。今天获得了 45,327 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 45,327 stars today | 📦 总星 174,001 | 🍴 41,703 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — 用 JavaScript 写就。今天获得了 1,895 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 1,895 stars today | 📦 总星 54,180 | 🍴 10,664 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 3. mksglu/context-mode\n\n**mksglu/context-mode** — Context window optimization for AI coding agents. Sandboxes ...  听起来像个周末项目，但它已经有 27,551 总星了。周末项目，认真的吗？\n\n⭐ 246 stars today | 📦 总星 27,551 | 🍴 1,956 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 4. storytold/artcraft\n\n**storytold/artcraft** — 如果你还没 star，那你可能错过了今天的船票。4,095 stars today 人已经上船了。\n\n⭐ 4,095 stars today | 📦 总星 23,117 | 🍴 3,690 | 💻 Rust\n[🔗 查看项目](https://github.com/storytold/artcraft)\n\n### 5. open-webui/open-webui\n\n**open-webui/open-webui** — User-friendly AI Interface (Supports Ollama, OpenAI API, ......  听起来像个周末项目，但它已经有 155,324 总星了。周末项目，认真的吗？\n\n⭐ 157 stars today | 📦 总星 155,324 | 🍴 22,663 | 💻 Python\n[🔗 查看项目](https://github.com/open-webui/open-webui)\n\n### 6. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Curso... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,081 stars today | 📦 总星 53,065 | 🍴 3,352 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 7. lyogavin/airllm\n\n**lyogavin/airllm** — Jupyter Notebook 写的，当然好（不是）。AirLLM 2.8T LLM inference with single 4GB GPU...  879 stars today 人表示「先 star 为敬」。\n\n⭐ 879 stars today | 📦 总星 37,769 | 🍴 3,890 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/lyogavin/airllm)\n\n### 8. microsoft/BitNet\n\n**microsoft/BitNet** — 用 C++ 写就。今天获得了 97 stars today 颗星，证明 C++ 还活着且活得挺好。\n\n⭐ 97 stars today | 📦 总星 41,026 | 🍴 3,819 | 💻 C++\n[🔗 查看项目](https://github.com/microsoft/BitNet)\n\n### 9. Alishahryar1/free-claude-code\n\n**Alishahryar1/free-claude-code** — Python 写的，当然好（不是）。Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 othe...  626 stars today 人表示「先 star 为敬」。\n\n⭐ 626 stars today | 📦 总星 59,510 | 🍴 9,353 | 💻 Python\n[🔗 查看项目](https://github.com/Alishahryar1/free-claude-code)\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-13T07:01:05.253078+00:00"
+}
