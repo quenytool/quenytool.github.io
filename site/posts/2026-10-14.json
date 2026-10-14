@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-14",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "54,679 stars today",
+      "total_stars": "215,520",
+      "forks": "53,141"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "1,961 stars today",
+      "total_stars": "55,716",
+      "forks": "10,873"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "1,748 stars today",
+      "total_stars": "63,955",
+      "forks": "7,112"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "969 stars today",
+      "total_stars": "28,419",
+      "forks": "2,001"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "1,815 stars today",
+      "total_stars": "54,495",
+      "forks": "3,448"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "desc": "The open agent skills tool - npx skills",
+      "lang": "TypeScript",
+      "stars_today": "190 stars today",
+      "total_stars": "34,671",
+      "forks": "2,956"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "1,001 stars today",
+      "total_stars": "38,447",
+      "forks": "3,931"
+    },
+    {
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_today": "4,081 stars today",
+      "total_stars": "26,235",
+      "forks": "4,109"
+    },
+    {
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "lang": "Swift",
+      "stars_today": "1,198 stars today",
+      "total_stars": "9,671",
+      "forks": "410"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-10-14：rea 带着 54,679 stars today 颗星杀过来了\n\n> 📅 2026-10-14  |  🔍 共收录 9 个热门项目\n\n每天打开 GitHub Trending 的瞬间，就像拆盲盒——你不知道会看到一个改变世界的项目，还是又一个「用 Rust 重写一切」的尝试。今日拆盒结果如下：\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **JavaScript**: 1 | **Python**: 1 | **HTML**: 1 | **Jupyter Notebook**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — Reverse engineer anything with agents, from app behavior down to nativ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 54,679 stars today | 📦 总星 215,520 | 🍴 53,141 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — 如果你还没 star，那你可能错过了今天的船票。1,961 stars today 人已经上船了。\n\n⭐ 1,961 stars today | 📦 总星 55,716 | 🍴 10,873 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 3. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — VoiceStudio is the open-source, fully-local ElevenLabs alter...  听起来像个周末项目，但它已经有 63,955 总星了。周末项目，认真的吗？\n\n⭐ 1,748 stars today | 📦 总星 63,955 | 🍴 7,112 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 4. mksglu/context-mode\n\n**mksglu/context-mode** — Context window optimization for AI coding agents. Sandboxes tool output (98% red...  969 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 969 stars today | 📦 总星 28,419 | 🍴 2,001 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 5. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — 用 HTML 写就。今天获得了 1,815 stars today 颗星，证明 HTML 还活着且活得挺好。\n\n⭐ 1,815 stars today | 📦 总星 54,495 | 🍴 3,448 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 6. vercel-labs/skills\n\n**vercel-labs/skills** — The open agent skills tool - npx skills...  听起来像个周末项目，但它已经有 34,671 总星了。周末项目，认真的吗？\n\n⭐ 190 stars today | 📦 总星 34,671 | 🍴 2,956 | 💻 TypeScript\n[🔗 查看项目](https://github.com/vercel-labs/skills)\n\n### 7. lyogavin/airllm\n\n**lyogavin/airllm** — AirLLM 2.8T LLM inference with single 4GB GPU...  1,001 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,001 stars today | 📦 总星 38,447 | 🍴 3,931 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/lyogavin/airllm)\n\n### 8. storytold/artcraft\n\n**storytold/artcraft** — ArtCraft is an intentional crafting engine for artists, desi...  听起来像个周末项目，但它已经有 26,235 总星了。周末项目，认真的吗？\n\n⭐ 4,081 stars today | 📦 总星 26,235 | 🍴 4,109 | 💻 Rust\n[🔗 查看项目](https://github.com/storytold/artcraft)\n\n### 9. xtool-org/xtool\n\n**xtool-org/xtool** — Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linu...  1,198 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,198 stars today | 📦 总星 9,671 | 🍴 410 | 💻 Swift\n[🔗 查看项目](https://github.com/xtool-org/xtool)\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-14T05:16:00.896704+00:00"
+}
