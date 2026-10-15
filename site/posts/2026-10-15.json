@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-15",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "41,034 stars today",
+      "total_stars": "248,602",
+      "forks": "62,377"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "3,538 stars today",
+      "total_stars": "66,952",
+      "forks": "7,366"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "947 stars today",
+      "total_stars": "29,289",
+      "forks": "2,054"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "lang": "Shell",
+      "stars_today": "52 stars today",
+      "total_stars": "95,491",
+      "forks": "10,521"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_today": "163 stars today",
+      "total_stars": "49,565",
+      "forks": "4,436"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_today": "103 stars today",
+      "total_stars": "52,664",
+      "forks": "4,780"
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "lang": "Python",
+      "stars_today": "2,109 stars today",
+      "total_stars": "27,690",
+      "forks": "1,514"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "lang": "Go",
+      "stars_today": "1,025 stars today",
+      "total_stars": "29,795",
+      "forks": "4,469"
+    },
+    {
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "desc": "Empowering everyone to build reliable and efficient software.",
+      "lang": "Rust",
+      "stars_today": "207 stars today",
+      "total_stars": "120,130",
+      "forks": "18,706"
+    },
+    {
+      "name": "xtool-org/xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "lang": "Swift",
+      "stars_today": "1,502 stars today",
+      "total_stars": "11,068",
+      "forks": "505"
+    },
+    {
+      "name": "ntdevlabs/tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "desc": "WinUI app for building smaller, customized Windows 11 images.",
+      "lang": "C#",
+      "stars_today": "139 stars today",
+      "total_stars": "20,325",
+      "forks": "1,559"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_today": "1,008 stars today",
+      "total_stars": "87,775",
+      "forks": "9,788"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-10-15：今天的代码，明天的 bug\n\n> 📅 2026-10-15  |  🔍 共收录 12 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 2 | **Shell**: 1 | **Go**: 1 | **Rust**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — TypeScript 写的，当然好（不是）。Reverse engineer anything with agents, from app behavior dow...  41,034 stars today 人表示「先 star 为敬」。\n\n⭐ 41,034 stars today | 📦 总星 248,602 | 🍴 62,377 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — Python 写的，当然好（不是）。VoiceStudio is the open-source, fully-local ElevenLabs alter...  3,538 stars today 人表示「先 star 为敬」。\n\n⭐ 3,538 stars today | 📦 总星 66,952 | 🍴 7,366 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 3. mksglu/context-mode\n\n**mksglu/context-mode** 今天拿了 947 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 947 stars today | 📦 总星 29,289 | 🍴 2,054 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 4. nvm-sh/nvm\n\n**nvm-sh/nvm** — 用 Shell 写就。今天获得了 52 stars today 颗星，证明 Shell 还活着且活得挺好。\n\n⭐ 52 stars today | 📦 总星 95,491 | 🍴 10,521 | 💻 Shell\n[🔗 查看项目](https://github.com/nvm-sh/nvm)\n\n### 5. K-Dense-AI/scientific-agent-skills\n\n**K-Dense-AI/scientific-agent-skills** — 如果你还没 star，那你可能错过了今天的船票。163 stars today 人已经上船了。\n\n⭐ 163 stars today | 📦 总星 49,565 | 🍴 4,436 | 💻 Python\n[🔗 查看项目](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n### 6. HKUDS/CLI-Anything\n\n**HKUDS/CLI-Anything** — 如果你还没 star，那你可能错过了今天的船票。103 stars today 人已经上船了。\n\n⭐ 103 stars today | 📦 总星 52,664 | 🍴 4,780 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/CLI-Anything)\n\n### 7. ifixai-ai/iFixAi\n\n**ifixai-ai/iFixAi** — Python 写的，当然好（不是）。Independent Auditing of AI Agents. Run by human or the agent...  2,109 stars today 人表示「先 star 为敬」。\n\n⭐ 2,109 stars today | 📦 总星 27,690 | 🍴 1,514 | 💻 Python\n[🔗 查看项目](https://github.com/ifixai-ai/iFixAi)\n\n### 8. vxcontrol/pentagi\n\n**vxcontrol/pentagi** — Go 写的，当然好（不是）。Fully autonomous AI Agents system capable of performing comp...  1,025 stars today 人表示「先 star 为敬」。\n\n⭐ 1,025 stars today | 📦 总星 29,795 | 🍴 4,469 | 💻 Go\n[🔗 查看项目](https://github.com/vxcontrol/pentagi)\n\n### 9. rust-lang/rust\n\n**rust-lang/rust** — 如果你还没 star，那你可能错过了今天的船票。207 stars today 人已经上船了。\n\n⭐ 207 stars today | 📦 总星 120,130 | 🍴 18,706 | 💻 Rust\n[🔗 查看项目](https://github.com/rust-lang/rust)\n\n### 10. xtool-org/xtool\n\n**xtool-org/xtool** — Cross-platform Xcode replacement. Build and deploy iOS apps ...  听起来像个周末项目，但它已经有 11,068 总星了。周末项目，认真的吗？\n\n⭐ 1,502 stars today | 📦 总星 11,068 | 🍴 505 | 💻 Swift\n[🔗 查看项目](https://github.com/xtool-org/xtool)\n\n---\n\n## 🫡 荣誉提名\n\n- **ntdevlabs/tiny11builder** — WinUI app for building smaller, customized Windows 11 images.  ⭐ 139 stars today\n- **NationalSecurityAgency/ghidra** — Ghidra is a software reverse engineering (SRE) framework  ⭐ 1,008 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-15T05:03:34.300598+00:00"
+}
