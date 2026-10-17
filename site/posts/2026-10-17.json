@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-17",
+  "repos": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "1,552 stars today",
+      "total_stars": "40,781",
+      "forks": "4,412"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_today": "1,158 stars today",
+      "total_stars": "51,647",
+      "forks": "4,573"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,057 stars today",
+      "total_stars": "281,648",
+      "forks": "41,881"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_today": "281 stars today",
+      "total_stars": "53,596",
+      "forks": "4,863"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "449 stars today",
+      "total_stars": "30,290",
+      "forks": "2,134"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_today": "672 stars today",
+      "total_stars": "75,706",
+      "forks": "8,970"
+    },
+    {
+      "name": "android/skills",
+      "url": "https://github.com/android/skills",
+      "desc": "",
+      "lang": "Kotlin",
+      "stars_today": "36 stars today",
+      "total_stars": "8,140",
+      "forks": "539"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "973 stars today",
+      "total_stars": "300,762",
+      "forks": "26,849"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "278 stars today",
+      "total_stars": "12,033",
+      "forks": "1,166"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "2,301 stars today",
+      "total_stars": "71,558",
+      "forks": "7,824"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_today": "898 stars today",
+      "total_stars": "48,750",
+      "forks": "16,683"
+    },
+    {
+      "name": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "desc": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "lang": "JavaScript",
+      "stars_today": "538 stars today",
+      "total_stars": "23,905",
+      "forks": "1,456"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "lang": "Rust",
+      "stars_today": "1,648 stars today",
+      "total_stars": "7,075",
+      "forks": "360"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：claude-plugins-official 爆火，Python 又双叒叕赢了\n\n> 📅 2026-10-17  |  🔍 共收录 13 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 3 | **JavaScript**: 2 | **Kotlin**: 1 | **Shell**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** 今天拿了 1,552 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,552 stars today | 📦 总星 40,781 | 🍴 4,412 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 2. K-Dense-AI/scientific-agent-skills\n\n**K-Dense-AI/scientific-agent-skills** — 用 Python 写就。今天获得了 1,158 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 1,158 stars today | 📦 总星 51,647 | 🍴 4,573 | 💻 Python\n[🔗 查看项目](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n### 3. affaan-m/ECC\n\n**affaan-m/ECC** — 如果你还没 star，那你可能错过了今天的船票。1,057 stars today 人已经上船了。\n\n⭐ 1,057 stars today | 📦 总星 281,648 | 🍴 41,881 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 4. HKUDS/CLI-Anything\n\n**HKUDS/CLI-Anything** — \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://c... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 281 stars today | 📦 总星 53,596 | 🍴 4,863 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/CLI-Anything)\n\n### 5. mksglu/context-mode\n\n**mksglu/context-mode** — 如果你还没 star，那你可能错过了今天的船票。449 stars today 人已经上船了。\n\n⭐ 449 stars today | 📦 总星 30,290 | 🍴 2,134 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 6. ruvnet/ruflo\n\n**ruvnet/ruflo** — 🌊 The original agent harness. Deploy intelligent multi-player swarms, ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 672 stars today | 📦 总星 75,706 | 🍴 8,970 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ruvnet/ruflo)\n\n### 7. android/skills\n\n**android/skills** 今天拿了 36 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 36 stars today | 📦 总星 8,140 | 🍴 539 | 💻 Kotlin\n[🔗 查看项目](https://github.com/android/skills)\n\n### 8. obra/superpowers\n\n**obra/superpowers** — Shell 写的，当然好（不是）。An agentic skills framework & software development methodolo...  973 stars today 人表示「先 star 为敬」。\n\n⭐ 973 stars today | 📦 总星 300,762 | 🍴 26,849 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 9. cursor/plugins\n\n**cursor/plugins** — Cursor plugin specification and official plugins...  听起来像个周末项目，但它已经有 12,033 总星了。周末项目，认真的吗？\n\n⭐ 278 stars today | 📦 总星 12,033 | 🍴 1,166 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cursor/plugins)\n\n### 10. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — VoiceStudio is the open-source, fully-local ElevenLabs alter...  听起来像个周末项目，但它已经有 71,558 总星了。周末项目，认真的吗？\n\n⭐ 2,301 stars today | 📦 总星 71,558 | 🍴 7,824 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n---\n\n## 🫡 荣誉提名\n\n- **MadsLorentzen/ai-job-search** — The job search that runs on your machine. AI job application framework built on ...  ⭐ 898 stars today\n- **hmjz100/LinkSwift** — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅...  ⭐ 538 stars today\n- **xerj-org/xerj** — XERJ is the new way for AI to search data. Its autoindex capability activates ag...  ⭐ 1,648 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-17T04:53:43.106168+00:00"
+}
