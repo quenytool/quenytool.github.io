@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-18",
+  "repos": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "1,397 stars today",
+      "total_stars": "41,945",
+      "forks": "4,474"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "lang": "Python",
+      "stars_today": "1,365 stars today",
+      "total_stars": "50,740",
+      "forks": "16,966"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,145 stars today",
+      "total_stars": "282,662",
+      "forks": "41,999"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "lang": "Python",
+      "stars_today": "574 stars today",
+      "total_stars": "54,162",
+      "forks": "4,909"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_today": "878 stars today",
+      "total_stars": "52,360",
+      "forks": "4,638"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars_today": "178 stars today",
+      "total_stars": "10,022",
+      "forks": "726"
+    },
+    {
+      "name": "android/skills",
+      "url": "https://github.com/android/skills",
+      "desc": "",
+      "lang": "Kotlin",
+      "stars_today": "355 stars today",
+      "total_stars": "8,485",
+      "forks": "556"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "lang": "TypeScript",
+      "stars_today": "830 stars today",
+      "total_stars": "95,601",
+      "forks": "6,121"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "lang": "TypeScript",
+      "stars_today": "179 stars today",
+      "total_stars": "151,892",
+      "forks": "26,889"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "2,125 stars today",
+      "total_stars": "73,683",
+      "forks": "8,065"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "desc": "The open source coding agent.",
+      "lang": "TypeScript",
+      "stars_today": "438 stars today",
+      "total_stars": "215,576",
+      "forks": "28,888"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_today": "420 stars today",
+      "total_stars": "76,152",
+      "forks": "9,007"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "lang": "Rust",
+      "stars_today": "1,160 stars today",
+      "total_stars": "7,939",
+      "forks": "424"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-10-18  |  🔍 共收录 13 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 4 | **Rust**: 2 | **JavaScript**: 1 | **Kotlin**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Python 写的，当然好（不是）。Official, Anthropic-managed directory of high quality Claude...  1,397 stars today 人表示「先 star 为敬」。\n\n⭐ 1,397 stars today | 📦 总星 41,945 | 🍴 4,474 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 2. MadsLorentzen/ai-job-search\n\n**MadsLorentzen/ai-job-search** — 如果你还没 star，那你可能错过了今天的船票。1,365 stars today 人已经上船了。\n\n⭐ 1,365 stars today | 📦 总星 50,740 | 🍴 16,966 | 💻 Python\n[🔗 查看项目](https://github.com/MadsLorentzen/ai-job-search)\n\n### 3. affaan-m/ECC\n\n**affaan-m/ECC** — 用 JavaScript 写就。今天获得了 1,145 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 1,145 stars today | 📦 总星 282,662 | 🍴 41,999 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 4. HKUDS/CLI-Anything\n\n**HKUDS/CLI-Anything** — 用 Python 写就。今天获得了 574 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 574 stars today | 📦 总星 54,162 | 🍴 4,909 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/CLI-Anything)\n\n### 5. K-Dense-AI/scientific-agent-skills\n\n**K-Dense-AI/scientific-agent-skills** — 如果你还没 star，那你可能错过了今天的船票。878 stars today 人已经上船了。\n\n⭐ 878 stars today | 📦 总星 52,360 | 🍴 4,638 | 💻 Python\n[🔗 查看项目](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n### 6. akitaonrails/ai-memory\n\n**akitaonrails/ai-memory** — Rust 写的，当然好（不是）。Solution for long term memory for agent coding CLIs and to f...  178 stars today 人表示「先 star 为敬」。\n\n⭐ 178 stars today | 📦 总星 10,022 | 🍴 726 | 💻 Rust\n[🔗 查看项目](https://github.com/akitaonrails/ai-memory)\n\n### 7. android/skills\n\n**android/skills** — ...  355 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 355 stars today | 📦 总星 8,485 | 🍴 556 | 💻 Kotlin\n[🔗 查看项目](https://github.com/android/skills)\n\n### 8. stablyai/orca\n\n**stablyai/orca** — TypeScript 写的，当然好（不是）。Orca is the place for working with a fleet of agents (e.g. G...  830 stars today 人表示「先 star 为敬」。\n\n⭐ 830 stars today | 📦 总星 95,601 | 🍴 6,121 | 💻 TypeScript\n[🔗 查看项目](https://github.com/stablyai/orca)\n\n### 9. anthropics/claude-code\n\n**anthropics/claude-code** — Claude Code is an agentic coding tool that lives in your terminal, understands y...  179 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 179 stars today | 📦 总星 151,892 | 🍴 26,889 | 💻 TypeScript\n[🔗 查看项目](https://github.com/anthropics/claude-code)\n\n### 10. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — Python 写的，当然好（不是）。VoiceStudio is the open-source, fully-local ElevenLabs alter...  2,125 stars today 人表示「先 star 为敬」。\n\n⭐ 2,125 stars today | 📦 总星 73,683 | 🍴 8,065 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n---\n\n## 🫡 荣誉提名\n\n- **anomalyco/opencode** — The open source coding agent.  ⭐ 438 stars today\n- **ruvnet/ruflo** — 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate...  ⭐ 420 stars today\n- **xerj-org/xerj** — XERJ is the new way for AI to search data. Its autoindex capability activates ag...  ⭐ 1,160 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-18T05:00:40.664853+00:00"
+}
