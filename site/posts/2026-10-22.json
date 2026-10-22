@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-22",
+  "repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "2,012 stars today",
+      "total_stars": "37,109",
+      "forks": "2,309"
+    },
+    {
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "lang": "Python",
+      "stars_today": "441 stars today",
+      "total_stars": "94,970",
+      "forks": "23,766"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "lang": "TypeScript",
+      "stars_today": "1,541 stars today",
+      "total_stars": "101,640",
+      "forks": "6,427"
+    },
+    {
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_today": "474 stars today",
+      "total_stars": "77,359",
+      "forks": "6,008"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "2,079 stars today",
+      "total_stars": "172,006",
+      "forks": "9,360"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "lang": "Python",
+      "stars_today": "939 stars today",
+      "total_stars": "141,663",
+      "forks": "16,739"
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_today": "504 stars today",
+      "total_stars": "113,130",
+      "forks": "16,968"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "lang": "TypeScript",
+      "stars_today": "112 stars today",
+      "total_stars": "59,320",
+      "forks": "9,671"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "575 stars today",
+      "total_stars": "42,935",
+      "forks": "7,079"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "lang": "Rust",
+      "stars_today": "286 stars today",
+      "total_stars": "12,471",
+      "forks": "879"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "lang": "Python",
+      "stars_today": "1,433 stars today",
+      "total_stars": "131,888",
+      "forks": "12,657"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-10-22：11 个项目今天值得你 star\n\n> 📅 2026-10-22  |  🔍 共收录 11 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 3 | **JavaScript**: 2 | **Rust**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — A coding-agent skill for multi-phase security audits with in...  听起来像个周末项目，但它已经有 37,109 总星了。周末项目，认真的吗？\n\n⭐ 2,012 stars today | 📦 总星 37,109 | 🍴 2,309 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 2. vllm-project/vllm\n\n**vllm-project/vllm** — 如果你还没 star，那你可能错过了今天的船票。441 stars today 人已经上船了。\n\n⭐ 441 stars today | 📦 总星 94,970 | 🍴 23,766 | 💻 Python\n[🔗 查看项目](https://github.com/vllm-project/vllm)\n\n### 3. stablyai/orca\n\n**stablyai/orca** — 用 TypeScript 写就。今天获得了 1,541 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 1,541 stars today | 📦 总星 101,640 | 🍴 6,427 | 💻 TypeScript\n[🔗 查看项目](https://github.com/stablyai/orca)\n\n### 4. headroomlabs-ai/headroom\n\n**headroomlabs-ai/headroom** — Compress tool outputs, logs, files, and RAG chunks before th...  听起来像个周末项目，但它已经有 77,359 总星了。周末项目，认真的吗？\n\n⭐ 474 stars today | 📦 总星 77,359 | 🍴 6,008 | 💻 Python\n[🔗 查看项目](https://github.com/headroomlabs-ai/headroom)\n\n### 5. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — 用 JavaScript 写就。今天获得了 2,079 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 2,079 stars today | 📦 总星 172,006 | 🍴 9,360 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 6. Comfy-Org/ComfyUI\n\n**Comfy-Org/ComfyUI** 今天拿了 939 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 939 stars today | 📦 总星 141,663 | 🍴 16,739 | 💻 Python\n[🔗 查看项目](https://github.com/Comfy-Org/ComfyUI)\n\n### 7. supabase/supabase\n\n**supabase/supabase** — TypeScript 写的，当然好（不是）。The Postgres development platform. Supabase gives you a dedi...  504 stars today 人表示「先 star 为敬」。\n\n⭐ 504 stars today | 📦 总星 113,130 | 🍴 16,968 | 💻 TypeScript\n[🔗 查看项目](https://github.com/supabase/supabase)\n\n### 8. twentyhq/twenty\n\n**twentyhq/twenty** — The open alternative to Salesforce, designed for AI....  112 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 112 stars today | 📦 总星 59,320 | 🍴 9,671 | 💻 TypeScript\n[🔗 查看项目](https://github.com/twentyhq/twenty)\n\n### 9. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** — Kronos: A Foundation Model for the Language of Financial Markets... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 575 stars today | 📦 总星 42,935 | 🍴 7,079 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n### 10. akitaonrails/ai-memory\n\n**akitaonrails/ai-memory** — Solution for long term memory for agent coding CLIs and to f...  听起来像个周末项目，但它已经有 12,471 总星了。周末项目，认真的吗？\n\n⭐ 286 stars today | 📦 总星 12,471 | 🍴 879 | 💻 Rust\n[🔗 查看项目](https://github.com/akitaonrails/ai-memory)\n\n---\n\n## 🫡 荣誉提名\n\n- **Graphify-Labs/graphify** — Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab...  ⭐ 1,433 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-22T05:15:02.643501+00:00"
+}
