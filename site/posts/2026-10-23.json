@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-23",
+  "repos": [
+    {
+      "name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "desc": "The PHP Interpreter",
+      "lang": "C",
+      "stars_today": "287 stars today",
+      "total_stars": "41,271",
+      "forks": "8,324"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "303 stars today",
+      "total_stars": "31,733",
+      "forks": "3,542"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,948 stars today",
+      "total_stars": "173,804",
+      "forks": "9,465"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "2,979 stars today",
+      "total_stars": "39,959",
+      "forks": "2,497"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "lang": "Python",
+      "stars_today": "1,408 stars today",
+      "total_stars": "133,191",
+      "forks": "12,735"
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "lang": "TypeScript",
+      "stars_today": "693 stars today",
+      "total_stars": "113,567",
+      "forks": "17,011"
+    },
+    {
+      "name": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "lang": "Python",
+      "stars_today": "101 stars today",
+      "total_stars": "103,885",
+      "forks": "10,096"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars_today": "177 stars today",
+      "total_stars": "43,431",
+      "forks": "5,409"
+    },
+    {
+      "name": "Meloong-Git/PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "desc": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "lang": "Visual Basic .NET",
+      "stars_today": "119 stars today",
+      "total_stars": "8,762",
+      "forks": "1,215"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：php-src 霸榜，开发者集体失眠\n\n> 📅 2026-10-23  |  🔍 共收录 9 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **JavaScript**: 2 | **C**: 1 | **TypeScript**: 1 | **Visual Basic .NET**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. php/php-src\n\n**php/php-src** — The PHP Interpreter... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 287 stars today | 📦 总星 41,271 | 🍴 8,324 | 💻 C\n[🔗 查看项目](https://github.com/php/php-src)\n\n### 2. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — Open source repository of plugins primarily intended for knowledge wor... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 303 stars today | 📦 总星 31,733 | 🍴 3,542 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 3. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** — 如果你还没 star，那你可能错过了今天的船票。1,948 stars today 人已经上船了。\n\n⭐ 1,948 stars today | 📦 总星 173,804 | 🍴 9,465 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 4. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — 如果你还没 star，那你可能错过了今天的船票。2,979 stars today 人已经上船了。\n\n⭐ 2,979 stars today | 📦 总星 39,959 | 🍴 2,497 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 5. Graphify-Labs/graphify\n\n**Graphify-Labs/graphify** — 如果你还没 star，那你可能错过了今天的船票。1,408 stars today 人已经上船了。\n\n⭐ 1,408 stars today | 📦 总星 133,191 | 🍴 12,735 | 💻 Python\n[🔗 查看项目](https://github.com/Graphify-Labs/graphify)\n\n### 6. supabase/supabase\n\n**supabase/supabase** — 如果你还没 star，那你可能错过了今天的船票。693 stars today 人已经上船了。\n\n⭐ 693 stars today | 📦 总星 113,567 | 🍴 17,011 | 💻 TypeScript\n[🔗 查看项目](https://github.com/supabase/supabase)\n\n### 7. fastapi/fastapi\n\n**fastapi/fastapi** — 用 Python 写就。今天获得了 101 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 101 stars today | 📦 总星 103,885 | 🍴 10,096 | 💻 Python\n[🔗 查看项目](https://github.com/fastapi/fastapi)\n\n### 8. luongnv89/claude-howto\n\n**luongnv89/claude-howto** — 用 Python 写就。今天获得了 177 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 177 stars today | 📦 总星 43,431 | 🍴 5,409 | 💻 Python\n[🔗 查看项目](https://github.com/luongnv89/claude-howto)\n\n### 9. Meloong-Git/PCL\n\n**Meloong-Git/PCL** — 如果你还没 star，那你可能错过了今天的船票。119 stars today 人已经上船了。\n\n⭐ 119 stars today | 📦 总星 8,762 | 🍴 1,215 | 💻 Visual Basic .NET\n[🔗 查看项目](https://github.com/Meloong-Git/PCL)\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-23T05:14:22.094029+00:00"
+}
