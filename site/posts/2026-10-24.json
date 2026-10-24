@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-24",
+  "repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "2,716 stars today",
+      "total_stars": "42,450",
+      "forks": "2,654"
+    },
+    {
+      "name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "desc": "The PHP Interpreter",
+      "lang": "C",
+      "stars_today": "716 stars today",
+      "total_stars": "41,594",
+      "forks": "8,362"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "635 stars today",
+      "total_stars": "32,319",
+      "forks": "3,576"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_today": "1,119 stars today",
+      "total_stars": "18,911",
+      "forks": "1,889"
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "lang": "TypeScript",
+      "stars_today": "546 stars today",
+      "total_stars": "6,993",
+      "forks": "1,428"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "lang": "Python",
+      "stars_today": "226 stars today",
+      "total_stars": "8,605",
+      "forks": "1,107"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_today": "150 stars today",
+      "total_stars": "40,341",
+      "forks": "4,583"
+    },
+    {
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "lang": "JavaScript",
+      "stars_today": "66 stars today",
+      "total_stars": "122,937",
+      "forks": "39,838"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-10-24：8 个项目今天值得你 star\n\n> 📅 2026-10-24  |  🔍 共收录 8 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 3 | **JavaScript**: 2 | **C**: 1 | **Rust**: 1 | **TypeScript**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — 如果你还没 star，那你可能错过了今天的船票。2,716 stars today 人已经上船了。\n\n⭐ 2,716 stars today | 📦 总星 42,450 | 🍴 2,654 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 2. php/php-src\n\n**php/php-src** — 如果你还没 star，那你可能错过了今天的船票。716 stars today 人已经上船了。\n\n⭐ 716 stars today | 📦 总星 41,594 | 🍴 8,362 | 💻 C\n[🔗 查看项目](https://github.com/php/php-src)\n\n### 3. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — Python 写的，当然好（不是）。Open source repository of plugins primarily intended for kno...  635 stars today 人表示「先 star 为敬」。\n\n⭐ 635 stars today | 📦 总星 32,319 | 🍴 3,576 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 4. NVIDIA/OpenShell\n\n**NVIDIA/OpenShell** — OpenShell is the safe, private runtime for autonomous AI agents....  1,119 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,119 stars today | 📦 总星 18,911 | 🍴 1,889 | 💻 Rust\n[🔗 查看项目](https://github.com/NVIDIA/OpenShell)\n\n### 5. Renhuai123/ziwei-doushu\n\n**Renhuai123/ziwei-doushu** — 如果你还没 star，那你可能错过了今天的船票。546 stars today 人已经上船了。\n\n⭐ 546 stars today | 📦 总星 6,993 | 🍴 1,428 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Renhuai123/ziwei-doushu)\n\n### 6. SnailSploit/Claude-Red\n\n**SnailSploit/Claude-Red** — claude-red is a curated library of offensive security skills designed ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 226 stars today | 📦 总星 8,605 | 🍴 1,107 | 💻 Python\n[🔗 查看项目](https://github.com/SnailSploit/Claude-Red)\n\n### 7. OpenBMB/VoxCPM\n\n**OpenBMB/VoxCPM** — 如果你还没 star，那你可能错过了今天的船票。150 stars today 人已经上船了。\n\n⭐ 150 stars today | 📦 总星 40,341 | 🍴 4,583 | 💻 Python\n[🔗 查看项目](https://github.com/OpenBMB/VoxCPM)\n\n### 8. nodejs/node\n\n**nodejs/node** — 如果你还没 star，那你可能错过了今天的船票。66 stars today 人已经上船了。\n\n⭐ 66 stars today | 📦 总星 122,937 | 🍴 39,838 | 💻 JavaScript\n[🔗 查看项目](https://github.com/nodejs/node)\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-24T04:56:23.706950+00:00"
+}
