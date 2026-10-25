@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-25",
+  "repos": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "2,264 stars today",
+      "total_stars": "45,009",
+      "forks": "2,793"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_today": "896 stars today",
+      "total_stars": "19,582",
+      "forks": "1,939"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "lang": "Python",
+      "stars_today": "13 stars today",
+      "total_stars": "3,186",
+      "forks": "403"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "455 stars today",
+      "total_stars": "32,370",
+      "forks": "1,662"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "lang": "Python",
+      "stars_today": "392 stars today",
+      "total_stars": "44,679",
+      "forks": "5,498"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "Rust",
+      "stars_today": "619 stars today",
+      "total_stars": "86,581",
+      "forks": "5,168"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "lang": "Rust",
+      "stars_today": "319 stars today",
+      "total_stars": "11,101",
+      "forks": "1,419"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "lang": "TypeScript",
+      "stars_today": "44 stars today",
+      "total_stars": "108,181",
+      "forks": "14,817"
+    },
+    {
+      "name": "jbiaojerry/ebook-treasure-chest",
+      "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+      "desc": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+      "lang": "Python",
+      "stars_today": "227 stars today",
+      "total_stars": "22,786",
+      "forks": "3,198"
+    },
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "stars_today": "477 stars today",
+      "total_stars": "4,207",
+      "forks": "604"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-10-25：security-audit-skill 带着 2,264 stars today 颗星杀过来了\n\n> 📅 2026-10-25  |  🔍 共收录 10 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Rust**: 3 | **Python**: 3 | **TypeScript**: 2 | **JavaScript**: 1 | **CSS**: 1\n\n> Rust 选手今天依然活跃。他们的信念是：能用 lifetime 解决的问题，绝不用 GC。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** 今天拿了 2,264 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,264 stars today | 📦 总星 45,009 | 🍴 2,793 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 2. NVIDIA/OpenShell\n\n**NVIDIA/OpenShell** — OpenShell is the safe, private runtime for autonomous AI agents....  896 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 896 stars today | 📦 总星 19,582 | 🍴 1,939 | 💻 Rust\n[🔗 查看项目](https://github.com/NVIDIA/OpenShell)\n\n### 3. aws/agent-toolkit-for-aws\n\n**aws/agent-toolkit-for-aws** — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build...  13 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 13 stars today | 📦 总星 3,186 | 🍴 403 | 💻 Python\n[🔗 查看项目](https://github.com/aws/agent-toolkit-for-aws)\n\n### 4. Nutlope/hallmark\n\n**Nutlope/hallmark** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 455 stars today | 📦 总星 32,370 | 🍴 1,662 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 5. luongnv89/claude-howto\n\n**luongnv89/claude-howto** — 如果你还没 star，那你可能错过了今天的船票。392 stars today 人已经上船了。\n\n⭐ 392 stars today | 📦 总星 44,679 | 🍴 5,498 | 💻 Python\n[🔗 查看项目](https://github.com/luongnv89/claude-howto)\n\n### 6. pbakaus/impeccable\n\n**pbakaus/impeccable** — The design language that makes your AI harness better at design.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 619 stars today | 📦 总星 86,581 | 🍴 5,168 | 💻 Rust\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 7. pollen-robotics/microduck\n\n**pollen-robotics/microduck** — 如果你还没 star，那你可能错过了今天的船票。319 stars today 人已经上船了。\n\n⭐ 319 stars today | 📦 总星 11,101 | 🍴 1,419 | 💻 Rust\n[🔗 查看项目](https://github.com/pollen-robotics/microduck)\n\n### 8. google-gemini/gemini-cli\n\n**google-gemini/gemini-cli** — TypeScript 写的，当然好（不是）。An open-source AI agent that brings the power of Gemini dire...  44 stars today 人表示「先 star 为敬」。\n\n⭐ 44 stars today | 📦 总星 108,181 | 🍴 14,817 | 💻 TypeScript\n[🔗 查看项目](https://github.com/google-gemini/gemini-cli)\n\n### 9. jbiaojerry/ebook-treasure-chest\n\n**jbiaojerry/ebook-treasure-chest** — 用 Python 写就。今天获得了 227 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 227 stars today | 📦 总星 22,786 | 🍴 3,198 | 💻 Python\n[🔗 查看项目](https://github.com/jbiaojerry/ebook-treasure-chest)\n\n### 10. makecindy/cindy\n\n**makecindy/cindy** — 用 TypeScript 写就。今天获得了 477 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 477 stars today | 📦 总星 4,207 | 🍴 604 | 💻 TypeScript\n[🔗 查看项目](https://github.com/makecindy/cindy)\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-25T05:09:15.806956+00:00"
+}
