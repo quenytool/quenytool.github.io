@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-27",
+  "repos": [
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "2,244 stars today",
+      "total_stars": "36,935",
+      "forks": "1,926"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_today": "1,395 stars today",
+      "total_stars": "116,446",
+      "forks": "22,324"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "lang": "TypeScript",
+      "stars_today": "1,173 stars today",
+      "total_stars": "3,161",
+      "forks": "175"
+    },
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "stars_today": "1,296 stars today",
+      "total_stars": "6,766",
+      "forks": "817"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "896 stars today",
+      "total_stars": "290,023",
+      "forks": "42,984"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "Rust",
+      "stars_today": "1,506 stars today",
+      "total_stars": "89,451",
+      "forks": "5,323"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "lang": "Python",
+      "stars_today": "214 stars today",
+      "total_stars": "22,394",
+      "forks": "1,951"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "lang": "Rust",
+      "stars_today": "843 stars today",
+      "total_stars": "12,517",
+      "forks": "1,556"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "lang": "TypeScript",
+      "stars_today": "176 stars today",
+      "total_stars": "1,639",
+      "forks": "199"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "746 stars today",
+      "total_stars": "103,976",
+      "forks": "9,222"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "2,297 stars today",
+      "total_stars": "89,717",
+      "forks": "9,888"
+    },
+    {
+      "name": "gitroomhq/postiz-app",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "desc": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "lang": "TypeScript",
+      "stars_today": "188 stars today",
+      "total_stars": "38,625",
+      "forks": "7,464"
+    },
+    {
+      "name": "alchaincyf/huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "desc": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "lang": "HTML",
+      "stars_today": "251 stars today",
+      "total_stars": "27,162",
+      "forks": "2,984"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "638 stars today",
+      "total_stars": "224,848",
+      "forks": "22,488"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：hallmark 霸榜，开发者集体失眠\n\n> 📅 2026-10-27  |  🔍 共收录 14 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 4 | **Rust**: 2 | **CSS**: 1 | **JavaScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Nutlope/hallmark\n\n**Nutlope/hallmark** — 如果你还没 star，那你可能错过了今天的船票。2,244 stars today 人已经上船了。\n\n⭐ 2,244 stars today | 📦 总星 36,935 | 🍴 1,926 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 2. TauricResearch/TradingAgents\n\n**TauricResearch/TradingAgents** — TradingAgents: Multi-Agents LLM Financial Trading Framework...  1,395 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,395 stars today | 📦 总星 116,446 | 🍴 22,324 | 💻 Python\n[🔗 查看项目](https://github.com/TauricResearch/TradingAgents)\n\n### 3. JetBrains/thinkrail\n\n**JetBrains/thinkrail** 今天拿了 1,173 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,173 stars today | 📦 总星 3,161 | 🍴 175 | 💻 TypeScript\n[🔗 查看项目](https://github.com/JetBrains/thinkrail)\n\n### 4. makecindy/cindy\n\n**makecindy/cindy** — 如果你还没 star，那你可能错过了今天的船票。1,296 stars today 人已经上船了。\n\n⭐ 1,296 stars today | 📦 总星 6,766 | 🍴 817 | 💻 TypeScript\n[🔗 查看项目](https://github.com/makecindy/cindy)\n\n### 5. affaan-m/ECC\n\n**affaan-m/ECC** — 如果你还没 star，那你可能错过了今天的船票。896 stars today 人已经上船了。\n\n⭐ 896 stars today | 📦 总星 290,023 | 🍴 42,984 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 6. pbakaus/impeccable\n\n**pbakaus/impeccable** 今天拿了 1,506 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,506 stars today | 📦 总星 89,451 | 🍴 5,323 | 💻 Rust\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 7. NVIDIA/SkillSpector\n\n**NVIDIA/SkillSpector** 今天拿了 214 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 214 stars today | 📦 总星 22,394 | 🍴 1,951 | 💻 Python\n[🔗 查看项目](https://github.com/NVIDIA/SkillSpector)\n\n### 8. pollen-robotics/microduck\n\n**pollen-robotics/microduck** — A Tiny biped duck robot 🦆... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 843 stars today | 📦 总星 12,517 | 🍴 1,556 | 💻 Rust\n[🔗 查看项目](https://github.com/pollen-robotics/microduck)\n\n### 9. nightly-labs/openbot\n\n**nightly-labs/openbot** 今天拿了 176 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 176 stars today | 📦 总星 1,639 | 🍴 199 | 💻 TypeScript\n[🔗 查看项目](https://github.com/nightly-labs/openbot)\n\n### 10. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** — Give your AI agent eyes to see the entire internet. Read & search Twit... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 746 stars today | 📦 总星 103,976 | 🍴 9,222 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n---\n\n## 🫡 荣誉提名\n\n- **debpalash/VoiceStudio** — VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni...  ⭐ 2,297 stars today\n- **gitroomhq/postiz-app** — 📨 The ultimate agentic social media scheduling tool 🤖  ⭐ 188 stars today\n- **alchaincyf/huashu-design** — Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六...  ⭐ 251 stars today\n- **multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar...  ⭐ 638 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-27T05:28:13.570641+00:00"
+}
