@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-04",
+  "repos": [
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "1,139 stars today",
+      "total_stars": "112,199",
+      "forks": "9,759"
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "desc": "Computer use CLI for AI agents",
+      "lang": "Rust",
+      "stars_today": "3,791 stars today",
+      "total_stars": "13,401",
+      "forks": "924"
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "lang": "Rust",
+      "stars_today": "438 stars today",
+      "total_stars": "10,653",
+      "forks": "388"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "lang": "C",
+      "stars_today": "802 stars today",
+      "total_stars": "47,411",
+      "forks": "5,476"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,164 stars today",
+      "total_stars": "311,796",
+      "forks": "26,201"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "desc": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "lang": "Python",
+      "stars_today": "701 stars today",
+      "total_stars": "38,999",
+      "forks": "4,401"
+    },
+    {
+      "name": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "91 stars today",
+      "total_stars": "3,098",
+      "forks": "240"
+    },
+    {
+      "name": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "desc": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "lang": "Java",
+      "stars_today": "482 stars today",
+      "total_stars": "29,050",
+      "forks": "3,230"
+    },
+    {
+      "name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "desc": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "lang": "Python",
+      "stars_today": "228 stars today",
+      "total_stars": "16,789",
+      "forks": "2,877"
+    },
+    {
+      "name": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "desc": "Local voice dictation for mac, windows and linux",
+      "lang": "Rust",
+      "stars_today": "410 stars today",
+      "total_stars": "4,755",
+      "forks": "266"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "lang": "Python",
+      "stars_today": "1,658 stars today",
+      "total_stars": "95,305",
+      "forks": "9,993"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "503 stars today",
+      "total_stars": "46,623",
+      "forks": "7,675"
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "lang": "Shell",
+      "stars_today": "1,182 stars today",
+      "total_stars": "34,910",
+      "forks": "4,620"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-11-04：13 个项目今天值得你 star\n\n> 📅 2026-11-04  |  🔍 共收录 13 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **Rust**: 3 | **TypeScript**: 2 | **Shell**: 2 | **C**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. thedotmack/claude-mem\n\n**thedotmack/claude-mem** 今天拿了 1,139 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,139 stars today | 📦 总星 112,199 | 🍴 9,759 | 💻 TypeScript\n[🔗 查看项目](https://github.com/thedotmack/claude-mem)\n\n### 2. vercel-labs/agent-desktop\n\n**vercel-labs/agent-desktop** — Computer use CLI for AI agents...  听起来像个周末项目，但它已经有 13,401 总星了。周末项目，认真的吗？\n\n⭐ 3,791 stars today | 📦 总星 13,401 | 🍴 924 | 💻 Rust\n[🔗 查看项目](https://github.com/vercel-labs/agent-desktop)\n\n### 3. max-sixty/worktrunk\n\n**max-sixty/worktrunk** — 如果你还没 star，那你可能错过了今天的船票。438 stars today 人已经上船了。\n\n⭐ 438 stars today | 📦 总星 10,653 | 🍴 388 | 💻 Rust\n[🔗 查看项目](https://github.com/max-sixty/worktrunk)\n\n### 4. JustVugg/colibri\n\n**JustVugg/colibri** — A hierarchical inference engine for frontier MoE models: hot experts on the GPU ...  802 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 802 stars today | 📦 总星 47,411 | 🍴 5,476 | 💻 C\n[🔗 查看项目](https://github.com/JustVugg/colibri)\n\n### 5. mattpocock/skills\n\n**mattpocock/skills** — Shell 写的，当然好（不是）。Skills for Real Engineers. Straight from my .agents director...  1,164 stars today 人表示「先 star 为敬」。\n\n⭐ 1,164 stars today | 📦 总星 311,796 | 🍴 26,201 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 6. p-e-w/heretic\n\n**p-e-w/heretic** — Python 写的，当然好（不是）。Training-free language model modification: Remove censorship...  701 stars today 人表示「先 star 为敬」。\n\n⭐ 701 stars today | 📦 总星 38,999 | 🍴 4,401 | 💻 Python\n[🔗 查看项目](https://github.com/p-e-w/heretic)\n\n### 7. spotify/portal-ai-plugins\n\n**spotify/portal-ai-plugins** — ...  听起来像个周末项目，但它已经有 3,098 总星了。周末项目，认真的吗？\n\n⭐ 91 stars today | 📦 总星 3,098 | 🍴 240 | 💻 TypeScript\n[🔗 查看项目](https://github.com/spotify/portal-ai-plugins)\n\n### 8. floci-io/floci\n\n**floci-io/floci** — Light, fluffy, and always free - The AWS Local Emulator alternative...  482 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 482 stars today | 📦 总星 29,050 | 🍴 3,230 | 💻 Java\n[🔗 查看项目](https://github.com/floci-io/floci)\n\n### 9. Usagi-org/ai-goofish-monitor\n\n**Usagi-org/ai-goofish-monitor** — 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从...  听起来像个周末项目，但它已经有 16,789 总星了。周末项目，认真的吗？\n\n⭐ 228 stars today | 📦 总星 16,789 | 🍴 2,877 | 💻 Python\n[🔗 查看项目](https://github.com/Usagi-org/ai-goofish-monitor)\n\n### 10. anomalyco/hex\n\n**anomalyco/hex** — Local voice dictation for mac, windows and linux...  410 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 410 stars today | 📦 总星 4,755 | 🍴 266 | 💻 Rust\n[🔗 查看项目](https://github.com/anomalyco/hex)\n\n---\n\n## 🫡 荣誉提名\n\n- **D4Vinci/Scrapling** — 🕷️ The BEST Web Scraping framework that handles everything from a single request...  ⭐ 1,658 stars today\n- **shiyu-coder/Kronos** — Kronos: A Foundation Model for the Language of Financial Markets  ⭐ 503 stars today\n- **Donchitos/Claude-Code-Game-Studios** — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,...  ⭐ 1,182 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-04T06:54:44.737221+00:00"
+}
