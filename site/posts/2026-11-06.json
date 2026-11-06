@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-06",
+  "repos": [
+    {
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "lang": "Python",
+      "stars_today": "2,679 stars today",
+      "total_stars": "7,894",
+      "forks": "637"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "2,071 stars today",
+      "total_stars": "315,740",
+      "forks": "26,427"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "612 stars today",
+      "total_stars": "140,163",
+      "forks": "20,707"
+    },
+    {
+      "name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "desc": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "lang": "Python",
+      "stars_today": "240 stars today",
+      "total_stars": "17,938",
+      "forks": "2,973"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "lang": "Python",
+      "stars_today": "1,655 stars today",
+      "total_stars": "98,342",
+      "forks": "10,299"
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "desc": "Computer use CLI for AI agents",
+      "lang": "Rust",
+      "stars_today": "2,173 stars today",
+      "total_stars": "17,341",
+      "forks": "1,234"
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "lang": "Rust",
+      "stars_today": "546 stars today",
+      "total_stars": "11,651",
+      "forks": "446"
+    },
+    {
+      "name": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "desc": "Extremely Fast Compression algorithm",
+      "lang": "C",
+      "stars_today": "23 stars today",
+      "total_stars": "12,470",
+      "forks": "1,640"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "211 stars today",
+      "total_stars": "22,522",
+      "forks": "1,897"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_today": "150 stars today",
+      "total_stars": "46,101",
+      "forks": "3,155"
+    },
+    {
+      "name": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "desc": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "lang": "Python",
+      "stars_today": "667 stars today",
+      "total_stars": "3,245",
+      "forks": "281"
+    },
+    {
+      "name": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "lang": "JavaScript",
+      "stars_today": "175 stars today",
+      "total_stars": "14,333",
+      "forks": "1,658"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "lang": "Python",
+      "stars_today": "223 stars today",
+      "total_stars": "56,235",
+      "forks": "6,334"
+    },
+    {
+      "name": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "desc": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "lang": "Java",
+      "stars_today": "779 stars today",
+      "total_stars": "30,610",
+      "forks": "3,339"
+    },
+    {
+      "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "desc": "",
+      "lang": "C#",
+      "stars_today": "984 stars today",
+      "total_stars": "7,469",
+      "forks": "266"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-11-06：15 个项目今天值得你 star\n\n> 📅 2026-11-06  |  🔍 共收录 15 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **Rust**: 3 | **Shell**: 1 | **TypeScript**: 1 | **C**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. NVIDIA/auto-ontology\n\n**NVIDIA/auto-ontology** 今天拿了 2,679 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,679 stars today | 📦 总星 7,894 | 🍴 637 | 💻 Python\n[🔗 查看项目](https://github.com/NVIDIA/auto-ontology)\n\n### 2. mattpocock/skills\n\n**mattpocock/skills** — Skills for Real Engineers. Straight from my .agents director...  听起来像个周末项目，但它已经有 315,740 总星了。周末项目，认真的吗？\n\n⭐ 2,071 stars today | 📦 总星 315,740 | 🍴 26,427 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 3. garrytan/gstack\n\n**garrytan/gstack** — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,...  612 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 612 stars today | 📦 总星 140,163 | 🍴 20,707 | 💻 TypeScript\n[🔗 查看项目](https://github.com/garrytan/gstack)\n\n### 4. Usagi-org/ai-goofish-monitor\n\n**Usagi-org/ai-goofish-monitor** — 如果你还没 star，那你可能错过了今天的船票。240 stars today 人已经上船了。\n\n⭐ 240 stars today | 📦 总星 17,938 | 🍴 2,973 | 💻 Python\n[🔗 查看项目](https://github.com/Usagi-org/ai-goofish-monitor)\n\n### 5. D4Vinci/Scrapling\n\n**D4Vinci/Scrapling** — 🕷️ The BEST Web Scraping framework that handles everything from a sing... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,655 stars today | 📦 总星 98,342 | 🍴 10,299 | 💻 Python\n[🔗 查看项目](https://github.com/D4Vinci/Scrapling)\n\n### 6. vercel-labs/agent-desktop\n\n**vercel-labs/agent-desktop** — Computer use CLI for AI agents...  听起来像个周末项目，但它已经有 17,341 总星了。周末项目，认真的吗？\n\n⭐ 2,173 stars today | 📦 总星 17,341 | 🍴 1,234 | 💻 Rust\n[🔗 查看项目](https://github.com/vercel-labs/agent-desktop)\n\n### 7. max-sixty/worktrunk\n\n**max-sixty/worktrunk** — 用 Rust 写就。今天获得了 546 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 546 stars today | 📦 总星 11,651 | 🍴 446 | 💻 Rust\n[🔗 查看项目](https://github.com/max-sixty/worktrunk)\n\n### 8. lz4/lz4\n\n**lz4/lz4** — Extremely Fast Compression algorithm...  听起来像个周末项目，但它已经有 12,470 总星了。周末项目，认真的吗？\n\n⭐ 23 stars today | 📦 总星 12,470 | 🍴 1,640 | 💻 C\n[🔗 查看项目](https://github.com/lz4/lz4)\n\n### 9. google/skills\n\n**google/skills** — Python 写的，当然好（不是）。Agent Skills for Google products and technologies...  211 stars today 人表示「先 star 为敬」。\n\n⭐ 211 stars today | 📦 总星 22,522 | 🍴 1,897 | 💻 Python\n[🔗 查看项目](https://github.com/google/skills)\n\n### 10. vercel-labs/agent-browser\n\n**vercel-labs/agent-browser** — Browser automation CLI for AI agents...  150 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 150 stars today | 📦 总星 46,101 | 🍴 3,155 | 💻 Rust\n[🔗 查看项目](https://github.com/vercel-labs/agent-browser)\n\n---\n\n## 🫡 荣誉提名\n\n- **scenario-labs/skills** — Get production-ready images, video, audio, and 3D from any AI agent: skills that...  ⭐ 667 stars today\n- **ConardLi/garden-skills** — ConardLi's open-source Skills collection, featuring web design, knowledge retrie...  ⭐ 175 stars today\n- **microsoft/VibeVoice** — Open-Source Frontier Voice AI  ⭐ 223 stars today\n- **floci-io/floci** — Light, fluffy, and always free - The AWS Local Emulator alternative  ⭐ 779 stars today\n- **JiaFeiMiao-K-Cat/DiscImageStudio** —   ⭐ 984 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-06T07:15:24.492644+00:00"
+}
