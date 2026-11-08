@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-08",
+  "repos": [
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_today": "190 stars today",
+      "total_stars": "47,014",
+      "forks": "3,222"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "2,085 stars today",
+      "total_stars": "66,039",
+      "forks": "4,296"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "443 stars today",
+      "total_stars": "23,524",
+      "forks": "1,967"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,100 stars today",
+      "total_stars": "317,929",
+      "forks": "26,602"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "390 stars today",
+      "total_stars": "188,935",
+      "forks": "22,270"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "96 stars today",
+      "total_stars": "14,756",
+      "forks": "1,210"
+    },
+    {
+      "name": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "desc": "The Prometheus monitoring system and time series database.",
+      "lang": "Go",
+      "stars_today": "322 stars today",
+      "total_stars": "67,489",
+      "forks": "11,011"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars_today": "1,766 stars today",
+      "total_stars": "101,084",
+      "forks": "11,948"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars_today": "1,955 stars today",
+      "total_stars": "17,297",
+      "forks": "2,439"
+    },
+    {
+      "name": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+      "lang": "Rust",
+      "stars_today": "350 stars today",
+      "total_stars": "51,028",
+      "forks": "2,633"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "desc": "A utility-first CSS framework for rapid UI development.",
+      "lang": "TypeScript",
+      "stars_today": "122 stars today",
+      "total_stars": "98,570",
+      "forks": "7,118"
+    },
+    {
+      "name": "mbillow/localthings",
+      "url": "https://github.com/mbillow/localthings",
+      "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+      "lang": "Python",
+      "stars_today": "186 stars today",
+      "total_stars": "1,096",
+      "forks": "114"
+    },
+    {
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "lang": "Rust",
+      "stars_today": "1,114 stars today",
+      "total_stars": "94,351",
+      "forks": "11,557"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "stars_today": "191 stars today",
+      "total_stars": "4,725",
+      "forks": "379"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "lang": "Go",
+      "stars_today": "123 stars today",
+      "total_stars": "615",
+      "forks": "95"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：agent-browser 爆火，Rust 又双叒叕赢了\n\n> 📅 2026-11-08  |  🔍 共收录 15 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 4 | **Rust**: 3 | **Go**: 2 | **JavaScript**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. vercel-labs/agent-browser\n\n**vercel-labs/agent-browser** — Browser automation CLI for AI agents...  190 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 190 stars today | 📦 总星 47,014 | 🍴 3,222 | 💻 Rust\n[🔗 查看项目](https://github.com/vercel-labs/agent-browser)\n\n### 2. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — A coding-agent skill for multi-phase security audits with in...  听起来像个周末项目，但它已经有 66,039 总星了。周末项目，认真的吗？\n\n⭐ 2,085 stars today | 📦 总星 66,039 | 🍴 4,296 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n### 3. google/skills\n\n**google/skills** — Agent Skills for Google products and technologies... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 443 stars today | 📦 总星 23,524 | 🍴 1,967 | 💻 Python\n[🔗 查看项目](https://github.com/google/skills)\n\n### 4. mattpocock/skills\n\n**mattpocock/skills** — Shell 写的，当然好（不是）。Skills for Real Engineers. Straight from my .agents director...  1,100 stars today 人表示「先 star 为敬」。\n\n⭐ 1,100 stars today | 📦 总星 317,929 | 🍴 26,602 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 5. anthropics/skills\n\n**anthropics/skills** — Public repository for Agent Skills...  听起来像个周末项目，但它已经有 188,935 总星了。周末项目，认真的吗？\n\n⭐ 390 stars today | 📦 总星 188,935 | 🍴 22,270 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/skills)\n\n### 6. meta/astryx\n\n**meta/astryx** — TypeScript 写的，当然好（不是）。An open source design system that's fully customizable and a...  96 stars today 人表示「先 star 为敬」。\n\n⭐ 96 stars today | 📦 总星 14,756 | 🍴 1,210 | 💻 TypeScript\n[🔗 查看项目](https://github.com/meta/astryx)\n\n### 7. prometheus/prometheus\n\n**prometheus/prometheus** — 如果你还没 star，那你可能错过了今天的船票。322 stars today 人已经上船了。\n\n⭐ 322 stars today | 📦 总星 67,489 | 🍴 11,011 | 💻 Go\n[🔗 查看项目](https://github.com/prometheus/prometheus)\n\n### 8. sherlock-project/sherlock\n\n**sherlock-project/sherlock** — Hunt down social media accounts by username across social ne...  听起来像个周末项目，但它已经有 101,084 总星了。周末项目，认真的吗？\n\n⭐ 1,766 stars today | 📦 总星 101,084 | 🍴 11,948 | 💻 Python\n[🔗 查看项目](https://github.com/sherlock-project/sherlock)\n\n### 9. milind-soni/OpenMausBot\n\n**milind-soni/OpenMausBot** 今天拿了 1,955 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,955 stars today | 📦 总星 17,297 | 🍴 2,439 | 💻 TypeScript\n[🔗 查看项目](https://github.com/milind-soni/OpenMausBot)\n\n### 10. astral-sh/ruff\n\n**astral-sh/ruff** — An extremely fast Python linter and code formatter, written in Rust....  350 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 350 stars today | 📦 总星 51,028 | 🍴 2,633 | 💻 Rust\n[🔗 查看项目](https://github.com/astral-sh/ruff)\n\n---\n\n## 🫡 荣誉提名\n\n- **tailwindlabs/tailwindcss** — A utility-first CSS framework for rapid UI development.  ⭐ 122 stars today\n- **mbillow/localthings** — Control your Samsung appliances from Home Assistant over your home network, with...  ⭐ 186 stars today\n- **zed-industries/zed** — Code at the speed of thought – Zed is a high-performance, multiplayer code edito...  ⭐ 1,114 stars today\n- **ranxianglei/billion-context** — A context-compression plugin for month-long single sessions (billions of tokens)...  ⭐ 191 stars today\n- **dsx-ai-factory/nvke** — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare m...  ⭐ 123 stars today\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-08T06:34:17.884220+00:00"
+}
