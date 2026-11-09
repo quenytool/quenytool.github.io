@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-09",
+  "repos": [
+    {
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars_today": "2,373 stars today",
+      "total_stars": "104,825",
+      "forks": "12,217"
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "lang": "Go",
+      "stars_today": "345 stars today",
+      "total_stars": "943",
+      "forks": "113"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars_today": "1,439 stars today",
+      "total_stars": "18,786",
+      "forks": "2,588"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "lang": "Python",
+      "stars_today": "32 stars today",
+      "total_stars": "19,604",
+      "forks": "3,287"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_today": "815 stars today",
+      "total_stars": "47,902",
+      "forks": "3,272"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "875 stars today",
+      "total_stars": "17,690",
+      "forks": "1,386"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "792 stars today",
+      "total_stars": "189,937",
+      "forks": "22,377"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "lang": "C++",
+      "stars_today": "41 stars today",
+      "total_stars": "16,582",
+      "forks": "1,960"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "stars_today": "460 stars today",
+      "total_stars": "5,399",
+      "forks": "417"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-11-09\n\n> 📅 2026-11-09  |  🔍 共收录 9 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 3 | **TypeScript**: 3 | **Go**: 1 | **Rust**: 1 | **C++**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. sherlock-project/sherlock\n\n**sherlock-project/sherlock** — Hunt down social media accounts by username across social ne...  听起来像个周末项目，但它已经有 104,825 总星了。周末项目，认真的吗？\n\n⭐ 2,373 stars today | 📦 总星 104,825 | 🍴 12,217 | 💻 Python\n[🔗 查看项目](https://github.com/sherlock-project/sherlock)\n\n### 2. dsx-ai-factory/nvke\n\n**dsx-ai-factory/nvke** — NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare m...  345 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 345 stars today | 📦 总星 943 | 🍴 113 | 💻 Go\n[🔗 查看项目](https://github.com/dsx-ai-factory/nvke)\n\n### 3. milind-soni/OpenMausBot\n\n**milind-soni/OpenMausBot** — 用 TypeScript 写就。今天获得了 1,439 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 1,439 stars today | 📦 总星 18,786 | 🍴 2,588 | 💻 TypeScript\n[🔗 查看项目](https://github.com/milind-soni/OpenMausBot)\n\n### 4. anthropics/claude-quickstarts\n\n**anthropics/claude-quickstarts** — 用 Python 写就。今天获得了 32 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 32 stars today | 📦 总星 19,604 | 🍴 3,287 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-quickstarts)\n\n### 5. vercel-labs/agent-browser\n\n**vercel-labs/agent-browser** — Browser automation CLI for AI agents...  听起来像个周末项目，但它已经有 47,902 总星了。周末项目，认真的吗？\n\n⭐ 815 stars today | 📦 总星 47,902 | 🍴 3,272 | 💻 Rust\n[🔗 查看项目](https://github.com/vercel-labs/agent-browser)\n\n### 6. meta/astryx\n\n**meta/astryx** 今天拿了 875 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 875 stars today | 📦 总星 17,690 | 🍴 1,386 | 💻 TypeScript\n[🔗 查看项目](https://github.com/meta/astryx)\n\n### 7. anthropics/skills\n\n**anthropics/skills** — Public repository for Agent Skills... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 792 stars today | 📦 总星 189,937 | 🍴 22,377 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/skills)\n\n### 8. google-deepmind/mujoco\n\n**google-deepmind/mujoco** — C++ 写的，当然好（不是）。Multi-Joint dynamics with Contact. A general purpose physics...  41 stars today 人表示「先 star 为敬」。\n\n⭐ 41 stars today | 📦 总星 16,582 | 🍴 1,960 | 💻 C++\n[🔗 查看项目](https://github.com/google-deepmind/mujoco)\n\n### 9. ranxianglei/billion-context\n\n**ranxianglei/billion-context** — 用 TypeScript 写就。今天获得了 460 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 460 stars today | 📦 总星 5,399 | 🍴 417 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ranxianglei/billion-context)\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-09T07:03:36.628091+00:00"
+}
