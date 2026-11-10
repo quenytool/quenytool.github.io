@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-10",
+  "repos": [
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "1,038 stars today",
+      "total_stars": "191,456",
+      "forks": "22,473"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "3,278 stars today",
+      "total_stars": "20,933",
+      "forks": "1,584"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars_today": "4,267 stars today",
+      "total_stars": "107,813",
+      "forks": "12,464"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "lang": "C++",
+      "stars_today": "574 stars today",
+      "total_stars": "17,075",
+      "forks": "2,012"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "lang": "Python",
+      "stars_today": "551 stars today",
+      "total_stars": "20,171",
+      "forks": "3,328"
+    },
+    {
+      "name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "lang": "TypeScript",
+      "stars_today": "216 stars today",
+      "total_stars": "32,322",
+      "forks": "4,781"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_today": "916 stars today",
+      "total_stars": "48,735",
+      "forks": "3,320"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "172 stars today",
+      "total_stars": "103,688",
+      "forks": "13,431"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "lang": "Python",
+      "stars_today": "506 stars today",
+      "total_stars": "69,268",
+      "forks": "56,487"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "lang": "Python",
+      "stars_today": "31 stars today",
+      "total_stars": "6,193",
+      "forks": "302"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars_today": "1,587 stars today",
+      "total_stars": "20,127",
+      "forks": "2,751"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-11-10  |  🔍 共收录 11 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 3 | **Rust**: 2 | **C++**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/skills\n\n**anthropics/skills** — 如果你还没 star，那你可能错过了今天的船票。1,038 stars today 人已经上船了。\n\n⭐ 1,038 stars today | 📦 总星 191,456 | 🍴 22,473 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/skills)\n\n### 2. meta/astryx\n\n**meta/astryx** — An open source design system that's fully customizable and agent ready...  3,278 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 3,278 stars today | 📦 总星 20,933 | 🍴 1,584 | 💻 TypeScript\n[🔗 查看项目](https://github.com/meta/astryx)\n\n### 3. sherlock-project/sherlock\n\n**sherlock-project/sherlock** 今天拿了 4,267 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 4,267 stars today | 📦 总星 107,813 | 🍴 12,464 | 💻 Python\n[🔗 查看项目](https://github.com/sherlock-project/sherlock)\n\n### 4. google-deepmind/mujoco\n\n**google-deepmind/mujoco** — C++ 写的，当然好（不是）。Multi-Joint dynamics with Contact. A general purpose physics...  574 stars today 人表示「先 star 为敬」。\n\n⭐ 574 stars today | 📦 总星 17,075 | 🍴 2,012 | 💻 C++\n[🔗 查看项目](https://github.com/google-deepmind/mujoco)\n\n### 5. anthropics/claude-quickstarts\n\n**anthropics/claude-quickstarts** — 如果你还没 star，那你可能错过了今天的船票。551 stars today 人已经上船了。\n\n⭐ 551 stars today | 📦 总星 20,171 | 🍴 3,328 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-quickstarts)\n\n### 6. garrytan/gbrain\n\n**garrytan/gbrain** — 用 TypeScript 写就。今天获得了 216 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 216 stars today | 📦 总星 32,322 | 🍴 4,781 | 💻 TypeScript\n[🔗 查看项目](https://github.com/garrytan/gbrain)\n\n### 7. vercel-labs/agent-browser\n\n**vercel-labs/agent-browser** — Rust 写的，当然好（不是）。Browser automation CLI for AI agents...  916 stars today 人表示「先 star 为敬」。\n\n⭐ 916 stars today | 📦 总星 48,735 | 🍴 3,320 | 💻 Rust\n[🔗 查看项目](https://github.com/vercel-labs/agent-browser)\n\n### 8. ruvnet/RuView\n\n**ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial intellige... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 172 stars today | 📦 总星 103,688 | 🍴 13,431 | 💻 Rust\n[🔗 查看项目](https://github.com/ruvnet/RuView)\n\n### 9. ZhuLinsen/daily_stock_analysis\n\n**ZhuLinsen/daily_stock_analysis** — LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-ma... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 506 stars today | 📦 总星 69,268 | 🍴 56,487 | 💻 Python\n[🔗 查看项目](https://github.com/ZhuLinsen/daily_stock_analysis)\n\n### 10. homeassistant-ai/ha-mcp\n\n**homeassistant-ai/ha-mcp** 今天拿了 31 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 31 stars today | 📦 总星 6,193 | 🍴 302 | 💻 Python\n[🔗 查看项目](https://github.com/homeassistant-ai/ha-mcp)\n\n---\n\n## 🫡 荣誉提名\n\n- **milind-soni/OpenMausBot** — Open-source Grok Bot alternative with a virtual machine that bots can use  ⭐ 1,587 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-10T07:39:52.681257+00:00"
+}
