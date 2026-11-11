@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-11",
+  "repos": [
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "3,108 stars today",
+      "total_stars": "23,616",
+      "forks": "1,853"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "1,679 stars today",
+      "total_stars": "192,608",
+      "forks": "22,673"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "465 stars today",
+      "total_stars": "115,369",
+      "forks": "12,111"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "lang": "Python",
+      "stars_today": "531 stars today",
+      "total_stars": "20,631",
+      "forks": "3,477"
+    },
+    {
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "lang": "C++",
+      "stars_today": "456 stars today",
+      "total_stars": "17,495",
+      "forks": "2,158"
+    },
+    {
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "lang": "Ruby",
+      "stars_today": "159 stars today",
+      "total_stars": "12,239",
+      "forks": "907"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "lang": "Python",
+      "stars_today": "790 stars today",
+      "total_stars": "6,820",
+      "forks": "439"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "desc": "Browser automation CLI for AI agents",
+      "lang": "Rust",
+      "stars_today": "780 stars today",
+      "total_stars": "49,439",
+      "forks": "3,463"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "lang": "Python",
+      "stars_today": "2,393 stars today",
+      "total_stars": "109,412",
+      "forks": "12,693"
+    },
+    {
+      "name": "tokio-rs/topcoat",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "desc": "A batteries-included framework for building web apps",
+      "lang": "Rust",
+      "stars_today": "192 stars today",
+      "total_stars": "6,960",
+      "forks": "309"
+    },
+    {
+      "name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "lang": "TypeScript",
+      "stars_today": "375 stars today",
+      "total_stars": "6,529",
+      "forks": "539"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,225 stars today",
+      "total_stars": "321,224",
+      "forks": "26,931"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-11-11：astryx 带着 3,108 stars today 颗星杀过来了\n\n> 📅 2026-11-11  |  🔍 共收录 12 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 4 | **TypeScript**: 2 | **Rust**: 2 | **JavaScript**: 1 | **C++**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. meta/astryx\n\n**meta/astryx** 今天拿了 3,108 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,108 stars today | 📦 总星 23,616 | 🍴 1,853 | 💻 TypeScript\n[🔗 查看项目](https://github.com/meta/astryx)\n\n### 2. anthropics/skills\n\n**anthropics/skills** — Public repository for Agent Skills...  听起来像个周末项目，但它已经有 192,608 总星了。周末项目，认真的吗？\n\n⭐ 1,679 stars today | 📦 总星 192,608 | 🍴 22,673 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/skills)\n\n### 3. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 465 stars today | 📦 总星 115,369 | 🍴 12,111 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 4. anthropics/claude-quickstarts\n\n**anthropics/claude-quickstarts** — 如果你还没 star，那你可能错过了今天的船票。531 stars today 人已经上船了。\n\n⭐ 531 stars today | 📦 总星 20,631 | 🍴 3,477 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-quickstarts)\n\n### 5. google-deepmind/mujoco\n\n**google-deepmind/mujoco** — Multi-Joint dynamics with Contact. A general purpose physics...  听起来像个周末项目，但它已经有 17,495 总星了。周末项目，认真的吗？\n\n⭐ 456 stars today | 📦 总星 17,495 | 🍴 2,158 | 💻 C++\n[🔗 查看项目](https://github.com/google-deepmind/mujoco)\n\n### 6. we-promise/sure\n\n**we-promise/sure** 今天拿了 159 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 159 stars today | 📦 总星 12,239 | 🍴 907 | 💻 Ruby\n[🔗 查看项目](https://github.com/we-promise/sure)\n\n### 7. homeassistant-ai/ha-mcp\n\n**homeassistant-ai/ha-mcp** — Configure and automate Home Assistant with Claude, ChatGPT, and other ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 790 stars today | 📦 总星 6,820 | 🍴 439 | 💻 Python\n[🔗 查看项目](https://github.com/homeassistant-ai/ha-mcp)\n\n### 8. vercel-labs/agent-browser\n\n**vercel-labs/agent-browser** 今天拿了 780 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 780 stars today | 📦 总星 49,439 | 🍴 3,463 | 💻 Rust\n[🔗 查看项目](https://github.com/vercel-labs/agent-browser)\n\n### 9. sherlock-project/sherlock\n\n**sherlock-project/sherlock** — Hunt down social media accounts by username across social networks... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,393 stars today | 📦 总星 109,412 | 🍴 12,693 | 💻 Python\n[🔗 查看项目](https://github.com/sherlock-project/sherlock)\n\n### 10. tokio-rs/topcoat\n\n**tokio-rs/topcoat** — 如果你还没 star，那你可能错过了今天的船票。192 stars today 人已经上船了。\n\n⭐ 192 stars today | 📦 总星 6,960 | 🍴 309 | 💻 Rust\n[🔗 查看项目](https://github.com/tokio-rs/topcoat)\n\n---\n\n## 🫡 荣誉提名\n\n- **ranxianglei/billion-context** — A context-compression plugin for month-long single sessions (billions of tokens)...  ⭐ 375 stars today\n- **mattpocock/skills** — Skills for Real Engineers. Straight from my .agents directory.  ⭐ 1,225 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-11T06:58:48.112239+00:00"
+}
