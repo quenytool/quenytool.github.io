@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-13",
+  "repos": [
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "desc": "Keep your coding agent up to date with the latest web best practices",
+      "lang": "TypeScript",
+      "stars_today": "739 stars today",
+      "total_stars": "3,627",
+      "forks": "224"
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "lang": "TypeScript",
+      "stars_today": "643 stars today",
+      "total_stars": "12,659",
+      "forks": "989"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "lang": "Shell",
+      "stars_today": "63 stars today",
+      "total_stars": "96,063",
+      "forks": "10,761"
+    },
+    {
+      "name": "pookjw/HermesEnabler",
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "desc": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "lang": "Objective-C",
+      "stars_today": "218 stars today",
+      "total_stars": "1,651",
+      "forks": "145"
+    },
+    {
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "desc": "The personal finance app for everyone (by everyone)",
+      "lang": "Ruby",
+      "stars_today": "967 stars today",
+      "total_stars": "14,180",
+      "forks": "1,068"
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "desc": "An open-source AI coding agent that lives in your terminal.",
+      "lang": "TypeScript",
+      "stars_today": "151 stars today",
+      "total_stars": "29,982",
+      "forks": "3,409"
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "desc": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "lang": "Zig",
+      "stars_today": "54 stars today",
+      "total_stars": "2,019",
+      "forks": "397"
+    },
+    {
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "lang": "JavaScript",
+      "stars_today": "62 stars today",
+      "total_stars": "123,656",
+      "forks": "38,060"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "816 stars today",
+      "total_stars": "116,851",
+      "forks": "12,219"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "1,830 stars today",
+      "total_stars": "26,883",
+      "forks": "2,084"
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "lang": "TypeScript",
+      "stars_today": "298 stars today",
+      "total_stars": "11,848",
+      "forks": "1,455"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_today": "415 stars today",
+      "total_stars": "69,538",
+      "forks": "10,799"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "lang": "C++",
+      "stars_today": "176 stars today",
+      "total_stars": "134,716",
+      "forks": "25,524"
+    }
+  ],
+  "blog_md": "# ⚡️ GitHub 热搜榜 2026-11-13：modern-web-guidance-src 让 739 stars today 个开发者点了收藏\n\n> 📅 2026-11-13  |  🔍 共收录 13 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 5 | **JavaScript**: 2 | **Shell**: 1 | **Objective-C**: 1 | **Ruby**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. GoogleChrome/modern-web-guidance-src\n\n**GoogleChrome/modern-web-guidance-src** — Keep your coding agent up to date with the latest web best practices... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 739 stars today | 📦 总星 3,627 | 🍴 224 | 💻 TypeScript\n[🔗 查看项目](https://github.com/GoogleChrome/modern-web-guidance-src)\n\n### 2. openai/codex-security\n\n**openai/codex-security** — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 643 stars today | 📦 总星 12,659 | 🍴 989 | 💻 TypeScript\n[🔗 查看项目](https://github.com/openai/codex-security)\n\n### 3. nvm-sh/nvm\n\n**nvm-sh/nvm** 今天拿了 63 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 63 stars today | 📦 总星 96,063 | 🍴 10,761 | 💻 Shell\n[🔗 查看项目](https://github.com/nvm-sh/nvm)\n\n### 4. pookjw/HermesEnabler\n\n**pookjw/HermesEnabler** 今天拿了 218 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 218 stars today | 📦 总星 1,651 | 🍴 145 | 💻 Objective-C\n[🔗 查看项目](https://github.com/pookjw/HermesEnabler)\n\n### 5. we-promise/sure\n\n**we-promise/sure** — Ruby 写的，当然好（不是）。The personal finance app for everyone (by everyone)...  967 stars today 人表示「先 star 为敬」。\n\n⭐ 967 stars today | 📦 总星 14,180 | 🍴 1,068 | 💻 Ruby\n[🔗 查看项目](https://github.com/we-promise/sure)\n\n### 6. QwenLM/qwen-code\n\n**QwenLM/qwen-code** — 如果你还没 star，那你可能错过了今天的船票。151 stars today 人已经上船了。\n\n⭐ 151 stars today | 📦 总星 29,982 | 🍴 3,409 | 💻 TypeScript\n[🔗 查看项目](https://github.com/QwenLM/qwen-code)\n\n### 7. ashhart/TensorFold\n\n**ashhart/TensorFold** — 如果你还没 star，那你可能错过了今天的船票。54 stars today 人已经上船了。\n\n⭐ 54 stars today | 📦 总星 2,019 | 🍴 397 | 💻 Zig\n[🔗 查看项目](https://github.com/ashhart/TensorFold)\n\n### 8. nodejs/node\n\n**nodejs/node** — Node.js JavaScript runtime ✨🐢🚀✨... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 62 stars today | 📦 总星 123,656 | 🍴 38,060 | 💻 JavaScript\n[🔗 查看项目](https://github.com/nodejs/node)\n\n### 9. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — 用 JavaScript 写就。今天获得了 816 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 816 stars today | 📦 总星 116,851 | 🍴 12,219 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 10. meta/astryx\n\n**meta/astryx** 今天拿了 1,830 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,830 stars today | 📦 总星 26,883 | 🍴 2,084 | 💻 TypeScript\n[🔗 查看项目](https://github.com/meta/astryx)\n\n---\n\n## 🫡 荣誉提名\n\n- **CopilotKit/OpenBot** — Open-source AI coworkers that each get a computer of their own: a browser, files...  ⭐ 298 stars today\n- **Alishahryar1/free-claude-code** — Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harne...  ⭐ 415 stars today\n- **ggml-org/llama.cpp** — LLM inference in C/C++  ⭐ 176 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-13T07:06:52.994983+00:00"
+}
