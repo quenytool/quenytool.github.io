@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-16",
+  "repos": [
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "lang": "TypeScript",
+      "stars_today": "988 stars today",
+      "total_stars": "26,617",
+      "forks": "2,421"
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "desc": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "lang": "TypeScript",
+      "stars_today": "355 stars today",
+      "total_stars": "18,163",
+      "forks": "1,868"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_today": "247 stars today",
+      "total_stars": "9,467",
+      "forks": "1,171"
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "lang": "TypeScript",
+      "stars_today": "866 stars today",
+      "total_stars": "12,061",
+      "forks": "1,124"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "717 stars today",
+      "total_stars": "57,229",
+      "forks": "4,826"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "691 stars today",
+      "total_stars": "52,418",
+      "forks": "4,187"
+    },
+    {
+      "name": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "desc": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "lang": "Go",
+      "stars_today": "423 stars today",
+      "total_stars": "1,855",
+      "forks": "308"
+    },
+    {
+      "name": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "desc": "Tensor library for machine learning",
+      "lang": "C++",
+      "stars_today": "43 stars today",
+      "total_stars": "16,002",
+      "forks": "2,050"
+    },
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "lang": "Python",
+      "stars_today": "98 stars today",
+      "total_stars": "6,760",
+      "forks": "1,033"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "desc": "Keep your coding agent up to date with the latest web best practices",
+      "lang": "TypeScript",
+      "stars_today": "1,219 stars today",
+      "total_stars": "7,487",
+      "forks": "649"
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "desc": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "lang": "Python",
+      "stars_today": "706 stars today",
+      "total_stars": "5,804",
+      "forks": "1,219"
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "desc": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "lang": "Python",
+      "stars_today": "122 stars today",
+      "total_stars": "1,979",
+      "forks": "273"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-11-16：今天的代码，明天的 bug\n\n> 📅 2026-11-16  |  🔍 共收录 12 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Python**: 3 | **Go**: 2 | **C++**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. dream-num/univer\n\n**dream-num/univer** 今天拿了 988 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 988 stars today | 📦 总星 26,617 | 🍴 2,421 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n### 2. ag-ui-protocol/ag-ui\n\n**ag-ui-protocol/ag-ui** 今天拿了 355 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 355 stars today | 📦 总星 18,163 | 🍴 1,868 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ag-ui-protocol/ag-ui)\n\n### 3. google-labs-code/stitch-skills\n\n**google-labs-code/stitch-skills** — A library of Agent Skills designed to work with the Stitch M...  听起来像个周末项目，但它已经有 9,467 总星了。周末项目，认真的吗？\n\n⭐ 247 stars today | 📦 总星 9,467 | 🍴 1,171 | 💻 TypeScript\n[🔗 查看项目](https://github.com/google-labs-code/stitch-skills)\n\n### 4. backnotprop/plannotator\n\n**backnotprop/plannotator** — TypeScript 写的，当然好（不是）。The workspace to stay in the loop and on top of agents - sha...  866 stars today 人表示「先 star 为敬」。\n\n⭐ 866 stars today | 📦 总星 12,061 | 🍴 1,124 | 💻 TypeScript\n[🔗 查看项目](https://github.com/backnotprop/plannotator)\n\n### 5. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — Chrome DevTools for coding agents...  听起来像个周末项目，但它已经有 57,229 总星了。周末项目，认真的吗？\n\n⭐ 717 stars today | 📦 总星 57,229 | 🍴 4,826 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 6. alibaba/open-code-review\n\n**alibaba/open-code-review** — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid arch... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 691 stars today | 📦 总星 52,418 | 🍴 4,187 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 7. Tencent/LoopForge\n\n**Tencent/LoopForge** 今天拿了 423 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 423 stars today | 📦 总星 1,855 | 🍴 308 | 💻 Go\n[🔗 查看项目](https://github.com/Tencent/LoopForge)\n\n### 8. ggml-org/ggml\n\n**ggml-org/ggml** — Tensor library for machine learning... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 43 stars today | 📦 总星 16,002 | 🍴 2,050 | 💻 C++\n[🔗 查看项目](https://github.com/ggml-org/ggml)\n\n### 9. elementalsouls/Claude-BugHunter\n\n**elementalsouls/Claude-BugHunter** — 如果你还没 star，那你可能错过了今天的船票。98 stars today 人已经上船了。\n\n⭐ 98 stars today | 📦 总星 6,760 | 🍴 1,033 | 💻 Python\n[🔗 查看项目](https://github.com/elementalsouls/Claude-BugHunter)\n\n### 10. GoogleChrome/modern-web-guidance-src\n\n**GoogleChrome/modern-web-guidance-src** — 如果你还没 star，那你可能错过了今天的船票。1,219 stars today 人已经上船了。\n\n⭐ 1,219 stars today | 📦 总星 7,487 | 🍴 649 | 💻 TypeScript\n[🔗 查看项目](https://github.com/GoogleChrome/modern-web-guidance-src)\n\n---\n\n## 🫡 荣誉提名\n\n- **tradermonty/claude-trading-skills** — Claude Code skills for equity investors and traders — market analysis, technical...  ⭐ 706 stars today\n- **NVIDIA/SkillEvaluator** — Multi-tier framework for evaluating AI agent skills with quality gates, semantic...  ⭐ 122 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-16T07:09:26.058392+00:00"
+}
