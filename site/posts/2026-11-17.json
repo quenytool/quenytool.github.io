@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-17",
+  "repos": [
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "desc": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "lang": "TypeScript",
+      "stars_today": "791 stars today",
+      "total_stars": "19,556",
+      "forks": "2,021"
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "lang": "TypeScript",
+      "stars_today": "696 stars today",
+      "total_stars": "12,809",
+      "forks": "1,272"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "lang": "TypeScript",
+      "stars_today": "1,828 stars today",
+      "total_stars": "28,544",
+      "forks": "2,573"
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "desc": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "lang": "Python",
+      "stars_today": "837 stars today",
+      "total_stars": "6,598",
+      "forks": "1,377"
+    },
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "lang": "Python",
+      "stars_today": "1,094 stars today",
+      "total_stars": "7,820",
+      "forks": "1,215"
+    },
+    {
+      "name": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "desc": "Modern Docker Management, Designed for Everyone",
+      "lang": "Go",
+      "stars_today": "46 stars today",
+      "total_stars": "8,945",
+      "forks": "462"
+    },
+    {
+      "name": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "desc": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "lang": "JavaScript",
+      "stars_today": "288 stars today",
+      "total_stars": "7,374",
+      "forks": "883"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "lang": "TypeScript",
+      "stars_today": "529 stars today",
+      "total_stars": "9,859",
+      "forks": "1,280"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "lang": "Python",
+      "stars_today": "135 stars today",
+      "total_stars": "68,409",
+      "forks": "6,086"
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "desc": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "lang": "Python",
+      "stars_today": "873 stars today",
+      "total_stars": "3,034",
+      "forks": "432"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "951 stars today",
+      "total_stars": "53,233",
+      "forks": "4,361"
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "desc": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "lang": "Python",
+      "stars_today": "313 stars today",
+      "total_stars": "1,910",
+      "forks": "300"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "841 stars today",
+      "total_stars": "57,858",
+      "forks": "4,857"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "desc": "web development for the rest of us",
+      "lang": "JavaScript",
+      "stars_today": "115 stars today",
+      "total_stars": "89,137",
+      "forks": "6,136"
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "desc": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "lang": "Python",
+      "stars_today": "367 stars today",
+      "total_stars": "7,284",
+      "forks": "661"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-11-17  |  🔍 共收录 15 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 5 | **Go**: 2 | **JavaScript**: 2\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. ag-ui-protocol/ag-ui\n\n**ag-ui-protocol/ag-ui** — 用 TypeScript 写就。今天获得了 791 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 791 stars today | 📦 总星 19,556 | 🍴 2,021 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ag-ui-protocol/ag-ui)\n\n### 2. backnotprop/plannotator\n\n**backnotprop/plannotator** — 用 TypeScript 写就。今天获得了 696 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 696 stars today | 📦 总星 12,809 | 🍴 1,272 | 💻 TypeScript\n[🔗 查看项目](https://github.com/backnotprop/plannotator)\n\n### 3. dream-num/univer\n\n**dream-num/univer** — Build your own AI office with Univer Office SDK. Bring editing, calculation, col...  1,828 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,828 stars today | 📦 总星 28,544 | 🍴 2,573 | 💻 TypeScript\n[🔗 查看项目](https://github.com/dream-num/univer)\n\n### 4. tradermonty/claude-trading-skills\n\n**tradermonty/claude-trading-skills** — 如果你还没 star，那你可能错过了今天的船票。837 stars today 人已经上船了。\n\n⭐ 837 stars today | 📦 总星 6,598 | 🍴 1,377 | 💻 Python\n[🔗 查看项目](https://github.com/tradermonty/claude-trading-skills)\n\n### 5. elementalsouls/Claude-BugHunter\n\n**elementalsouls/Claude-BugHunter** — A Claude Code skill bundle for bug hunting and external red-team work - 82 skill...  1,094 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,094 stars today | 📦 总星 7,820 | 🍴 1,215 | 💻 Python\n[🔗 查看项目](https://github.com/elementalsouls/Claude-BugHunter)\n\n### 6. getarcaneapp/arcane\n\n**getarcaneapp/arcane** — Go 写的，当然好（不是）。Modern Docker Management, Designed for Everyone...  46 stars today 人表示「先 star 为敬」。\n\n⭐ 46 stars today | 📦 总星 8,945 | 🍴 462 | 💻 Go\n[🔗 查看项目](https://github.com/getarcaneapp/arcane)\n\n### 7. DeanChensj/jiangshan-map\n\n**DeanChensj/jiangshan-map** 今天拿了 288 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 288 stars today | 📦 总星 7,374 | 🍴 883 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DeanChensj/jiangshan-map)\n\n### 8. google-labs-code/stitch-skills\n\n**google-labs-code/stitch-skills** — A library of Agent Skills designed to work with the Stitch MCP server.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 529 stars today | 📦 总星 9,859 | 🍴 1,280 | 💻 TypeScript\n[🔗 查看项目](https://github.com/google-labs-code/stitch-skills)\n\n### 9. mvanhorn/last30days-skill\n\n**mvanhorn/last30days-skill** — 用 Python 写就。今天获得了 135 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 135 stars today | 📦 总星 68,409 | 🍴 6,086 | 💻 Python\n[🔗 查看项目](https://github.com/mvanhorn/last30days-skill)\n\n### 10. NVIDIA/SkillEvaluator\n\n**NVIDIA/SkillEvaluator** — Python 写的，当然好（不是）。Multi-tier framework for evaluating AI agent skills and plug...  873 stars today 人表示「先 star 为敬」。\n\n⭐ 873 stars today | 📦 总星 3,034 | 🍴 432 | 💻 Python\n[🔗 查看项目](https://github.com/NVIDIA/SkillEvaluator)\n\n---\n\n## 🫡 荣誉提名\n\n- **alibaba/open-code-review** — Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture c...  ⭐ 951 stars today\n- **google-research/paper-orchestra** — PaperOrchestra is a multi-agent framework for automated AI research paper writin...  ⭐ 313 stars today\n- **ChromeDevTools/chrome-devtools-mcp** — Chrome DevTools for coding agents  ⭐ 841 stars today\n- **sveltejs/svelte** — web development for the rest of us  ⭐ 115 stars today\n- **kajisho5/ffmpeg-skill** — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable co...  ⭐ 367 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-11-17T08:22:01.018845+00:00"
+}
